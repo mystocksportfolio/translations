@@ -10,7 +10,7 @@ Thank you for any help with translating!
 
 en - 100% (767/767)
 
-![Progress](https://progress-bar.dev/32?title=fr(245/767)&width=120)
+![Progress](https://progress-bar.dev/32?title=fr (245/767)&width=120)
 
 zh - 1% (4/767)
 
