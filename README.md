@@ -6,21 +6,21 @@ Thank you for any help with translating!
 
 
 
-Progress (767 strings):
+### Progress (767 strings):
 
-en - 100%
+en - 100% (767/767)
 
-fr - 1%
+fr - 1% (5/767)
 
-zh - 1%
+zh - 1% (4/767)
 
-zh-Hant-TW - 1%
+zh-Hant-TW - 1% (9/767)
 
-de - 0%
+de - 0% (1/767)
 
 
 
-Links:
+### Links:
 
 MSP website: https://mystocksportfolio.app/
 
