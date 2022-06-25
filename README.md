@@ -5,17 +5,14 @@ You may submit a pull request for strings.json to modify translations. You may a
 Thank you for any help with translating!
 
 
+
 Progress (767 strings):
-
 en - 100%
-
 fr - 1%
-
 zh - 1%
-
 zh-Hant-TW - 1%
-
 de - 0%
+
 
 
 Links:
