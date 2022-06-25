@@ -1,90 +1,182 @@
 {
-  "accessibility_allTimeChange": { "en": "All-Time Change" },
-  "accessibility_allTimeChangePercent": { "en": "All-Time Change Percent" },
-  "accessibility_allTimeCommissions": { "en": "All-Time Commissions" },
-  "accessibility_allTimeCostBasis": { "en": "All-Time Cost Basis" },
-  "accessibility_allTimeDividends": { "en": "All-Time Dividends" },
-  "accessibility_allTimeValue": { "en": "All-Time Value" },
-  "accessibility_currency": { "en": "Currency" },
-  "accessibility_dividendsInTotals": { "en": "Dividends included in Totals" },
-  "accessibility_editNotes": { "en": "Edit Notes" },
-  "accessibility_filterNews": { "en": "Filter News" },
-  "accessibility_omitCashFromTotals": { "en": "Omit Cash from Totals" },
+  "accessibility_allTimeChange": {
+    "en": "All-Time Change",
+    "fr": ""
+  },
+  "accessibility_allTimeChangePercent": {
+    "en": "All-Time Change Percent",
+    "fr": ""
+  },
+  "accessibility_allTimeCommissions": {
+    "en": "All-Time Commissions",
+    "fr": ""
+  },
+  "accessibility_allTimeCostBasis": {
+    "en": "All-Time Cost Basis",
+    "fr": ""
+  },
+  "accessibility_allTimeDividends": {
+    "en": "All-Time Dividends"
+  },
+  "accessibility_allTimeValue": {
+    "en": "All-Time Value",
+    "fr": ""
+  },
+  "accessibility_currency": {
+    "en": "Currency",
+    "fr": ""
+  },
+  "accessibility_dividendsInTotals": {
+    "en": "Dividends included in Totals",
+    "fr": ""
+  },
+  "accessibility_editNotes": {
+    "en": "Edit Notes",
+    "fr": ""
+  },
+  "accessibility_filterNews": {
+    "en": "Filter News",
+    "fr": ""
+  },
+  "accessibility_omitCashFromTotals": {
+    "en": "Omit Cash from Totals",
+    "fr": ""
+  },
   "accessibility_omitCashFromPercentages": {
-    "en": "Omit Cash from Percentage Returns"
+    "en": "Omit Cash from Percentage Returns",
+    "fr": ""
   },
-  "accessibility_realizedChange": { "en": "Realized Change" },
-  "accessibility_realizedChangePercent": { "en": "Realized Change Percent" },
-  "accessibility_realizedYTDChange": { "en": "Realized YTD Change" },
+  "accessibility_realizedChange": {
+    "en": "Realized Change",
+    "fr": ""
+  },
+  "accessibility_realizedChangePercent": {
+    "en": "Realized Change Percent",
+    "fr": ""
+  },
+  "accessibility_realizedYTDChange": {
+    "en": "Realized YTD Change",
+    "fr": ""
+  },
   "accessibility_realizedYTDChangePercent": {
-    "en": "Realized YTD Change Percent"
+    "en": "Realized YTD Change Percent",
+    "fr": ""
   },
-  "accessibility_realizedCostBasis": { "en": "Realized Cost Basis" },
-  "accessibility_realizedValue": { "en": "Realized Value" },
-  "accessibility_refreshNews": { "en": "Refresh News" },
-  "accessibility_unrealized": { "en": "Unrealized" },
-  "accessibility_unrealizedChange": { "en": "Unrealized Change" },
+  "accessibility_realizedCostBasis": {
+    "en": "Realized Cost Basis",
+    "fr": ""
+  },
+  "accessibility_realizedValue": {
+    "en": "Realized Value",
+    "fr": ""
+  },
+  "accessibility_refreshNews": {
+    "en": "Refresh News",
+    "fr": ""
+  },
+  "accessibility_unrealized": {
+    "en": "Unrealized",
+    "fr": ""
+  },
+  "accessibility_unrealizedChange": {
+    "en": "Unrealized Change",
+    "fr": ""
+  },
   "accessibility_unrealizedChangePercent": {
-    "en": "Unrealized Change Percent"
+    "en": "Unrealized Change Percent",
+    "fr": ""
   },
-  "accessibility_unrealizedCostBasis": { "en": "Unrealized Cost Basis" },
-  "accessibility_unrealizedCostPerShare": { "en": "Unrealized Cost per Share" },
-  "accessibility_unrealizedDailyChange": { "en": "Unrealized Daily Change" },
+  "accessibility_unrealizedCostBasis": {
+    "en": "Unrealized Cost Basis",
+    "fr": ""
+  },
+  "accessibility_unrealizedCostPerShare": {
+    "en": "Unrealized Cost per Share",
+    "fr": ""
+  },
+  "accessibility_unrealizedDailyChange": {
+    "en": "Unrealized Daily Change",
+    "fr": ""
+  },
   "accessibility_unrealizedDailyChangePercent": {
-    "en": "Unrealized Daily Change Percent"
+    "en": "Unrealized Daily Change Percent",
+    "fr": ""
   },
-  "accessibility_unrealizedShares": { "en": "Unrealized Shares" },
-  "accessibility_unrealizedValue": { "en": "Unrealized Value" },
+  "accessibility_unrealizedShares": {
+    "en": "Unrealized Shares",
+    "fr": ""
+  },
+  "accessibility_unrealizedValue": {
+    "en": "Unrealized Value",
+    "fr": ""
+  },
   "accounting_fifo": {
-    "en": "FIFO"
+    "en": "FIFO",
+    "fr": ""
   },
   "accounting_fifoDescription": {
-    "en": "First In, First Out"
+    "en": "First In, First Out",
+    "fr": ""
   },
   "accounting_lifo": {
-    "en": "LIFO"
+    "en": "LIFO",
+    "fr": ""
   },
   "accounting_lifoDescription": {
-    "en": "Last In, First Out"
+    "en": "Last In, First Out",
+    "fr": ""
   },
   "accounting_highCost": {
-    "en": "High Cost"
+    "en": "High Cost",
+    "fr": ""
   },
   "accounting_highCostDescription": {
-    "en": "Shares that were most expensive are sold first"
+    "en": "Shares that were most expensive are sold first",
+    "fr": ""
   },
   "accounting_lowCost": {
-    "en": "Low Cost"
+    "en": "Low Cost",
+    "fr": ""
   },
   "accounting_lowCostDescription": {
-    "en": "Shares that were the least expensive are sold first"
+    "en": "Shares that were the least expensive are sold first",
+    "fr": ""
   },
   "accounting_weightedAverage": {
-    "en": "Weighted Average"
+    "en": "Weighted Average",
+    "fr": ""
   },
   "accounting_weightedAverageDescription": {
-    "en": "The cost basis is calculated using the current unrealized cost per share"
+    "en": "The cost basis is calculated using the current unrealized cost per share",
+    "fr": ""
   },
   "accounting_specificLots": {
-    "en": "Specific Lots"
+    "en": "Specific Lots",
+    "fr": ""
   },
   "accounting_specificLotsDescription": {
-    "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction."
+    "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction.",
+    "fr": ""
   },
   "account_deleted": {
-    "en": "Account Deleted"
+    "en": "Account Deleted",
+    "fr": ""
   },
   "adBanner_placeHolder": {
-    "en": "Upgrade to Premium and enjoy an Ad-free experience"
+    "en": "Upgrade to Premium and enjoy an Ad-free experience",
+    "fr": "Mettre à jour vers Premium et profiter d\\'une expérience sans publicité"
   },
   "addCustomPrices_help": {
-    "en": "Add custom end of day prices for equity not listed on the market, to override prices, or to fill missing data. To delete a price data point, click on it in the list."
+    "en": "Add custom end of day prices for equity not listed on the market, to override prices, or to fill missing data. To delete a price data point, click on it in the list.",
+    "fr": "Ajouter des prix personnalisés pour les fonds non listés par le marché, pour écraser des prix, ou pour renseigner des données manquantes. Pour effacer un prix, cliquez-le dans la liste."
   },
   "addPortfolio_enterNamePrompt": {
-    "en": "Please enter a name"
+    "en": "Please enter a name",
+    "fr": "Veuillez entrer un nom"
   },
   "addPortfolio_nameOfPortfolio": {
-    "en": "Name of Portfolio"
+    "en": "Name of Portfolio",
+    "fr": "Nom du portefeuille"
   },
   "addQuoteCash": {
     "en": "Cash",
@@ -99,47 +191,79 @@
     "fr": "Montant"
   },
   "addQuoteCash_deposit": {
-    "en": "Deposit"
+    "en": "Deposit",
+    "fr": "Dépôt"
   },
   "addQuoteCash_enterCashAmount": {
-    "en": "Please enter a cash amount"
+    "en": "Please enter a cash amount",
+    "fr": "Veuillez entrer un montant d\\'espèces"
   },
   "addQuoteCash_selectCurrency": {
-    "en": "Select Currency"
+    "en": "Select Currency",
+    "fr": "Sélectionnez la devise"
   },
   "addQuoteCash_withdraw": {
-    "en": "Withdraw"
+    "en": "Withdraw",
+    "fr": "Retirer de l\\'argent"
   },
   "addQuoteCrypto_enterCryptoPair": {
-    "en": "Please enter a crypto pair, i.e. BTC-USD"
+    "en": "Please enter a crypto pair, i.e. BTC-USD",
+    "fr": "Veuillez entrer une parité crypto, ex. BTC-USD"
   },
   "addQuoteCrypto_help": {
-    "en": "Prices are aggregated across exchanges (Source: CoinGecko). If you cannot find a coin, you may contact us via support@peeksoft.co to get it registered."
+    "en": "Prices are aggregated across exchanges (Source: CoinGecko). If you cannot find a coin, you may contact us via support@peeksoft.co to get it registered.",
+    "fr": "Les prix sont agrégés entre les bourses (Source : CoinGecko). Si vous ne trouvez pas une pièce, vous pouvez nous contacter via support@peeksoft.co pour l\\'enregistrer."
   },
   "addQuoteCrypto_pairHint": {
-    "en": "Crypto Pair (i.e. BTC-USD)"
+    "en": "Crypto Pair (i.e. BTC-USD)",
+    "fr": "Parité Crypto (ex. BTC-USD)"
   },
   "addQuoteForex_targetCurrencyShouldBeDifferentThanSource": {
-    "en": "Target currency should be different than source currency"
+    "en": "Target currency should be different than source currency",
+    "fr": "La devise cible doit être différente de la devise source"
   },
-  "addQuoteTransaction_calendar": { "en": "Calendar" },
-  "addQuoteTransaction_commission": { "en": "Commission" },
-  "addQuoteTransaction_commissions": { "en": "Commissions" },
+  "addQuoteTransaction_calendar": {
+    "en": "Calendar",
+    "fr": "Calendrier"
+  },
+  "addQuoteTransaction_commission": {
+    "en": "Commission",
+    "fr": "Commission"
+  },
+  "addQuoteTransaction_commissions": {
+    "en": "Commissions",
+    "fr": "Commissions"
+  },
   "addQuoteTransaction_couldNotDetectCurrency": {
-    "en": "Could not detect currency for this quote, so cannot use cash conversion method. Please uncheck the cash conversion checkbox."
+    "en": "Could not detect currency for this quote, so cannot use cash conversion method. Please uncheck the cash conversion checkbox.",
+    "fr": "Impossible de détecter la devise pour ce cours, impossible de convertir en espèces. Veuillez décocher la case de conversion en espèces."
   },
-  "addQuoteTransaction_costBasisEntryMethod": { "en": "Entry Method" },
-  "addQuoteTransaction_costBasisPerShare": { "en": "Price Per Share" },
-  "addQuoteTransaction_costBasisTotalAmount": { "en": "Total Amount" },
+  "addQuoteTransaction_costBasisEntryMethod": {
+    "en": "Entry Method",
+    "fr": ""
+  },
+  "addQuoteTransaction_costBasisPerShare": {
+    "en": "Price Per Share",
+    "fr": ""
+  },
+  "addQuoteTransaction_costBasisTotalAmount": {
+    "en": "Total Amount",
+    "fr": ""
+  },
   "addQuoteTransaction_currencyToCurrencyFormatted": {
     "_formatted": "false",
-    "en": "%s to %s"
+    "en": "%s to %s",
+    "fr": ""
   },
   "addQuoteTransaction_currencyToHomeCurrencyFormatted": {
     "_formatted": "false",
-    "en": "%s to Home Currency"
+    "en": "%s to Home Currency",
+    "fr": ""
   },
-  "addQuoteTransaction_date": { "en": "Transaction Date" },
+  "addQuoteTransaction_date": {
+    "en": "Transaction Date",
+    "fr": "Date de la transaction"
+  },
   "addQuoteTransaction_depositCashToPortfolioFromDividends": {
     "en": "Deposit cash to portfolio from dividends"
   },
@@ -152,150 +276,401 @@
   "addQuoteTransaction_enterValidDate": {
     "en": "Please enter a valid transaction date"
   },
-  "addQuoteTransaction_exchangeRate": { "en": "Exchange Rate" },
-  "addQuoteTransaction_percentCommission": { "en": "&#37; Commission" },
+  "addQuoteTransaction_exchangeRate": {
+    "en": "Exchange Rate",
+    "fr": "Taux de change"
+  },
+  "addQuoteTransaction_percentCommission": {
+    "en": "&#37; Commission",
+    "fr": ""
+  },
   "addQuoteTransaction_pricePerShare": {
     "en": "Price Per Share",
+    "fr": "Prix par action",
     "zh-Hant-TW": "購買價格"
   },
-  "addQuoteTransaction_purchaseDate": { "en": "Purchase Date" },
-  "addQuoteTransaction_purchaseExchangeRateHelp": {
-    "en": "Exchange Rate at time of Transaction (Stock\\'s Currency to Home Currency). For example, 1.5 means $1 of the stock\\'s currency exchanges to $1.5 of your home currency. You can change the Home Currency by tapping Currency on the holdings screen. Leave blank to use today\\'s exchange rate."
+  "addQuoteTransaction_purchaseDate": {
+    "en": "Purchase Date",
+    "fr": "Date d\\'achat"
   },
-  "addQuoteTransaction_shares": { "en": "Shares" },
+  "addQuoteTransaction_purchaseExchangeRateHelp": {
+    "en": "Exchange Rate at time of Transaction (Stock\\'s Currency to Home Currency). For example, 1.5 means $1 of the stock\\'s currency exchanges to $1.5 of your home currency. You can change the Home Currency by tapping Currency on the holdings screen. Leave blank to use today\\'s exchange rate.",
+    "fr": ""
+  },
+  "addQuoteTransaction_shares": {
+    "en": "Shares",
+    "fr": "Actions"
+  },
   "addQuoteTransaction_time": {
     "en": "Transaction Time",
+    "fr": "",
     "zh-Hant-TW": "日期"
   },
-  "addQuoteTransaction_transaction_notes": { "en": "Transaction Notes" },
-  "addQuoteTransaction_type": { "en": "Transaction Type" },
+  "addQuoteTransaction_transaction_notes": {
+    "en": "Transaction Notes",
+    "fr": "Notes de transaction"
+  },
+  "addQuoteTransaction_type": {
+    "en": "Transaction Type",
+    "fr": "Type de transaction"
+  },
   "addQuoteTransaction_typeBuy": {
     "en": "Buy",
+    "fr": "Acheter",
     "zh-Hant-TW": "購買"
   },
-  "addQuoteTransaction_typeBuyToCover": { "en": "Buy to Cover" },
-  "addQuoteTransaction_typeDRIP": { "en": "Dividends + Reinvestment (DRIP)" },
-  "addQuoteTransaction_typeDividends": { "en": "Dividends" },
-  "addQuoteTransaction_typeReverseSplit": { "en": "Reverse Split" },
-  "addQuoteTransaction_typeSell": { "en": "Sell" },
-  "addQuoteTransaction_typeSellShort": { "en": "Sell Short" },
-  "addQuoteTransaction_typeSplit": { "en": "Split" },
-  "addQuoteTransaction_typeUnknown": { "en": "Unknown" },
-  "addQuoteTransaction_usePercentCommission": { "en": "Use &#37; Commission?" },
+  "addQuoteTransaction_typeBuyToCover": {
+    "en": "Buy to Cover",
+    "fr": "Acheter pour couvrir"
+  },
+  "addQuoteTransaction_typeDRIP": {
+    "en": "Dividends + Reinvestment (DRIP)",
+    "fr": "Dividendes + réinvestissement (RRD)"
+  },
+  "addQuoteTransaction_typeDividends": {
+    "en": "Dividends",
+    "fr": "Dividendes"
+  },
+  "addQuoteTransaction_typeReverseSplit": {
+    "en": "Reverse Split",
+    "fr": ""
+  },
+  "addQuoteTransaction_typeSell": {
+    "en": "Sell",
+    "fr": "Vendre"
+  },
+  "addQuoteTransaction_typeSellShort": {
+    "en": "Sell Short",
+    "fr": "Vente à découvert"
+  },
+  "addQuoteTransaction_typeSplit": {
+    "en": "Split",
+    "fr": ""
+  },
+  "addQuoteTransaction_typeUnknown": {
+    "en": "Unknown",
+    "fr": ""
+  },
+  "addQuoteTransaction_usePercentCommission": {
+    "en": "Use &#37; Commission?",
+    "fr": "Utiliser un pourcentage de commission ?"
+  },
   "addQuoteTransaction_withdrawCashFromPortfolioToPurchase": {
-    "en": "Withdraw cash from portfolio to purchase"
+    "en": "Withdraw cash from portfolio to purchase",
+    "fr": ""
   },
   "addQuote_addUnlistedSymbolHelp": {
-    "en": "Unlisted symbols can be used for equity such as shares that do not trade on the open market. To add price data, go to the quote details page after adding the symbol, open the menu, and click \\'Add Custom Prices\\'."
+    "en": "Unlisted symbols can be used for equity such as shares that do not trade on the open market. To add price data, go to the quote details page after adding the symbol, open the menu, and click \\'Add Custom Prices\\'.",
+    "fr": ""
   },
-  "addQuote_enterSymbolPrompt": { "en": "Please enter a symbol" },
+  "addQuote_enterSymbolPrompt": {
+    "en": "Please enter a symbol",
+    "fr": ""
+  },
   "addQuote_howToPreview": {
-    "en": "How To: Preview quote without adding to watchlist"
+    "en": "How To: Preview quote without adding to watchlist",
+    "fr": ""
   },
   "addQuote_howToPreviewHelp": {
-    "en": "After entering the symbol/ticker, a price preview should show up.\\n\\nClick on the price preview to view the quote without adding it to your portfolio."
+    "en": "After entering the symbol/ticker, a price preview should show up.\\n\\nClick on the price preview to view the quote without adding it to your portfolio.",
+    "fr": ""
   },
-  "addQuote_howToAddCrypto": { "en": "How To: Tracking crypto" },
+  "addQuote_howToAddCrypto": {
+    "en": "How To: Tracking crypto",
+    "fr": ""
+  },
   "addQuote_howToAddCryptoHelp": {
     "en": "To track a crypto, enter the pair (i.e. BTC-USD). If you cannot find a pair, you may contact us at support@peeksoft.co to get it registered. Prices are aggregated across exchanges (Source: CoinGecko)."
   },
-  "addQuote_symbol": { "en": "Symbol" },
-  "addQuote_symbolDisplayOverride": {
-    "en": "Symbol display override (Optional)"
+  "addQuote_symbol": {
+    "en": "Symbol",
+    "fr": "Symbole"
   },
-  "addQuote_symbolWithHint": { "en": "Symbol (i.e. GOOG)" },
-  "addQuote_trackTransaction": { "en": "Track a Transaction" },
-  "addQuote_typeCrypto": { "en": "Crypto" },
-  "addQuote_typeForex": { "en": "Forex" },
-  "addQuote_typeMarket": { "en": "Market" },
-  "addQuote_typeUnlisted": { "en": "Unlisted" },
+  "addQuote_symbolDisplayOverride": {
+    "en": "Symbol display override (Optional)",
+    "fr": ""
+  },
+  "addQuote_symbolWithHint": {
+    "en": "Symbol (i.e. GOOG)",
+    "fr": ""
+  },
+  "addQuote_trackTransaction": {
+    "en": "Track a Transaction",
+    "fr": ""
+  },
+  "addQuote_typeCrypto": {
+    "en": "Crypto",
+    "fr": "Crypto"
+  },
+  "addQuote_typeForex": {
+    "en": "Forex",
+    "fr": "Devises"
+  },
+  "addQuote_typeMarket": {
+    "en": "Market",
+    "fr": "Marché"
+  },
+  "addQuote_typeUnlisted": {
+    "en": "Unlisted",
+    "fr": "Non listé"
+  },
   "alert_alertPageEmptyHelp": {
     "en": "Add an alert by tapping Add Alert (Alert icon) in the menu, or by tapping here."
   },
-  "alert_lessThan": { "en": "less than" },
-  "alert_moreThan": { "en": "more than" },
-  "alert_trailingStopLoss": { "en": "trailing stop loss" },
-  "alert_reverseTrailingStopLoss": { "en": "reverse trailing stop loss" },
-  "alert_priceAlert": { "en": "Price Alert" },
-  "alert_viewExistingAlerts": { "en": "View existing alerts" },
-  "chart_couldNotFetchChart": {
-    "en": "Could not fetch chart\\n\\nPlease check your internet connection and try a different interval (1 Day, 5 Days, etc.)"
+  "alert_lessThan": {
+    "en": "less than",
+    "fr": ""
   },
-  "chart_enableVolumeColors": { "en": "Volume: Enable Colors" },
-  "chart_gridlines": { "en": "Gridlines" },
-  "chart_indicators": { "en": "Indicators" },
-  "chart_intervalFiveMinutes": { "en": "5 Minutes" },
-  "chart_intervalOneHour": { "en": "1 Hour" },
-  "chart_intervalOneDay": { "en": "1 Day" },
-  "chart_intervalOneMinute": { "en": "1 Minute" },
-  "chart_intervalOneMonth": { "en": "1 Month" },
-  "chart_intervalOneWeek": { "en": "1 Week" },
-  "chart_loading": { "en": "Loading Chart…" },
-  "chart_logarithmic": { "en": "Log" },
-  "chart_price": { "en": "Price" },
-  "chart_rangeFiveDays": { "en": "5 Days" },
-  "chart_rangeFiveDaysCompact": { "en": "5D" },
-  "chart_rangeFiveYears": { "en": "5 Years" },
-  "chart_rangeFiveYearsCompact": { "en": "5Y" },
-  "chart_rangeMax": { "en": "Max" },
-  "chart_rangeMonthToDateCompact": { "en": "MTD" },
+  "alert_moreThan": {
+    "en": "more than",
+    "fr": ""
+  },
+  "alert_trailingStopLoss": {
+    "en": "trailing stop loss",
+    "fr": ""
+  },
+  "alert_reverseTrailingStopLoss": {
+    "en": "reverse trailing stop loss",
+    "fr": ""
+  },
+  "alert_priceAlert": {
+    "en": "Price Alert"
+  },
+  "alert_viewExistingAlerts": {
+    "en": "View existing alerts",
+    "fr": ""
+  },
+  "chart_couldNotFetchChart": {
+    "en": "Could not fetch chart\\n\\nPlease check your internet connection and try a different interval (1 Day, 5 Days, etc.)",
+    "fr": ""
+  },
+  "chart_enableVolumeColors": {
+    "en": "Volume: Enable Colors",
+    "fr": ""
+  },
+  "chart_gridlines": {
+    "en": "Gridlines",
+    "fr": ""
+  },
+  "chart_indicators": {
+    "en": "Indicators",
+    "fr": "Indicateurs"
+  },
+  "chart_intervalFiveMinutes": {
+    "en": "5 Minutes",
+    "fr": ""
+  },
+  "chart_intervalOneHour": {
+    "en": "1 Hour"
+  },
+  "chart_intervalOneDay": {
+    "en": "1 Day",
+    "fr": "1 jour"
+  },
+  "chart_intervalOneMinute": {
+    "en": "1 Minute",
+    "fr": "1 minute"
+  },
+  "chart_intervalOneMonth": {
+    "en": "1 Month",
+    "fr": "1 mois"
+  },
+  "chart_intervalOneWeek": {
+    "en": "1 Week",
+    "fr": "1 semaine"
+  },
+  "chart_loading": {
+    "en": "Loading Chart…",
+    "fr": "Chargement du graphique…"
+  },
+  "chart_logarithmic": {
+    "en": "Log",
+    "fr": "Log"
+  },
+  "chart_price": {
+    "en": "Price",
+    "fr": "Prix"
+  },
+  "chart_rangeFiveDays": {
+    "en": "5 Days",
+    "fr": "5 jours"
+  },
+  "chart_rangeFiveDaysCompact": {
+    "en": "5D",
+    "fr": "5j"
+  },
+  "chart_rangeFiveYears": {
+    "en": "5 Years",
+    "fr": "5 années"
+  },
+  "chart_rangeFiveYearsCompact": {
+    "en": "5Y",
+    "fr": "5a"
+  },
+  "chart_rangeMax": {
+    "en": "Max",
+    "fr": "Max"
+  },
+  "chart_rangeMonthToDateCompact": {
+    "en": "MTD",
+    "fr": ""
+  },
   "chart_rangeNotAvailableFormatted": {
     "_formatted": "false",
     "en": "%s chart range not available"
   },
-  "chart_rangeOneDay": { "en": "1 Day" },
-  "chart_rangeOneDayCompact": { "en": "1D" },
-  "chart_rangeOneMonth": { "en": "1 Month" },
-  "chart_rangeOneMonthCompact": { "en": "1M" },
-  "chart_rangeOneWeekCompact": { "en": "1W" },
-  "chart_rangeOneYear": { "en": "1 Year" },
-  "chart_rangeOneYearCompact": { "en": "1Y" },
-  "chart_rangeSixMonths": { "en": "6 Months" },
-  "chart_rangeSixMonthsCompact": { "en": "6M" },
-  "chart_rangeThreeMonths": { "en": "3 Months" },
-  "chart_rangeThreeMonthsCompact": { "en": "3M" },
-  "chart_rangeTwoYears": { "en": "2 Years" },
-  "chart_rangeTwoYearsCompact": { "en": "2Y" },
-  "chart_rangeYearToDateCompact": { "en": "YTD" },
-  "chart_settings": { "en": "Chart Settings" },
-  "chart_title": { "en": "View Chart" },
-  "chart_transactionAnnotations": { "en": "Transaction Annotations" },
-  "chart_typeArea": { "en": "Area" },
-  "chart_typeCandle": { "en": "Candle" },
-  "chart_typeHollowCandle": { "en": "Hollow Candle" },
-  "chart_typeLine": { "en": "Line" },
-  "chart_typeOHLC": { "en": "OHLC" },
-  "chart_volume": { "en": "Volume" },
-  "csv_fileEmpty": { "en": "File is empty" },
-  "csv_unableToOpen": { "en": "Unable to open file" },
+  "chart_rangeOneDay": {
+    "en": "1 Day",
+    "fr": "1 jour"
+  },
+  "chart_rangeOneDayCompact": {
+    "en": "1D",
+    "fr": "1j"
+  },
+  "chart_rangeOneMonth": {
+    "en": "1 Month",
+    "fr": "1 mois"
+  },
+  "chart_rangeOneMonthCompact": {
+    "en": "1M",
+    "fr": "1m"
+  },
+  "chart_rangeOneWeekCompact": {
+    "en": "1W",
+    "fr": ""
+  },
+  "chart_rangeOneYear": {
+    "en": "1 Year",
+    "fr": "1 année"
+  },
+  "chart_rangeOneYearCompact": {
+    "en": "1Y",
+    "fr": "1a"
+  },
+  "chart_rangeSixMonths": {
+    "en": "6 Months",
+    "fr": "6 mois"
+  },
+  "chart_rangeSixMonthsCompact": {
+    "en": "6M",
+    "fr": "6m"
+  },
+  "chart_rangeThreeMonths": {
+    "en": "3 Months",
+    "fr": "3 mois"
+  },
+  "chart_rangeThreeMonthsCompact": {
+    "en": "3M",
+    "fr": "3m"
+  },
+  "chart_rangeTwoYears": {
+    "en": "2 Years",
+    "fr": "2 années"
+  },
+  "chart_rangeTwoYearsCompact": {
+    "en": "2Y",
+    "fr": "2a"
+  },
+  "chart_rangeYearToDateCompact": {
+    "en": "YTD",
+    "fr": "YTD"
+  },
+  "chart_settings": {
+    "en": "Chart Settings",
+    "fr": "Paramètres du graphique"
+  },
+  "chart_title": {
+    "en": "View Chart",
+    "fr": "Voir le graphique"
+  },
+  "chart_transactionAnnotations": {
+    "en": "Transaction Annotations",
+    "fr": ""
+  },
+  "chart_typeArea": {
+    "en": "Area",
+    "fr": "Aire"
+  },
+  "chart_typeCandle": {
+    "en": "Candle",
+    "fr": "Bougie"
+  },
+  "chart_typeHollowCandle": {
+    "en": "Hollow Candle",
+    "fr": "Bougie creuse"
+  },
+  "chart_typeLine": {
+    "en": "Line",
+    "fr": "Ligne"
+  },
+  "chart_typeOHLC": {
+    "en": "OHLC",
+    "fr": "OHLC"
+  },
+  "chart_volume": {
+    "en": "Volume",
+    "fr": "Volume"
+  },
+  "csv_fileEmpty": {
+    "en": "File is empty"
+  },
+  "csv_unableToOpen": {
+    "en": "Unable to open file",
+    "fr": ""
+  },
   "csvExport_exportAndOverwrite": {
-    "en": "Export and overwrite existing file"
+    "en": "Export and overwrite existing file",
+    "fr": ""
   },
   "csvExport_externalStorageHelp": {
     "en": "To export, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nYou can choose to export to SDCard or local storage (open the side menu in the file picker), or Google Drive. If you export to Google Drive, your file will be accessible from your computer at https://drive.google.com."
   },
   "csvExport_externalStorageUploaded": {
-    "en": "CSV saved to External Storage"
+    "en": "CSV saved to External Storage",
+    "fr": ""
   },
-  "csvExport_unableToUpload": { "en": "Unable to upload CSV file" },
+  "csvExport_unableToUpload": {
+    "en": "Unable to upload CSV file",
+    "fr": ""
+  },
   "csvImport_copyPasteHelp": {
     "en": "Copy and paste the text containing the CSV data into the text field below. Make sure to copy and paste the headers as well. Each line of the CSV should be on a separate line."
   },
-  "csvImport_couldNotFindData": { "en": "Could not find data to import" },
-  "csvImport_fileWasEmpty": { "en": "CSV file was empty" },
+  "csvImport_couldNotFindData": {
+    "en": "Could not find data to import",
+    "fr": ""
+  },
+  "csvImport_fileWasEmpty": {
+    "en": "CSV file was empty",
+    "fr": ""
+  },
   "csvImport_externalStorageHelp": {
     "en": "To import, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nTo view your Google Drive files from your computer, you can visit https://drive.google.com. You can also import from your SDCard or any other external storage (open the side menu in the file picker)."
   },
-  "csvImport_importAndOverwrite": { "en": "Delete local data after importing" },
-  "csvImport_imported": { "en": "Imported" },
+  "csvImport_importAndOverwrite": {
+    "en": "Delete local data after importing",
+    "fr": ""
+  },
+  "csvImport_imported": {
+    "en": "Imported",
+    "fr": ""
+  },
   "csvImport_importedQuotesAndHoldingsFormatted": {
     "_formatted": "false",
-    "en": "Successfully imported %s quotes and %s holdings"
+    "en": "Successfully imported %s quotes and %s holdings",
+    "fr": ""
   },
-  "csvImport_importing": { "en": "Importing…" },
-  "csvImport_pasteDataHere": { "en": "Paste data here" },
+  "csvImport_importing": {
+    "en": "Importing…",
+    "fr": ""
+  },
+  "csvImport_pasteDataHere": {
+    "en": "Paste data here",
+    "fr": ""
+  },
   "csvImport_pleaseCopyPasteData": {
-    "en": "Please copy and paste the CSV data"
+    "en": "Please copy and paste the CSV data",
+    "fr": ""
   },
   "csvImport_sizeRestriction": {
     "en": "Use File option if you have a lot of data, since Android has a 1 MB size restriction for Clipboard/Email."
@@ -303,200 +678,527 @@
   "csvImport_recognizedHeadersHelp": {
     "en": "Recognized CSV Headers:\\n\\nSymbol: Symbol name (i.e. BB)\\nPortfolio: Portfolio the quote belongs to\\nShares: Shares owned\\nType: Buy, Sell, Buy to Cover, Sell Short\\nPrice: Cost per share\\nCommission: Total commissions\\nDate: Date of transaction (YYYY-MM-DD GMT+HH:MM), i.e. 2017–05–25 GMT+01:00\\nNotes: Additional notes\\n\\nTo see a sample CSV, you can export a CSV from the app.\\n\\nThe Date format must be correct or the date will not be imported. If you are using Excel, you can customize the format of the generated dates. 2016–11–25 GMT-08:00 is a valid date, 11–25–2017 is not."
   },
-  "csvImport_unableToDownload": { "en": "Unable to download CSV file" },
-  "customizeFont_preview": { "en": "Preview:" },
-  "customizeFont_title": { "en": "Customize Font Size" },
-  "faq_canIHaveTrial": { "en": "Can I have a free trial?" },
+  "csvImport_unableToDownload": {
+    "en": "Unable to download CSV file",
+    "fr": ""
+  },
+  "customizeFont_preview": {
+    "en": "Preview:",
+    "fr": ""
+  },
+  "customizeFont_title": {
+    "en": "Customize Font Size",
+    "fr": ""
+  },
+  "faq_canIHaveTrial": {
+    "en": "Can I have a free trial?",
+    "fr": ""
+  },
   "faq_canIHaveTrialAnswer": {
-    "en": "First time subscribers have 1 week free trial. You can cancel anytime by clicking manage subscriptions. On the purchase confirmation dialog, Google Play will confirm the trial time if you are eligible for a trial."
+    "en": "First time subscribers have 1 week free trial. You can cancel anytime by clicking manage subscriptions. On the purchase confirmation dialog, Google Play will confirm the trial time if you are eligible for a trial.",
+    "fr": ""
   },
   "faq_paidAlready": {
-    "en": "I paid for the app already, but the app does not remember or recognize my purchase"
+    "en": "I paid for the app already, but the app does not remember or recognize my purchase",
+    "fr": ""
   },
   "faq_paidAlreadyAnswer": {
-    "en": "Please make sure you are logged into the account used to make the purchase and click \\'Restore Purchases\\'. If you can\\'t restore the purchase, please reach out to us via support."
+    "en": "Please make sure you are logged into the account used to make the purchase and click \\'Restore Purchases\\'. If you can\\'t restore the purchase, please reach out to us via support.",
+    "fr": ""
   },
-  "faq_whySubscriptionFee": { "en": "Why is there a subscription fee?" },
+  "faq_whySubscriptionFee": {
+    "en": "Why is there a subscription fee?",
+    "fr": ""
+  },
   "faq_whySubscriptionFeeP1": {
-    "en": "We are an online service and must pay for our servers, data feeds, news sources, respond to customer support, maintain our servers and regularly ship new features. These are expensive and ongoing monthly costs, unlike offline software."
+    "en": "We are an online service and must pay for our servers, data feeds, news sources, respond to customer support, maintain our servers and regularly ship new features. These are expensive and ongoing monthly costs, unlike offline software.",
+    "fr": ""
   },
   "faq_whySubscriptionFeeP2": {
-    "en": "Advertising help pay some of our costs. Customers who want a premium ad-free experience and want to support the development of the app can subscribe to the premium plan. Thank you for your support!"
+    "en": "Advertising help pay some of our costs. Customers who want a premium ad-free experience and want to support the development of the app can subscribe to the premium plan. Thank you for your support!",
+    "fr": ""
   },
-  "generic_accountX": { "en": "Account: %s" },
-  "generic_active": { "en": "Active" },
-  "generic_ad": { "en": "Ad" },
+  "generic_accountX": {
+    "en": "Account: %s",
+    "fr": ""
+  },
+  "generic_active": {
+    "en": "Active",
+    "fr": ""
+  },
+  "generic_ad": {
+    "en": "Ad"
+  },
   "generic_add": {
     "en": "Add",
+    "fr": "Ajouter",
     "zh": "加",
     "zh-Hant-TW": "加"
   },
-  "generic_addAlert": { "en": "Add Alert" },
-  "generic_additionalOptions": { "en": "Additional Options" },
-  "generic_agreePrivacyPolicyAndTermsOfUse": {
-    "en": "By continuing, you agree to the\\nPrivacy Policy and Terms of Use"
+  "generic_addAlert": {
+    "en": "Add Alert",
+    "fr": "Ajouter une alerte"
   },
-  "generic_apply": { "en": "Apply" },
-  "generic_autoRefresh": { "en": "Auto-refresh" },
-  "generic_autoRefreshOnWeekends": { "en": "Auto-refresh on weekends" },
-  "generic_autoRefreshEndTime": { "en": "Auto-refresh end time" },
-  "generic_autoRefreshStartTime": { "en": "Auto-refresh start time" },
-  "generic_beginImport": { "en": "Begin Import" },
-  "generic_calculate": { "en": "Calculate" },
-  "generic_cancel": { "en": "Cancel" },
-  "generic_checkOutThisApp": { "en": "Check out this app!" },
+  "generic_additionalOptions": {
+    "en": "Additional Options",
+    "fr": ""
+  },
+  "generic_agreePrivacyPolicyAndTermsOfUse": {
+    "en": "By continuing, you agree to the\\nPrivacy Policy and Terms of Use",
+    "fr": ""
+  },
+  "generic_apply": {
+    "en": "Apply",
+    "fr": ""
+  },
+  "generic_autoRefresh": {
+    "en": "Auto-refresh",
+    "fr": ""
+  },
+  "generic_autoRefreshOnWeekends": {
+    "en": "Auto-refresh on weekends",
+    "fr": ""
+  },
+  "generic_autoRefreshEndTime": {
+    "en": "Auto-refresh end time",
+    "fr": ""
+  },
+  "generic_autoRefreshStartTime": {
+    "en": "Auto-refresh start time",
+    "fr": ""
+  },
+  "generic_beginImport": {
+    "en": "Begin Import",
+    "fr": ""
+  },
+  "generic_calculate": {
+    "en": "Calculate",
+    "fr": ""
+  },
+  "generic_cancel": {
+    "en": "Cancel",
+    "fr": "Annuler"
+  },
+  "generic_checkOutThisApp": {
+    "en": "Check out this app!",
+    "fr": ""
+  },
   "generic_checkOutThisAppLong": {
-    "en": "Check out My Stocks Portfolio, an app for monitoring your stocks and portfolios!"
+    "en": "Check out My Stocks Portfolio, an app for monitoring your stocks and portfolios!",
+    "fr": ""
   },
   "generic_clientOutOfDate": {
-    "en": "It looks like your app version is out of date, so this type is unrecognized. Please udpate to the latest version of the app."
+    "en": "It looks like your app version is out of date, so this type is unrecognized. Please udpate to the latest version of the app.",
+    "fr": ""
   },
-  "generic_closeDrawerAccessibility": { "en": "Close navigation drawer" },
+  "generic_closeDrawerAccessibility": {
+    "en": "Close navigation drawer",
+    "fr": ""
+  },
   "generic_connectionIssue": {
-    "en": "Could not reach servers. Please check your connection and try again."
+    "en": "Could not reach servers. Please check your connection and try again.",
+    "fr": ""
   },
-  "generic_contactUs": { "en": "Contact Us" },
-  "generic_continue": { "en": "Continue" },
-  "generic_date": { "en": "Date" },
-  "generic_delete": { "en": "Delete" },
+  "generic_contactUs": {
+    "en": "Contact Us",
+    "fr": ""
+  },
+  "generic_continue": {
+    "en": "Continue",
+    "fr": "Continuer"
+  },
+  "generic_date": {
+    "en": "Date",
+    "fr": ""
+  },
+  "generic_delete": {
+    "en": "Delete",
+    "fr": "Effacer"
+  },
   "generic_disableWarningInSettings": {
-    "en": "You can disable this warning in the settings section in the app, general settings"
+    "en": "You can disable this warning in the settings section in the app, general settings",
+    "fr": ""
   },
-  "generic_dismiss": { "en": "Dismiss" },
+  "generic_dismiss": {
+    "en": "Dismiss",
+    "fr": "Fermer"
+  },
   "generic_done": {
     "en": "Done",
     "fr": "Terminé",
     "zh": "完成",
     "zh-Hant-TW": "完成"
   },
-  "generic_edit": { "en": "Edit" },
-  "generic_email": { "en": "Email" },
-  "generic_emailOrCopyPaste": { "en": "Email / Copy &amp; Paste" },
-  "generic_enterNotes": { "en": "Enter notes" },
-  "generic_enterValueBetween0And100": { "en": "Enter a value between 0–100" },
-  "generic_enterYourAnswer": { "en": "Enter your answer" },
-  "generic_enterYourQuestion": { "en": "Enter your question" },
-  "generic_errorImageAccessibility": { "en": "Error Image" },
-  "generic_errorFetchingResults": {
-    "en": "Error fetching results. Please try again later."
+  "generic_edit": {
+    "en": "Edit",
+    "fr": "Modifier"
   },
-  "generic_exitApplication_question": { "en": "Exit Application?" },
-  "generic_exitAreYouSure": { "en": "Are you sure you want to exit?" },
-  "generic_export": { "en": "Export…" },
-  "generic_faq": { "en": "Frequently Asked Questions" },
+  "generic_email": {
+    "en": "Email",
+    "fr": ""
+  },
+  "generic_emailOrCopyPaste": {
+    "en": "Email / Copy &amp; Paste",
+    "fr": ""
+  },
+  "generic_enterNotes": {
+    "en": "Enter notes",
+    "fr": "Entrer des notes"
+  },
+  "generic_enterValueBetween0And100": {
+    "en": "Enter a value between 0-100",
+    "fr": ""
+  },
+  "generic_enterYourAnswer": {
+    "en": "Enter your answer",
+    "fr": "Entrez votre réponse"
+  },
+  "generic_enterYourQuestion": {
+    "en": "Enter your question",
+    "fr": ""
+  },
+  "generic_errorImageAccessibility": {
+    "en": "Error Image",
+    "fr": ""
+  },
+  "generic_errorFetchingResults": {
+    "en": "Error fetching results. Please try again later.",
+    "fr": ""
+  },
+  "generic_exitApplication_question": {
+    "en": "Exit Application?",
+    "fr": ""
+  },
+  "generic_exitAreYouSure": {
+    "en": "Are you sure you want to exit?",
+    "fr": ""
+  },
+  "generic_export": {
+    "en": "Export…",
+    "fr": ""
+  },
+  "generic_faq": {
+    "en": "Frequently Asked Questions",
+    "fr": "Questions fréquentes"
+  },
   "generic_failedToOpenBrowser": {
     "en": "Could not open your web browser. Please check that you have one installed."
   },
-  "generic_filter": { "en": "Filter" },
-  "generic_fontSize": { "en": "Font Size" },
-  "generic_from_colon": { "en": "From:" },
-  "generic_help": { "en": "Help" },
-  "generic_hide": { "en": "Hide" },
-  "generic_hideAdvertisingAccessibility": { "en": "Hide Advertising" },
-  "generic_iconAccessibility": { "en": "Icon" },
-  "generic_import": { "en": "Import…" },
-  "generic_larger": { "en": "Larger" },
-  "generic_later": { "en": "Later" },
-  "generic_manageAlerts": { "en": "Manage Alerts" },
-  "generic_manageExistingAlerts": { "en": "Manage existing alerts" },
-  "generic_manualSort": { "en": "Manual Sort" },
-  "generic_month": { "en": "Month" },
-  "generic_name": { "en": "Name" },
-  "generic_nameOptional": { "en": "Name (Optional)" },
-  "generic_navigateUpAccessibility": { "en": "Navigate up" },
+  "generic_filter": {
+    "en": "Filter",
+    "fr": "Filtre"
+  },
+  "generic_fontSize": {
+    "en": "Font Size",
+    "fr": ""
+  },
+  "generic_from_colon": {
+    "en": "From:",
+    "fr": "De :"
+  },
+  "generic_help": {
+    "en": "Help",
+    "fr": "Aide"
+  },
+  "generic_hide": {
+    "en": "Hide",
+    "fr": ""
+  },
+  "generic_hideAdvertisingAccessibility": {
+    "en": "Hide Advertising",
+    "fr": ""
+  },
+  "generic_iconAccessibility": {
+    "en": "Icon",
+    "fr": "Icône"
+  },
+  "generic_import": {
+    "en": "Import…",
+    "fr": ""
+  },
+  "generic_larger": {
+    "en": "Larger",
+    "fr": "Plein écran"
+  },
+  "generic_later": {
+    "en": "Later",
+    "fr": "Plus tard"
+  },
+  "generic_manageAlerts": {
+    "en": "Manage Alerts",
+    "fr": "Gérer les alertes"
+  },
+  "generic_manageExistingAlerts": {
+    "en": "Manage existing alerts",
+    "fr": ""
+  },
+  "generic_manualSort": {
+    "en": "Manual Sort",
+    "fr": ""
+  },
+  "generic_month": {
+    "en": "Month",
+    "fr": ""
+  },
+  "generic_name": {
+    "en": "Name",
+    "fr": "Nom"
+  },
+  "generic_nameOptional": {
+    "en": "Name (Optional)",
+    "fr": "Nom (Optionel)"
+  },
+  "generic_navigateUpAccessibility": {
+    "en": "Navigate up",
+    "fr": "Naviguer vers le haut"
+  },
   "generic_navigationAppBarAccessibility": {
     "en": "Navigation Application Bar"
   },
-  "generic_navigationAccessibility": { "en": "Navigation" },
-  "generic_navigationTabsAccessibility": { "en": "Navigation Tabs" },
-  "generic_navigationToolbarAccessibility": { "en": "Navigation Toolbar" },
+  "generic_navigationAccessibility": {
+    "en": "Navigation",
+    "fr": "Navigation"
+  },
+  "generic_navigationTabsAccessibility": {
+    "en": "Navigation Tabs"
+  },
+  "generic_navigationToolbarAccessibility": {
+    "en": "Navigation Toolbar"
+  },
   "generic_networkNotAvailable": {
     "en": "Network not available. Please connect to the internet and try again."
   },
-  "generic_newVersionAvailable": { "en": "New version available" },
+  "generic_newVersionAvailable": {
+    "en": "New version available",
+    "fr": "Nouvelle version disponible"
+  },
   "generic_newVersionAvailableHardUpgradeHelp": {
     "en": "Please upgrade to the newest version of the app for important bug fixes."
   },
   "generic_newVersionAvailableHelp": {
     "en": "There is a new version of the app available and it is recommended to update. Download the update?"
   },
-  "generic_no": { "en": "No" },
-  "generic_noResults": { "en": "No Results" },
-  "generic_notesOptional": { "en": "Notes (Optional)" },
+  "generic_no": {
+    "en": "No",
+    "fr": "Non"
+  },
+  "generic_noResults": {
+    "en": "No Results",
+    "fr": "Aucun résultat"
+  },
+  "generic_notesOptional": {
+    "en": "Notes (Optional)"
+  },
   "generic_notificationTestInProgress": {
     "en": "You should receive a test notification in a few seconds"
   },
-  "generic_noThanks": { "en": "No Thanks" },
-  "generic_none": { "en": "None" },
-  "generic_notApplicable": { "en": "N/A" },
-  "generic_notes": { "en": "Notes" },
-  "generic_ok": { "en": "OK" },
-  "generic_openDrawerAccessibility": { "en": "Open navigation drawer" },
-  "generic_pasteFromClipboard": { "en": "Paste from Clipboard" },
-  "generic_perMonthShort": { "en": "/month" },
-  "generic_perYearShort": { "en": "/year" },
+  "generic_noThanks": {
+    "en": "No Thanks",
+    "fr": "Non merci"
+  },
+  "generic_none": {
+    "en": "None",
+    "fr": "Aucune sélection"
+  },
+  "generic_notApplicable": {
+    "en": "N/A",
+    "fr": "N/A"
+  },
+  "generic_notes": {
+    "en": "Notes",
+    "fr": "Notes"
+  },
+  "generic_ok": {
+    "en": "OK",
+    "fr": "OK"
+  },
+  "generic_openDrawerAccessibility": {
+    "en": "Open navigation drawer"
+  },
+  "generic_pasteFromClipboard": {
+    "en": "Paste from Clipboard"
+  },
+  "generic_perMonthShort": {
+    "en": "/month",
+    "fr": "/mois"
+  },
+  "generic_perYearShort": {
+    "en": "/year"
+  },
   "generic_pleaseAgreeToPrivacyPolicyAndTerms": {
     "en": "Please agree to the Privacy Policy and Terms of Use before continuing"
   },
-  "generic_privacyPolicy": { "en": "Privacy Policy" },
-  "generic_proceedOffline": { "en": "Proceed Offline" },
-  "generic_questionsViewFAQ": { "en": "View FAQ" },
-  "generic_reactivate": { "en": "Re-activate" },
-  "generic_refresh": { "en": "Refresh" },
-  "generic_refreshAccessibility": { "en": "Refresh" },
-  "generic_required": { "en": "Required" },
-  "generic_retry": { "en": "Retry" },
-  "generic_rotateScreen": { "en": "Rotate Screen" },
-  "generic_save": { "en": "Save" },
-  "generic_saveXMoney": { "en": "Save %s" },
-  "generic_selectFile": { "en": "Select File" },
-  "generic_set": { "en": "Set" },
-  "generic_settings": { "en": "Settings" },
-  "generic_shareUsing": { "en": "Share using…" },
-  "generic_show": { "en": "Show" },
-  "generic_signInGoogleDrive": { "en": "Enable Google Drive account" },
-  "generic_signOut": { "en": "Sign Out" },
-  "generic_sign_in": { "en": "Sign In" },
-  "generic_signInToSyncAcrossDevices": {
-    "en": "Sign in to sync across devices"
+  "generic_privacyPolicy": {
+    "en": "Privacy Policy"
   },
-  "generic_smaller": { "en": "Smaller" },
-  "generic_sort": { "en": "Sort" },
-  "generic_subscribed": { "en": "Subscribed" },
-  "generic_sure": { "en": "Sure" },
-  "generic_sync": { "en": "Sync" },
-  "generic_tapToEdit": { "en": "Tap to edit" },
-  "generic_termsOfUse": { "en": "Terms of Use" },
-  "generic_to_colon": { "en": "To:" },
-  "generic_today": { "en": "Today" },
-  "generic_tooltipImageAccessibility": { "en": "Tooltip Image" },
-  "generic_twitter": { "en": "Twitter" },
-  "generic_twitterHelp": { "en": "Reach out to us on Twitter" },
-  "generic_type": { "en": "Type" },
-  "generic_updating": { "en": "Updating" },
-  "generic_year": { "en": "Year" },
-  "generic_yes": { "en": "Yes" },
-  "help_announcements": { "en": "Announcements" },
+  "generic_proceedOffline": {
+    "en": "Proceed Offline",
+    "fr": ""
+  },
+  "generic_questionsViewFAQ": {
+    "en": "View FAQ",
+    "fr": ""
+  },
+  "generic_reactivate": {
+    "en": "Re-activate",
+    "fr": ""
+  },
+  "generic_refresh": {
+    "en": "Refresh",
+    "fr": "Rafraîchir"
+  },
+  "generic_refreshAccessibility": {
+    "en": "Refresh",
+    "fr": "Actualiser"
+  },
+  "generic_required": {
+    "en": "Required",
+    "fr": ""
+  },
+  "generic_retry": {
+    "en": "Retry",
+    "fr": "Réessayer"
+  },
+  "generic_rotateScreen": {
+    "en": "Rotate Screen",
+    "fr": "Rotation de l\\'écran"
+  },
+  "generic_save": {
+    "en": "Save"
+  },
+  "generic_saveXMoney": {
+    "en": "Save %s",
+    "fr": "Economisez %s"
+  },
+  "generic_selectFile": {
+    "en": "Select File",
+    "fr": "Sélectionner un fichier"
+  },
+  "generic_set": {
+    "en": "Set",
+    "fr": "Régler"
+  },
+  "generic_settings": {
+    "en": "Settings",
+    "fr": "Paramètres"
+  },
+  "generic_shareUsing": {
+    "en": "Share using…"
+  },
+  "generic_show": {
+    "en": "Show"
+  },
+  "generic_signInGoogleDrive": {
+    "en": "Enable Google Drive account"
+  },
+  "generic_signOut": {
+    "en": "Sign Out",
+    "fr": "Déconnexion"
+  },
+  "generic_sign_in": {
+    "en": "Sign In",
+    "fr": "Se connecter"
+  },
+  "generic_signInToSyncAcrossDevices": {
+    "en": "Sign in to sync across devices",
+    "fr": "Sélectionner un fichier"
+  },
+  "generic_smaller": {
+    "en": "Smaller"
+  },
+  "generic_sort": {
+    "en": "Sort"
+  },
+  "generic_subscribed": {
+    "en": "Subscribed"
+  },
+  "generic_sure": {
+    "en": "Sure"
+  },
+  "generic_sync": {
+    "en": "Sync"
+  },
+  "generic_tapToEdit": {
+    "en": "Tap to edit"
+  },
+  "generic_termsOfUse": {
+    "en": "Terms of Use"
+  },
+  "generic_to_colon": {
+    "en": "To:",
+    "fr": "À :"
+  },
+  "generic_today": {
+    "en": "Today"
+  },
+  "generic_tooltipImageAccessibility": {
+    "en": "Tooltip Image"
+  },
+  "generic_twitter": {
+    "en": "Twitter",
+    "fr": "Twitter"
+  },
+  "generic_twitterHelp": {
+    "en": "Reach out to us on Twitter"
+  },
+  "generic_type": {
+    "en": "Type"
+  },
+  "generic_updating": {
+    "en": "Updating",
+    "fr": "Mise à jour"
+  },
+  "generic_year": {
+    "en": "Year"
+  },
+  "generic_yes": {
+    "en": "Yes",
+    "fr": "Oui"
+  },
+  "help_announcements": {
+    "en": "Announcements",
+    "fr": "Annonces"
+  },
   "help_couldNotConnect": {
     "en": "Could not connect to the Help server. Email the developer with your question?"
   },
-  "help_dontSeeMyAnswer": { "en": "I don\\'t see my answer…" },
-  "help_howCanWeHelp": { "en": "How can we help?" },
-  "help_needMoreHelp": { "en": "Need more help?" },
+  "help_dontSeeMyAnswer": {
+    "en": "I don\\'t see my answer…"
+  },
+  "help_howCanWeHelp": {
+    "en": "How can we help?"
+  },
+  "help_needMoreHelp": {
+    "en": "Need more help?"
+  },
   "help_noAnswer": {
     "en": "Sorry, we could not find an answer to your question."
   },
-  "help_popularTopics": { "en": "Popular topics" },
-  "help_question": { "en": "Question" },
-  "help_reportBug": { "en": "Report a Bug" },
-  "help_suggestions": { "en": "Suggestions" },
+  "help_popularTopics": {
+    "en": "Popular topics",
+    "fr": "Sujets populaires"
+  },
+  "help_question": {
+    "en": "Question",
+    "fr": "Question"
+  },
+  "help_reportBug": {
+    "en": "Report a Bug",
+    "fr": "Signaler un bug"
+  },
+  "help_suggestions": {
+    "en": "Suggestions",
+    "fr": "Suggestions"
+  },
   "logInOut_couldNotConnectToGoogle": {
     "en": "Could not connect to Google. Please try again later."
   },
   "logInOut_googleSignInFailed": {
     "en": "Google sign-in failed. Please try again later."
   },
-  "logInOut_googleSignOutError": { "en": "Error signing out of Google" },
+  "logInOut_googleSignOutError": {
+    "en": "Error signing out of Google"
+  },
   "logInOut_signInWithYourGoogleAccount": {
     "en": "Please sign in with your Google account to continue"
   },
@@ -506,98 +1208,216 @@
   "logInOut_signInToRestorePurchases": {
     "en": "Sign in to share purchases on the cloud? Click No if you want to use your local Google Play account. (If you have multiple accounts on your phone, Google Play sometimes restores it from the incorrect account. You should sign in to the correct account to workaround that issue.).\\n\\nNote: If your purchases are shared on the cloud and you are not signed in, they will be transferred from the cloud to your local account, and other signed in devices using purchases from the cloud will lose access to that purchase. To share purchases on the cloud, sign in, and then click restore, to transfer purchases from your local device to the cloud."
   },
-  "logInOut_signOutOfGoogle": { "en": "Sign Out of Google" },
-  "logInOut_signOutOrSwitchAccount": { "en": "Sign Out / Switch Account" },
-  "logInOut_signingInToGoogle": { "en": "Signing in to Google…" },
-  "logInOut_signingOutOfGoogle": { "en": "Signing out of Google…" },
-  "logInOut_switchAccount": { "en": "Switch Account" },
+  "logInOut_signOutOfGoogle": {
+    "en": "Sign Out of Google"
+  },
+  "logInOut_signOutOrSwitchAccount": {
+    "en": "Sign Out / Switch Account"
+  },
+  "logInOut_signingInToGoogle": {
+    "en": "Signing in to Google…"
+  },
+  "logInOut_signingOutOfGoogle": {
+    "en": "Signing out of Google…"
+  },
+  "logInOut_switchAccount": {
+    "en": "Switch Account"
+  },
   "logInOut_switchAccountHescription": {
     "en": "Sign in to another Google account"
   },
-  "news_browserTitle": { "en": "Browser" },
-  "news_configureNews": { "en": "Configure News" },
+  "news_browserTitle": {
+    "en": "Browser",
+    "fr": ""
+  },
+  "news_configureNews": {
+    "en": "Configure News",
+    "fr": ""
+  },
   "news_configureNewsHelp": {
-    "en": "Configure which categories to view market news for by tapping Configure News (Gear icon) in the menu, or by tapping here."
+    "en": "Configure which categories to view market news for by tapping Configure News (Gear icon) in the menu, or by tapping here.",
+    "fr": ""
   },
   "news_fetchFailed": {
-    "en": "Failed to fetch news. Please check that you have internet connection and try again later."
+    "en": "Failed to fetch news. Please check that you have internet connection and try again later.",
+    "fr": ""
   },
   "news_filterNewsFromXFormatted": {
     "_formatted": "false",
-    "en": "Filter news from %s?"
+    "en": "Filter news from %s?",
+    "fr": ""
   },
   "news_filterNewsSourcesHelp": {
     "en": "To filter a news source, press-hold on it from the news listings page. To remove a filter, click on it below."
   },
-  "news_filteredNewsSources": { "en": "Filtered News Sources" },
+  "news_filteredNewsSources": {
+    "en": "Filtered News Sources",
+    "fr": ""
+  },
   "news_help": {
-    "en": "Which categories do you want to retrieve news for? To re-order, press-hold for two seconds and then drag up/down."
+    "en": "Which categories do you want to retrieve news for? To re-order, press-hold for two seconds and then drag up/down.",
+    "fr": ""
   },
-  "news_imageAccessibility": { "en": "News Image" },
-  "news_loading": { "en": "Loading News…" },
-  "news_share": { "en": "Share" },
-  "news_sharedViaFormatted": { "_formatted": "false", "en": "shared via %s" },
+  "news_imageAccessibility": {
+    "en": "News Image",
+    "fr": ""
+  },
+  "news_loading": {
+    "en": "Loading News…",
+    "fr": ""
+  },
+  "news_share": {
+    "en": "Share",
+    "fr": ""
+  },
+  "news_sharedViaFormatted": {
+    "_formatted": "false",
+    "en": "shared via %s"
+  },
   "news_sorryCouldNotOpenNewsArticle": {
-    "en": "Sorry, we couldn\\'t open that news article."
+    "en": "Sorry, we couldn\\'t open that news article.",
+    "fr": ""
   },
-  "news_title": { "en": "News" },
-  "password_confirmPassword": { "en": "Confirm Password" },
-  "password_enable": { "en": "Enable password protection" },
+  "news_title": {
+    "en": "News",
+    "fr": ""
+  },
+  "password_confirmPassword": {
+    "en": "Confirm Password",
+    "fr": ""
+  },
+  "password_enable": {
+    "en": "Enable password protection",
+    "fr": ""
+  },
   "password_enableHelp": {
-    "en": "Enabling password protection will prompt for a password when the app is launched. If you lose your password, you will need to re-install the app.\\n\\nSetting a password does not protect your data if your device is stolen. Google provides ways to remotely wipe your device: https://www.google.com/#q=android+remotely+wipe+phone"
+    "en": "Enabling password protection will prompt for a password when the app is launched. If you lose your password, you will need to re-install the app.\\n\\nSetting a password does not protect your data if your device is stolen. Google provides ways to remotely wipe your device: https://www.google.com/#q=android+remotely+wipe+phone",
+    "fr": ""
   },
-  "password_enterPassword": { "en": "Enter Password" },
-  "password_enterPasswordPrompt": { "en": "Please enter a password" },
+  "password_enterPassword": {
+    "en": "Enter Password",
+    "fr": ""
+  },
+  "password_enterPasswordPrompt": {
+    "en": "Please enter a password",
+    "fr": ""
+  },
   "password_enterPasswordTimeoutPrompt": {
-    "en": "Please enter a valid password timeout (integer between 5 to 3600)"
+    "en": "Please enter a valid password timeout (integer between 5 to 3600)",
+    "fr": ""
   },
-  "password_enterPasswordToContinue": { "en": "Enter password to continue" },
+  "password_enterPasswordToContinue": {
+    "en": "Enter password to continue",
+    "fr": ""
+  },
   "password_incorrectConfirmationPassword": {
-    "en": "Incorrect confirmation password"
+    "en": "Incorrect confirmation password",
+    "fr": ""
   },
-  "password_incorrectPassword": { "en": "Incorrect password" },
+  "password_incorrectPassword": {
+    "en": "Incorrect password",
+    "fr": ""
+  },
   "password_pleaseConfirmYourPassword": {
-    "en": "Please confirm your password"
+    "en": "Please confirm your password",
+    "fr": ""
   },
   "password_showPortfolioInfoOnWidget": {
-    "en": "Show portfolio information on widget"
+    "en": "Show portfolio information on widget",
+    "fr": ""
   },
-  "password_showQuotesListOnWidget": { "en": "Show quotes list on widget" },
-  "password_timeoutInSeconds": { "en": "Timeout in seconds" },
-  "password_title": { "en": "Password Protection" },
+  "password_showQuotesListOnWidget": {
+    "en": "Show quotes list on widget",
+    "fr": ""
+  },
+  "password_timeoutInSeconds": {
+    "en": "Timeout in seconds",
+    "fr": ""
+  },
+  "password_title": {
+    "en": "Password Protection",
+    "fr": ""
+  },
   "portfolioAllocations_groupInOthers": {
-    "en": "Group holding in \\'Others\\' when less than % of total"
+    "en": "Group holding in \\'Others\\' when less than % of total",
+    "fr": ""
   },
   "portfolioAnalysis_changeSettings": {
-    "en": "To change, open Settings, Calculations"
+    "en": "To change, open Settings, Calculations",
+    "fr": ""
   },
-  "portfolio_absoluteMagnitude": { "en": "Absolute / Magnitude" },
-  "portfolio_addPortfolio": { "en": "Add Portfolio" },
-  "portfolio_addToPortfolio": { "en": "Add to Portfolio" },
-  "portfolio_addingToPortfolio": { "en": "Adding to portfolio…" },
+  "portfolio_absoluteMagnitude": {
+    "en": "Absolute / Magnitude",
+    "fr": ""
+  },
+  "portfolio_addPortfolio": {
+    "en": "Add Portfolio",
+    "fr": ""
+  },
+  "portfolio_addToPortfolio": {
+    "en": "Add to Portfolio",
+    "fr": ""
+  },
+  "portfolio_addingToPortfolio": {
+    "en": "Adding to portfolio…",
+    "fr": ""
+  },
   "portfolio_allocation_categoryTagHelp": {
     "en": "To assign category tags, click on the labels button (bottom right of an item). The allocation chart can be configured to show the symbol on the 1st level, and the category tag on the 2nd level."
   },
   "portfolio_allocation_categoryTagPopupHelp": {
     "en": "To assign tags, click the pie chart and then on the labels button"
   },
-  "portfolio_allocations": { "en": "Allocations" },
-  "portfolio_allPositions": { "en": "All Positions" },
-  "portfolio_allTime": { "en": "All-Time" },
-  "portfolio_allTimeColon": { "en": "All-Time:" },
-  "portfolio_annualized": { "en": "Annualized:" },
-  "portfolio_annualizedXIRR": { "en": "Annualized XIRR" },
-  "portfolio_brokerSettings": { "en": "Broker Settings" },
+  "portfolio_allocations": {
+    "en": "Allocations"
+  },
+  "portfolio_allPositions": {
+    "en": "All Positions"
+  },
+  "portfolio_allTime": {
+    "en": "All-Time"
+  },
+  "portfolio_allTimeColon": {
+    "en": "All-Time:"
+  },
+  "portfolio_annualized": {
+    "en": "Annualized:"
+  },
+  "portfolio_annualizedXIRR": {
+    "en": "Annualized XIRR"
+  },
+  "portfolio_brokerSettings": {
+    "en": "Broker Settings"
+  },
   "portfolio_cantManuallySortWhenAutoSortOn": {
     "en": "Can\\'t manually sort when a column header is locked to a sort. Please tap the locked column header and choose \"Manual Sort\"."
   },
-  "portfolio_ceo": { "en": "CEO" },
-  "portfolio_change": { "en": "Change" },
-  "portfolio_closedSoldPositions": { "en": "Closed / Sold Positions" },
-  "portfolio_costBasis": { "en": "Cost Basis" },
-  "portfolio_costPerShare": { "en": "Cost Per Share" },
-  "portfolio_couldNotAddToPortfolio": { "en": "Could not add to portfolio" },
-  "portfolio_couldNotMoveToPortfolio": { "en": "Could not move to portfolio" },
+  "portfolio_ceo": {
+    "en": "CEO",
+    "fr": ""
+  },
+  "portfolio_change": {
+    "en": "Change",
+    "fr": ""
+  },
+  "portfolio_closedSoldPositions": {
+    "en": "Closed / Sold Positions",
+    "fr": ""
+  },
+  "portfolio_costBasis": {
+    "en": "Cost Basis",
+    "fr": "Cout de base"
+  },
+  "portfolio_costPerShare": {
+    "en": "Cost Per Share",
+    "fr": "Cout par action"
+  },
+  "portfolio_couldNotAddToPortfolio": {
+    "en": "Could not add to portfolio"
+  },
+  "portfolio_couldNotMoveToPortfolio": {
+    "en": "Could not move to portfolio"
+  },
   "portfolio_currency": {
     "en": "Currency",
     "fr": "Devise",
@@ -608,12 +1428,29 @@
     "fr": "Devise :",
     "zh-Hant-TW": "幣別："
   },
-  "portfolio_currentPortfolio": { "en": "Current Portfolio" },
-  "portfolio_daily": { "en": "Daily" },
-  "portfolio_dailyChangeCalculation": { "en": "Daily Change Calculation" },
-  "portfolio_dailyColumnSettings": { "en": "Daily Column Settings" },
-  "portfolio_defaultCurrency": { "en": "Default" },
-  "portfolio_defaultName": { "en": "My Portfolio" },
+  "portfolio_currentPortfolio": {
+    "en": "Current Portfolio"
+  },
+  "portfolio_daily": {
+    "en": "Daily",
+    "fr": "Jour"
+  },
+  "portfolio_dailyChangeCalculation": {
+    "en": "Daily Change Calculation",
+    "fr": ""
+  },
+  "portfolio_dailyColumnSettings": {
+    "en": "Daily Column Settings",
+    "fr": ""
+  },
+  "portfolio_defaultCurrency": {
+    "en": "Default",
+    "fr": "Défaut"
+  },
+  "portfolio_defaultName": {
+    "en": "My Portfolio",
+    "fr": "Mon portefeuille"
+  },
   "portfolio_deleteFromServerDisclaimer": {
     "en": "If you are signed in, this will delete it from the server and your other devices when they sync."
   },
@@ -642,7 +1479,10 @@
     "en": "Are you sure you want to delete these Holdings and all Transactions in them?"
   },
 
-  "portfolio_details": { "en": "Details" },
+  "portfolio_details": {
+    "en": "Details",
+    "fr": "Détails"
+  },
   "portfolio_displayLocalCurrency": {
     "en": "Display local currency instead of home currency for:"
   },
@@ -652,9 +1492,15 @@
   "portfolio_displayLocalCurrencyForTotals": {
     "en": "Aggregate totals in this portfolio: All quotes in this portfolio must be the same currency. Aggregate totals refers to the totals at top and bottom of screen."
   },
-  "portfolio_dividends": { "en": "Dividends" },
-  "portfolio_dividendsColon": { "en": "Dividends:" },
-  "portfolio_dividendsInTotals": { "en": "Dividends reflected in totals" },
+  "portfolio_dividends": {
+    "en": "Dividends"
+  },
+  "portfolio_dividendsColon": {
+    "en": "Dividends:"
+  },
+  "portfolio_dividendsInTotals": {
+    "en": "Dividends reflected in totals"
+  },
   "portfolio_dividendsInTotalsHelp": {
     "en": "If OFF, dividends not reinvested will be omitted from your total calculations. Dividends reinvested will be reflected with a cost basis as if you purchased again with cash. This is the accounting method used at most exchanges. If ON, dividends in both cases are added to your total calculations at no cost basis."
   },
@@ -665,28 +1511,66 @@
     "en": "Dividends part of a dividend reinvestment plan (DRIP). You do not need to add a separate transaction for the dividends to cash conversion. You can change how dividends are reflected in your total calculations in the app Settings under Calculations."
   },
   "portfolio_doNotAddToTotals": {
-    "en": "Don\\'t add to totals on Portfolios Overview screen"
+    "en": "Don\\'t add to totals on Portfolios Overview screen",
+    "fr": ""
   },
-  "portfolio_editHolding": { "en": "Edit Holding" },
-  "portfolio_editOrDeletePortfolio": { "en": "Edit/Delete Portfolio" },
-  "portfolio_editPortfolio": { "en": "Edit Portfolio" },
+  "portfolio_editHolding": {
+    "en": "Edit Holding",
+    "fr": ""
+  },
+  "portfolio_editOrDeletePortfolio": {
+    "en": "Edit/Delete Portfolio",
+    "fr": ""
+  },
+  "portfolio_editPortfolio": {
+    "en": "Edit Portfolio",
+    "fr": ""
+  },
   "portfolio_enterThresholdOneToHundred": {
     "en": "Enter a threshold between 0–100"
   },
-  "portfolio_excludedFromTotals": { "en": "Excluded from totals" },
-  "portfolio_fullTimeEmployees": { "en": "Full-Time Employees" },
-  "portfolio_hideDetails": { "en": "Hide Details" },
-  "portfolio_holdings": { "en": "Holdings" },
-  "portfolio_homeCurrency": { "en": "Home Currency" },
+  "portfolio_excludedFromTotals": {
+    "en": "Excluded from totals",
+    "fr": ""
+  },
+  "portfolio_fullTimeEmployees": {
+    "en": "Full-Time Employees",
+    "fr": ""
+  },
+  "portfolio_hideDetails": {
+    "en": "Hide Details",
+    "fr": "Details"
+  },
+  "portfolio_holdings": {
+    "en": "Holdings",
+    "fr": "Positions"
+  },
+  "portfolio_homeCurrency": {
+    "en": "Home Currency",
+    "fr": "Devise préférée"
+  },
   "portfolio_homeCurrencyHelp": {
     "en": "Your holdings will be converted to display in this currency. Note: historical performance chart data will be cleared."
   },
-  "portfolio_lastKnownDailyChange": { "en": "Last Known Daily Change" },
-  "portfolio_lastPrice": { "en": "Last Price" },
-  "portfolio_ledgerNoTransactions": { "en": "No transactions added yet" },
-  "portfolio_marketNews": { "en": "Market News" },
-  "portfolio_moveToPortfolio": { "en": "Move/Copy to Portfolio" },
-  "portfolio_movingToPortfolio": { "en": "Moving to portfolio…" },
+  "portfolio_lastKnownDailyChange": {
+    "en": "Last Known Daily Change"
+  },
+  "portfolio_lastPrice": {
+    "en": "Last Price",
+    "fr": "Cours"
+  },
+  "portfolio_ledgerNoTransactions": {
+    "en": "No transactions added yet"
+  },
+  "portfolio_marketNews": {
+    "en": "Market News"
+  },
+  "portfolio_moveToPortfolio": {
+    "en": "Move/Copy to Portfolio"
+  },
+  "portfolio_movingToPortfolio": {
+    "en": "Moving to portfolio…"
+  },
   "portfolio_multipleCurrenciesNoHomeCurrency": {
     "en": "Multiple currencies detected but a home currency is not set, so totals can\\'t be calculated. Please tap here to set a home currency."
   },
@@ -702,211 +1586,451 @@
   "portfolio_noTransactionsHelp": {
     "en": "Track a new transaction by tapping the Add button in the menu or by tapping here."
   },
-  "portfolio_openUnsoldPositions": { "en": "Open / Unsold Positions" },
-  "portfolio_portfolioCurrency": { "en": "Portfolio Currency" },
-  "portfolio_portfolioIconAccessibility": { "en": "Portfolio Icon" },
-  "portfolio_portfolioMultipleCurrenciesNoHomeCurrency": {
-    "en": "This portfolio has different currencies but a home currency is not set, so totals can\\'t be calculated. Please tap here to set currency settings."
+  "portfolio_openUnsoldPositions": {
+    "en": "Open / Unsold Positions"
   },
-  "portfolio_portfolios": { "en": "Portfolios" },
-  "portfolio_portfoliosOverview": { "en": "Portfolios Overview" },
-  "portfolio_quotes": { "en": "Quotes" },
-  "portfolio_realized": { "en": "Realized" },
-  "portfolio_realizedColon": { "en": "Realized:" },
-  "portfolio_realizedYTDColon": { "en": "Rlzd YTD:" },
-  "portfolio_reverseOrder": { "en": "Reverse Order" },
-  "portfolio_sectorIndustry": { "en": "Sector, Industry" },
-  "portfolio_setHomeCurrency": { "en": "Set Home Currency" },
+  "portfolio_portfolioCurrency": {
+    "en": "Portfolio Currency",
+    "fr": ""
+  },
+  "portfolio_portfolioIconAccessibility": {
+    "en": "Portfolio Icon",
+    "fr": ""
+  },
+  "portfolio_portfolioMultipleCurrenciesNoHomeCurrency": {
+    "en": "This portfolio has different currencies but a home currency is not set, so totals can\\'t be calculated. Please tap here to set currency settings.",
+    "fr": ""
+  },
+  "portfolio_portfolios": {
+    "en": "Portfolios",
+    "fr": "Portefeuilles"
+  },
+  "portfolio_portfoliosOverview": {
+    "en": "Portfolios Overview",
+    "fr": ""
+  },
+  "portfolio_quotes": {
+    "en": "Quotes",
+    "fr": "Cours"
+  },
+  "portfolio_realized": {
+    "en": "Realized",
+    "fr": "Réalisé"
+  },
+  "portfolio_realizedColon": {
+    "en": "Realized:",
+    "fr": "Réalisé :"
+  },
+  "portfolio_realizedYTDColon": {
+    "en": "Rlzd YTD:"
+  },
+  "portfolio_reverseOrder": {
+    "en": "Reverse Order"
+  },
+  "portfolio_sectorIndustry": {
+    "en": "Sector, Industry"
+  },
+  "portfolio_setHomeCurrency": {
+    "en": "Set Home Currency",
+    "fr": "Définir la devise préférée"
+  },
   "portfolio_shares": {
     "en": "Shares",
+    "fr": "Actions",
     "zh": "股数",
     "zh-Hant-TW": "股數"
   },
-  "portfolio_sharesAt": { "en": "Shares @" },
+  "portfolio_sharesAt": {
+    "en": "Shares @",
+    "fr": "Actions @"
+  },
   "portfolio_splitsHelp": {
-    "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4."
+    "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4.",
+    "fr": ""
   },
   "portfolio_priceAndSharesFormatted": {
     "_formatted": "false",
-    "en": "%s x %s shares"
+    "en": "%s x %s shares",
+    "fr": ""
   },
   "portfolio_priceAndSharesFormattedWithLocal": {
     "_formatted": "false",
-    "en": "%s (%s) x %s shares"
+    "en": "%s (%s) x %s shares",
+    "fr": ""
   },
-  "portfolio_showDetails": { "en": "Show Details" },
-  "portfolio_sortChange": { "en": "Change" },
-  "portfolio_sortAbsChange": { "en": "Change (Absolute)" },
-  "portfolio_sortChangePercent": { "en": "Change %" },
-  "portfolio_sortAbsChangePercent": { "en": "Change % (Absolute)" },
-  "portfolio_sortChangePercentReverse": { "en": "Change % (Ascending)" },
+  "portfolio_showDetails": {
+    "en": "Show Details",
+    "fr": "Details"
+  },
+  "portfolio_sortChange": {
+    "en": "Change",
+    "fr": "Variation"
+  },
+  "portfolio_sortAbsChange": {
+    "en": "Change (Absolute)",
+    "fr": ""
+  },
+  "portfolio_sortChangePercent": {
+    "en": "Change %",
+    "fr": "Variation %"
+  },
+  "portfolio_sortAbsChangePercent": {
+    "en": "Change % (Absolute)",
+    "fr": ""
+  },
+  "portfolio_sortChangePercentReverse": {
+    "en": "Change % (Ascending)",
+    "fr": ""
+  },
   "portfolio_sortAbsChangePercentReverse": {
-    "en": "Change % (Absolute, Ascending)"
+    "en": "Change % (Absolute, Ascending)",
+    "fr": ""
   },
-  "portfolio_sortChangeReverse": { "en": "Change (Ascending)" },
-  "portfolio_sortAbsChangeReverse": { "en": "Change (Absolute, Ascending)" },
-  "portfolio_sortCostBasis": { "en": "Cost Basis" },
-  "portfolio_sortCostBasisReverse": { "en": "Cost Basis (Ascending)" },
-  "portfolio_sortDailyChange": { "en": "Daily Change" },
-  "portfolio_sortAbsDailyChange": { "en": "Daily Change (Absolute)" },
-  "portfolio_sortDailyChangePercent": { "en": "Daily Change %" },
-  "portfolio_sortAbsDailyChangePercent": { "en": "Daily Change % (Absolute)" },
+  "portfolio_sortChangeReverse": {
+    "en": "Change (Ascending)",
+    "fr": ""
+  },
+  "portfolio_sortAbsChangeReverse": {
+    "en": "Change (Absolute, Ascending)",
+    "fr": ""
+  },
+  "portfolio_sortCostBasis": {
+    "en": "Cost Basis",
+    "fr": "Cout"
+  },
+  "portfolio_sortCostBasisReverse": {
+    "en": "Cost Basis (Ascending)",
+    "fr": ""
+  },
+  "portfolio_sortDailyChange": {
+    "en": "Daily Change",
+    "fr": ""
+  },
+  "portfolio_sortAbsDailyChange": {
+    "en": "Daily Change (Absolute)",
+    "fr": ""
+  },
+  "portfolio_sortDailyChangePercent": {
+    "en": "Daily Change %",
+    "fr": ""
+  },
+  "portfolio_sortAbsDailyChangePercent": {
+    "en": "Daily Change % (Absolute)",
+    "fr": ""
+  },
   "portfolio_sortDailyChangePercentReverse": {
-    "en": "Daily Change % (Ascending)"
+    "en": "Daily Change % (Ascending)",
+    "fr": ""
   },
   "portfolio_sortAbsDailyChangePercentReverse": {
-    "en": "Daily Change % (Absolute, Ascending)"
+    "en": "Daily Change % (Absolute, Ascending)",
+    "fr": ""
   },
-  "portfolio_sortDailyChangeReverse": { "en": "Daily Change (Ascending)" },
+  "portfolio_sortDailyChangeReverse": {
+    "en": "Daily Change (Ascending)",
+    "fr": ""
+  },
   "portfolio_sortAbsDailyChangeReverse": {
-    "en": "Daily Change (Absolute, Ascending)"
+    "en": "Daily Change (Absolute, Ascending)",
+    "fr": ""
   },
-  "portfolio_sortDragHandleAccessibility": { "en": "Drag Handle" },
+  "portfolio_sortDragHandleAccessibility": {
+    "en": "Drag Handle",
+    "fr": ""
+  },
   "portfolio_sortHoldingSelectedFormatted": {
     "_formatted": "false",
-    "en": "%d Holding Selected"
+    "en": "%d Holding Selected",
+    "fr": ""
   },
   "portfolio_sortHoldingsSelectedFormatted": {
     "_formatted": "false",
-    "en": "%d Holdings Selected"
+    "en": "%d Holdings Selected",
+    "fr": ""
   },
-  "portfolio_sortName": { "en": "Name" },
-  "portfolio_sortNameReverse": { "en": "Name (Descending)" },
-  "portfolio_sortNumberTransactions": { "en": "Number of Transactions" },
+  "portfolio_sortName": {
+    "en": "Name",
+    "fr": "Nom"
+  },
+  "portfolio_sortNameReverse": {
+    "en": "Name (Descending)",
+    "fr": "Nom (Décroissant)"
+  },
+  "portfolio_sortNumberTransactions": {
+    "en": "Number of Transactions",
+    "fr": ""
+  },
   "portfolio_sortNumberTransactionsReverse": {
-    "en": "Number of Transactions (Ascending)"
+    "en": "Number of Transactions (Ascending)",
+    "fr": ""
   },
   "portfolio_sortPortfolioSelectedFormatted": {
     "_formatted": "false",
-    "en": "%d Portfolio Selected"
+    "en": "%d Portfolio Selected",
+    "fr": ""
   },
   "portfolio_sortPortfoliosSelectedFormatted": {
     "_formatted": "false",
-    "en": "%d Portfolios Selected"
+    "en": "%d Portfolios Selected",
+    "fr": ""
   },
-  "portfolio_sortPrice": { "en": "Price" },
-  "portfolio_sortPriceReverse": { "en": "Price (Ascending)" },
+  "portfolio_sortPrice": {
+    "en": "Price",
+    "fr": "Prix"
+  },
+  "portfolio_sortPriceReverse": {
+    "en": "Price (Ascending)",
+    "fr": "Prix (Décroissant)"
+  },
   "portfolio_sortQuoteSelectedFormatted": {
     "_formatted": "false",
-    "en": "%d Quote Selected"
+    "en": "%d Quote Selected",
+    "fr": ""
   },
   "portfolio_sortQuotesSelectedFormatted": {
     "_formatted": "false",
-    "en": "%d Quotes Selected"
+    "en": "%d Quotes Selected",
+    "fr": ""
   },
-  "portfolio_sortSymbols": { "en": "Symbols" },
-  "portfolio_sortSymbolsReverse": { "en": "Symbols (Descending)" },
-  "portfolio_sortTotalChange": { "en": "Total Change" },
-  "portfolio_sortAbsTotalChange": { "en": "Total Change (Absolute)" },
-  "portfolio_sortTotalChangePercent": { "en": "Total Change %" },
-  "portfolio_sortAbsTotalChangePercent": { "en": "Total Change % (Absolute)" },
+  "portfolio_sortSymbols": {
+    "en": "Symbols",
+    "fr": "Symbole"
+  },
+  "portfolio_sortSymbolsReverse": {
+    "en": "Symbols (Descending)",
+    "fr": "Symbole (Décroissant)"
+  },
+  "portfolio_sortTotalChange": {
+    "en": "Total Change",
+    "fr": ""
+  },
+  "portfolio_sortAbsTotalChange": {
+    "en": "Total Change (Absolute)",
+    "fr": ""
+  },
+  "portfolio_sortTotalChangePercent": {
+    "en": "Total Change %",
+    "fr": ""
+  },
+  "portfolio_sortAbsTotalChangePercent": {
+    "en": "Total Change % (Absolute)",
+    "fr": ""
+  },
   "portfolio_sortTotalChangePercentReverse": {
-    "en": "Total Change % (Ascending)"
+    "en": "Total Change % (Ascending)",
+    "fr": ""
   },
   "portfolio_sortAbsTotalChangePercentReverse": {
-    "en": "Total Change % (Absolute, Ascending)"
+    "en": "Total Change % (Absolute, Ascending)",
+    "fr": ""
   },
-  "portfolio_sortTotalChangeReverse": { "en": "Total Change (Ascending)" },
+  "portfolio_sortTotalChangeReverse": {
+    "en": "Total Change (Ascending)",
+    "fr": ""
+  },
   "portfolio_sortAbsTotalChangeReverse": {
-    "en": "Total Change (Absolute, Ascending)"
+    "en": "Total Change (Absolute, Ascending)",
+    "fr": ""
   },
-  "portfolio_sortValue": { "en": "Value" },
-  "portfolio_sortValueReverse": { "en": "Value (Ascending)" },
-  "portfolio_sortCondition": { "en": "Type" },
-  "portfolio_sortConditionReverse": { "en": "Type (Reverse)" },
-  "portfolio_sortState": { "en": "Triggered State" },
-  "portfolio_sortStateReverse": { "en": "Triggered State (Reverse)" },
-  "portfolio_sort_by": { "en": "Sort By…" },
-  "portfolio_syncBrokerage": { "en": "Sync Brokerage" },
-  "portfolio_ticker": { "en": "Ticker" },
-  "portfolio_top_daily_movers": { "en": "Top Daily Movers (US)" },
-  "portfolio_total": { "en": "Total" },
-  "portfolio_totalCostPlaceholder": { "en": "Total Cost: %s" },
-  "portfolio_totalDividends": { "en": "Total Dividends" },
-  "portfolio_totalProceedsPlaceholder": { "en": "Proceeds: %s" },
-  "portfolio_unannualized": { "en": "Unannualized XIRR" },
-  "portfolio_unrealized": { "en": "Unrealized" },
+  "portfolio_sortValue": {
+    "en": "Value",
+    "fr": "Valeur"
+  },
+  "portfolio_sortValueReverse": {
+    "en": "Value (Ascending)"
+  },
+  "portfolio_sortCondition": {
+    "en": "Type"
+  },
+  "portfolio_sortConditionReverse": {
+    "en": "Type (Reverse)"
+  },
+  "portfolio_sortState": {
+    "en": "Triggered State"
+  },
+  "portfolio_sortStateReverse": {
+    "en": "Triggered State (Reverse)"
+  },
+  "portfolio_sort_by": {
+    "en": "Sort By…",
+    "fr": ""
+  },
+  "portfolio_syncBrokerage": {
+    "en": "Sync Brokerage",
+    "fr": ""
+  },
+  "portfolio_ticker": {
+    "en": "Ticker",
+    "fr": "Symbole"
+  },
+  "portfolio_top_daily_movers": {
+    "en": "Top Daily Movers (US)",
+    "fr": ""
+  },
+  "portfolio_total": {
+    "en": "Total",
+    "fr": "Total"
+  },
+  "portfolio_totalCostPlaceholder": {
+    "en": "Total Cost: %s"
+  },
+  "portfolio_totalDividends": {
+    "en": "Total Dividends"
+  },
+  "portfolio_totalProceedsPlaceholder": {
+    "en": "Proceeds: %s"
+  },
+  "portfolio_unannualized": {
+    "en": "Unannualized XIRR"
+  },
+  "portfolio_unrealized": {
+    "en": "Unrealized"
+  },
   "portfolio_useTodayChange": {
     "en": "Today\\'s Change (New day time configurable in Settings, Calculations)"
   },
-  "portfolio_value": { "en": "Value" },
-  "portfolio_valueAndCost": { "en": "Value/Cost" },
+  "portfolio_value": {
+    "en": "Value",
+    "fr": "Valeur"
+  },
+  "portfolio_valueAndCost": {
+    "en": "Value/Cost",
+    "fr": "Valeur/Coût"
+  },
   "portfolio_warningDeletePortfolio": {
     "en": "Are you sure you want to delete this portfolio?"
   },
-  "portfolioHistorical_clearLocalCache": { "en": "Clear historical storage" },
+  "portfolioHistorical_clearLocalCache": {
+    "en": "Clear historical storage"
+  },
   "portfolioHistorical_title": {
     "en": "Calculate historical performance?\\n\\nNote: If you modify previous transactions, you may need to clear the historical storage and recalculate. If historical quote prices are missing, you can go to the quote details page and add custom historical prices from the top menu."
   },
   "portfolioHistorical_disableDataGranularity": {
     "en": "Calculate 1 day granularity for 1+ year old data (slow)"
   },
-  "purchases_alreadyPurchased": { "en": "Already purchased" },
+  "purchases_alreadyPurchased": {
+    "en": "Already purchased"
+  },
   "purchases_couldNotFetchPurchases": {
     "en": "Could not fetch in-app purchases. Please try again later."
   },
-  "purchases_errorPurchasing": { "en": "Error purchasing" },
+  "purchases_errorPurchasing": {
+    "en": "Error purchasing"
+  },
   "purchases_freeLifetime": {
     "en": "You have the lifetime premium upgrade, so you have free subscription benefits for life. You can still support the app by subscribing."
   },
   "purchases_help": {
     "en": "Purchases are lifetime, linked to your google account and other devices using the same google account. Please contact us if you are having issues with any purchase such as transferring to a new device."
   },
-  "purchases_manageSubscriptions": { "en": "Manage Subscriptions" },
+  "purchases_manageSubscriptions": {
+    "en": "Manage Subscriptions"
+  },
   "purchases_notSignedIn": {
     "en": "Please open the Google Play Store app and verify that you are signed in"
   },
   "purchases_pleaseRetryInFewSeconds": {
     "en": "Please retry in a few seconds"
   },
-  "purchases_promoText": { "en": "Enjoy a premium ad-free experience!" },
-  "purchases_promoServerAutoSync": { "en": "✓ Auto sync data across devices" },
+  "purchases_promoText": {
+    "en": "Enjoy a premium ad-free experience!"
+  },
+  "purchases_promoServerAutoSync": {
+    "en": "✓ Auto sync data across devices"
+  },
   "purchases_promoExportData": {
     "en": "✓ More exported data (i.e. quote prices)"
   },
-  "purchases_promoNoAdvertisements": { "en": "✓ No advertisements" },
+  "purchases_promoNoAdvertisements": {
+    "en": "✓ No advertisements",
+    "fr": "✓ Sans publicité"
+  },
   "purchases_promoFullScreenHistoricals": {
     "en": "✓ Fullscreen portfolio historical performance"
   },
-  "purchases_promoUnlimitedAlerts": { "en": "✓ Unlimited server push alerts" },
+  "purchases_promoUnlimitedAlerts": {
+    "en": "✓ Unlimited server push alerts"
+  },
   "purchases_restoreFailedPleaseCheckConnection": {
     "en": "Restore Failed. Please check your internet connection and try again later."
   },
-  "purchases_restorePurchases": { "en": "Restore Purchases" },
-  "purchases_restoringPurchases": { "en": "Restoring Purchases…" },
-  "purchases_restorePurchasesHelp": {
-    "en": "Restores previous purchases made using your currently signed in Google account"
+  "purchases_restorePurchases": {
+    "en": "Restore Purchases",
+    "fr": "Restorer les achats"
   },
-  "purchases_restored": { "en": "Purchases Restored" },
+  "purchases_restoringPurchases": {
+    "en": "Restoring Purchases…",
+    "fr": "Restoration des achats…"
+  },
+  "purchases_restorePurchasesHelp": {
+    "en": "Restores previous purchases made using your currently signed in Google account",
+    "fr": "Restore les achats précédents réalisés en utilisant votre compte Google actuellement connecté"
+  },
+  "purchases_restored": {
+    "en": "Purchases Restored",
+    "fr": "Achats restorés"
+  },
   "purchases_signInToSyncPurchases": {
-    "en": "Please sign in with your Google account so we can remember your purchases and make them available on your other Android devices."
+    "en": "Please sign in with your Google account so we can remember your purchases and make them available on your other Android devices.",
+    "fr": ""
   },
   "purchases_subscriptionActive": {
-    "en": "Subscription is active\\n\\nThanks for subscribing!"
+    "en": "Subscription is active\\n\\nThanks for subscribing!",
+    "fr": ""
   },
   "purchases_subscriptionIssue": {
-    "en": "Something\\'s wrong with your subscription, but you\\'ve still got access during a temporary grace period. Tap here to fix the problem."
+    "en": "Something\\'s wrong with your subscription, but you\\'ve still got access during a temporary grace period. Tap here to fix the problem.",
+    "fr": ""
   },
   "purchases_subscriptionOnHold": {
-    "en": "Your account is on hold because there\\'s a problem with your payment method. Tap here to fix the problem."
+    "en": "Your account is on hold because there\\'s a problem with your payment method. Tap here to fix the problem.",
+    "fr": ""
   },
   "purchases_subscriptionTransfer": {
-    "en": "A different account is already using your subscription, but you can transfer your subscription to this account. Tap here to transfer the subscription."
+    "en": "A different account is already using your subscription, but you can transfer your subscription to this account. Tap here to transfer the subscription.",
+    "fr": ""
   },
-  "purchases_thankYouForUpgrading": { "en": "Thank you for upgrading!" },
+  "purchases_thankYouForUpgrading": {
+    "en": "Thank you for upgrading!",
+    "fr": ""
+  },
   "purchases_trial": {
-    "en": "Join free for a week\\n(first time subscribers)"
+    "en": "Join free for a week\\n(first time subscribers)",
+    "fr": ""
   },
-  "reviewPrompt_areYouEnjoyingApp": { "en": "Are you enjoying this app?" },
-  "reviewPrompt_couldBeBetter": { "en": "Could be better" },
+  "reviewPrompt_areYouEnjoyingApp": {
+    "en": "Are you enjoying this app?",
+    "fr": "Appréciez-vous cette application ?"
+  },
+  "reviewPrompt_couldBeBetter": {
+    "en": "Could be better",
+    "fr": "Pourrait être mieu"
+  },
   "reviewPrompt_emailFeedbackOnHowToImprove": {
-    "en": "Email us feedback on how to improve?"
+    "en": "Email us feedback on how to improve?",
+    "fr": ""
   },
-  "reviewPrompt_howWouldYouRateApp": { "en": "How would you rate the app?" },
-  "reviewPrompt_iLoveIt": { "en": "I love it!" },
-  "reviewPrompt_rateApp": { "en": "Rate app" },
-  "reviewPrompt_rateFiveStars": { "en": "Rate 5 ⭐" },
-  "reviewPrompt_rateFourStarsOrLess": { "en": "Rate 4 ⭐ or less" },
+  "reviewPrompt_howWouldYouRateApp": {
+    "en": "How would you rate the app?",
+    "fr": ""
+  },
+  "reviewPrompt_iLoveIt": {
+    "en": "I love it!",
+    "fr": "J\\'adore ça!"
+  },
+  "reviewPrompt_rateApp": {
+    "en": "Rate app",
+    "fr": "Evaluer l\\'application"
+  },
+  "reviewPrompt_rateFiveStars": {
+    "en": "Rate 5 ⭐",
+    "fr": "Evaluer à 5 ⭐"
+  },
+  "reviewPrompt_rateFourStarsOrLess": {
+    "en": "Rate 4 ⭐ or less",
+    "fr": "Evaluer à 4 ⭐ ou moins"
+  },
   "reviewPrompt_takeMomentToRateApp": {
     "en": "Take a moment to rate the app? 5 ⭐ ratings help the app to attract more customers and improve."
   },
@@ -940,25 +2064,60 @@
   "settingsCalculations_omitCashFromPercentagesHelp": {
     "en": "Cash will be omitted when calculating portfolio percentage returns, such as unrealized change percent"
   },
-  "settingsCalculations_omitCashFromTotals": { "en": "Omit cash from totals" },
+  "settingsCalculations_omitCashFromTotals": {
+    "en": "Omit cash from totals"
+  },
   "settingsCalculations_omitCashFromTotalsHelp": {
     "en": "Your cash will not be reflected in your total portfolio value"
   },
-  "settingsDisplay_averagePricePerShare": { "en": "Average Price per Share" },
+  "settingsDisplay_averagePricePerShare": {
+    "en": "Average Price per Share"
+  },
   "settingsDisplay_averagePricePerSharePrecision": {
     "en": "Avg price per share min precision"
   },
-  "settingsDisplay_daylightFontColor": { "en": "Daylight font color" },
-  "settingsDisplay_decimalPlaces0": { "en": "0 decimal places" },
-  "settingsDisplay_decimalPlaces1": { "en": "1 decimal place" },
-  "settingsDisplay_decimalPlaces2": { "en": "2 decimal places" },
-  "settingsDisplay_decimalPlaces3": { "en": "3 decimal places" },
-  "settingsDisplay_decimalPlaces4": { "en": "4 decimal places" },
-  "settingsDisplay_decimalPlaces5": { "en": "5 decimal places" },
-  "settingsDisplay_decimalPlaces6": { "en": "6 decimal places" },
-  "settingsDisplay_decimalPlaces7": { "en": "7 decimal places" },
-  "settingsDisplay_decimalPlaces8": { "en": "8 decimal places" },
-  "settingsDisplay_fontSizeHelp": { "en": "Adjust application font size" },
+  "settingsDisplay_daylightFontColor": {
+    "en": "Daylight font color"
+  },
+  "settingsDisplay_decimalPlaces0": {
+    "en": "0 decimal places",
+    "fr": "0 décimales"
+  },
+  "settingsDisplay_decimalPlaces1": {
+    "en": "1 decimal place",
+    "fr": "1 décimale"
+  },
+  "settingsDisplay_decimalPlaces2": {
+    "en": "2 decimal places",
+    "fr": "2 décimales"
+  },
+  "settingsDisplay_decimalPlaces3": {
+    "en": "3 decimal places",
+    "fr": "3 décimales"
+  },
+  "settingsDisplay_decimalPlaces4": {
+    "en": "4 decimal places",
+    "fr": "4 décimales"
+  },
+  "settingsDisplay_decimalPlaces5": {
+    "en": "5 decimal places",
+    "fr": "5 décimales"
+  },
+  "settingsDisplay_decimalPlaces6": {
+    "en": "6 decimal places",
+    "fr": "6 décimales"
+  },
+  "settingsDisplay_decimalPlaces7": {
+    "en": "7 decimal places",
+    "fr": "7 décimales"
+  },
+  "settingsDisplay_decimalPlaces8": {
+    "en": "8 decimal places",
+    "fr": "8 décimales"
+  },
+  "settingsDisplay_fontSizeHelp": {
+    "en": "Adjust application font size"
+  },
   "settingsDisplay_inlineAllTimeAndRealized": {
     "en": "Inline all-time and realized returns"
   },
@@ -971,18 +2130,30 @@
   "settingsDisplay_inlineAllTimeAndRealizedYtdHelp": {
     "en": "Shows YTD returns (for tax loss harvesting). Requires \\'Inline all-time and realized gains\\' to be enabled."
   },
-  "settingsDisplay_invertFontColor": { "en": "Invert font color" },
+  "settingsDisplay_invertFontColor": {
+    "en": "Invert font color"
+  },
   "settingsDisplay_invertFontColorHelp": {
     "en": "Invert fall/rise colors. This will make a decrease in price appear in green and a rise in price appear in red."
   },
-  "settingsDisplay_lastTradedPrice": { "en": "Last Open Market Price" },
-  "settingsDisplay_line1": { "en": "1st Line" },
-  "settingsDisplay_line2": { "en": "2nd Line" },
-  "settingsDisplay_extendedHours": { "en": "Extended hours" },
+  "settingsDisplay_lastTradedPrice": {
+    "en": "Last Open Market Price"
+  },
+  "settingsDisplay_line1": {
+    "en": "1st Line"
+  },
+  "settingsDisplay_line2": {
+    "en": "2nd Line"
+  },
+  "settingsDisplay_extendedHours": {
+    "en": "Extended hours"
+  },
   "settingsDisplay_extendedHoursHelp": {
     "en": "Display extended trading (shows as 3rd line if single-line mode is off, shows on same line if single-line mode is on)"
   },
-  "settingsDisplay_miniMode": { "en": "Single-line mode" },
+  "settingsDisplay_miniMode": {
+    "en": "Single-line mode"
+  },
   "settingsDisplay_miniModeWidgetHelp": {
     "en": "Show one line per item on the single portfolio widget. Tap the cell to toggle between absolute and percentage."
   },
@@ -992,27 +2163,39 @@
   "settingsDisplay_miniModeQuotesHelp": {
     "en": "Show one line per quote. Tap the cell to toggle between absolute and percentage."
   },
-  "settingsDisplay_numberOfShares": { "en": "Number of Shares" },
+  "settingsDisplay_numberOfShares": {
+    "en": "Number of Shares"
+  },
   "settingsDisplay_numberOfSharesPrecision": {
     "en": "Number of shares min precision"
   },
-  "settingsDisplay_percentagesOnTop": { "en": "Percentages on top" },
+  "settingsDisplay_percentagesOnTop": {
+    "en": "Percentages on top"
+  },
   "settingsDisplay_percentagesOnTopHelp": {
     "en": "Show percentage changes on 1st line. When in single-line mode, tap the cell to switch between percentages and absolutes."
   },
-  "settingsDisplay_quoteExchange": { "en": "Quote Exchange" },
+  "settingsDisplay_quoteExchange": {
+    "en": "Quote Exchange"
+  },
   "settingsDisplay_quoteExchangeQuoteName": {
     "en": "Quote Exchange, Quote Name"
   },
-  "settingsDisplay_quoteName": { "en": "Quote Name" },
-  "settingsDisplay_quoteSymbol": { "en": "Quote Symbol" },
+  "settingsDisplay_quoteName": {
+    "en": "Quote Name"
+  },
+  "settingsDisplay_quoteSymbol": {
+    "en": "Quote Symbol"
+  },
   "settingsDisplay_showCurrencyOnQuotesTab": {
     "en": "Show currency symbol on Quotes tab"
   },
   "settingsDisplay_showCurrencyOnQuotesTabHelp": {
     "en": "For example, $10. If off, then 10 (without currency symbol) will be shown."
   },
-  "settingsDisplay_showThumbnails": { "en": "Show Thumbnails" },
+  "settingsDisplay_showThumbnails": {
+    "en": "Show Thumbnails"
+  },
   "settingsDisplay_showThumbnailsSummary": {
     "en": "Show preview thumbnail on news list"
   },
@@ -1022,7 +2205,9 @@
   "settingsDisplay_showNotesHoldingsTabHelp": {
     "en": "Display up to 5 lines of notes on the Holdings tab"
   },
-  "settingsDisplay_showNotesQuoteTab": { "en": "Show notes below Quote" },
+  "settingsDisplay_showNotesQuoteTab": {
+    "en": "Show notes below Quote"
+  },
   "settingsDisplay_showNotesQuoteTabHelp": {
     "en": "Display up to 5 lines of notes on Quotes tab"
   },
@@ -1035,282 +2220,770 @@
   "settingsDisplay_showSharesAtAveragePricePerShare": {
     "en": "Show Avg Price Per Share and Number of Shares below each holding"
   },
-  "settingsDisplay_theme": { "en": "Theme" },
-  "settingsDisplay_themeBlack": { "en": "Black" },
-  "settingsDisplay_themeDark": { "en": "Dark" },
-  "settingsDisplay_themeLight": { "en": "Light" },
-  "settingsDisplay_themeSystem": { "en": "System" },
-  "settingsDisplay_title": { "en": "Display" },
-  "settingsGeneral_keepScreenAlive": { "en": "Keep screen alive" },
+  "settingsDisplay_theme": {
+    "en": "Theme",
+    "fr": "Thème"
+  },
+  "settingsDisplay_themeBlack": {
+    "en": "Black",
+    "fr": "Noir"
+  },
+  "settingsDisplay_themeDark": {
+    "en": "Dark",
+    "fr": "Sombre"
+  },
+  "settingsDisplay_themeLight": {
+    "en": "Light",
+    "fr": "Clair"
+  },
+  "settingsDisplay_themeSystem": {
+    "en": "System",
+    "fr": ""
+  },
+  "settingsDisplay_title": {
+    "en": "Display",
+    "fr": "Afficher"
+  },
+  "settingsGeneral_keepScreenAlive": {
+    "en": "Keep screen alive",
+    "fr": ""
+  },
   "settingsGeneral_keepScreenAliveHelp": {
     "en": "Prevent phone screen from sleeping while app is visible"
   },
-  "settingsGeneral_showExitPrompt": { "en": "Confirm when exiting" },
+  "settingsGeneral_showExitPrompt": {
+    "en": "Confirm when exiting"
+  },
   "settingsGeneral_showExitPromptHelp": {
     "en": "Show a confirmation message before exiting the app while on the home screen"
   },
-  "settingsWidget_singleLineMode": { "en": "Single-line mode" },
-  "settingsWidget_size": { "en": "Widget UI size" },
-  "settingsWidget_sizeHelp": { "en": "Adjust widget font and button size" },
-  "settings_about": { "en": "About App (MSP - My Stocks Portfolio)" },
-  "settings_appVersion": { "en": "App version" },
-  "settings_calculations": { "en": "Calculations" },
-  "settings_couldNotStartEmailApp": {
-    "en": "Could not start email app. Have you set up email on your device?"
+  "settingsWidget_singleLineMode": {
+    "en": "Single-line mode"
   },
-  "settings_csv": { "en": "CSV" },
-  "settings_importExport": { "en": "Import/Export" },
-  "settings_csvExportPortfolios": { "en": "Export Portfolios as CSV" },
+  "settingsWidget_size": {
+    "en": "Widget UI size"
+  },
+  "settingsWidget_sizeHelp": {
+    "en": "Adjust widget font and button size",
+    "fr": ""
+  },
+  "settings_about": {
+    "en": "About App (MSP - My Stocks Portfolio)",
+    "fr": ""
+  },
+  "settings_appVersion": {
+    "en": "App version",
+    "fr": "Version de l\\'application"
+  },
+  "settings_calculations": {
+    "en": "Calculations",
+    "fr": "Calculs"
+  },
+  "settings_couldNotStartEmailApp": {
+    "en": "Could not start email app. Have you set up email on your device?",
+    "fr": "Impossible de lancer l\\'application email. Avez-vous configuré votre email sur votre appareil ?"
+  },
+  "settings_csv": {
+    "en": "CSV",
+    "fr": "CSV"
+  },
+  "settings_importExport": {
+    "en": "Import/Export"
+  },
+  "settings_csvExportPortfolios": {
+    "en": "Export Portfolios as CSV"
+  },
   "settings_csvExportPortfoliosHelp": {
     "en": "Export to Google Drive / SDCard / External Storage / Email / Clipboard"
   },
-  "settings_csvImportPortfolios": { "en": "Import Portfolios from CSV" },
+  "settings_csvImportPortfolios": {
+    "en": "Import Portfolios from CSV"
+  },
   "settings_csvImportPortfoliosHelp": {
     "en": "Import from Google Drive / SDCard / External Storage / Email / Clipboard"
   },
-  "settings_general": { "en": "General" },
-  "settings_helpAndFeedback": { "en": "Help &amp; Feedback" },
-  "settings_hideClosedPositions": { "en": "Hide closed positions" },
-  "settings_hideClosedPositionsSummary": {
-    "en": "Holdings with 0 shares remaining will be hidden on the Holdings view"
+  "settings_general": {
+    "en": "General",
+    "de": "",
+    "fr": "Général"
   },
-  "settings_hideClosedQuotes": { "en": "Hide closed quotes" },
-  "settings_holdingsIfAny": { "en": "Holdings (if any)" },
-  "settings_importExportAndSync": { "en": "Import/Export and Sync Data" },
-  "settings_lastSelectedPortfolio": { "en": "Last Selected Portfolio" },
-  "settings_openPlayStore": { "en": "Open Play Store" },
-  "settings_preferredPrecision": { "en": "Min precision (Auto increases)" },
-  "settings_precision": { "en": "Precision" },
-  "settings_premium": { "en": "Premium" },
-  "settings_privacyPolicy": { "en": "Privacy Policy" },
-  "settings_termsOfUse": { "en": "Terms of Use" },
-  "settings_refreshInterval": { "en": "Auto-refresh (when app is open)" },
-  "settings_refreshIntervalManual": { "en": "Manual" },
-  "settings_refreshIntervalMinutes1": { "en": "1 minute" },
-  "settings_refreshIntervalMinutes2": { "en": "2 minutes" },
-  "settings_refreshIntervalMinutes5": { "en": "5 minutes" },
-  "settings_refreshIntervalSeconds10": { "en": "10 seconds" },
-  "settings_refreshIntervalSeconds30": { "en": "30 seconds" },
-  "settings_refreshIntervalSeconds5": { "en": "5 seconds" },
-  "settings_reviewApp": { "en": "Review" },
-  "settings_reviewAppHelp": { "en": "Write a review for the app" },
-  "settings_sendEmailDialog": { "en": "Send email…" },
-  "settings_sendFeedback": { "en": "Send Feedback" },
-  "settings_sendFeedbackSubject": { "en": "My Stocks Feedback" },
-  "settings_sendFeedbackToDeveloper": { "en": "Send feedback to developer" },
-  "settings_shareAppWithFriends": { "en": "Share the App with friends" },
-  "settings_shareTheApp": { "en": "Share the App" },
-  "settings_showCurrencySymbol": { "en": "Show currency symbol" },
+  "settings_helpAndFeedback": {
+    "en": "Help &amp; Feedback",
+    "de": "",
+    "fr": "Aide et commentaires"
+  },
+  "settings_hideClosedPositions": {
+    "en": "Hide closed positions",
+    "de": "",
+    "fr": ""
+  },
+  "settings_hideClosedPositionsSummary": {
+    "en": "Holdings with 0 shares remaining will be hidden on the Holdings view",
+    "de": "",
+    "fr": ""
+  },
+  "settings_hideClosedQuotes": {
+    "en": "Hide closed quotes",
+    "de": "",
+    "fr": ""
+  },
+  "settings_holdingsIfAny": {
+    "en": "Holdings (if any)",
+    "de": "",
+    "fr": ""
+  },
+  "settings_importExportAndSync": {
+    "en": "Import/Export and Sync Data",
+    "de": "",
+    "fr": ""
+  },
+  "settings_lastSelectedPortfolio": {
+    "en": "Last Selected Portfolio",
+    "de": "",
+    "fr": ""
+  },
+  "settings_openPlayStore": {
+    "en": "Open Play Store",
+    "de": "",
+    "fr": ""
+  },
+  "settings_preferredPrecision": {
+    "en": "Min precision (Auto increases)",
+    "de": "",
+    "fr": ""
+  },
+  "settings_precision": {
+    "en": "Precision",
+    "de": "",
+    "fr": ""
+  },
+  "settings_premium": {
+    "en": "Premium",
+    "de": "",
+    "fr": ""
+  },
+  "settings_privacyPolicy": {
+    "en": "Privacy Policy",
+    "de": "",
+    "fr": ""
+  },
+  "settings_termsOfUse": {
+    "en": "Terms of Use",
+    "de": "",
+    "fr": ""
+  },
+  "settings_refreshInterval": {
+    "en": "Auto-refresh (when app is open)",
+    "de": "",
+    "fr": ""
+  },
+  "settings_refreshIntervalManual": {
+    "en": "Manual",
+    "de": "",
+    "fr": ""
+  },
+  "settings_refreshIntervalMinutes1": {
+    "en": "1 minute",
+    "de": "",
+    "fr": ""
+  },
+  "settings_refreshIntervalMinutes2": {
+    "en": "2 minutes",
+    "de": "",
+    "fr": ""
+  },
+  "settings_refreshIntervalMinutes5": {
+    "en": "5 minutes",
+    "de": "",
+    "fr": ""
+  },
+  "settings_refreshIntervalSeconds10": {
+    "en": "10 seconds",
+    "de": "",
+    "fr": ""
+  },
+  "settings_refreshIntervalSeconds30": {
+    "en": "30 seconds",
+    "de": "",
+    "fr": ""
+  },
+  "settings_refreshIntervalSeconds5": {
+    "en": "5 seconds",
+    "de": "",
+    "fr": ""
+  },
+  "settings_reviewApp": {
+    "en": "Review",
+    "de": "",
+    "fr": ""
+  },
+  "settings_reviewAppHelp": {
+    "en": "Write a review for the app",
+    "de": "",
+    "fr": ""
+  },
+  "settings_sendEmailDialog": {
+    "en": "Send email…",
+    "de": "",
+    "fr": ""
+  },
+  "settings_sendFeedback": {
+    "en": "Send Feedback",
+    "de": "",
+    "fr": ""
+  },
+  "settings_sendFeedbackSubject": {
+    "en": "My Stocks Feedback",
+    "de": "",
+    "fr": ""
+  },
+  "settings_sendFeedbackToDeveloper": {
+    "en": "Send feedback to developer",
+    "de": "",
+    "fr": ""
+  },
+  "settings_shareAppWithFriends": {
+    "en": "Share the App with friends",
+    "de": "",
+    "fr": ""
+  },
+  "settings_shareTheApp": {
+    "en": "Share the App",
+    "de": "",
+    "fr": ""
+  },
+  "settings_showCurrencySymbol": {
+    "en": "Show currency symbol",
+    "de": "",
+    "fr": ""
+  },
   "settings_showCurrencySymbolHelp": {
     "en": "For example, $10. If off, then 10 (without currency symbol) will be shown. This option is only used when a home currency is set."
   },
   "settings_startingPortfolioScreenTab": {
-    "en": "Starting portfolio screen tab"
+    "en": "Starting portfolio screen tab",
+    "de": "",
+    "fr": ""
   },
   "settings_startingQuoteDetailsScreenTab": {
-    "en": "Starting quote details tab"
+    "en": "Starting quote details tab",
+    "de": "",
+    "fr": ""
   },
-  "settings_startingScreen": { "en": "Starting screen" },
-  "settings_sync": { "en": "Server Sync" },
+  "settings_startingScreen": {
+    "en": "Starting screen",
+    "de": "",
+    "fr": ""
+  },
+  "settings_sync": {
+    "en": "Server Sync",
+    "de": "",
+    "fr": ""
+  },
   "settings_syncHelp": {
-    "en": "Synchronize data to the server and between devices"
+    "en": "Synchronize data to the server and between devices",
+    "de": "",
+    "fr": ""
   },
-  "settings_transparentTitleBar": { "en": "Transparent title bar" },
+  "settings_transparentTitleBar": {
+    "en": "Transparent title bar",
+    "de": "",
+    "fr": ""
+  },
   "settings_transparentTitleBarDescription": {
-    "en": "Make the title bar transparent"
+    "en": "Make the title bar transparent",
+    "de": "",
+    "fr": ""
   },
-  "settings_widget": { "en": "Widget" },
-  "settings_widgetHideColumnHeaders": { "en": "Hide column headers" },
+  "settings_widget": {
+    "en": "Widget",
+    "fr": "Widget"
+  },
+  "settings_widgetHideColumnHeaders": {
+    "en": "Hide column headers",
+    "de": "",
+    "fr": ""
+  },
   "settings_widgetHideColumnHeadersDescription": {
-    "en": "Hide the tappable column headers for switching display type (i.e. daily/total)."
+    "en": "Hide the tappable column headers for switching display type (i.e. daily/total).",
+    "de": "",
+    "fr": ""
   },
-  "settings_widgetHideTitleBar": { "en": "Hide title bar" },
+  "settings_widgetHideTitleBar": {
+    "en": "Hide title bar",
+    "de": "",
+    "fr": ""
+  },
   "settings_widgetHideTitleBarDescription": {
-    "en": "Hide the top title bar containing total numbers"
+    "en": "Hide the top title bar containing total numbers",
+    "de": "",
+    "fr": ""
   },
-  "sync_completed": { "en": "Sync completed" },
+  "sync_completed": {
+    "en": "Sync completed",
+    "de": "",
+    "fr": ""
+  },
   "sync_errorPleaseTrySignOut": {
-    "en": "Sync error. If the problem persists, try signing out of Google and signing back in."
+    "en": "Sync error. If the problem persists, try signing out of Google and signing back in.",
+    "de": "",
+    "fr": ""
   },
   "sync_help": {
-    "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.\\n\\nTo see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export."
+    "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.\\n\\nTo see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export.",
+    "de": "",
+    "fr": ""
   },
-  "sync_inProgress": { "en": "Synchronizing Portfolios with Server…" },
+  "sync_inProgress": {
+    "en": "Synchronizing Portfolios with Server…",
+    "de": "",
+    "fr": ""
+  },
   "sync_lastSynchronizedTimeFormatted": {
     "_formatted": "false",
-    "en": "Last Synchronized: %s"
+    "en": "Last Synchronized: %s",
+    "de": "",
+    "fr": ""
   },
   "sync_lastChangeTimeFormatted": {
     "_formatted": "false",
-    "en": "Last Change: %s%s"
+    "en": "Last Change: %s%s",
+    "de": "",
+    "fr": ""
   },
   "sync_signInToBackupAndSynchronize": {
-    "en": "Sign in to backup and synchronize Portfolio data between devices."
+    "en": "Sign in to backup and synchronize Portfolio data between devices.",
+    "de": "",
+    "fr": ""
   },
-  "sync_startSync": { "en": "Synchronize with Server" },
-  "viewQuoteStats_52WeekHigh": { "en": "52wk High" },
-  "viewQuoteStats_52WeekHighHelp": { "en": "Highest price in 52 weeks" },
-  "viewQuoteStats_52WeekLow": { "en": "52wk Low" },
-  "viewQuoteStats_52WeekLowHelp": { "en": "Lowest price in 52 weeks" },
-  "viewQuoteStats_ask": { "en": "Ask" },
-  "viewQuoteStats_askHelp": { "en": "Ask price" },
-  "viewQuoteStats_askSize": { "en": "Ask Size" },
-  "viewQuoteStats_askSizeHelp": { "en": "Ask lot size" },
-  "viewQuoteStats_averageVolume": { "en": "Avg Vol" },
-  "viewQuoteStats_averageVolumeHelp": { "en": "The average daily volume" },
-  "viewQuoteStats_beta": { "en": "Beta" },
-  "viewQuoteStats_betaHelp": { "en": "Measure of the risk of a stock" },
-  "viewQuoteStats_bid": { "en": "Bid" },
-  "viewQuoteStats_bidSize": { "en": "Bid Size" },
-  "viewQuoteStats_bidSizeHelp": { "en": "Bid lot size" },
-  "viewQuoteStats_bid_price": { "en": "Bid price" },
-  "viewQuoteStats_bookValue": { "en": "Book Value" },
+  "sync_startSync": {
+    "en": "Synchronize with Server",
+    "de": "",
+    "fr": ""
+  },
+  "viewQuoteStats_52WeekHigh": {
+    "en": "52wk High",
+    "de": "",
+    "fr": ""
+  },
+  "viewQuoteStats_52WeekHighHelp": {
+    "en": "Highest price in 52 weeks",
+    "de": "",
+    "fr": ""
+  },
+  "viewQuoteStats_52WeekLow": {
+    "en": "52wk Low",
+    "de": "",
+    "fr": ""
+  },
+  "viewQuoteStats_52WeekLowHelp": {
+    "en": "Lowest price in 52 weeks",
+    "de": "",
+    "fr": ""
+  },
+  "viewQuoteStats_ask": {
+    "en": "Ask",
+    "fr": "Offre"
+  },
+  "viewQuoteStats_askHelp": {
+    "en": "Ask price",
+    "de": "",
+    "fr": ""
+  },
+  "viewQuoteStats_askSize": {
+    "en": "Ask Size",
+    "de": "",
+    "fr": ""
+  },
+  "viewQuoteStats_askSizeHelp": {
+    "en": "Ask lot size",
+    "de": "",
+    "fr": ""
+  },
+  "viewQuoteStats_averageVolume": {
+    "en": "Avg Vol",
+    "de": "",
+    "fr": ""
+  },
+  "viewQuoteStats_averageVolumeHelp": {
+    "en": "The average daily volume",
+    "de": "",
+    "fr": ""
+  },
+  "viewQuoteStats_beta": {
+    "en": "Beta",
+    "fr": "Bêta"
+  },
+  "viewQuoteStats_betaHelp": {
+    "en": "Measure of the risk of a stock",
+    "de": "",
+    "fr": ""
+  },
+  "viewQuoteStats_bid": {
+    "en": "Bid",
+    "fr": "Demande"
+  },
+  "viewQuoteStats_bidSize": {
+    "en": "Bid Size",
+    "de": "",
+    "fr": "Qté demande"
+  },
+  "viewQuoteStats_bidSizeHelp": {
+    "en": "Bid lot size",
+    "de": "",
+    "fr": "Nombre d\\'actions à ce prix (demande)"
+  },
+  "viewQuoteStats_bid_price": {
+    "en": "Bid price",
+    "de": "",
+    "fr": ""
+  },
+  "viewQuoteStats_bookValue": {
+    "en": "Book Value",
+    "de": "",
+    "fr": ""
+  },
   "viewQuoteStats_bookValueHelp": {
-    "en": "Total assets minus total liabilities. Reflects value shareholders would receive if company were to be liquidated."
+    "en": "Total assets minus total liabilities. Reflects value shareholders would receive if company were to be liquidated.",
+    "de": "",
+    "fr": ""
   },
-  "viewQuoteStats_dividendAndYield": { "en": "Div/Yld" },
+  "viewQuoteStats_dividendAndYield": {
+    "en": "Div/Yld",
+    "de": "",
+    "fr": ""
+  },
   "viewQuoteStats_dividendAndYieldHelp": {
-    "en": "Div = annual dividend. Yld = percent yield of annual dividend."
+    "en": "Div = annual dividend. Yld = percent yield of annual dividend.",
+    "de": "",
+    "fr": ""
   },
-  "viewQuoteStats_dividendDate": { "en": "Div Date" },
+  "viewQuoteStats_dividendDate": {
+    "en": "Div Date",
+    "de": "",
+    "fr": ""
+  },
   "viewQuoteStats_dividendDateHelp": {
-    "en": "Date on which the scheduled dividend will be paid to investors."
+    "en": "Date on which the scheduled dividend will be paid to investors.",
+    "de": "",
+    "fr": ""
   },
-  "viewQuoteStats_eps": { "en": "EPS" },
+  "viewQuoteStats_eps": {
+    "en": "EPS",
+    "fr": "BPA"
+  },
   "viewQuoteStats_epsHelp": {
-    "en": "Net income over last 4 quarters divided by total outstanding shares"
+    "en": "Net income over last 4 quarters divided by total outstanding shares",
+    "de": "",
+    "fr": ""
   },
-  "viewQuoteStats_exDividendDate": { "en": "Ex Div" },
+  "viewQuoteStats_exDividendDate": {
+    "en": "Ex Div",
+    "de": "",
+    "fr": ""
+  },
   "viewQuoteStats_exDividendDateHelp": {
     "en": "Date before which investors must own the stock in order to receive the next upcoming dividend. Typically stocks decline on the ex dividend date by the amount of dividend issued."
   },
-  "viewQuoteStats_forwardEPS": { "en": "Fwd EPS" },
+  "viewQuoteStats_forwardEPS": {
+    "en": "Fwd EPS",
+    "fr": "BPA prévu"
+  },
   "viewQuoteStats_forwardEPSHelp": {
-    "en": "Predicted net income over upcoming 4 quarters divided by total outstanding shares"
+    "en": "Predicted net income over upcoming 4 quarters divided by total outstanding shares",
+    "de": "",
+    "fr": ""
   },
-  "viewQuoteStats_forwardPERatio": { "en": "Fwd P/E" },
+  "viewQuoteStats_forwardPERatio": {
+    "en": "Fwd P/E",
+    "fr": "PER prévu"
+  },
   "viewQuoteStats_forwardPERatioHelp": {
-    "en": "Share price divided by predicted earnings per share"
+    "en": "Share price divided by predicted earnings per share",
+    "de": "",
+    "fr": "Le cours de l\\'action divisé par le bénéfice prévu par action"
   },
-  "viewQuoteStats_high": { "en": "High" },
-  "viewQuoteStats_highHelp": { "en": "High price of the day" },
-  "viewQuoteStats_low": { "en": "Low" },
-  "viewQuoteStats_lowHelp": { "en": "Low price of the day" },
-  "viewQuoteStats_marketCap": { "en": "Mkt Cap" },
+  "viewQuoteStats_high": {
+    "en": "High",
+    "de": "",
+    "fr": "+Haut"
+  },
+  "viewQuoteStats_highHelp": {
+    "en": "High price of the day",
+    "de": "",
+    "fr": "Plus haut du jour"
+  },
+  "viewQuoteStats_low": {
+    "en": "Low",
+    "de": "",
+    "fr": "+Bas"
+  },
+  "viewQuoteStats_lowHelp": {
+    "en": "Low price of the day",
+    "fr": "Prix bas du jour"
+  },
+  "viewQuoteStats_marketCap": {
+    "en": "Mkt Cap",
+    "de": "",
+    "fr": "Cap. boursière"
+  },
   "viewQuoteStats_marketCapHelp": {
-    "en": "Total value of the company. Calculated by multiplying current share price by total outstanding shares."
+    "en": "Total value of the company. Calculated by multiplying current share price by total outstanding shares.",
+    "fr": "Valeur totale de l\\'entreprise calculée en multipliant le cours actuel de l\\'action par le nombre total d\\'actions en circulation."
   },
-  "viewQuoteStats_oneYearTarget": { "en": "1y Target" },
+  "viewQuoteStats_oneYearTarget": {
+    "en": "1y Target",
+    "de": "",
+    "fr": "Objectif à 1 an"
+  },
   "viewQuoteStats_oneYearTargetHelp": {
-    "en": "Price of stock that analysts predicted the stock will be one year from now."
+    "en": "Price of stock that analysts predicted the stock will be one year from now.",
+    "de": "",
+    "fr": "Cours du titre prévu par les analystes à un an."
   },
-  "viewQuoteStats_open": { "en": "Open" },
-  "viewQuoteStats_openHelp": { "en": "Open price in the latest trading day" },
-  "viewQuoteStats_shares": { "en": "Shares" },
+  "viewQuoteStats_open": {
+    "en": "Open",
+    "fr": "Ouverture"
+  },
+  "viewQuoteStats_openHelp": {
+    "en": "Open price in the latest trading day",
+    "fr": "Prix d\\'ouverture la veille"
+  },
+  "viewQuoteStats_shares": {
+    "en": "Shares",
+    "fr": ""
+  },
   "viewQuoteStats_sharesHelp": {
-    "en": "Shares outstanding - the number of shares held by all shareholders, including institutional investors and restricted shares owned by the company."
+    "en": "Shares outstanding - the number of shares held by all shareholders, including institutional investors and restricted shares owned by the company.",
+    "fr": ""
   },
-  "viewQuoteStats_shortPercentFloat": { "en": "Short% Float" },
+  "viewQuoteStats_shortPercentFloat": {
+    "en": "Short% Float",
+    "fr": ""
+  },
   "viewQuoteStats_shortPercentFloatHelp": {
-    "en": "Short % of float. Data is delayed."
+    "en": "Short % of float. Data is delayed.",
+    "fr": ""
   },
-  "viewQuoteStats_shortPercentShares": { "en": "Short% Shares" },
+  "viewQuoteStats_shortPercentShares": {
+    "en": "Short% Shares",
+    "fr": ""
+  },
   "viewQuoteStats_shortPercentSharesHelp": {
-    "en": "Short % of outstanding shares. Data is delayed."
+    "en": "Short % of outstanding shares. Data is delayed.",
+    "fr": ""
   },
-  "viewQuoteStats_shortRatio": { "en": "Short Ratio" },
+  "viewQuoteStats_shortRatio": {
+    "en": "Short Ratio",
+    "fr": ""
+  },
   "viewQuoteStats_shortRatioHelp": {
-    "en": "Short interest ratio, calculated by dividing number of shares short by average daily trading volume."
+    "en": "Short interest ratio, calculated by dividing number of shares short by average daily trading volume.",
+    "fr": ""
   },
-  "viewQuoteStats_shortShares": { "en": "Shares Short" },
-  "viewQuoteStats_shortSharesHelp": { "en": "Shares short. Data is delayed." },
-  "viewQuoteStats_shortSharesPrevMonth": { "en": "Prior Month" },
+  "viewQuoteStats_shortShares": {
+    "en": "Shares Short",
+    "fr": ""
+  },
+  "viewQuoteStats_shortSharesHelp": {
+    "en": "Shares short. Data is delayed.",
+    "fr": ""
+  },
+  "viewQuoteStats_shortSharesPrevMonth": {
+    "en": "Prior Month",
+    "fr": ""
+  },
   "viewQuoteStats_shortSharesPrevMonthHelp": {
-    "en": "Shares short (prior month). Data is delayed."
+    "en": "Shares short (prior month). Data is delayed.",
+    "fr": ""
   },
-  "viewQuoteStats_pegRatio": { "en": "PEG Ratio" },
+  "viewQuoteStats_pegRatio": {
+    "en": "PEG Ratio",
+    "fr": ""
+  },
   "viewQuoteStats_pegRatioHelp": {
-    "en": "Price/Earnings-to-Growth ratio is the P/E ratio divided by growth rate. Similar to P/E ratio, but factors in growth. A low value may mean the stock is undervalued."
+    "en": "Price/Earnings-to-Growth ratio is the P/E ratio divided by growth rate. Similar to P/E ratio, but factors in growth. A low value may mean the stock is undervalued.",
+    "fr": ""
   },
-  "viewQuoteStats_peRatio": { "en": "P/E" },
+  "viewQuoteStats_peRatio": {
+    "en": "P/E",
+    "fr": "Rapport P/E"
+  },
   "viewQuoteStats_peRatioHelp": {
-    "en": "Share price divided by earnings per share"
+    "en": "Share price divided by earnings per share",
+    "fr": "Prix de l\\'action divisé par le bénéfice par action"
   },
-  "viewQuoteStats_prevClose": { "en": "Prev Close" },
+  "viewQuoteStats_prevClose": {
+    "en": "Prev Close",
+    "fr": "Clôture précédente"
+  },
   "viewQuoteStats_prevCloseHelp": {
-    "en": "Close price in the previous trading day"
+    "en": "Close price in the previous trading day",
+    "fr": "Prix de clôture la veille"
   },
-  "viewQuoteStats_priceBookRatio": { "en": "Price/Book" },
+  "viewQuoteStats_priceBookRatio": {
+    "en": "Price/Book",
+    "fr": ""
+  },
   "viewQuoteStats_priceBookRatioHelp": {
-    "en": "Calculated by taking price per share divided by book value per share. Measures market valuation relative to book value."
+    "en": "Calculated by taking price per share divided by book value per share. Measures market valuation relative to book value.",
+    "fr": ""
   },
-  "viewQuoteStats_priceSalesRatio": { "en": "Price/Sales" },
+  "viewQuoteStats_priceSalesRatio": {
+    "en": "Price/Sales",
+    "fr": ""
+  },
   "viewQuoteStats_priceSalesRatioHelp": {
-    "en": "Calculated by taking market capitilization divided by total revenue over the last year. A low value may mean the stock is undervalued. Does not account for debt on balance sheet."
+    "en": "Calculated by taking market capitilization divided by total revenue over the last year. A low value may mean the stock is undervalued. Does not account for debt on balance sheet.",
+    "fr": ""
   },
   "viewQuoteStats_volumeHelp": {
-    "en": "Number of shares trading in latest trading day"
+    "en": "Number of shares trading in latest trading day",
+    "fr": "Nombre d\\'actions négociées la veille"
   },
   "viewQuoteTransaction_purchasedAmountFormatted": {
     "_formatted": "false",
-    "en": "Purchased %s"
+    "en": "Purchased %s",
+    "fr": "%s acheté"
   },
   "viewQuoteTransactions_dividendsFromHoldingFormatted": {
     "_formatted": "false",
-    "en": "Dividends from %s"
+    "en": "Dividends from %s",
+    "fr": "Dividendes de %s"
   },
   "viewQuoteTransactions_soldAmountFormatted": {
     "_formatted": "false",
-    "en": "Sold %s"
+    "en": "Sold %s",
+    "fr": "Vendu %s"
   },
-  "viewQuoteTransactions_unknownDate": { "en": "Unknown Date" },
+  "viewQuoteTransactions_unknownDate": {
+    "en": "Unknown Date",
+    "fr": "Date inconnue"
+  },
   "viewQuoteTransactions_unrecognizedTransaction": {
-    "en": "Unrecognized Transaction"
+    "en": "Unrecognized Transaction",
+    "fr": "Transaction non reconnue"
   },
-  "viewQuote_addCustomPrices": { "en": "Add Custom Prices" },
-  "viewQuote_delete": { "en": "Delete Quote" },
-  "viewQuote_editQuote": { "en": "Edit Quote" },
-  "viewQuote_extendedHours": { "en": "Extended" },
+  "viewQuote_addCustomPrices": {
+    "en": "Add Custom Prices",
+    "fr": "Ajouter des prix personnalisés"
+  },
+  "viewQuote_delete": {
+    "en": "Delete Quote",
+    "fr": "Supprimer le cours"
+  },
+  "viewQuote_editQuote": {
+    "en": "Edit Quote",
+    "fr": "Modifier le cours"
+  },
+  "viewQuote_extendedHours": {
+    "en": "Extended",
+    "fr": "Après clôture"
+  },
   "viewQuote_lastTradeFormatted": {
     "_formatted": "false",
-    "en": "Last Trade: %s"
+    "en": "Last Trade: %s",
+    "fr": "Dernier échange : %s"
   },
   "viewQuote_moreNewsAboutXFormatted": {
     "_formatted": "false",
-    "en": "More news about %s ➔"
+    "en": "More news about %s ➔",
+    "fr": "Plus d\\'actualités à propos de %s ➔"
   },
   "viewQuote_newTickerChange": {
-    "en": "Ticker has changed %s\\nTap here to change to the new one"
+    "en": "Ticker has changed %s\\nTap here to change to the new one",
+    "fr": ""
   },
-  "viewQuote_noData": { "en": "No Data" },
-  "viewQuote_price": { "en": "Price" },
-  "viewQuote_profile": { "en": "Profile" },
-  "viewQuote_shareQuote": { "en": "Share Quote" },
-  "viewQuote_summary": { "en": "Summary" },
-  "viewQuote_tapToEnterNotes": { "en": "Tap to enter notes" },
-  "viewQuote_title": { "en": "View Quote" },
-  "viewQuote_transactions": { "en": "Transactions" },
+  "viewQuote_noData": {
+    "en": "No Data",
+    "fr": "Pas de données"
+  },
+  "viewQuote_price": {
+    "en": "Price",
+    "fr": "Prix"
+  },
+  "viewQuote_profile": {
+    "en": "Profile",
+    "fr": ""
+  },
+  "viewQuote_shareQuote": {
+    "en": "Share Quote",
+    "fr": "Partager un cours"
+  },
+  "viewQuote_summary": {
+    "en": "Summary",
+    "fr": "Sommaire"
+  },
+  "viewQuote_tapToEnterNotes": {
+    "en": "Tap to enter notes",
+    "fr": "Appuyez pour entrer des notes"
+  },
+  "viewQuote_title": {
+    "en": "View Quote",
+    "fr": "Voir le cours"
+  },
+  "viewQuote_transactions": {
+    "en": "Transactions",
+    "fr": "Transactions"
+  },
   "viewQuote_warningDeleteTransaction": {
-    "en": "Are you sure you want to delete this transaction?"
+    "en": "Are you sure you want to delete this transaction?",
+    "fr": "Êtes-vous sûr de vouloir supprimer cette transaction ?"
   },
   "welcome_welcomeMessage": {
-    "en": "Thank you for downloading My Stocks Portfolio (MSP)!\\n\\nA sample portfolio has been created. Please visit the help section for questions."
+    "en": "Thank you for downloading My Stocks Portfolio (MSP)!\\n\\nA sample portfolio has been created. Please visit the help section for questions.",
+    "fr": "Merci d\\'avoir téléchargé cette application !\\n\\nUn exemple de portefeuille a été créé."
   },
-  "widgetOverview_configure": { "en": "Configure Overview Widget" },
-  "widgetOverview_portfolio": { "en": "Portfolio" },
-  "widgetOverview_title": { "en": "Overview" },
-  "widgetPortfolio_changeView": { "en": "Change View" },
-  "widgetPortfolio_configure": { "en": "Configure Quotes Widget" },
-  "widgetPortfolio_portfolio": { "en": "Portfolio:" },
-  "widgetPortfolio_title": { "en": "Single Portfolio" },
+  "widgetOverview_configure": {
+    "en": "Configure Overview Widget",
+    "fr": "Configurer le widget de synthèse"
+  },
+  "widgetOverview_portfolio": {
+    "en": "Portfolio",
+    "fr": "Portefeuille"
+  },
+  "widgetOverview_title": {
+    "en": "Overview",
+    "fr": "Synthèse"
+  },
+  "widgetPortfolio_changeView": {
+    "en": "Change View",
+    "fr": "Changement de vue"
+  },
+  "widgetPortfolio_configure": {
+    "en": "Configure Quotes Widget",
+    "fr": "Configurer le widget des cours"
+  },
+  "widgetPortfolio_portfolio": {
+    "en": "Portfolio:",
+    "fr": "Portefeuille :"
+  },
+  "widgetPortfolio_title": {
+    "en": "Single Portfolio",
+    "fr": "Portefeuille unique"
+  },
   "widgetPortfolio_youDoNotHaveAnyPortfolios": {
-    "en": "You do not have any portfolios"
+    "en": "You do not have any portfolios",
+    "fr": "Vous n\\'avez aucun portefeuille"
   },
   "widget_configureHelp": {
-    "en": "To configure widget settings (such as auto-refresh and font size), open the app, Settings, and go to the Widget section. If you resize the widget to be very small, be sure to visit widget settings to reduce the UI size so everything fits.\\n\\nPlease note that there are two types of widgets - overview and single portfolio. If you do not see your quotes, you may have meant to pin the single portfolio widget but pinned the overview widget."
+    "en": "To configure widget settings (such as auto-refresh and font size), open the app, Settings, and go to the Widget section. If you resize the widget to be very small, be sure to visit widget settings to reduce the UI size so everything fits.\\n\\nPlease note that there are two types of widgets - overview and single portfolio. If you do not see your quotes, you may have meant to pin the single portfolio widget but pinned the overview widget.",
+    "fr": "Pour effectuer le réglage du widget (tels que la mise à jour automatique and la taille de la police), ouvrez l\\'application, Réglages and allez dans la rubrique Widget. Si vous redimensionnez le widget pour qu\\'il soit très petit, veillez à réduire la taille dans les réglages du widget pour que tout s\\'affiche correctement."
   },
-  "widget_refreshing": { "en": "Refreshing Widget" },
-  "widget_sharesAndPrice": { "en": "Shares/Price" },
-  "widget_syncAlreadyInProgress": { "en": "Sync already in progress." },
-  "widget_transparency": { "en": "Widget Transparency" }
+  "widget_refreshing": {
+    "en": "Refreshing Widget",
+    "fr": "Rafraîchir le widget"
+  },
+  "widget_sharesAndPrice": {
+    "en": "Shares/Price",
+    "fr": "Action/Prix"
+  },
+  "widget_syncAlreadyInProgress": {
+    "en": "Sync already in progress.",
+    "fr": "Synchronisation déjà en cours."
+  },
+  "widget_transparency": {
+    "en": "Widget Transparency",
+    "fr": "Transparence des widgets"
+  }
 }
