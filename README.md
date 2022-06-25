@@ -10,7 +10,7 @@ Thank you for any help with translating!
 
 en - 100% (767/767)
 
-fr - 1% (5/767)
+fr - 32% (245/767)
 
 zh - 1% (4/767)
 
