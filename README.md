@@ -8,15 +8,15 @@ Thank you for any help with translating!
 
 ### Progress (767 strings):
 
-en - 100% (767/767)
+![Progress](https://progress-bar.dev/100?title=en&width=120) 767/767
 
-![32%](https://progress-bar.dev/32?title=fr (245/767)&width=120)
+![Progress](https://progress-bar.dev/32?title=fr&width=120) 245/767
 
-zh - 1% (4/767)
+![Progress](https://progress-bar.dev/1?title=zh&width=120) 4/767
 
-zh-Hant-TW - 1% (9/767)
+![Progress](https://progress-bar.dev/1?title=zh-Hant-TW&width=120) 9/767
 
-de - 0% (1/767)
+![Progress](https://progress-bar.dev/0?title=de&width=120) 1/767
 
 
 
