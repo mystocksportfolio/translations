@@ -7,10 +7,15 @@ Thank you for any help with translating!
 
 
 Progress (767 strings):
+
 en - 100%
+
 fr - 1%
+
 zh - 1%
+
 zh-Hant-TW - 1%
+
 de - 0%
 
 
