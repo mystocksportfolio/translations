@@ -1,6 +1,6 @@
 This repository contains translations for the My Stocks Portfolio application.
 
-You may submit a pull request for strings.json to modify translations. You may also send an email to info@mystocksportfolio.app with your suggested changes, and we will merge the changes.
+You may submit a pull request for [strings.json](https://github.com/mystocksportfolio/translations/blob/main/strings.json) to modify translations. You may also send an email to info@mystocksportfolio.app with your suggested changes, and we will merge the changes.
 
 Thank you for any help with translating!
 
