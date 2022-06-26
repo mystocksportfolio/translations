@@ -164,7 +164,8 @@
   "addQuoteCash_deposit": {
     "en": "Deposit",
     "fr": "Dépôt",
-    "zh": "入金"
+    "zh": "加值",
+    "zh-Hant-TW": "加值"
   },
   "addQuoteCash_enterCashAmount": {
     "en": "Please enter a cash amount",
@@ -176,7 +177,9 @@
   },
   "addQuoteCash_withdraw": {
     "en": "Withdraw",
-    "fr": "Retirer de l\\'argent"
+    "fr": "Retirer de l\\'argent",
+    "zh": "提领",
+    "zh-Hant-TW": "提領"
   },
   "addQuoteCrypto_enterCryptoPair": {
     "en": "Please enter a crypto pair, i.e. BTC-USD",
@@ -212,9 +215,6 @@
   },
   "addQuoteTransaction_costBasisEntryMethod": {
     "en": "Entry Method"
-  },
-  "addQuoteTransaction_costBasisPerShare": {
-    "en": "Price Per Share"
   },
   "addQuoteTransaction_costBasisTotalAmount": {
     "en": "Total Amount"
@@ -268,10 +268,6 @@
   "addQuoteTransaction_purchaseExchangeRateHelp": {
     "en": "Exchange Rate at time of Transaction (Stock\\'s Currency to Home Currency). For example, 1.5 means $1 of the stock\\'s currency exchanges to $1.5 of your home currency. You can change the Home Currency by tapping Currency on the holdings screen. Leave blank to use today\\'s exchange rate.",
     "fr": "Taux de change au moment de la transaction (Devise du titre à la devise préférée). Par exemple, 1.5 signifie qu\\'1 dans la devises du titre vaut 1.5 dans la devise préférée. Vous pouvez changer la Devise préférée en appuyant sur Devise sur l\\'écran des positions. Laissez vide pour utiliser le taux de change du jour."
-  },
-  "addQuoteTransaction_shares": {
-    "en": "Shares",
-    "fr": "Actions"
   },
   "addQuoteTransaction_time": {
     "en": "Transaction Time",
@@ -354,7 +350,8 @@
   },
   "addQuote_symbol": {
     "en": "Symbol",
-    "fr": "Symbole"
+    "fr": "Symbole",
+    "zh-Hant-TW": "代號"
   },
   "addQuote_symbolDisplayOverride": {
     "en": "Symbol display override (Optional)",
@@ -457,23 +454,28 @@
   },
   "chart_rangeFiveDays": {
     "en": "5 Days",
-    "fr": "5 jours"
+    "fr": "5 jours",
+    "zh-Hant-TW": "5 天"
   },
   "chart_rangeFiveDaysCompact": {
     "en": "5D",
-    "fr": "5j"
+    "fr": "5j",
+    "zh-Hant-TW": "5天"
   },
   "chart_rangeFiveYears": {
     "en": "5 Years",
-    "fr": "5 années"
+    "fr": "5 années",
+    "zh-Hant-TW": "五年"
   },
   "chart_rangeFiveYearsCompact": {
     "en": "5Y",
-    "fr": "5a"
+    "fr": "5a",
+    "zh-Hant-TW": "五年"
   },
   "chart_rangeMax": {
     "en": "Max",
-    "fr": "Max"
+    "fr": "Max",
+    "zh-Hant-TW": "全部"
   },
   "chart_rangeMonthToDateCompact": {
     "en": "MTD"
@@ -485,58 +487,72 @@
   },
   "chart_rangeOneDay": {
     "en": "1 Day",
-    "fr": "1 jour"
+    "fr": "1 jour",
+    "zh-Hant-TW": "1 天"
   },
   "chart_rangeOneDayCompact": {
     "en": "1D",
-    "fr": "1j"
+    "fr": "1j",
+    "zh-Hant-TW": "1天"
   },
   "chart_rangeOneMonth": {
     "en": "1 Month",
-    "fr": "1 mois"
+    "fr": "1 mois",
+    "zh-Hant-TW": "1 個月"
   },
   "chart_rangeOneMonthCompact": {
     "en": "1M",
-    "fr": "1m"
+    "fr": "1m",
+    "zh-Hant-TW": "1個月"
   },
   "chart_rangeOneWeekCompact": {
-    "en": "1W"
+    "en": "1W",
+    "zh-Hant-TW": "1 週"
   },
   "chart_rangeOneYear": {
     "en": "1 Year",
-    "fr": "1 année"
+    "fr": "1 année",
+    "zh-Hant-TW": "一年"
   },
   "chart_rangeOneYearCompact": {
     "en": "1Y",
-    "fr": "1a"
+    "fr": "1a",
+    "zh-Hant-TW": "一年"
   },
   "chart_rangeSixMonths": {
     "en": "6 Months",
-    "fr": "6 mois"
+    "fr": "6 mois",
+    "zh-Hant-TW": "6 個月"
   },
   "chart_rangeSixMonthsCompact": {
     "en": "6M",
-    "fr": "6m"
+    "fr": "6m",
+    "zh-Hant-TW": "6個月"
   },
   "chart_rangeThreeMonths": {
     "en": "3 Months",
-    "fr": "3 mois"
+    "fr": "3 mois",
+    "zh-Hant-TW": "3 個月"
   },
   "chart_rangeThreeMonthsCompact": {
     "en": "3M",
-    "fr": "3m"
+    "fr": "3m",
+    "zh-Hant-TW": "3個月"
   },
   "chart_rangeTwoYears": {
     "en": "2 Years",
-    "fr": "2 années"
+    "fr": "2 années",
+    "zh-Hant-TW": "兩年"
   },
   "chart_rangeTwoYearsCompact": {
     "en": "2Y",
-    "fr": "2a"
+    "fr": "2a",
+    "zh-Hant-TW": "兩年"
   },
   "chart_rangeYearToDateCompact": {
     "en": "YTD",
-    "fr": "YTD"
+    "fr": "YTD",
+    "zh-Hant-TW": "今年"
   },
   "chart_settings": {
     "en": "Chart Settings",
@@ -685,7 +701,8 @@
   "generic_add": {
     "en": "Add",
     "fr": "Ajouter",
-    "zh": "加"
+    "zh": "加",
+    "zh-Hant-TW": "加"
   },
   "generic_addAlert": {
     "en": "Add Alert",
@@ -725,7 +742,9 @@
   },
   "generic_cancel": {
     "en": "Cancel",
-    "fr": "Annuler"
+    "fr": "Annuler",
+    "zh": "取消",
+    "zh-Hant-TW": "取消"
   },
   "generic_checkOutThisApp": {
     "en": "Check out this app!"
@@ -1244,7 +1263,8 @@
   },
   "news_title": {
     "en": "News",
-    "fr": "Actualités"
+    "fr": "Actualités",
+    "zh-Hant-TW": "新聞"
   },
   "password_confirmPassword": {
     "en": "Confirm Password",
@@ -1365,7 +1385,8 @@
   },
   "portfolio_change": {
     "en": "Change",
-    "fr": "Variation"
+    "fr": "Variation",
+    "zh-Hant-TW": "漲跌"
   },
   "portfolio_closedSoldPositions": {
     "en": "Closed / Sold Positions",
@@ -1449,7 +1470,6 @@
     "_formatted": "false",
     "en": "Are you sure you want to delete these Holdings and all Transactions in them?"
   },
-
   "portfolio_details": {
     "en": "Details",
     "fr": "Détails"
@@ -1512,7 +1532,8 @@
     "en": "Excluded from totals"
   },
   "portfolio_fullTimeEmployees": {
-    "en": "Full-Time Employees"
+    "en": "Full-Time Employees",
+    "zh-Hant-TW": "員工人數"
   },
   "portfolio_hideDetails": {
     "en": "Hide Details",
@@ -1545,7 +1566,8 @@
   },
   "portfolio_marketNews": {
     "en": "Market News",
-    "fr": "Actualités du marché"
+    "fr": "Actualités du marché",
+    "zh-Hant-TW": "股市新聞"
   },
   "portfolio_moveToPortfolio": {
     "en": "Move/Copy to Portfolio",
@@ -1836,7 +1858,8 @@
   },
   "portfolio_ticker": {
     "en": "Ticker",
-    "fr": "Symbole"
+    "fr": "Symbole",
+    "zh-Hant-TW": "代號"
   },
   "portfolio_top_daily_movers": {
     "en": "Top Daily Movers (US)"
@@ -2581,10 +2604,26 @@
     "de": "",
     "fr": "Synchroniser avec le serveur"
   },
+  "tab_more": {
+    "en": "More"
+  },
+  "tab_news": {
+    "en": "News",
+    "fr": "Actualités",
+    "zh-Hant-TW": "新聞"
+  },
+  "tab_portfolio": {
+    "en": "Portfolio"
+  },
+  "tab_overview": {
+    "en": "Overview",
+    "zh-Hant-TW": "總覽"
+  },
   "viewQuoteStats_52WeekHigh": {
     "en": "52wk High",
     "de": "",
-    "fr": "+Haut 52sem"
+    "fr": "+Haut 52sem",
+    "zh-Hant-TW": "52 週高點"
   },
   "viewQuoteStats_52WeekHighHelp": {
     "en": "Highest price in 52 weeks",
@@ -2594,7 +2633,8 @@
   "viewQuoteStats_52WeekLow": {
     "en": "52wk Low",
     "de": "",
-    "fr": "+Bas 52sem"
+    "fr": "+Bas 52sem",
+    "zh-Hant-TW": "52 週低點"
   },
   "viewQuoteStats_52WeekLowHelp": {
     "en": "Lowest price in 52 weeks",
@@ -2603,7 +2643,8 @@
   },
   "viewQuoteStats_ask": {
     "en": "Ask",
-    "fr": "Offre"
+    "fr": "Offre",
+    "zh-Hant-TW": "賣出"
   },
   "viewQuoteStats_askHelp": {
     "en": "Ask price",
@@ -2641,7 +2682,8 @@
   },
   "viewQuoteStats_bid": {
     "en": "Bid",
-    "fr": "Demande"
+    "fr": "Demande",
+    "zh-Hant-TW": "買進"
   },
   "viewQuoteStats_bidSize": {
     "en": "Bid Size",
@@ -2721,7 +2763,8 @@
   "viewQuoteStats_high": {
     "en": "High",
     "de": "",
-    "fr": "+Haut"
+    "fr": "+Haut",
+    "zh-Hant-TW": "最高"
   },
   "viewQuoteStats_highHelp": {
     "en": "High price of the day",
@@ -2731,7 +2774,8 @@
   "viewQuoteStats_low": {
     "en": "Low",
     "de": "",
-    "fr": "+Bas"
+    "fr": "+Bas",
+    "zh-Hant-TW": "最低"
   },
   "viewQuoteStats_lowHelp": {
     "en": "Low price of the day",
@@ -2740,7 +2784,8 @@
   "viewQuoteStats_marketCap": {
     "en": "Mkt Cap",
     "de": "",
-    "fr": "Cap. boursière"
+    "fr": "Cap. boursière",
+    "zh-Hant-TW": "總市值"
   },
   "viewQuoteStats_marketCapHelp": {
     "en": "Total value of the company. Calculated by multiplying current share price by total outstanding shares.",
@@ -2758,14 +2803,12 @@
   },
   "viewQuoteStats_open": {
     "en": "Open",
-    "fr": "Ouverture"
+    "fr": "Ouverture",
+    "zh-Hant-TW": "開盤"
   },
   "viewQuoteStats_openHelp": {
     "en": "Open price in the latest trading day",
     "fr": "Prix d\\'ouverture la veille"
-  },
-  "viewQuoteStats_shares": {
-    "en": "Shares"
   },
   "viewQuoteStats_sharesHelp": {
     "en": "Shares outstanding - the number of shares held by all shareholders, including institutional investors and restricted shares owned by the company."
@@ -2808,7 +2851,8 @@
   },
   "viewQuoteStats_peRatio": {
     "en": "P/E",
-    "fr": "Rapport P/E"
+    "fr": "Rapport P/E",
+    "zh-Hant-TW": "本益比"
   },
   "viewQuoteStats_peRatioHelp": {
     "en": "Share price divided by earnings per share",
@@ -2816,7 +2860,8 @@
   },
   "viewQuoteStats_prevClose": {
     "en": "Prev Close",
-    "fr": "Clôture précédente"
+    "fr": "Clôture précédente",
+    "zh-Hant-TW": "昨收"
   },
   "viewQuoteStats_prevCloseHelp": {
     "en": "Close price in the previous trading day",
@@ -2939,7 +2984,8 @@
   },
   "widgetOverview_title": {
     "en": "Overview",
-    "fr": "Synthèse"
+    "fr": "Synthèse",
+    "zh-Hant-TW": "總覽"
   },
   "widgetPortfolio_changeView": {
     "en": "Change View",
