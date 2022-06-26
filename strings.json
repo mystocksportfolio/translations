@@ -1,166 +1,137 @@
 {
+  "example": {
+    "en": "Example",
+    "de": "Beispiel",
+    "fr": "Exemple",
+    "it": "Esempio",
+    "ja": "例",
+    "ko": "예시",
+    "zh": "例子",
+    "zh-Hant-TW": "例子"
+  },
+
   "accessibility_allTimeChange": {
-    "en": "All-Time Change",
-    "fr": ""
+    "en": "All-Time Change"
   },
   "accessibility_allTimeChangePercent": {
-    "en": "All-Time Change Percent",
-    "fr": ""
+    "en": "All-Time Change Percent"
   },
   "accessibility_allTimeCommissions": {
-    "en": "All-Time Commissions",
-    "fr": ""
+    "en": "All-Time Commissions"
   },
   "accessibility_allTimeCostBasis": {
-    "en": "All-Time Cost Basis",
-    "fr": ""
+    "en": "All-Time Cost Basis"
   },
   "accessibility_allTimeDividends": {
     "en": "All-Time Dividends"
   },
   "accessibility_allTimeValue": {
-    "en": "All-Time Value",
-    "fr": ""
+    "en": "All-Time Value"
   },
   "accessibility_currency": {
-    "en": "Currency",
-    "fr": ""
+    "en": "Currency"
   },
   "accessibility_dividendsInTotals": {
-    "en": "Dividends included in Totals",
-    "fr": ""
+    "en": "Dividends included in Totals"
   },
   "accessibility_editNotes": {
-    "en": "Edit Notes",
-    "fr": ""
+    "en": "Edit Notes"
   },
   "accessibility_filterNews": {
-    "en": "Filter News",
-    "fr": ""
+    "en": "Filter News"
   },
   "accessibility_omitCashFromTotals": {
-    "en": "Omit Cash from Totals",
-    "fr": ""
+    "en": "Omit Cash from Totals"
   },
   "accessibility_omitCashFromPercentages": {
-    "en": "Omit Cash from Percentage Returns",
-    "fr": ""
+    "en": "Omit Cash from Percentage Returns"
   },
   "accessibility_realizedChange": {
-    "en": "Realized Change",
-    "fr": ""
+    "en": "Realized Change"
   },
   "accessibility_realizedChangePercent": {
-    "en": "Realized Change Percent",
-    "fr": ""
+    "en": "Realized Change Percent"
   },
   "accessibility_realizedYTDChange": {
-    "en": "Realized YTD Change",
-    "fr": ""
+    "en": "Realized YTD Change"
   },
   "accessibility_realizedYTDChangePercent": {
-    "en": "Realized YTD Change Percent",
-    "fr": ""
+    "en": "Realized YTD Change Percent"
   },
   "accessibility_realizedCostBasis": {
-    "en": "Realized Cost Basis",
-    "fr": ""
+    "en": "Realized Cost Basis"
   },
   "accessibility_realizedValue": {
-    "en": "Realized Value",
-    "fr": ""
+    "en": "Realized Value"
   },
   "accessibility_refreshNews": {
-    "en": "Refresh News",
-    "fr": ""
+    "en": "Refresh News"
   },
   "accessibility_unrealized": {
-    "en": "Unrealized",
-    "fr": ""
+    "en": "Unrealized"
   },
   "accessibility_unrealizedChange": {
-    "en": "Unrealized Change",
-    "fr": ""
+    "en": "Unrealized Change"
   },
   "accessibility_unrealizedChangePercent": {
-    "en": "Unrealized Change Percent",
-    "fr": ""
+    "en": "Unrealized Change Percent"
   },
   "accessibility_unrealizedCostBasis": {
-    "en": "Unrealized Cost Basis",
-    "fr": ""
+    "en": "Unrealized Cost Basis"
   },
   "accessibility_unrealizedCostPerShare": {
-    "en": "Unrealized Cost per Share",
-    "fr": ""
+    "en": "Unrealized Cost per Share"
   },
   "accessibility_unrealizedDailyChange": {
-    "en": "Unrealized Daily Change",
-    "fr": ""
+    "en": "Unrealized Daily Change"
   },
   "accessibility_unrealizedDailyChangePercent": {
-    "en": "Unrealized Daily Change Percent",
-    "fr": ""
+    "en": "Unrealized Daily Change Percent"
   },
   "accessibility_unrealizedShares": {
-    "en": "Unrealized Shares",
-    "fr": ""
+    "en": "Unrealized Shares"
   },
   "accessibility_unrealizedValue": {
-    "en": "Unrealized Value",
-    "fr": ""
+    "en": "Unrealized Value"
   },
   "accounting_fifo": {
-    "en": "FIFO",
-    "fr": ""
+    "en": "FIFO"
   },
   "accounting_fifoDescription": {
-    "en": "First In, First Out",
-    "fr": ""
+    "en": "First In, First Out"
   },
   "accounting_lifo": {
-    "en": "LIFO",
-    "fr": ""
+    "en": "LIFO"
   },
   "accounting_lifoDescription": {
-    "en": "Last In, First Out",
-    "fr": ""
+    "en": "Last In, First Out"
   },
   "accounting_highCost": {
-    "en": "High Cost",
-    "fr": ""
+    "en": "High Cost"
   },
   "accounting_highCostDescription": {
-    "en": "Shares that were most expensive are sold first",
-    "fr": ""
+    "en": "Shares that were most expensive are sold first"
   },
   "accounting_lowCost": {
-    "en": "Low Cost",
-    "fr": ""
+    "en": "Low Cost"
   },
   "accounting_lowCostDescription": {
-    "en": "Shares that were the least expensive are sold first",
-    "fr": ""
+    "en": "Shares that were the least expensive are sold first"
   },
   "accounting_weightedAverage": {
-    "en": "Weighted Average",
-    "fr": ""
+    "en": "Weighted Average"
   },
   "accounting_weightedAverageDescription": {
-    "en": "The cost basis is calculated using the current unrealized cost per share",
-    "fr": ""
+    "en": "The cost basis is calculated using the current unrealized cost per share"
   },
   "accounting_specificLots": {
-    "en": "Specific Lots",
-    "fr": ""
+    "en": "Specific Lots"
   },
   "accounting_specificLotsDescription": {
-    "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction.",
-    "fr": ""
+    "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction."
   },
   "account_deleted": {
-    "en": "Account Deleted",
-    "fr": ""
+    "en": "Account Deleted"
   },
   "adBanner_placeHolder": {
     "en": "Upgrade to Premium and enjoy an Ad-free experience",
@@ -240,16 +211,13 @@
     "fr": "Impossible de détecter la devise pour ce cours, impossible de convertir en espèces. Veuillez décocher la case de conversion en espèces."
   },
   "addQuoteTransaction_costBasisEntryMethod": {
-    "en": "Entry Method",
-    "fr": ""
+    "en": "Entry Method"
   },
   "addQuoteTransaction_costBasisPerShare": {
-    "en": "Price Per Share",
-    "fr": ""
+    "en": "Price Per Share"
   },
   "addQuoteTransaction_costBasisTotalAmount": {
-    "en": "Total Amount",
-    "fr": ""
+    "en": "Total Amount"
   },
   "addQuoteTransaction_currencyToCurrencyFormatted": {
     "_formatted": "false",
@@ -278,8 +246,7 @@
     "fr": "S\\'il vous plaît entrez le nombre d\\'actions"
   },
   "addQuoteTransaction_enterValidDate": {
-    "en": "Please enter a valid transaction date",
-    "fr": ""
+    "en": "Please enter a valid transaction date"
   },
   "addQuoteTransaction_exchangeRate": {
     "en": "Exchange Rate",
@@ -308,7 +275,6 @@
   },
   "addQuoteTransaction_time": {
     "en": "Transaction Time",
-    "fr": "",
     "zh-Hant-TW": "日期"
   },
   "addQuoteTransaction_transaction_notes": {
@@ -338,8 +304,7 @@
     "fr": "Dividendes"
   },
   "addQuoteTransaction_typeReverseSplit": {
-    "en": "Reverse Split",
-    "fr": ""
+    "en": "Reverse Split"
   },
   "addQuoteTransaction_typeSell": {
     "en": "Sell",
@@ -352,12 +317,10 @@
     "fr": "Vente à découvert"
   },
   "addQuoteTransaction_typeSplit": {
-    "en": "Split",
-    "fr": ""
+    "en": "Split"
   },
   "addQuoteTransaction_typeUnknown": {
-    "en": "Unknown",
-    "fr": ""
+    "en": "Unknown"
   },
   "addQuoteTransaction_usePercentCommission": {
     "en": "Use &#37; Commission?",
@@ -384,8 +347,7 @@
     "fr": "Après avoir saisi le nom du symbole, cliquez sur le clavier ou sélectionnez un symbole depuis la liste d\\'auto-complétion.\\n\\nSi une prévisualisation du prix the la cotation surgit sous le champ du symbole, vous pouvez cliquer dessus pour prévisualiser la cotation et les actualités sans l\\'ajouter à votre portefeuille."
   },
   "addQuote_howToAddCrypto": {
-    "en": "How To: Tracking crypto",
-    "fr": ""
+    "en": "How To: Tracking crypto"
   },
   "addQuote_howToAddCryptoHelp": {
     "en": "To track a crypto, enter the pair (i.e. BTC-USD). If you cannot find a pair, you may contact us at support@peeksoft.co to get it registered. Prices are aggregated across exchanges (Source: CoinGecko)."
@@ -426,27 +388,22 @@
     "en": "Add an alert by tapping Add Alert (Alert icon) in the menu, or by tapping here."
   },
   "alert_lessThan": {
-    "en": "less than",
-    "fr": ""
+    "en": "less than"
   },
   "alert_moreThan": {
-    "en": "more than",
-    "fr": ""
+    "en": "more than"
   },
   "alert_trailingStopLoss": {
-    "en": "trailing stop loss",
-    "fr": ""
+    "en": "trailing stop loss"
   },
   "alert_reverseTrailingStopLoss": {
-    "en": "reverse trailing stop loss",
-    "fr": ""
+    "en": "reverse trailing stop loss"
   },
   "alert_priceAlert": {
     "en": "Price Alert"
   },
   "alert_viewExistingAlerts": {
-    "en": "View existing alerts",
-    "fr": ""
+    "en": "View existing alerts"
   },
   "chart_couldNotFetchChart": {
     "en": "Could not fetch chart\\n\\nPlease check your internet connection and try a different interval (1 Day, 5 Days, etc.)",
@@ -457,8 +414,7 @@
     "fr": "Volume : Activer les couleurs"
   },
   "chart_gridlines": {
-    "en": "Gridlines",
-    "fr": ""
+    "en": "Gridlines"
   },
   "chart_indicators": {
     "en": "Indicators",
@@ -520,8 +476,7 @@
     "fr": "Max"
   },
   "chart_rangeMonthToDateCompact": {
-    "en": "MTD",
-    "fr": ""
+    "en": "MTD"
   },
   "chart_rangeNotAvailableFormatted": {
     "_formatted": "false",
@@ -545,8 +500,7 @@
     "fr": "1m"
   },
   "chart_rangeOneWeekCompact": {
-    "en": "1W",
-    "fr": ""
+    "en": "1W"
   },
   "chart_rangeOneYear": {
     "en": "1 Year",
@@ -593,8 +547,7 @@
     "fr": "Voir le graphique"
   },
   "chart_transactionAnnotations": {
-    "en": "Transaction Annotations",
-    "fr": ""
+    "en": "Transaction Annotations"
   },
   "chart_typeArea": {
     "en": "Area",
@@ -624,8 +577,7 @@
     "en": "File is empty"
   },
   "csv_unableToOpen": {
-    "en": "Unable to open file",
-    "fr": ""
+    "en": "Unable to open file"
   },
   "csvExport_exportAndOverwrite": {
     "en": "Export and overwrite existing file",
@@ -635,8 +587,7 @@
     "en": "To export, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nYou can choose to export to SDCard or local storage (open the side menu in the file picker), or Google Drive. If you export to Google Drive, your file will be accessible from your computer at https://drive.google.com."
   },
   "csvExport_externalStorageUploaded": {
-    "en": "CSV saved to External Storage",
-    "fr": ""
+    "en": "CSV saved to External Storage"
   },
   "csvExport_unableToUpload": {
     "en": "Unable to upload CSV file",
@@ -701,40 +652,32 @@
     "fr": "Personnaliser la taille de la police"
   },
   "faq_canIHaveTrial": {
-    "en": "Can I have a free trial?",
-    "fr": ""
+    "en": "Can I have a free trial?"
   },
   "faq_canIHaveTrialAnswer": {
-    "en": "First time subscribers have 1 week free trial. You can cancel anytime by clicking manage subscriptions. On the purchase confirmation dialog, Google Play will confirm the trial time if you are eligible for a trial.",
-    "fr": ""
+    "en": "First time subscribers have 1 week free trial. You can cancel anytime by clicking manage subscriptions. On the purchase confirmation dialog, Google Play will confirm the trial time if you are eligible for a trial."
   },
   "faq_paidAlready": {
-    "en": "I paid for the app already, but the app does not remember or recognize my purchase",
-    "fr": ""
+    "en": "I paid for the app already, but the app does not remember or recognize my purchase"
   },
   "faq_paidAlreadyAnswer": {
-    "en": "Please make sure you are logged into the account used to make the purchase and click \\'Restore Purchases\\'. If you can\\'t restore the purchase, please reach out to us via support.",
-    "fr": ""
+    "en": "Please make sure you are logged into the account used to make the purchase and click \\'Restore Purchases\\'. If you can\\'t restore the purchase, please reach out to us via support."
   },
   "faq_whySubscriptionFee": {
-    "en": "Why is there a subscription fee?",
-    "fr": ""
+    "en": "Why is there a subscription fee?"
   },
   "faq_whySubscriptionFeeP1": {
-    "en": "We are an online service and must pay for our servers, data feeds, news sources, respond to customer support, maintain our servers and regularly ship new features. These are expensive and ongoing monthly costs, unlike offline software.",
-    "fr": ""
+    "en": "We are an online service and must pay for our servers, data feeds, news sources, respond to customer support, maintain our servers and regularly ship new features. These are expensive and ongoing monthly costs, unlike offline software."
   },
   "faq_whySubscriptionFeeP2": {
-    "en": "Advertising help pay some of our costs. Customers who want a premium ad-free experience and want to support the development of the app can subscribe to the premium plan. Thank you for your support!",
-    "fr": ""
+    "en": "Advertising help pay some of our costs. Customers who want a premium ad-free experience and want to support the development of the app can subscribe to the premium plan. Thank you for your support!"
   },
   "generic_accountX": {
     "en": "Account: %s",
     "fr": "Compte : %s"
   },
   "generic_active": {
-    "en": "Active",
-    "fr": ""
+    "en": "Active"
   },
   "generic_ad": {
     "en": "Ad"
@@ -749,16 +692,14 @@
     "fr": "Ajouter une alerte"
   },
   "generic_additionalOptions": {
-    "en": "Additional Options",
-    "fr": ""
+    "en": "Additional Options"
   },
   "generic_agreePrivacyPolicyAndTermsOfUse": {
     "en": "By continuing, you agree to the\\nPrivacy Policy and Terms of Use",
     "fr": "En continuant, vous acceptez les\\nConditions d\\'utilisation et Politique de confidentialité"
   },
   "generic_apply": {
-    "en": "Apply",
-    "fr": ""
+    "en": "Apply"
   },
   "generic_autoRefresh": {
     "en": "Auto-refresh",
@@ -777,36 +718,30 @@
     "fr": "Heure de début de la mise à jour automatique"
   },
   "generic_beginImport": {
-    "en": "Begin Import",
-    "fr": ""
+    "en": "Begin Import"
   },
   "generic_calculate": {
-    "en": "Calculate",
-    "fr": ""
+    "en": "Calculate"
   },
   "generic_cancel": {
     "en": "Cancel",
     "fr": "Annuler"
   },
   "generic_checkOutThisApp": {
-    "en": "Check out this app!",
-    "fr": ""
+    "en": "Check out this app!"
   },
   "generic_checkOutThisAppLong": {
-    "en": "Check out My Stocks Portfolio, an app for monitoring your stocks and portfolios!",
-    "fr": ""
+    "en": "Check out My Stocks Portfolio, an app for monitoring your stocks and portfolios!"
   },
   "generic_clientOutOfDate": {
-    "en": "It looks like your app version is out of date, so this type is unrecognized. Please udpate to the latest version of the app.",
-    "fr": ""
+    "en": "It looks like your app version is out of date, so this type is unrecognized. Please udpate to the latest version of the app."
   },
   "generic_closeDrawerAccessibility": {
     "en": "Close navigation drawer",
     "fr": "Fermer le tiroir de navigation"
   },
   "generic_connectionIssue": {
-    "en": "Could not reach servers. Please check your connection and try again.",
-    "fr": ""
+    "en": "Could not reach servers. Please check your connection and try again."
   },
   "generic_contactUs": {
     "en": "Contact Us",
@@ -819,16 +754,14 @@
     "fr": "Continuer"
   },
   "generic_date": {
-    "en": "Date",
-    "fr": ""
+    "en": "Date"
   },
   "generic_delete": {
     "en": "Delete",
     "fr": "Effacer"
   },
   "generic_disableWarningInSettings": {
-    "en": "You can disable this warning in the settings section in the app, general settings",
-    "fr": ""
+    "en": "You can disable this warning in the settings section in the app, general settings"
   },
   "generic_dismiss": {
     "en": "Dismiss",
@@ -844,12 +777,10 @@
     "fr": "Modifier"
   },
   "generic_email": {
-    "en": "Email",
-    "fr": ""
+    "en": "Email"
   },
   "generic_emailOrCopyPaste": {
-    "en": "Email / Copy &amp; Paste",
-    "fr": ""
+    "en": "Email / Copy &amp; Paste"
   },
   "generic_enterNotes": {
     "en": "Enter notes",
@@ -872,20 +803,16 @@
     "fr": "Image d\\'erreur"
   },
   "generic_errorFetchingResults": {
-    "en": "Error fetching results. Please try again later.",
-    "fr": ""
+    "en": "Error fetching results. Please try again later."
   },
   "generic_exitApplication_question": {
-    "en": "Exit Application?",
-    "fr": ""
+    "en": "Exit Application?"
   },
   "generic_exitAreYouSure": {
-    "en": "Are you sure you want to exit?",
-    "fr": ""
+    "en": "Are you sure you want to exit?"
   },
   "generic_export": {
-    "en": "Export…",
-    "fr": ""
+    "en": "Export…"
   },
   "generic_faq": {
     "en": "Frequently Asked Questions",
@@ -915,8 +842,7 @@
     "fr": "Aide"
   },
   "generic_hide": {
-    "en": "Hide",
-    "fr": ""
+    "en": "Hide"
   },
   "generic_hideAdvertisingAccessibility": {
     "en": "Hide Advertising",
@@ -927,8 +853,7 @@
     "fr": "Icône"
   },
   "generic_import": {
-    "en": "Import…",
-    "fr": ""
+    "en": "Import…"
   },
   "generic_larger": {
     "en": "Larger",
@@ -943,16 +868,13 @@
     "fr": "Gérer les alertes"
   },
   "generic_manageExistingAlerts": {
-    "en": "Manage existing alerts",
-    "fr": ""
+    "en": "Manage existing alerts"
   },
   "generic_manualSort": {
-    "en": "Manual Sort",
-    "fr": ""
+    "en": "Manual Sort"
   },
   "generic_month": {
-    "en": "Month",
-    "fr": ""
+    "en": "Month"
   },
   "generic_name": {
     "en": "Name",
@@ -1052,16 +974,14 @@
     "fr": "Politique de confidentialité"
   },
   "generic_proceedOffline": {
-    "en": "Proceed Offline",
-    "fr": ""
+    "en": "Proceed Offline"
   },
   "generic_questionsViewFAQ": {
     "en": "View FAQ",
     "fr": "Voir FAQ"
   },
   "generic_reactivate": {
-    "en": "Re-activate",
-    "fr": ""
+    "en": "Re-activate"
   },
   "generic_refresh": {
     "en": "Refresh",
@@ -1072,8 +992,7 @@
     "fr": "Actualiser"
   },
   "generic_required": {
-    "en": "Required",
-    "fr": ""
+    "en": "Required"
   },
   "generic_retry": {
     "en": "Retry",
@@ -1122,28 +1041,24 @@
     "zh": "登入"
   },
   "generic_signInToSyncAcrossDevices": {
-    "en": "Sign in to sync across devices",
-    "fr": ""
+    "en": "Sign in to sync across devices"
   },
   "generic_smaller": {
     "en": "Smaller",
     "fr": "Plus petit"
   },
   "generic_sort": {
-    "en": "Sort",
-    "fr": ""
+    "en": "Sort"
   },
   "generic_subscribed": {
-    "en": "Subscribed",
-    "fr": ""
+    "en": "Subscribed"
   },
   "generic_sure": {
     "en": "Sure",
     "fr": "Bien sûr"
   },
   "generic_sync": {
-    "en": "Sync",
-    "fr": ""
+    "en": "Sync"
   },
   "generic_tapToEdit": {
     "en": "Tap to edit"
@@ -1244,12 +1159,10 @@
     "fr": "Veuillez vous connecter avec votre compte Google pour continuer"
   },
   "logInOut_signInToPurchase": {
-    "en": "Sign in first so that your purchases are saved to the cloud, can restored, and synced to other devices? If you have multiple accounts on your phone, you can sign in so that the purchase is linked to the correct account.",
-    "fr": ""
+    "en": "Sign in first so that your purchases are saved to the cloud, can restored, and synced to other devices? If you have multiple accounts on your phone, you can sign in so that the purchase is linked to the correct account."
   },
   "logInOut_signInToRestorePurchases": {
-    "en": "Sign in to share purchases on the cloud? Click No if you want to use your local Google Play account. (If you have multiple accounts on your phone, Google Play sometimes restores it from the incorrect account. You should sign in to the correct account to workaround that issue.).\\n\\nNote: If your purchases are shared on the cloud and you are not signed in, they will be transferred from the cloud to your local account, and other signed in devices using purchases from the cloud will lose access to that purchase. To share purchases on the cloud, sign in, and then click restore, to transfer purchases from your local device to the cloud.",
-    "fr": ""
+    "en": "Sign in to share purchases on the cloud? Click No if you want to use your local Google Play account. (If you have multiple accounts on your phone, Google Play sometimes restores it from the incorrect account. You should sign in to the correct account to workaround that issue.).\\n\\nNote: If your purchases are shared on the cloud and you are not signed in, they will be transferred from the cloud to your local account, and other signed in devices using purchases from the cloud will lose access to that purchase. To share purchases on the cloud, sign in, and then click restore, to transfer purchases from your local device to the cloud."
   },
   "logInOut_signOutOfGoogle": {
     "en": "Sign Out of Google",
@@ -1405,12 +1318,10 @@
     "fr": "Ajouter un portefeuille"
   },
   "portfolio_addToPortfolio": {
-    "en": "Add to Portfolio",
-    "fr": ""
+    "en": "Add to Portfolio"
   },
   "portfolio_addingToPortfolio": {
-    "en": "Adding to portfolio…",
-    "fr": ""
+    "en": "Adding to portfolio…"
   },
   "portfolio_allocation_categoryTagHelp": {
     "en": "To assign category tags, click on the labels button (bottom right of an item). The allocation chart can be configured to show the symbol on the 1st level, and the category tag on the 2nd level."
@@ -1450,8 +1361,7 @@
     "fr": "Impossible de trier manuellement lorsque qu\\'une colonne est utilisée pour trier. Tapez sur l\\'en-tête de colonne et choisissez \"Manual Sort\"."
   },
   "portfolio_ceo": {
-    "en": "CEO",
-    "fr": ""
+    "en": "CEO"
   },
   "portfolio_change": {
     "en": "Change",
@@ -1520,8 +1430,7 @@
   },
   "portfolio_deleteQuoteWarningFormatted": {
     "_formatted": "false",
-    "en": "Are you sure you want to delete this Quote (%s)?",
-    "fr": ""
+    "en": "Are you sure you want to delete this Quote (%s)?"
   },
   "portfolio_deleteQuoteWarningWithTransactionsFormatted": {
     "_formatted": "false",
@@ -1530,18 +1439,15 @@
   },
   "portfolio_deleteSelectedPortfoliosWarning": {
     "_formatted": "false",
-    "en": "Are you sure you want to delete these Portfolios and all Quotes in them?",
-    "fr": ""
+    "en": "Are you sure you want to delete these Portfolios and all Quotes in them?"
   },
   "portfolio_deleteSelectedQuotesWarning": {
     "_formatted": "false",
-    "en": "Are you sure you want to delete these Quotes and all Transactions in them?",
-    "fr": ""
+    "en": "Are you sure you want to delete these Quotes and all Transactions in them?"
   },
   "portfolio_deleteSelectedQuoteTransactionsWarning": {
     "_formatted": "false",
-    "en": "Are you sure you want to delete these Holdings and all Transactions in them?",
-    "fr": ""
+    "en": "Are you sure you want to delete these Holdings and all Transactions in them?"
   },
 
   "portfolio_details": {
@@ -1585,8 +1491,7 @@
     "fr": "Dividendes faisant partie d\\'un régime de réinvestissement des dividendes (RRD). Vous n\\'avez pas besoin d\\'ajouter une transaction séparée pour la conversion des dividendes en espèces. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs."
   },
   "portfolio_doNotAddToTotals": {
-    "en": "Don\\'t add to totals on Portfolios Overview screen",
-    "fr": ""
+    "en": "Don\\'t add to totals on Portfolios Overview screen"
   },
   "portfolio_editHolding": {
     "en": "Edit Holding",
@@ -1604,12 +1509,10 @@
     "en": "Enter a threshold between 0–100"
   },
   "portfolio_excludedFromTotals": {
-    "en": "Excluded from totals",
-    "fr": ""
+    "en": "Excluded from totals"
   },
   "portfolio_fullTimeEmployees": {
-    "en": "Full-Time Employees",
-    "fr": ""
+    "en": "Full-Time Employees"
   },
   "portfolio_hideDetails": {
     "en": "Hide Details",
@@ -1638,8 +1541,7 @@
     "zh-Hant-TW": "最新成交價格"
   },
   "portfolio_ledgerNoTransactions": {
-    "en": "No transactions added yet",
-    "fr": ""
+    "en": "No transactions added yet"
   },
   "portfolio_marketNews": {
     "en": "Market News",
@@ -1730,8 +1632,7 @@
     "fr": "Actions @"
   },
   "portfolio_splitsHelp": {
-    "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4.",
-    "fr": ""
+    "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4."
   },
   "portfolio_priceAndSharesFormatted": {
     "_formatted": "false",
@@ -1752,32 +1653,28 @@
     "fr": "Variation"
   },
   "portfolio_sortAbsChange": {
-    "en": "Change (Absolute)",
-    "fr": ""
+    "en": "Change (Absolute)"
   },
   "portfolio_sortChangePercent": {
     "en": "Change %",
     "fr": "Variation %"
   },
   "portfolio_sortAbsChangePercent": {
-    "en": "Change % (Absolute)",
-    "fr": ""
+    "en": "Change % (Absolute)"
   },
   "portfolio_sortChangePercentReverse": {
     "en": "Change % (Ascending)",
     "fr": "Variation % (Décroissant)"
   },
   "portfolio_sortAbsChangePercentReverse": {
-    "en": "Change % (Absolute, Ascending)",
-    "fr": ""
+    "en": "Change % (Absolute, Ascending)"
   },
   "portfolio_sortChangeReverse": {
     "en": "Change (Ascending)",
     "fr": "Variation (Décroissant)"
   },
   "portfolio_sortAbsChangeReverse": {
-    "en": "Change (Absolute, Ascending)",
-    "fr": ""
+    "en": "Change (Absolute, Ascending)"
   },
   "portfolio_sortCostBasis": {
     "en": "Cost Basis",
@@ -1792,32 +1689,28 @@
     "fr": "Variation quotidienne"
   },
   "portfolio_sortAbsDailyChange": {
-    "en": "Daily Change (Absolute)",
-    "fr": ""
+    "en": "Daily Change (Absolute)"
   },
   "portfolio_sortDailyChangePercent": {
     "en": "Daily Change %",
     "fr": "Variation quotidienne %"
   },
   "portfolio_sortAbsDailyChangePercent": {
-    "en": "Daily Change % (Absolute)",
-    "fr": ""
+    "en": "Daily Change % (Absolute)"
   },
   "portfolio_sortDailyChangePercentReverse": {
     "en": "Daily Change % (Ascending)",
     "fr": "Variation quotidienne % (Décroissant)"
   },
   "portfolio_sortAbsDailyChangePercentReverse": {
-    "en": "Daily Change % (Absolute, Ascending)",
-    "fr": ""
+    "en": "Daily Change % (Absolute, Ascending)"
   },
   "portfolio_sortDailyChangeReverse": {
     "en": "Daily Change (Ascending)",
     "fr": "Variation quotidienne (Décroissant)"
   },
   "portfolio_sortAbsDailyChangeReverse": {
-    "en": "Daily Change (Absolute, Ascending)",
-    "fr": ""
+    "en": "Daily Change (Absolute, Ascending)"
   },
   "portfolio_sortDragHandleAccessibility": {
     "en": "Drag Handle",
@@ -1890,32 +1783,28 @@
     "fr": "Variation totale"
   },
   "portfolio_sortAbsTotalChange": {
-    "en": "Total Change (Absolute)",
-    "fr": ""
+    "en": "Total Change (Absolute)"
   },
   "portfolio_sortTotalChangePercent": {
     "en": "Total Change %",
     "fr": "Variation totale %"
   },
   "portfolio_sortAbsTotalChangePercent": {
-    "en": "Total Change % (Absolute)",
-    "fr": ""
+    "en": "Total Change % (Absolute)"
   },
   "portfolio_sortTotalChangePercentReverse": {
     "en": "Total Change % (Ascending)",
     "fr": "Variation totale % (Décroissant)"
   },
   "portfolio_sortAbsTotalChangePercentReverse": {
-    "en": "Total Change % (Absolute, Ascending)",
-    "fr": ""
+    "en": "Total Change % (Absolute, Ascending)"
   },
   "portfolio_sortTotalChangeReverse": {
     "en": "Total Change (Ascending)",
     "fr": "Variation totale (Décroissant)"
   },
   "portfolio_sortAbsTotalChangeReverse": {
-    "en": "Total Change (Absolute, Ascending)",
-    "fr": ""
+    "en": "Total Change (Absolute, Ascending)"
   },
   "portfolio_sortValue": {
     "en": "Value",
@@ -1926,20 +1815,16 @@
     "fr": "Valeur (Décroissant)"
   },
   "portfolio_sortCondition": {
-    "en": "Type",
-    "fr": ""
+    "en": "Type"
   },
   "portfolio_sortConditionReverse": {
-    "en": "Type (Reverse)",
-    "fr": ""
+    "en": "Type (Reverse)"
   },
   "portfolio_sortState": {
-    "en": "Triggered State",
-    "fr": ""
+    "en": "Triggered State"
   },
   "portfolio_sortStateReverse": {
-    "en": "Triggered State (Reverse)",
-    "fr": ""
+    "en": "Triggered State (Reverse)"
   },
   "portfolio_sort_by": {
     "en": "Sort By…",
@@ -1954,28 +1839,24 @@
     "fr": "Symbole"
   },
   "portfolio_top_daily_movers": {
-    "en": "Top Daily Movers (US)",
-    "fr": ""
+    "en": "Top Daily Movers (US)"
   },
   "portfolio_total": {
     "en": "Total",
     "fr": "Total"
   },
   "portfolio_totalCostPlaceholder": {
-    "en": "Total Cost: %s",
-    "fr": ""
+    "en": "Total Cost: %s"
   },
   "portfolio_totalDividends": {
     "en": "Total Dividends",
     "fr": "Total des dividendes"
   },
   "portfolio_totalProceedsPlaceholder": {
-    "en": "Proceeds: %s",
-    "fr": ""
+    "en": "Proceeds: %s"
   },
   "portfolio_unannualized": {
-    "en": "Unannualized XIRR",
-    "fr": ""
+    "en": "Unannualized XIRR"
   },
   "portfolio_unrealized": {
     "en": "Unrealized",
@@ -1998,16 +1879,13 @@
     "fr": "Êtes-vous sûr de vouloir supprimer ce portefeuille ?"
   },
   "portfolioHistorical_clearLocalCache": {
-    "en": "Clear historical storage",
-    "fr": ""
+    "en": "Clear historical storage"
   },
   "portfolioHistorical_title": {
-    "en": "Calculate historical performance?\\n\\nNote: If you modify previous transactions, you may need to clear the historical storage and recalculate. If historical quote prices are missing, you can go to the quote details page and add custom historical prices from the top menu.",
-    "fr": ""
+    "en": "Calculate historical performance?\\n\\nNote: If you modify previous transactions, you may need to clear the historical storage and recalculate. If historical quote prices are missing, you can go to the quote details page and add custom historical prices from the top menu."
   },
   "portfolioHistorical_disableDataGranularity": {
-    "en": "Calculate 1 day granularity for 1+ year old data (slow)",
-    "fr": ""
+    "en": "Calculate 1 day granularity for 1+ year old data (slow)"
   },
   "purchases_alreadyPurchased": {
     "en": "Already purchased",
@@ -2046,24 +1924,20 @@
     "fr": "Profitez d\\'une expérience premium sans publicité!"
   },
   "purchases_promoServerAutoSync": {
-    "en": "✓ Auto sync data across devices",
-    "fr": ""
+    "en": "✓ Auto sync data across devices"
   },
   "purchases_promoExportData": {
-    "en": "✓ More exported data (i.e. quote prices)",
-    "fr": ""
+    "en": "✓ More exported data (i.e. quote prices)"
   },
   "purchases_promoNoAdvertisements": {
     "en": "✓ No advertisements",
     "fr": "✓ Sans publicité"
   },
   "purchases_promoFullScreenHistoricals": {
-    "en": "✓ Fullscreen portfolio historical performance",
-    "fr": ""
+    "en": "✓ Fullscreen portfolio historical performance"
   },
   "purchases_promoUnlimitedAlerts": {
-    "en": "✓ Unlimited server push alerts",
-    "fr": ""
+    "en": "✓ Unlimited server push alerts"
   },
   "purchases_restoreFailedPleaseCheckConnection": {
     "en": "Restore Failed. Please check your internet connection and try again later.",
@@ -2166,8 +2040,7 @@
     "fr": "Prix (demande), si disponible and within 10 percent"
   },
   "settingsCalculations_extendedHoursIfAvailable": {
-    "en": "Extended Hours, if available",
-    "fr": ""
+    "en": "Extended Hours, if available"
   },
   "settingsCalculations_holdingDailyChangeUses": {
     "en": "Holdings daily change uses…",
@@ -2178,16 +2051,13 @@
     "fr": "Positions calculées avec…"
   },
   "settingsCalculations_yearToDateBegins": {
-    "en": "Year-to-Date (YTD) begins on…",
-    "fr": ""
+    "en": "Year-to-Date (YTD) begins on…"
   },
   "settingsCalculations_omitCashFromPercentages": {
-    "en": "Omit cash from % returns",
-    "fr": ""
+    "en": "Omit cash from % returns"
   },
   "settingsCalculations_omitCashFromPercentagesHelp": {
-    "en": "Cash will be omitted when calculating portfolio percentage returns, such as unrealized change percent",
-    "fr": ""
+    "en": "Cash will be omitted when calculating portfolio percentage returns, such as unrealized change percent"
   },
   "settingsCalculations_omitCashFromTotals": {
     "en": "Omit cash from totals",
@@ -2258,12 +2128,10 @@
     "fr": "Afficher les gains depuis toujours et réalisés sous chaque portefeuille et position"
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtd": {
-    "en": "Inline YTD realized returns",
-    "fr": ""
+    "en": "Inline YTD realized returns"
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtdHelp": {
-    "en": "Shows YTD returns (for tax loss harvesting). Requires \\'Inline all-time and realized gains\\' to be enabled.",
-    "fr": ""
+    "en": "Shows YTD returns (for tax loss harvesting). Requires \\'Inline all-time and realized gains\\' to be enabled."
   },
   "settingsDisplay_invertFontColor": {
     "en": "Invert font color",
@@ -2274,8 +2142,7 @@
     "fr": "Inverser les couleurs des baisses/hausses. Cela fera apparaître les baisses de prix en vert et les hausses en rouge."
   },
   "settingsDisplay_lastTradedPrice": {
-    "en": "Last Open Market Price",
-    "fr": ""
+    "en": "Last Open Market Price"
   },
   "settingsDisplay_line1": {
     "en": "1st Line",
@@ -2286,12 +2153,10 @@
     "fr": "2ème ligne"
   },
   "settingsDisplay_extendedHours": {
-    "en": "Extended hours",
-    "fr": ""
+    "en": "Extended hours"
   },
   "settingsDisplay_extendedHoursHelp": {
-    "en": "Display extended trading (shows as 3rd line if single-line mode is off, shows on same line if single-line mode is on)",
-    "fr": ""
+    "en": "Display extended trading (shows as 3rd line if single-line mode is off, shows on same line if single-line mode is on)"
   },
   "settingsDisplay_miniMode": {
     "en": "Single-line mode",
@@ -2356,12 +2221,10 @@
     "en": "Show preview thumbnail on news list"
   },
   "settingsDisplay_showNotesHoldingsTab": {
-    "en": "Show Quote notes below Holding",
-    "fr": ""
+    "en": "Show Quote notes below Holding"
   },
   "settingsDisplay_showNotesHoldingsTabHelp": {
-    "en": "Display up to 5 lines of notes on the Holdings tab",
-    "fr": ""
+    "en": "Display up to 5 lines of notes on the Holdings tab"
   },
   "settingsDisplay_showNotesQuoteTab": {
     "en": "Show notes below Quote",
@@ -2372,12 +2235,10 @@
     "fr": "Afficher jusqu\\'à 5 lignes de notes dans l\\'onglet des cours"
   },
   "settingsDisplay_showNotesTransactionsTab": {
-    "en": "Show Transaction notes below Transaction",
-    "fr": ""
+    "en": "Show Transaction notes below Transaction"
   },
   "settingsDisplay_showNotesTransactionsTabHelp": {
-    "en": "Display up to 5 lines of notes on the Transactions tab",
-    "fr": ""
+    "en": "Display up to 5 lines of notes on the Transactions tab"
   },
   "settingsDisplay_showSharesAtAveragePricePerShare": {
     "en": "Show Avg Price Per Share and Number of Shares below each holding",
@@ -2400,16 +2261,14 @@
     "fr": "Clair"
   },
   "settingsDisplay_themeSystem": {
-    "en": "System",
-    "fr": ""
+    "en": "System"
   },
   "settingsDisplay_title": {
     "en": "Display",
     "fr": "Afficher"
   },
   "settingsGeneral_keepScreenAlive": {
-    "en": "Keep screen alive",
-    "fr": ""
+    "en": "Keep screen alive"
   },
   "settingsGeneral_keepScreenAliveHelp": {
     "en": "Prevent phone screen from sleeping while app is visible"
@@ -2489,8 +2348,7 @@
   },
   "settings_hideClosedQuotes": {
     "en": "Hide closed quotes",
-    "de": "",
-    "fr": ""
+    "de": ""
   },
   "settings_holdingsIfAny": {
     "en": "Holdings (if any)",
@@ -2514,8 +2372,7 @@
   },
   "settings_preferredPrecision": {
     "en": "Min precision (Auto increases)",
-    "de": "",
-    "fr": ""
+    "de": ""
   },
   "settings_precision": {
     "en": "Precision",
@@ -2536,8 +2393,7 @@
   },
   "settings_termsOfUse": {
     "en": "Terms of Use",
-    "de": "",
-    "fr": ""
+    "de": ""
   },
   "settings_refreshInterval": {
     "en": "Auto-refresh (when app is open)",
@@ -2604,7 +2460,6 @@
   "settings_sendFeedbackSubject": {
     "en": "MSP Feedback",
     "de": "",
-    "fr": "",
     "zh": "MSP 意见回馈",
     "zh-Hant-TW": "MSP 意見回饋"
   },
@@ -2634,8 +2489,7 @@
   },
   "settings_startingQuoteDetailsScreenTab": {
     "en": "Starting quote details tab",
-    "de": "",
-    "fr": ""
+    "de": ""
   },
   "settings_startingScreen": {
     "en": "Starting screen",
@@ -2715,8 +2569,7 @@
   "sync_lastChangeTimeFormatted": {
     "_formatted": "false",
     "en": "Last Change: %s%s",
-    "de": "",
-    "fr": ""
+    "de": ""
   },
   "sync_signInToBackupAndSynchronize": {
     "en": "Sign in to backup and synchronize Portfolio data between devices.",
@@ -2807,13 +2660,11 @@
   },
   "viewQuoteStats_bookValue": {
     "en": "Book Value",
-    "de": "",
-    "fr": ""
+    "de": ""
   },
   "viewQuoteStats_bookValueHelp": {
     "en": "Total assets minus total liabilities. Reflects value shareholders would receive if company were to be liquidated.",
-    "de": "",
-    "fr": ""
+    "de": ""
   },
   "viewQuoteStats_dividendAndYield": {
     "en": "Div/Yld",
@@ -2827,13 +2678,11 @@
   },
   "viewQuoteStats_dividendDate": {
     "en": "Div Date",
-    "de": "",
-    "fr": ""
+    "de": ""
   },
   "viewQuoteStats_dividendDateHelp": {
     "en": "Date on which the scheduled dividend will be paid to investors.",
-    "de": "",
-    "fr": ""
+    "de": ""
   },
   "viewQuoteStats_eps": {
     "en": "EPS",
@@ -2846,8 +2695,7 @@
   },
   "viewQuoteStats_exDividendDate": {
     "en": "Ex Div",
-    "de": "",
-    "fr": ""
+    "de": ""
   },
   "viewQuoteStats_exDividendDateHelp": {
     "en": "Date before which investors must own the stock in order to receive the next upcoming dividend. Typically stocks decline on the ex dividend date by the amount of dividend issued."
@@ -2917,60 +2765,46 @@
     "fr": "Prix d\\'ouverture la veille"
   },
   "viewQuoteStats_shares": {
-    "en": "Shares",
-    "fr": ""
+    "en": "Shares"
   },
   "viewQuoteStats_sharesHelp": {
-    "en": "Shares outstanding - the number of shares held by all shareholders, including institutional investors and restricted shares owned by the company.",
-    "fr": ""
+    "en": "Shares outstanding - the number of shares held by all shareholders, including institutional investors and restricted shares owned by the company."
   },
   "viewQuoteStats_shortPercentFloat": {
-    "en": "Short% Float",
-    "fr": ""
+    "en": "Short% Float"
   },
   "viewQuoteStats_shortPercentFloatHelp": {
-    "en": "Short % of float. Data is delayed.",
-    "fr": ""
+    "en": "Short % of float. Data is delayed."
   },
   "viewQuoteStats_shortPercentShares": {
-    "en": "Short% Shares",
-    "fr": ""
+    "en": "Short% Shares"
   },
   "viewQuoteStats_shortPercentSharesHelp": {
-    "en": "Short % of outstanding shares. Data is delayed.",
-    "fr": ""
+    "en": "Short % of outstanding shares. Data is delayed."
   },
   "viewQuoteStats_shortRatio": {
-    "en": "Short Ratio",
-    "fr": ""
+    "en": "Short Ratio"
   },
   "viewQuoteStats_shortRatioHelp": {
-    "en": "Short interest ratio, calculated by dividing number of shares short by average daily trading volume.",
-    "fr": ""
+    "en": "Short interest ratio, calculated by dividing number of shares short by average daily trading volume."
   },
   "viewQuoteStats_shortShares": {
-    "en": "Shares Short",
-    "fr": ""
+    "en": "Shares Short"
   },
   "viewQuoteStats_shortSharesHelp": {
-    "en": "Shares short. Data is delayed.",
-    "fr": ""
+    "en": "Shares short. Data is delayed."
   },
   "viewQuoteStats_shortSharesPrevMonth": {
-    "en": "Prior Month",
-    "fr": ""
+    "en": "Prior Month"
   },
   "viewQuoteStats_shortSharesPrevMonthHelp": {
-    "en": "Shares short (prior month). Data is delayed.",
-    "fr": ""
+    "en": "Shares short (prior month). Data is delayed."
   },
   "viewQuoteStats_pegRatio": {
-    "en": "PEG Ratio",
-    "fr": ""
+    "en": "PEG Ratio"
   },
   "viewQuoteStats_pegRatioHelp": {
-    "en": "Price/Earnings-to-Growth ratio is the P/E ratio divided by growth rate. Similar to P/E ratio, but factors in growth. A low value may mean the stock is undervalued.",
-    "fr": ""
+    "en": "Price/Earnings-to-Growth ratio is the P/E ratio divided by growth rate. Similar to P/E ratio, but factors in growth. A low value may mean the stock is undervalued."
   },
   "viewQuoteStats_peRatio": {
     "en": "P/E",
@@ -2989,20 +2823,16 @@
     "fr": "Prix de clôture la veille"
   },
   "viewQuoteStats_priceBookRatio": {
-    "en": "Price/Book",
-    "fr": ""
+    "en": "Price/Book"
   },
   "viewQuoteStats_priceBookRatioHelp": {
-    "en": "Calculated by taking price per share divided by book value per share. Measures market valuation relative to book value.",
-    "fr": ""
+    "en": "Calculated by taking price per share divided by book value per share. Measures market valuation relative to book value."
   },
   "viewQuoteStats_priceSalesRatio": {
-    "en": "Price/Sales",
-    "fr": ""
+    "en": "Price/Sales"
   },
   "viewQuoteStats_priceSalesRatioHelp": {
-    "en": "Calculated by taking market capitilization divided by total revenue over the last year. A low value may mean the stock is undervalued. Does not account for debt on balance sheet.",
-    "fr": ""
+    "en": "Calculated by taking market capitilization divided by total revenue over the last year. A low value may mean the stock is undervalued. Does not account for debt on balance sheet."
   },
   "viewQuoteStats_volumeHelp": {
     "en": "Number of shares trading in latest trading day",
@@ -3058,8 +2888,7 @@
     "fr": "Plus d\\'actualités à propos de %s ➔"
   },
   "viewQuote_newTickerChange": {
-    "en": "Ticker has changed %s\\nTap here to change to the new one",
-    "fr": ""
+    "en": "Ticker has changed %s\\nTap here to change to the new one"
   },
   "viewQuote_noData": {
     "en": "No Data",
@@ -3070,8 +2899,7 @@
     "fr": "Prix"
   },
   "viewQuote_profile": {
-    "en": "Profile",
-    "fr": ""
+    "en": "Profile"
   },
   "viewQuote_shareQuote": {
     "en": "Share Quote",
