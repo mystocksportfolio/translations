@@ -192,7 +192,8 @@
   },
   "addQuoteCash_deposit": {
     "en": "Deposit",
-    "fr": "Dépôt"
+    "fr": "Dépôt",
+    "zh": "入金"
   },
   "addQuoteCash_enterCashAmount": {
     "en": "Please enter a cash amount",
@@ -253,28 +254,32 @@
   "addQuoteTransaction_currencyToCurrencyFormatted": {
     "_formatted": "false",
     "en": "%s to %s",
-    "fr": ""
+    "fr": "%s à %s"
   },
   "addQuoteTransaction_currencyToHomeCurrencyFormatted": {
     "_formatted": "false",
     "en": "%s to Home Currency",
-    "fr": ""
+    "fr": "%s à la devise préférée"
   },
   "addQuoteTransaction_date": {
     "en": "Transaction Date",
     "fr": "Date de la transaction"
   },
   "addQuoteTransaction_depositCashToPortfolioFromDividends": {
-    "en": "Deposit cash to portfolio from dividends"
+    "en": "Deposit cash to portfolio from dividends",
+    "fr": "Dépôt d\\'espèces au portefeuille lors des dividendes"
   },
   "addQuoteTransaction_depositCashToPortfolioFromSale": {
-    "en": "Deposit cash to portfolio from sale"
+    "en": "Deposit cash to portfolio from sale",
+    "fr": "Dépôt d\\'espèces au portefeuille lors de la vente"
   },
   "addQuoteTransaction_enterSharesPrompt": {
-    "en": "Please enter the number of shares"
+    "en": "Please enter the number of shares",
+    "fr": "S\\'il vous plaît entrez le nombre d\\'actions"
   },
   "addQuoteTransaction_enterValidDate": {
-    "en": "Please enter a valid transaction date"
+    "en": "Please enter a valid transaction date",
+    "fr": ""
   },
   "addQuoteTransaction_exchangeRate": {
     "en": "Exchange Rate",
@@ -282,7 +287,7 @@
   },
   "addQuoteTransaction_percentCommission": {
     "en": "&#37; Commission",
-    "fr": ""
+    "fr": "&#37; Commission"
   },
   "addQuoteTransaction_pricePerShare": {
     "en": "Price Per Share",
@@ -295,7 +300,7 @@
   },
   "addQuoteTransaction_purchaseExchangeRateHelp": {
     "en": "Exchange Rate at time of Transaction (Stock\\'s Currency to Home Currency). For example, 1.5 means $1 of the stock\\'s currency exchanges to $1.5 of your home currency. You can change the Home Currency by tapping Currency on the holdings screen. Leave blank to use today\\'s exchange rate.",
-    "fr": ""
+    "fr": "Taux de change au moment de la transaction (Devise du titre à la devise préférée). Par exemple, 1.5 signifie qu\\'1 dans la devises du titre vaut 1.5 dans la devise préférée. Vous pouvez changer la Devise préférée en appuyant sur Devise sur l\\'écran des positions. Laissez vide pour utiliser le taux de change du jour."
   },
   "addQuoteTransaction_shares": {
     "en": "Shares",
@@ -317,6 +322,7 @@
   "addQuoteTransaction_typeBuy": {
     "en": "Buy",
     "fr": "Acheter",
+    "zh": "买",
     "zh-Hant-TW": "購買"
   },
   "addQuoteTransaction_typeBuyToCover": {
@@ -337,7 +343,9 @@
   },
   "addQuoteTransaction_typeSell": {
     "en": "Sell",
-    "fr": "Vendre"
+    "fr": "Vendre",
+    "zh": "卖",
+    "zh-Hant-TW": "賣"
   },
   "addQuoteTransaction_typeSellShort": {
     "en": "Sell Short",
@@ -357,23 +365,23 @@
   },
   "addQuoteTransaction_withdrawCashFromPortfolioToPurchase": {
     "en": "Withdraw cash from portfolio to purchase",
-    "fr": ""
+    "fr": "Retirer de l\\'argent du portefeuille à l\\'achat"
   },
   "addQuote_addUnlistedSymbolHelp": {
     "en": "Unlisted symbols can be used for equity such as shares that do not trade on the open market. To add price data, go to the quote details page after adding the symbol, open the menu, and click \\'Add Custom Prices\\'.",
-    "fr": ""
+    "fr": "Les symboles non listés peuvent être utilisés pour les fonds tels que ceux qui ne peuvent être échangés dans le marché ouvert. Pour ajouter des données de prix, allez dans la page des détails de la cotation après avoir ajouter le symbole, ouvrez le menu et cliquez \\'Ajouter des prix personnalisés\\'."
   },
   "addQuote_enterSymbolPrompt": {
     "en": "Please enter a symbol",
-    "fr": ""
+    "fr": "Veuillez entrer un symbole"
   },
   "addQuote_howToPreview": {
     "en": "How To: Preview quote without adding to watchlist",
-    "fr": ""
+    "fr": "Comment faire : Prévisualiser la cotation sans ajout à la list de surveillance"
   },
   "addQuote_howToPreviewHelp": {
     "en": "After entering the symbol/ticker, a price preview should show up.\\n\\nClick on the price preview to view the quote without adding it to your portfolio.",
-    "fr": ""
+    "fr": "Après avoir saisi le nom du symbole, cliquez sur le clavier ou sélectionnez un symbole depuis la liste d\\'auto-complétion.\\n\\nSi une prévisualisation du prix the la cotation surgit sous le champ du symbole, vous pouvez cliquer dessus pour prévisualiser la cotation et les actualités sans l\\'ajouter à votre portefeuille."
   },
   "addQuote_howToAddCrypto": {
     "en": "How To: Tracking crypto",
@@ -388,15 +396,15 @@
   },
   "addQuote_symbolDisplayOverride": {
     "en": "Symbol display override (Optional)",
-    "fr": ""
+    "fr": "Remplacement du symbole d\\'affichage (Facultatif)"
   },
   "addQuote_symbolWithHint": {
     "en": "Symbol (i.e. GOOG)",
-    "fr": ""
+    "fr": "Symbole (ex. GOOG)"
   },
   "addQuote_trackTransaction": {
     "en": "Track a Transaction",
-    "fr": ""
+    "fr": "Suivre transaction"
   },
   "addQuote_typeCrypto": {
     "en": "Crypto",
@@ -442,11 +450,11 @@
   },
   "chart_couldNotFetchChart": {
     "en": "Could not fetch chart\\n\\nPlease check your internet connection and try a different interval (1 Day, 5 Days, etc.)",
-    "fr": ""
+    "fr": "Impossible de récupérer le graphique\\n\\nVérifiez votre connexion internet et essayez un interval différent (1 jour, 5 jours, etc.)"
   },
   "chart_enableVolumeColors": {
     "en": "Volume: Enable Colors",
-    "fr": ""
+    "fr": "Volume : Activer les couleurs"
   },
   "chart_gridlines": {
     "en": "Gridlines",
@@ -458,7 +466,7 @@
   },
   "chart_intervalFiveMinutes": {
     "en": "5 Minutes",
-    "fr": ""
+    "fr": "5 minutes"
   },
   "chart_intervalOneHour": {
     "en": "1 Hour"
@@ -517,7 +525,8 @@
   },
   "chart_rangeNotAvailableFormatted": {
     "_formatted": "false",
-    "en": "%s chart range not available"
+    "en": "%s chart range not available",
+    "fr": "Intervalle %s du graphique non disponible"
   },
   "chart_rangeOneDay": {
     "en": "1 Day",
@@ -620,7 +629,7 @@
   },
   "csvExport_exportAndOverwrite": {
     "en": "Export and overwrite existing file",
-    "fr": ""
+    "fr": "Exporter et écraser le fichier existant"
   },
   "csvExport_externalStorageHelp": {
     "en": "To export, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nYou can choose to export to SDCard or local storage (open the side menu in the file picker), or Google Drive. If you export to Google Drive, your file will be accessible from your computer at https://drive.google.com."
@@ -631,46 +640,47 @@
   },
   "csvExport_unableToUpload": {
     "en": "Unable to upload CSV file",
-    "fr": ""
+    "fr": "Impossible de charger le fichier CSV"
   },
   "csvImport_copyPasteHelp": {
-    "en": "Copy and paste the text containing the CSV data into the text field below. Make sure to copy and paste the headers as well. Each line of the CSV should be on a separate line."
+    "en": "Copy and paste the text containing the CSV data into the text field below. Make sure to copy and paste the headers as well. Each line of the CSV should be on a separate line.",
+    "fr": "Copiez et collez le texte contenant les données CSV dans le champ de texte ci-dessous. Assurez-vous de copier et coller les en-têtes également. Chaque ligne du fichier CSV doit être sur une ligne distincte."
   },
   "csvImport_couldNotFindData": {
     "en": "Could not find data to import",
-    "fr": ""
+    "fr": "Impossible de trouver les données à importer"
   },
   "csvImport_fileWasEmpty": {
     "en": "CSV file was empty",
-    "fr": ""
+    "fr": "Le fichier CSV était vide"
   },
   "csvImport_externalStorageHelp": {
     "en": "To import, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nTo view your Google Drive files from your computer, you can visit https://drive.google.com. You can also import from your SDCard or any other external storage (open the side menu in the file picker)."
   },
   "csvImport_importAndOverwrite": {
     "en": "Delete local data after importing",
-    "fr": ""
+    "fr": "Supprimer les données locales après avoir importé"
   },
   "csvImport_imported": {
     "en": "Imported",
-    "fr": ""
+    "fr": "Importé"
   },
   "csvImport_importedQuotesAndHoldingsFormatted": {
     "_formatted": "false",
     "en": "Successfully imported %s quotes and %s holdings",
-    "fr": ""
+    "fr": "Importation réussie de %s cours et %s positions"
   },
   "csvImport_importing": {
     "en": "Importing…",
-    "fr": ""
+    "fr": "Importation…"
   },
   "csvImport_pasteDataHere": {
     "en": "Paste data here",
-    "fr": ""
+    "fr": "Coller les données ici"
   },
   "csvImport_pleaseCopyPasteData": {
     "en": "Please copy and paste the CSV data",
-    "fr": ""
+    "fr": "Veuillez copier et coller les données CSV"
   },
   "csvImport_sizeRestriction": {
     "en": "Use File option if you have a lot of data, since Android has a 1 MB size restriction for Clipboard/Email."
@@ -680,15 +690,15 @@
   },
   "csvImport_unableToDownload": {
     "en": "Unable to download CSV file",
-    "fr": ""
+    "fr": "Impossible de télécharger le fichier CSV"
   },
   "customizeFont_preview": {
     "en": "Preview:",
-    "fr": ""
+    "fr": "Aperçu :"
   },
   "customizeFont_title": {
     "en": "Customize Font Size",
-    "fr": ""
+    "fr": "Personnaliser la taille de la police"
   },
   "faq_canIHaveTrial": {
     "en": "Can I have a free trial?",
@@ -720,7 +730,7 @@
   },
   "generic_accountX": {
     "en": "Account: %s",
-    "fr": ""
+    "fr": "Compte : %s"
   },
   "generic_active": {
     "en": "Active",
@@ -732,8 +742,7 @@
   "generic_add": {
     "en": "Add",
     "fr": "Ajouter",
-    "zh": "加",
-    "zh-Hant-TW": "加"
+    "zh": "加"
   },
   "generic_addAlert": {
     "en": "Add Alert",
@@ -745,7 +754,7 @@
   },
   "generic_agreePrivacyPolicyAndTermsOfUse": {
     "en": "By continuing, you agree to the\\nPrivacy Policy and Terms of Use",
-    "fr": ""
+    "fr": "En continuant, vous acceptez les\\nConditions d\\'utilisation et Politique de confidentialité"
   },
   "generic_apply": {
     "en": "Apply",
@@ -753,19 +762,19 @@
   },
   "generic_autoRefresh": {
     "en": "Auto-refresh",
-    "fr": ""
+    "fr": "Mise à jour automatique"
   },
   "generic_autoRefreshOnWeekends": {
     "en": "Auto-refresh on weekends",
-    "fr": ""
+    "fr": "Mise à jour automatique les week-ends"
   },
   "generic_autoRefreshEndTime": {
     "en": "Auto-refresh end time",
-    "fr": ""
+    "fr": "Heure de fin de la mise à jour automatique"
   },
   "generic_autoRefreshStartTime": {
     "en": "Auto-refresh start time",
-    "fr": ""
+    "fr": "Heure de début de la mise à jour automatique"
   },
   "generic_beginImport": {
     "en": "Begin Import",
@@ -793,7 +802,7 @@
   },
   "generic_closeDrawerAccessibility": {
     "en": "Close navigation drawer",
-    "fr": ""
+    "fr": "Fermer le tiroir de navigation"
   },
   "generic_connectionIssue": {
     "en": "Could not reach servers. Please check your connection and try again.",
@@ -801,7 +810,9 @@
   },
   "generic_contactUs": {
     "en": "Contact Us",
-    "fr": ""
+    "fr": "Contactez-nous",
+    "zh": "联络我们",
+    "zh-Hant-TW": "聯絡我們"
   },
   "generic_continue": {
     "en": "Continue",
@@ -826,8 +837,7 @@
   "generic_done": {
     "en": "Done",
     "fr": "Terminé",
-    "zh": "完成",
-    "zh-Hant-TW": "完成"
+    "zh": "完成"
   },
   "generic_edit": {
     "en": "Edit",
@@ -847,7 +857,7 @@
   },
   "generic_enterValueBetween0And100": {
     "en": "Enter a value between 0-100",
-    "fr": ""
+    "fr": "Entrer une valeur entre 0 et 100"
   },
   "generic_enterYourAnswer": {
     "en": "Enter your answer",
@@ -855,11 +865,11 @@
   },
   "generic_enterYourQuestion": {
     "en": "Enter your question",
-    "fr": ""
+    "fr": "Entrez votre question"
   },
   "generic_errorImageAccessibility": {
     "en": "Error Image",
-    "fr": ""
+    "fr": "Image d\\'erreur"
   },
   "generic_errorFetchingResults": {
     "en": "Error fetching results. Please try again later.",
@@ -879,7 +889,9 @@
   },
   "generic_faq": {
     "en": "Frequently Asked Questions",
-    "fr": "Questions fréquentes"
+    "fr": "Questions fréquentes",
+    "zh": "常见问题",
+    "zh-Hant-TW": "常見問題"
   },
   "generic_failedToOpenBrowser": {
     "en": "Could not open your web browser. Please check that you have one installed."
@@ -890,11 +902,13 @@
   },
   "generic_fontSize": {
     "en": "Font Size",
-    "fr": ""
+    "fr": "Taille de police"
   },
   "generic_from_colon": {
     "en": "From:",
-    "fr": "De :"
+    "fr": "De :",
+    "zh": "从：",
+    "zh-Hant-TW": "從："
   },
   "generic_help": {
     "en": "Help",
@@ -906,7 +920,7 @@
   },
   "generic_hideAdvertisingAccessibility": {
     "en": "Hide Advertising",
-    "fr": ""
+    "fr": "Cacher la publicité"
   },
   "generic_iconAccessibility": {
     "en": "Icon",
@@ -966,17 +980,20 @@
     "en": "Navigation Toolbar"
   },
   "generic_networkNotAvailable": {
-    "en": "Network not available. Please connect to the internet and try again."
+    "en": "Network not available. Please connect to the internet and try again.",
+    "fr": "Réseau non disponible Veuillez vous connecter à Internet et réessayer."
   },
   "generic_newVersionAvailable": {
     "en": "New version available",
     "fr": "Nouvelle version disponible"
   },
   "generic_newVersionAvailableHardUpgradeHelp": {
-    "en": "Please upgrade to the newest version of the app for important bug fixes."
+    "en": "Please upgrade to the newest version of the app for important bug fixes.",
+    "fr": "Veuillez mettre à jour vers la dernière version de l\\'application pour bénéficier de correctifs importants."
   },
   "generic_newVersionAvailableHelp": {
-    "en": "There is a new version of the app available and it is recommended to update. Download the update?"
+    "en": "There is a new version of the app available and it is recommended to update. Download the update?",
+    "fr": "Il existe une nouvelle version de l\\'application disponible et il est recommandé de la mettre à jour. Télécharger la mise à jour ?"
   },
   "generic_no": {
     "en": "No",
@@ -1013,7 +1030,8 @@
     "fr": "OK"
   },
   "generic_openDrawerAccessibility": {
-    "en": "Open navigation drawer"
+    "en": "Open navigation drawer",
+    "fr": "Ouvrir le tiroir de navigation"
   },
   "generic_pasteFromClipboard": {
     "en": "Paste from Clipboard"
@@ -1026,10 +1044,12 @@
     "en": "/year"
   },
   "generic_pleaseAgreeToPrivacyPolicyAndTerms": {
-    "en": "Please agree to the Privacy Policy and Terms of Use before continuing"
+    "en": "Please agree to the Privacy Policy and Terms of Use before continuing",
+    "fr": "Veuillez accepter la Politique de confidentialité et les conditions d\\'utilisation avant de continuer"
   },
   "generic_privacyPolicy": {
-    "en": "Privacy Policy"
+    "en": "Privacy Policy",
+    "fr": "Politique de confidentialité"
   },
   "generic_proceedOffline": {
     "en": "Proceed Offline",
@@ -1037,7 +1057,7 @@
   },
   "generic_questionsViewFAQ": {
     "en": "View FAQ",
-    "fr": ""
+    "fr": "Voir FAQ"
   },
   "generic_reactivate": {
     "en": "Re-activate",
@@ -1093,53 +1113,65 @@
   },
   "generic_signOut": {
     "en": "Sign Out",
-    "fr": "Déconnexion"
+    "fr": "Déconnexion",
+    "zh": "登出"
   },
   "generic_sign_in": {
     "en": "Sign In",
-    "fr": "Se connecter"
+    "fr": "Se connecter",
+    "zh": "登入"
   },
   "generic_signInToSyncAcrossDevices": {
     "en": "Sign in to sync across devices",
-    "fr": "Sélectionner un fichier"
+    "fr": ""
   },
   "generic_smaller": {
-    "en": "Smaller"
+    "en": "Smaller",
+    "fr": "Plus petit"
   },
   "generic_sort": {
-    "en": "Sort"
+    "en": "Sort",
+    "fr": ""
   },
   "generic_subscribed": {
-    "en": "Subscribed"
+    "en": "Subscribed",
+    "fr": ""
   },
   "generic_sure": {
-    "en": "Sure"
+    "en": "Sure",
+    "fr": "Bien sûr"
   },
   "generic_sync": {
-    "en": "Sync"
+    "en": "Sync",
+    "fr": ""
   },
   "generic_tapToEdit": {
     "en": "Tap to edit"
   },
   "generic_termsOfUse": {
-    "en": "Terms of Use"
+    "en": "Terms of Use",
+    "fr": "Conditions d\\'utilisation"
   },
   "generic_to_colon": {
     "en": "To:",
-    "fr": "À :"
+    "fr": "À :",
+    "zh": "至："
   },
   "generic_today": {
-    "en": "Today"
+    "en": "Today",
+    "fr": "Aujourd\\'hui"
   },
   "generic_tooltipImageAccessibility": {
-    "en": "Tooltip Image"
+    "en": "Tooltip Image",
+    "fr": "Image"
   },
   "generic_twitter": {
     "en": "Twitter",
     "fr": "Twitter"
   },
   "generic_twitterHelp": {
-    "en": "Reach out to us on Twitter"
+    "en": "Reach out to us on Twitter",
+    "fr": "Nous joindre sur Twitter"
   },
   "generic_type": {
     "en": "Type"
@@ -1160,19 +1192,24 @@
     "fr": "Annonces"
   },
   "help_couldNotConnect": {
-    "en": "Could not connect to the Help server. Email the developer with your question?"
+    "en": "Could not connect to the Help server. Email the developer with your question?",
+    "fr": "Impossible de se connecter au serveur d\\'aide. Envoyez un email au développeur avec votre question ?"
   },
   "help_dontSeeMyAnswer": {
-    "en": "I don\\'t see my answer…"
+    "en": "I don\\'t see my answer…",
+    "fr": "Je ne vois pas ma réponse…"
   },
   "help_howCanWeHelp": {
-    "en": "How can we help?"
+    "en": "How can we help?",
+    "fr": "Comment pouvons-nous vous aider ?"
   },
   "help_needMoreHelp": {
-    "en": "Need more help?"
+    "en": "Need more help?",
+    "fr": "Besoin d\\'aide ?"
   },
   "help_noAnswer": {
-    "en": "Sorry, we could not find an answer to your question."
+    "en": "Sorry, we could not find an answer to your question.",
+    "fr": "Désolé, nous n\\'avons pas trouvé de réponse à votre question."
   },
   "help_popularTopics": {
     "en": "Popular topics",
@@ -1191,168 +1228,181 @@
     "fr": "Suggestions"
   },
   "logInOut_couldNotConnectToGoogle": {
-    "en": "Could not connect to Google. Please try again later."
+    "en": "Could not connect to Google. Please try again later.",
+    "fr": "Impossible de se connecter à Google. Veuillez réessayer plus tard."
   },
   "logInOut_googleSignInFailed": {
-    "en": "Google sign-in failed. Please try again later."
+    "en": "Google sign-in failed. Please try again later.",
+    "fr": "La connexion à Google a échoué. Veuillez réessayer plus tard."
   },
   "logInOut_googleSignOutError": {
-    "en": "Error signing out of Google"
+    "en": "Error signing out of Google",
+    "fr": "Erreur lors de la déconnexion de Google"
   },
   "logInOut_signInWithYourGoogleAccount": {
-    "en": "Please sign in with your Google account to continue"
+    "en": "Please sign in with your Google account to continue",
+    "fr": "Veuillez vous connecter avec votre compte Google pour continuer"
   },
   "logInOut_signInToPurchase": {
-    "en": "Sign in first so that your purchases are saved to the cloud, can restored, and synced to other devices? If you have multiple accounts on your phone, you can sign in so that the purchase is linked to the correct account."
+    "en": "Sign in first so that your purchases are saved to the cloud, can restored, and synced to other devices? If you have multiple accounts on your phone, you can sign in so that the purchase is linked to the correct account.",
+    "fr": ""
   },
   "logInOut_signInToRestorePurchases": {
-    "en": "Sign in to share purchases on the cloud? Click No if you want to use your local Google Play account. (If you have multiple accounts on your phone, Google Play sometimes restores it from the incorrect account. You should sign in to the correct account to workaround that issue.).\\n\\nNote: If your purchases are shared on the cloud and you are not signed in, they will be transferred from the cloud to your local account, and other signed in devices using purchases from the cloud will lose access to that purchase. To share purchases on the cloud, sign in, and then click restore, to transfer purchases from your local device to the cloud."
+    "en": "Sign in to share purchases on the cloud? Click No if you want to use your local Google Play account. (If you have multiple accounts on your phone, Google Play sometimes restores it from the incorrect account. You should sign in to the correct account to workaround that issue.).\\n\\nNote: If your purchases are shared on the cloud and you are not signed in, they will be transferred from the cloud to your local account, and other signed in devices using purchases from the cloud will lose access to that purchase. To share purchases on the cloud, sign in, and then click restore, to transfer purchases from your local device to the cloud.",
+    "fr": ""
   },
   "logInOut_signOutOfGoogle": {
-    "en": "Sign Out of Google"
+    "en": "Sign Out of Google",
+    "fr": "Se déconnecter de Google"
   },
   "logInOut_signOutOrSwitchAccount": {
-    "en": "Sign Out / Switch Account"
+    "en": "Sign Out / Switch Account",
+    "fr": "Se déconnecter / Changer de compte"
   },
   "logInOut_signingInToGoogle": {
-    "en": "Signing in to Google…"
+    "en": "Signing in to Google…",
+    "fr": "Connexion à Google…"
   },
   "logInOut_signingOutOfGoogle": {
-    "en": "Signing out of Google…"
+    "en": "Signing out of Google…",
+    "fr": "Déconnexion de Google…"
   },
   "logInOut_switchAccount": {
-    "en": "Switch Account"
+    "en": "Switch Account",
+    "fr": "Changer de compte"
   },
   "logInOut_switchAccountHescription": {
-    "en": "Sign in to another Google account"
+    "en": "Sign in to another Google account",
+    "fr": "Connexion à un autre compte Google"
   },
   "news_browserTitle": {
     "en": "Browser",
-    "fr": ""
+    "fr": "Navigateur"
   },
   "news_configureNews": {
     "en": "Configure News",
-    "fr": ""
+    "fr": "Régler les actualités"
   },
   "news_configureNewsHelp": {
     "en": "Configure which categories to view market news for by tapping Configure News (Gear icon) in the menu, or by tapping here.",
-    "fr": ""
+    "fr": "Régler pour quels catégories visualiser les actualités en tapant Régler les actualités (icone roue dentée) dans le menu, ou en tapant ici."
   },
   "news_fetchFailed": {
     "en": "Failed to fetch news. Please check that you have internet connection and try again later.",
-    "fr": ""
+    "fr": "Impossible d\\'aller chercher l\\'actualité. Veuillez vérifier que vous avez une connexion Internet et réessayer plus tard."
   },
   "news_filterNewsFromXFormatted": {
     "_formatted": "false",
     "en": "Filter news from %s?",
-    "fr": ""
+    "fr": "Filtrer les nouvelles de %s ?"
   },
   "news_filterNewsSourcesHelp": {
-    "en": "To filter a news source, press-hold on it from the news listings page. To remove a filter, click on it below."
+    "en": "To filter a news source, press-hold on it from the news listings page. To remove a filter, click on it below.",
+    "fr": "Pour filtrer une source d\\'actualités, faites un clic long à partir de la page des nouvelles. Pour supprimer un filtre, cliquez ci-dessous."
   },
   "news_filteredNewsSources": {
     "en": "Filtered News Sources",
-    "fr": ""
+    "fr": "Sources d\\'informations filtrées"
   },
   "news_help": {
     "en": "Which categories do you want to retrieve news for? To re-order, press-hold for two seconds and then drag up/down.",
-    "fr": ""
+    "fr": "Pour quels catégories voulez-vous recevoir les actualités? Pour ordonner la liste, maintenez appuyé durant deux secondes et déplacer vers le haut ou le bas."
   },
   "news_imageAccessibility": {
     "en": "News Image",
-    "fr": ""
+    "fr": "Image de l\\'actualité"
   },
   "news_loading": {
     "en": "Loading News…",
-    "fr": ""
+    "fr": "Chargement des actualités…"
   },
   "news_share": {
     "en": "Share",
-    "fr": ""
+    "fr": "Partager"
   },
   "news_sharedViaFormatted": {
     "_formatted": "false",
-    "en": "shared via %s"
+    "en": "shared via %s",
+    "fr": "partagé via %s"
   },
   "news_sorryCouldNotOpenNewsArticle": {
     "en": "Sorry, we couldn\\'t open that news article.",
-    "fr": ""
+    "fr": "Désolé, nous ne pouvons pas ouvrir cet article."
   },
   "news_title": {
     "en": "News",
-    "fr": ""
+    "fr": "Actualités"
   },
   "password_confirmPassword": {
     "en": "Confirm Password",
-    "fr": ""
+    "fr": "Confirmez le mot de passe"
   },
   "password_enable": {
     "en": "Enable password protection",
-    "fr": ""
+    "fr": "Activer la protection par mot de passe"
   },
   "password_enableHelp": {
     "en": "Enabling password protection will prompt for a password when the app is launched. If you lose your password, you will need to re-install the app.\\n\\nSetting a password does not protect your data if your device is stolen. Google provides ways to remotely wipe your device: https://www.google.com/#q=android+remotely+wipe+phone",
-    "fr": ""
+    "fr": "L\\'activation de la protection par mot de passe nécessitera la saisie d\\'un mot de passe au lancement de l\\'application. Si vous perdez votre mot de passe, vous devrez réinstaller l\\'application.\\n\\nLa définition d\\'un mot de passe ne protège pas vos données si votre appareil est volé. Google propose des moyens d\\'effacer à distance votre appareil : https://www.google.com/#q=android+remotely+wipe+phone"
   },
   "password_enterPassword": {
     "en": "Enter Password",
-    "fr": ""
+    "fr": "Entrer le mot de passe"
   },
   "password_enterPasswordPrompt": {
     "en": "Please enter a password",
-    "fr": ""
+    "fr": "Veuillez entrer un mot de passe"
   },
   "password_enterPasswordTimeoutPrompt": {
     "en": "Please enter a valid password timeout (integer between 5 to 3600)",
-    "fr": ""
+    "fr": "Veuillez entrer un délai d\\'expiration de mot de passe valide (entier compris entre 5 et 3600)"
   },
   "password_enterPasswordToContinue": {
     "en": "Enter password to continue",
-    "fr": ""
+    "fr": "Entrez le mot de passe pour continuer"
   },
   "password_incorrectConfirmationPassword": {
     "en": "Incorrect confirmation password",
-    "fr": ""
+    "fr": "Mot de passe de confirmation incorrect"
   },
   "password_incorrectPassword": {
     "en": "Incorrect password",
-    "fr": ""
+    "fr": "Mot de passe incorrect"
   },
   "password_pleaseConfirmYourPassword": {
     "en": "Please confirm your password",
-    "fr": ""
+    "fr": "S\\'il vous plaît confirmez votre mot de passe"
   },
   "password_showPortfolioInfoOnWidget": {
     "en": "Show portfolio information on widget",
-    "fr": ""
+    "fr": "Afficher les informations de portefeuille sur le widget"
   },
   "password_showQuotesListOnWidget": {
     "en": "Show quotes list on widget",
-    "fr": ""
+    "fr": "Afficher la liste des cours sur le widget"
   },
   "password_timeoutInSeconds": {
     "en": "Timeout in seconds",
-    "fr": ""
+    "fr": "Délai d\\'attente en secondes"
   },
   "password_title": {
     "en": "Password Protection",
-    "fr": ""
+    "fr": "Protection par mot de passe"
   },
   "portfolioAllocations_groupInOthers": {
     "en": "Group holding in \\'Others\\' when less than % of total",
-    "fr": ""
+    "fr": "Grouper les position sous \\'Autres\\' quand ils représentent moins que % du total"
   },
   "portfolioAnalysis_changeSettings": {
     "en": "To change, open Settings, Calculations",
-    "fr": ""
+    "fr": "Pour modifier, ouvrer Réglages, Calculs"
   },
   "portfolio_absoluteMagnitude": {
-    "en": "Absolute / Magnitude",
-    "fr": ""
+    "en": "Absolute / Magnitude"
   },
   "portfolio_addPortfolio": {
     "en": "Add Portfolio",
-    "fr": ""
+    "fr": "Ajouter un portefeuille"
   },
   "portfolio_addToPortfolio": {
     "en": "Add to Portfolio",
@@ -1369,28 +1419,35 @@
     "en": "To assign tags, click the pie chart and then on the labels button"
   },
   "portfolio_allocations": {
-    "en": "Allocations"
+    "en": "Allocations",
+    "fr": "Allocations"
   },
   "portfolio_allPositions": {
-    "en": "All Positions"
+    "en": "All Positions",
+    "fr": "Toutes les positions"
   },
   "portfolio_allTime": {
-    "en": "All-Time"
+    "en": "All-Time",
+    "fr": "Toujours"
   },
   "portfolio_allTimeColon": {
     "en": "All-Time:"
   },
   "portfolio_annualized": {
-    "en": "Annualized:"
+    "en": "Annualized:",
+    "fr": "Annualisé :"
   },
   "portfolio_annualizedXIRR": {
-    "en": "Annualized XIRR"
+    "en": "Annualized XIRR",
+    "fr": "Annualisé (XIRR)"
   },
   "portfolio_brokerSettings": {
-    "en": "Broker Settings"
+    "en": "Broker Settings",
+    "fr": "Paramètres de courtage"
   },
   "portfolio_cantManuallySortWhenAutoSortOn": {
-    "en": "Can\\'t manually sort when a column header is locked to a sort. Please tap the locked column header and choose \"Manual Sort\"."
+    "en": "Can\\'t manually sort when a column header is locked to a sort. Please tap the locked column header and choose \"Manual Sort\".",
+    "fr": "Impossible de trier manuellement lorsque qu\\'une colonne est utilisée pour trier. Tapez sur l\\'en-tête de colonne et choisissez \"Manual Sort\"."
   },
   "portfolio_ceo": {
     "en": "CEO",
@@ -1398,11 +1455,11 @@
   },
   "portfolio_change": {
     "en": "Change",
-    "fr": ""
+    "fr": "Variation"
   },
   "portfolio_closedSoldPositions": {
     "en": "Closed / Sold Positions",
-    "fr": ""
+    "fr": "Fermé / Positions vendues"
   },
   "portfolio_costBasis": {
     "en": "Cost Basis",
@@ -1416,7 +1473,8 @@
     "en": "Could not add to portfolio"
   },
   "portfolio_couldNotMoveToPortfolio": {
-    "en": "Could not move to portfolio"
+    "en": "Could not move to portfolio",
+    "fr": "Impossible de déplacer vers le portefeuille"
   },
   "portfolio_currency": {
     "en": "Currency",
@@ -1429,7 +1487,8 @@
     "zh-Hant-TW": "幣別："
   },
   "portfolio_currentPortfolio": {
-    "en": "Current Portfolio"
+    "en": "Current Portfolio",
+    "fr": "Portefeuille actuel"
   },
   "portfolio_daily": {
     "en": "Daily",
@@ -1437,11 +1496,11 @@
   },
   "portfolio_dailyChangeCalculation": {
     "en": "Daily Change Calculation",
-    "fr": ""
+    "fr": "Calcul des modifications quotidiennes"
   },
   "portfolio_dailyColumnSettings": {
     "en": "Daily Column Settings",
-    "fr": ""
+    "fr": "Paramètres de la colonne \"jour\""
   },
   "portfolio_defaultCurrency": {
     "en": "Default",
@@ -1456,27 +1515,33 @@
   },
   "portfolio_deleteHoldingsForQuoteFormatted": {
     "_formatted": "false",
-    "en": "Delete all Holdings for this Quote (%s)?"
+    "en": "Delete all Holdings for this Quote (%s)?",
+    "fr": "Supprimer toutes les positions pour ce cours (%s) ?"
   },
   "portfolio_deleteQuoteWarningFormatted": {
     "_formatted": "false",
-    "en": "Are you sure you want to delete this Quote (%s)?"
+    "en": "Are you sure you want to delete this Quote (%s)?",
+    "fr": ""
   },
   "portfolio_deleteQuoteWarningWithTransactionsFormatted": {
     "_formatted": "false",
-    "en": "Are you sure you want to delete this Quote (%s) and all its Holdings in this portfolio?"
+    "en": "Are you sure you want to delete this Quote (%s) and all its Holdings in this portfolio?",
+    "fr": "Supprimer un cours (%s) supprimera également toutes les positions associées dans le portefeuille. Continuer ?"
   },
   "portfolio_deleteSelectedPortfoliosWarning": {
     "_formatted": "false",
-    "en": "Are you sure you want to delete these Portfolios and all Quotes in them?"
+    "en": "Are you sure you want to delete these Portfolios and all Quotes in them?",
+    "fr": ""
   },
   "portfolio_deleteSelectedQuotesWarning": {
     "_formatted": "false",
-    "en": "Are you sure you want to delete these Quotes and all Transactions in them?"
+    "en": "Are you sure you want to delete these Quotes and all Transactions in them?",
+    "fr": ""
   },
   "portfolio_deleteSelectedQuoteTransactionsWarning": {
     "_formatted": "false",
-    "en": "Are you sure you want to delete these Holdings and all Transactions in them?"
+    "en": "Are you sure you want to delete these Holdings and all Transactions in them?",
+    "fr": ""
   },
 
   "portfolio_details": {
@@ -1484,31 +1549,40 @@
     "fr": "Détails"
   },
   "portfolio_displayLocalCurrency": {
-    "en": "Display local currency instead of home currency for:"
+    "en": "Display local currency instead of home currency for:",
+    "fr": "Afficher la devise du titre au lieu de la devise préférée pour :"
   },
   "portfolio_displayLocalCurrencyForHoldings": {
-    "en": "Individual holdings in this portfolio: For example, GOOG holdings will be shown in USD and BNS.TO holdings will be shown in CAD."
+    "en": "Individual holdings in this portfolio: For example, GOOG holdings will be shown in USD and BNS.TO holdings will be shown in CAD.",
+    "fr": "Positions individuelles dans ce portefeuille : Par exemple, les positions GOOG seront indiquées en USD et celles de BNS.TO seront indiquées en dollars canadiens."
   },
   "portfolio_displayLocalCurrencyForTotals": {
-    "en": "Aggregate totals in this portfolio: All quotes in this portfolio must be the same currency. Aggregate totals refers to the totals at top and bottom of screen."
+    "en": "Aggregate totals in this portfolio: All quotes in this portfolio must be the same currency. Aggregate totals refers to the totals at top and bottom of screen.",
+    "fr": "Totaux agrégés dans ce portefeuille : Tous les cours dans ce portefeuille doivent avoir la même devise. Les totaux agrégés font référence aux totaux en haut et en bas de l\\'écran."
   },
   "portfolio_dividends": {
-    "en": "Dividends"
+    "en": "Dividends",
+    "fr": "Dividendes"
   },
   "portfolio_dividendsColon": {
-    "en": "Dividends:"
+    "en": "Dividends:",
+    "fr": "Dividendes :"
   },
   "portfolio_dividendsInTotals": {
-    "en": "Dividends reflected in totals"
+    "en": "Dividends reflected in totals",
+    "fr": "Dividendes reflétés dans les totaux"
   },
   "portfolio_dividendsInTotalsHelp": {
-    "en": "If OFF, dividends not reinvested will be omitted from your total calculations. Dividends reinvested will be reflected with a cost basis as if you purchased again with cash. This is the accounting method used at most exchanges. If ON, dividends in both cases are added to your total calculations at no cost basis."
+    "en": "If OFF, dividends not reinvested will be omitted from your total calculations. Dividends reinvested will be reflected with a cost basis as if you purchased again with cash. This is the accounting method used at most exchanges. If ON, dividends in both cases are added to your total calculations at no cost basis.",
+    "fr": "Si OFF, les dividendes non réinvestis seront omis du calcul du total. Les dividendes réinvestis apparaîtront avec un cout de base comme si vous achetiez à nouveau avec des espèces. C\\'est la méthode de calcul utilisée dans la plupart des échanges. Si ON, les dividendes sont ajoutés dans les deux cas au calcul du total sans cout de base."
   },
   "portfolio_dividendsNotReinvestedHelp": {
-    "en": "Dividends that are not part of a dividend reinvestment plan (DRIP) and converted to cash. If you re-invest these later, you should add a new BUY transaction. Amount should be in stock\\'s local currency. You can change how dividends are reflected in your total calculations in the app Settings under Calculations."
+    "en": "Dividends that are not part of a dividend reinvestment plan (DRIP) and converted to cash. If you re-invest these later, you should add a new BUY transaction. Amount should be in stock\\'s local currency. You can change how dividends are reflected in your total calculations in the app Settings under Calculations.",
+    "fr": "Dividendes qui ne font pas partie d\\'un régime de réinvestissement des dividendes (RRD) et convertis en espèces. Si vous les réinvestissez plus tard, vous devez ajouter une nouvelle transaction ACHETER. Le montant doit être dans la device du titre. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs."
   },
   "portfolio_dividendsReinvestedHelp": {
-    "en": "Dividends part of a dividend reinvestment plan (DRIP). You do not need to add a separate transaction for the dividends to cash conversion. You can change how dividends are reflected in your total calculations in the app Settings under Calculations."
+    "en": "Dividends part of a dividend reinvestment plan (DRIP). You do not need to add a separate transaction for the dividends to cash conversion. You can change how dividends are reflected in your total calculations in the app Settings under Calculations.",
+    "fr": "Dividendes faisant partie d\\'un régime de réinvestissement des dividendes (RRD). Vous n\\'avez pas besoin d\\'ajouter une transaction séparée pour la conversion des dividendes en espèces. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs."
   },
   "portfolio_doNotAddToTotals": {
     "en": "Don\\'t add to totals on Portfolios Overview screen",
@@ -1516,15 +1590,15 @@
   },
   "portfolio_editHolding": {
     "en": "Edit Holding",
-    "fr": ""
+    "fr": "Modifier la transaction"
   },
   "portfolio_editOrDeletePortfolio": {
     "en": "Edit/Delete Portfolio",
-    "fr": ""
+    "fr": "Modifier / Supprimer le portefeuille"
   },
   "portfolio_editPortfolio": {
     "en": "Edit Portfolio",
-    "fr": ""
+    "fr": "Modifier le portefeuille"
   },
   "portfolio_enterThresholdOneToHundred": {
     "en": "Enter a threshold between 0–100"
@@ -1550,32 +1624,42 @@
     "fr": "Devise préférée"
   },
   "portfolio_homeCurrencyHelp": {
-    "en": "Your holdings will be converted to display in this currency. Note: historical performance chart data will be cleared."
+    "en": "Your holdings will be converted to display in this currency. Note: historical performance chart data will be cleared.",
+    "fr": "Vos avoirs seront convertis et affichés dans cette devise"
   },
   "portfolio_lastKnownDailyChange": {
-    "en": "Last Known Daily Change"
+    "en": "Last Known Daily Change",
+    "fr": "Dernier cours connu"
   },
   "portfolio_lastPrice": {
     "en": "Last Price",
-    "fr": "Cours"
+    "fr": "Cours",
+    "zh": "最新成交价格",
+    "zh-Hant-TW": "最新成交價格"
   },
   "portfolio_ledgerNoTransactions": {
-    "en": "No transactions added yet"
+    "en": "No transactions added yet",
+    "fr": ""
   },
   "portfolio_marketNews": {
-    "en": "Market News"
+    "en": "Market News",
+    "fr": "Actualités du marché"
   },
   "portfolio_moveToPortfolio": {
-    "en": "Move/Copy to Portfolio"
+    "en": "Move/Copy to Portfolio",
+    "fr": "Déplacer/Copie vers le portefeuille"
   },
   "portfolio_movingToPortfolio": {
-    "en": "Moving to portfolio…"
+    "en": "Moving to portfolio…",
+    "fr": "Déplacement vers le portefeuille…"
   },
   "portfolio_multipleCurrenciesNoHomeCurrency": {
-    "en": "Multiple currencies detected but a home currency is not set, so totals can\\'t be calculated. Please tap here to set a home currency."
+    "en": "Multiple currencies detected but a home currency is not set, so totals can\\'t be calculated. Please tap here to set a home currency.",
+    "fr": "Plusieurs monnaies sont détectées mais aucune devise préférée n\\'est définie. Les totaux ne peuvent donc pas être calculés. S\\'il vous plaît appuyez ici pour définir une devise préférée."
   },
   "portfolio_multipleCurrenciesUseLocalTotals": {
-    "en": "This portfolio has different currencies but is set to display aggregate totals in its local currency. This option only works if the portfolio has holdings of one local currency. Tap here to edit currency settings."
+    "en": "This portfolio has different currencies but is set to display aggregate totals in its local currency. This option only works if the portfolio has holdings of one local currency. Tap here to edit currency settings.",
+    "fr": "Ce portefeuille a différentes devises mais est configuré pour afficher les totaux globaux dans sa devise. Cette option ne fonctionne que si le portefeuille possède des positions dans une seule devise. Appuyez ici pour modifier les paramètres de devise."
   },
   "portfolio_noPortfoliosHelp": {
     "en": "Add a new portfolio or watchlist by tapping the Add button in the menu or by tapping here."
@@ -1587,19 +1671,20 @@
     "en": "Track a new transaction by tapping the Add button in the menu or by tapping here."
   },
   "portfolio_openUnsoldPositions": {
-    "en": "Open / Unsold Positions"
+    "en": "Open / Unsold Positions",
+    "fr": "Ouvert / Positions non vendues"
   },
   "portfolio_portfolioCurrency": {
     "en": "Portfolio Currency",
-    "fr": ""
+    "fr": "Devise du portefeuille"
   },
   "portfolio_portfolioIconAccessibility": {
     "en": "Portfolio Icon",
-    "fr": ""
+    "fr": "Icône de portefeuille"
   },
   "portfolio_portfolioMultipleCurrenciesNoHomeCurrency": {
     "en": "This portfolio has different currencies but a home currency is not set, so totals can\\'t be calculated. Please tap here to set currency settings.",
-    "fr": ""
+    "fr": "Ce portefeuille a différentes devises mais aucune devise préférée n\\'est définie. Les totaux ne peuvent donc pas être calculés. S\\'il vous plaît appuyez ici pour définir les paramètres de devise."
   },
   "portfolio_portfolios": {
     "en": "Portfolios",
@@ -1607,7 +1692,7 @@
   },
   "portfolio_portfoliosOverview": {
     "en": "Portfolios Overview",
-    "fr": ""
+    "fr": "Synthèse des portefeuilles"
   },
   "portfolio_quotes": {
     "en": "Quotes",
@@ -1651,12 +1736,12 @@
   "portfolio_priceAndSharesFormatted": {
     "_formatted": "false",
     "en": "%s x %s shares",
-    "fr": ""
+    "fr": "%s x %s actions"
   },
   "portfolio_priceAndSharesFormattedWithLocal": {
     "_formatted": "false",
     "en": "%s (%s) x %s shares",
-    "fr": ""
+    "fr": "%s (%s) x %s actions"
   },
   "portfolio_showDetails": {
     "en": "Show Details",
@@ -1680,7 +1765,7 @@
   },
   "portfolio_sortChangePercentReverse": {
     "en": "Change % (Ascending)",
-    "fr": ""
+    "fr": "Variation % (Décroissant)"
   },
   "portfolio_sortAbsChangePercentReverse": {
     "en": "Change % (Absolute, Ascending)",
@@ -1688,7 +1773,7 @@
   },
   "portfolio_sortChangeReverse": {
     "en": "Change (Ascending)",
-    "fr": ""
+    "fr": "Variation (Décroissant)"
   },
   "portfolio_sortAbsChangeReverse": {
     "en": "Change (Absolute, Ascending)",
@@ -1700,11 +1785,11 @@
   },
   "portfolio_sortCostBasisReverse": {
     "en": "Cost Basis (Ascending)",
-    "fr": ""
+    "fr": "Cout (Décroissant)"
   },
   "portfolio_sortDailyChange": {
     "en": "Daily Change",
-    "fr": ""
+    "fr": "Variation quotidienne"
   },
   "portfolio_sortAbsDailyChange": {
     "en": "Daily Change (Absolute)",
@@ -1712,7 +1797,7 @@
   },
   "portfolio_sortDailyChangePercent": {
     "en": "Daily Change %",
-    "fr": ""
+    "fr": "Variation quotidienne %"
   },
   "portfolio_sortAbsDailyChangePercent": {
     "en": "Daily Change % (Absolute)",
@@ -1720,7 +1805,7 @@
   },
   "portfolio_sortDailyChangePercentReverse": {
     "en": "Daily Change % (Ascending)",
-    "fr": ""
+    "fr": "Variation quotidienne % (Décroissant)"
   },
   "portfolio_sortAbsDailyChangePercentReverse": {
     "en": "Daily Change % (Absolute, Ascending)",
@@ -1728,7 +1813,7 @@
   },
   "portfolio_sortDailyChangeReverse": {
     "en": "Daily Change (Ascending)",
-    "fr": ""
+    "fr": "Variation quotidienne (Décroissant)"
   },
   "portfolio_sortAbsDailyChangeReverse": {
     "en": "Daily Change (Absolute, Ascending)",
@@ -1736,17 +1821,17 @@
   },
   "portfolio_sortDragHandleAccessibility": {
     "en": "Drag Handle",
-    "fr": ""
+    "fr": "Faites glisser la poignée"
   },
   "portfolio_sortHoldingSelectedFormatted": {
     "_formatted": "false",
     "en": "%d Holding Selected",
-    "fr": ""
+    "fr": "%d position selectionnée"
   },
   "portfolio_sortHoldingsSelectedFormatted": {
     "_formatted": "false",
     "en": "%d Holdings Selected",
-    "fr": ""
+    "fr": "%d positions selectionnées"
   },
   "portfolio_sortName": {
     "en": "Name",
@@ -1758,21 +1843,21 @@
   },
   "portfolio_sortNumberTransactions": {
     "en": "Number of Transactions",
-    "fr": ""
+    "fr": "Nombre de transactions"
   },
   "portfolio_sortNumberTransactionsReverse": {
     "en": "Number of Transactions (Ascending)",
-    "fr": ""
+    "fr": "Nombre de transactions (Décroissant)"
   },
   "portfolio_sortPortfolioSelectedFormatted": {
     "_formatted": "false",
     "en": "%d Portfolio Selected",
-    "fr": ""
+    "fr": "%d portefeuille selectionné"
   },
   "portfolio_sortPortfoliosSelectedFormatted": {
     "_formatted": "false",
     "en": "%d Portfolios Selected",
-    "fr": ""
+    "fr": "%d portefeuilles selectionnés"
   },
   "portfolio_sortPrice": {
     "en": "Price",
@@ -1785,12 +1870,12 @@
   "portfolio_sortQuoteSelectedFormatted": {
     "_formatted": "false",
     "en": "%d Quote Selected",
-    "fr": ""
+    "fr": "%d quotation selectionné"
   },
   "portfolio_sortQuotesSelectedFormatted": {
     "_formatted": "false",
     "en": "%d Quotes Selected",
-    "fr": ""
+    "fr": "%d quotations selectionnés"
   },
   "portfolio_sortSymbols": {
     "en": "Symbols",
@@ -1802,7 +1887,7 @@
   },
   "portfolio_sortTotalChange": {
     "en": "Total Change",
-    "fr": ""
+    "fr": "Variation totale"
   },
   "portfolio_sortAbsTotalChange": {
     "en": "Total Change (Absolute)",
@@ -1810,7 +1895,7 @@
   },
   "portfolio_sortTotalChangePercent": {
     "en": "Total Change %",
-    "fr": ""
+    "fr": "Variation totale %"
   },
   "portfolio_sortAbsTotalChangePercent": {
     "en": "Total Change % (Absolute)",
@@ -1818,7 +1903,7 @@
   },
   "portfolio_sortTotalChangePercentReverse": {
     "en": "Total Change % (Ascending)",
-    "fr": ""
+    "fr": "Variation totale % (Décroissant)"
   },
   "portfolio_sortAbsTotalChangePercentReverse": {
     "en": "Total Change % (Absolute, Ascending)",
@@ -1826,7 +1911,7 @@
   },
   "portfolio_sortTotalChangeReverse": {
     "en": "Total Change (Ascending)",
-    "fr": ""
+    "fr": "Variation totale (Décroissant)"
   },
   "portfolio_sortAbsTotalChangeReverse": {
     "en": "Total Change (Absolute, Ascending)",
@@ -1837,27 +1922,32 @@
     "fr": "Valeur"
   },
   "portfolio_sortValueReverse": {
-    "en": "Value (Ascending)"
+    "en": "Value (Ascending)",
+    "fr": "Valeur (Décroissant)"
   },
   "portfolio_sortCondition": {
-    "en": "Type"
+    "en": "Type",
+    "fr": ""
   },
   "portfolio_sortConditionReverse": {
-    "en": "Type (Reverse)"
+    "en": "Type (Reverse)",
+    "fr": ""
   },
   "portfolio_sortState": {
-    "en": "Triggered State"
+    "en": "Triggered State",
+    "fr": ""
   },
   "portfolio_sortStateReverse": {
-    "en": "Triggered State (Reverse)"
+    "en": "Triggered State (Reverse)",
+    "fr": ""
   },
   "portfolio_sort_by": {
     "en": "Sort By…",
-    "fr": ""
+    "fr": "Trier par…"
   },
   "portfolio_syncBrokerage": {
     "en": "Sync Brokerage",
-    "fr": ""
+    "fr": "Synchronisation du courtage"
   },
   "portfolio_ticker": {
     "en": "Ticker",
@@ -1872,22 +1962,28 @@
     "fr": "Total"
   },
   "portfolio_totalCostPlaceholder": {
-    "en": "Total Cost: %s"
+    "en": "Total Cost: %s",
+    "fr": ""
   },
   "portfolio_totalDividends": {
-    "en": "Total Dividends"
+    "en": "Total Dividends",
+    "fr": "Total des dividendes"
   },
   "portfolio_totalProceedsPlaceholder": {
-    "en": "Proceeds: %s"
+    "en": "Proceeds: %s",
+    "fr": ""
   },
   "portfolio_unannualized": {
-    "en": "Unannualized XIRR"
+    "en": "Unannualized XIRR",
+    "fr": ""
   },
   "portfolio_unrealized": {
-    "en": "Unrealized"
+    "en": "Unrealized",
+    "fr": "Non réalisé"
   },
   "portfolio_useTodayChange": {
-    "en": "Today\\'s Change (New day time configurable in Settings, Calculations)"
+    "en": "Today\\'s Change (New day time configurable in Settings, Calculations)",
+    "fr": "Taux de change du jour, Réinitialisé à:\\nminuit"
   },
   "portfolio_value": {
     "en": "Value",
@@ -1898,62 +1994,80 @@
     "fr": "Valeur/Coût"
   },
   "portfolio_warningDeletePortfolio": {
-    "en": "Are you sure you want to delete this portfolio?"
+    "en": "Are you sure you want to delete this portfolio?",
+    "fr": "Êtes-vous sûr de vouloir supprimer ce portefeuille ?"
   },
   "portfolioHistorical_clearLocalCache": {
-    "en": "Clear historical storage"
+    "en": "Clear historical storage",
+    "fr": ""
   },
   "portfolioHistorical_title": {
-    "en": "Calculate historical performance?\\n\\nNote: If you modify previous transactions, you may need to clear the historical storage and recalculate. If historical quote prices are missing, you can go to the quote details page and add custom historical prices from the top menu."
+    "en": "Calculate historical performance?\\n\\nNote: If you modify previous transactions, you may need to clear the historical storage and recalculate. If historical quote prices are missing, you can go to the quote details page and add custom historical prices from the top menu.",
+    "fr": ""
   },
   "portfolioHistorical_disableDataGranularity": {
-    "en": "Calculate 1 day granularity for 1+ year old data (slow)"
+    "en": "Calculate 1 day granularity for 1+ year old data (slow)",
+    "fr": ""
   },
   "purchases_alreadyPurchased": {
-    "en": "Already purchased"
+    "en": "Already purchased",
+    "fr": "Déjà acheté"
   },
   "purchases_couldNotFetchPurchases": {
-    "en": "Could not fetch in-app purchases. Please try again later."
+    "en": "Could not fetch in-app purchases. Please try again later.",
+    "fr": "Impossible de récupérer les achats. Veuillez réessayer plus tard."
   },
   "purchases_errorPurchasing": {
-    "en": "Error purchasing"
+    "en": "Error purchasing",
+    "fr": "Erreur lors de l\\'achat"
   },
   "purchases_freeLifetime": {
-    "en": "You have the lifetime premium upgrade, so you have free subscription benefits for life. You can still support the app by subscribing."
+    "en": "You have the lifetime premium upgrade, so you have free subscription benefits for life. You can still support the app by subscribing.",
+    "fr": "Vous avez une mise à jour Premium à vie, donc vous avez les bénéfices d\\'une souscription à vie. Vous pouvez encore supporter l\\'application en souscrivant."
   },
   "purchases_help": {
-    "en": "Purchases are lifetime, linked to your google account and other devices using the same google account. Please contact us if you are having issues with any purchase such as transferring to a new device."
+    "en": "Purchases are lifetime, linked to your google account and other devices using the same google account. Please contact us if you are having issues with any purchase such as transferring to a new device.",
+    "fr": "Les achats sont à vie, liés à votre compte Google et à d\\'autres appareils utilisant le même compte Google. Contactez-nous si vous rencontrez des problèmes avec un achat tel que le transfert vers un nouvel appareil."
   },
   "purchases_manageSubscriptions": {
-    "en": "Manage Subscriptions"
+    "en": "Manage Subscriptions",
+    "fr": "Gérer les Souscriptions"
   },
   "purchases_notSignedIn": {
-    "en": "Please open the Google Play Store app and verify that you are signed in"
+    "en": "Please open the Google Play Store app and verify that you are signed in",
+    "fr": "Veuillez ouvrez Google Play Store et vérifier que vous êtes authentifiés."
   },
   "purchases_pleaseRetryInFewSeconds": {
-    "en": "Please retry in a few seconds"
+    "en": "Please retry in a few seconds",
+    "fr": "Veuillez réessayer dans quelques secondes"
   },
   "purchases_promoText": {
-    "en": "Enjoy a premium ad-free experience!"
+    "en": "Enjoy a premium ad-free experience!",
+    "fr": "Profitez d\\'une expérience premium sans publicité!"
   },
   "purchases_promoServerAutoSync": {
-    "en": "✓ Auto sync data across devices"
+    "en": "✓ Auto sync data across devices",
+    "fr": ""
   },
   "purchases_promoExportData": {
-    "en": "✓ More exported data (i.e. quote prices)"
+    "en": "✓ More exported data (i.e. quote prices)",
+    "fr": ""
   },
   "purchases_promoNoAdvertisements": {
     "en": "✓ No advertisements",
     "fr": "✓ Sans publicité"
   },
   "purchases_promoFullScreenHistoricals": {
-    "en": "✓ Fullscreen portfolio historical performance"
+    "en": "✓ Fullscreen portfolio historical performance",
+    "fr": ""
   },
   "purchases_promoUnlimitedAlerts": {
-    "en": "✓ Unlimited server push alerts"
+    "en": "✓ Unlimited server push alerts",
+    "fr": ""
   },
   "purchases_restoreFailedPleaseCheckConnection": {
-    "en": "Restore Failed. Please check your internet connection and try again later."
+    "en": "Restore Failed. Please check your internet connection and try again later.",
+    "fr": "Echec de la restoration. Veuillez vérifier votre connexion internet et essayer à nouveau plus tard."
   },
   "purchases_restorePurchases": {
     "en": "Restore Purchases",
@@ -1973,31 +2087,31 @@
   },
   "purchases_signInToSyncPurchases": {
     "en": "Please sign in with your Google account so we can remember your purchases and make them available on your other Android devices.",
-    "fr": ""
+    "fr": "Veuillez vous connecter avec votre compte Google pour pouvoir synchroniser vos achats entre vos appareils."
   },
   "purchases_subscriptionActive": {
     "en": "Subscription is active\\n\\nThanks for subscribing!",
-    "fr": ""
+    "fr": "La souscription est active\\n\\nMerci d\\'avoir souscrit !"
   },
   "purchases_subscriptionIssue": {
     "en": "Something\\'s wrong with your subscription, but you\\'ve still got access during a temporary grace period. Tap here to fix the problem.",
-    "fr": ""
+    "fr": "Quelque chose pose problème à votre souscription mais vous avez toujours l\\'accès durant une période de grâce temporaire. Tapez ici pour résoudre le problème."
   },
   "purchases_subscriptionOnHold": {
     "en": "Your account is on hold because there\\'s a problem with your payment method. Tap here to fix the problem.",
-    "fr": ""
+    "fr": "Votre compte est suspendu à cause d\\'un problème avec votre méthode de paiement. Tapez ici pour résoudre le problème."
   },
   "purchases_subscriptionTransfer": {
     "en": "A different account is already using your subscription, but you can transfer your subscription to this account. Tap here to transfer the subscription.",
-    "fr": ""
+    "fr": "Un autre compte utilise déjà votre souscription mais vous pouvez transférer votre souscription vers ce compte. Tapez ici pour transférer la souscription."
   },
   "purchases_thankYouForUpgrading": {
     "en": "Thank you for upgrading!",
-    "fr": ""
+    "fr": "Merci d\\'avoir procédé à la mise à niveau !"
   },
   "purchases_trial": {
     "en": "Join free for a week\\n(first time subscribers)",
-    "fr": ""
+    "fr": "Rejoindre gratuitement pour une semaine\\n(Souscripteur pour la première fois)"
   },
   "reviewPrompt_areYouEnjoyingApp": {
     "en": "Are you enjoying this app?",
@@ -2005,15 +2119,15 @@
   },
   "reviewPrompt_couldBeBetter": {
     "en": "Could be better",
-    "fr": "Pourrait être mieu"
+    "fr": "Pourrait être mieux"
   },
   "reviewPrompt_emailFeedbackOnHowToImprove": {
     "en": "Email us feedback on how to improve?",
-    "fr": ""
+    "fr": "Envoyez-nous vos commentaires afin de nous améliorer"
   },
   "reviewPrompt_howWouldYouRateApp": {
     "en": "How would you rate the app?",
-    "fr": ""
+    "fr": "Comment évalueriez-vous l\\'application ?"
   },
   "reviewPrompt_iLoveIt": {
     "en": "I love it!",
@@ -2032,52 +2146,68 @@
     "fr": "Evaluer à 4 ⭐ ou moins"
   },
   "reviewPrompt_takeMomentToRateApp": {
-    "en": "Take a moment to rate the app? 5 ⭐ ratings help the app to attract more customers and improve."
+    "en": "Take a moment to rate the app? 5 ⭐ ratings help the app to attract more customers and improve.",
+    "fr": "Prenez un moment pour évaluer l\\'application ? 5 ⭐ aident l\\'application à attirer plus de clients et à l\\'améliorer."
   },
   "reviewPrompt_whatDoYouThinkAboutApp": {
-    "en": "What do you think about the app?"
+    "en": "What do you think about the app?",
+    "fr": "Que pensez-vous de l\\'application ?"
   },
   "settingsCalculations_askPriceIfAvailable": {
-    "en": "Ask Price, if available and within 10 percent"
+    "en": "Ask Price, if available and within 10 percent",
+    "fr": "Prix (offre), si disponible and within 10 percent"
   },
   "settingsCalculations_bidAndAskAverageIfAvailable": {
-    "en": "(Bid+Ask)/2, if available and within 10 percent"
+    "en": "(Bid+Ask)/2, if available and within 10 percent",
+    "fr": "(Demande+Offre)/2, si disponible and within 10 percent"
   },
   "settingsCalculations_bidPriceIfAvailable": {
-    "en": "Bid Price, if available and within 10 percent"
+    "en": "Bid Price, if available and within 10 percent",
+    "fr": "Prix (demande), si disponible and within 10 percent"
   },
   "settingsCalculations_extendedHoursIfAvailable": {
-    "en": "Extended Hours, if available"
+    "en": "Extended Hours, if available",
+    "fr": ""
   },
   "settingsCalculations_holdingDailyChangeUses": {
-    "en": "Holdings daily change uses…"
+    "en": "Holdings daily change uses…",
+    "fr": "Les variations du jour sur les positions utilisent…"
   },
   "settingsCalculations_holdingsCalculatedUsing": {
-    "en": "Holdings calculated using…"
+    "en": "Holdings calculated using…",
+    "fr": "Positions calculées avec…"
   },
   "settingsCalculations_yearToDateBegins": {
-    "en": "Year-to-Date (YTD) begins on…"
+    "en": "Year-to-Date (YTD) begins on…",
+    "fr": ""
   },
   "settingsCalculations_omitCashFromPercentages": {
-    "en": "Omit cash from % returns"
+    "en": "Omit cash from % returns",
+    "fr": ""
   },
   "settingsCalculations_omitCashFromPercentagesHelp": {
-    "en": "Cash will be omitted when calculating portfolio percentage returns, such as unrealized change percent"
+    "en": "Cash will be omitted when calculating portfolio percentage returns, such as unrealized change percent",
+    "fr": ""
   },
   "settingsCalculations_omitCashFromTotals": {
-    "en": "Omit cash from totals"
+    "en": "Omit cash from totals",
+    "fr": "Omettre les liquidités des totaux"
   },
   "settingsCalculations_omitCashFromTotalsHelp": {
-    "en": "Your cash will not be reflected in your total portfolio value"
+    "en": "Your cash will not be reflected in your total portfolio value",
+    "fr": "Vos liquidités ne seront pas prises en compte dans la valeur totale du portefeuille."
   },
   "settingsDisplay_averagePricePerShare": {
-    "en": "Average Price per Share"
+    "en": "Average Price per Share",
+    "fr": "Affiche Nombre d\\'actions @ Prix moyen par action"
   },
   "settingsDisplay_averagePricePerSharePrecision": {
-    "en": "Avg price per share min precision"
+    "en": "Avg price per share min precision",
+    "fr": "Précision du prix moyen par action"
   },
   "settingsDisplay_daylightFontColor": {
-    "en": "Daylight font color"
+    "en": "Daylight font color",
+    "fr": "Couleur de police de jour"
   },
   "settingsDisplay_decimalPlaces0": {
     "en": "0 decimal places",
@@ -2116,82 +2246,108 @@
     "fr": "8 décimales"
   },
   "settingsDisplay_fontSizeHelp": {
-    "en": "Adjust application font size"
+    "en": "Adjust application font size",
+    "fr": "Ajuste la taille de la police dans l\\'application"
   },
   "settingsDisplay_inlineAllTimeAndRealized": {
-    "en": "Inline all-time and realized returns"
+    "en": "Inline all-time and realized returns",
+    "fr": "Affichier les gains depuis toujours et réalisés"
   },
   "settingsDisplay_inlineAllTimeAndRealizedHelp": {
-    "en": "Show all-time and realized gains below each portfolio and holding"
+    "en": "Show all-time and realized gains below each portfolio and holding",
+    "fr": "Afficher les gains depuis toujours et réalisés sous chaque portefeuille et position"
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtd": {
-    "en": "Inline YTD realized returns"
+    "en": "Inline YTD realized returns",
+    "fr": ""
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtdHelp": {
-    "en": "Shows YTD returns (for tax loss harvesting). Requires \\'Inline all-time and realized gains\\' to be enabled."
+    "en": "Shows YTD returns (for tax loss harvesting). Requires \\'Inline all-time and realized gains\\' to be enabled.",
+    "fr": ""
   },
   "settingsDisplay_invertFontColor": {
-    "en": "Invert font color"
+    "en": "Invert font color",
+    "fr": "Inverser la couleur de la police"
   },
   "settingsDisplay_invertFontColorHelp": {
-    "en": "Invert fall/rise colors. This will make a decrease in price appear in green and a rise in price appear in red."
+    "en": "Invert fall/rise colors. This will make a decrease in price appear in green and a rise in price appear in red.",
+    "fr": "Inverser les couleurs des baisses/hausses. Cela fera apparaître les baisses de prix en vert et les hausses en rouge."
   },
   "settingsDisplay_lastTradedPrice": {
-    "en": "Last Open Market Price"
+    "en": "Last Open Market Price",
+    "fr": ""
   },
   "settingsDisplay_line1": {
-    "en": "1st Line"
+    "en": "1st Line",
+    "fr": "1ère ligne"
   },
   "settingsDisplay_line2": {
-    "en": "2nd Line"
+    "en": "2nd Line",
+    "fr": "2ème ligne"
   },
   "settingsDisplay_extendedHours": {
-    "en": "Extended hours"
+    "en": "Extended hours",
+    "fr": ""
   },
   "settingsDisplay_extendedHoursHelp": {
-    "en": "Display extended trading (shows as 3rd line if single-line mode is off, shows on same line if single-line mode is on)"
+    "en": "Display extended trading (shows as 3rd line if single-line mode is off, shows on same line if single-line mode is on)",
+    "fr": ""
   },
   "settingsDisplay_miniMode": {
-    "en": "Single-line mode"
+    "en": "Single-line mode",
+    "fr": "Mini-mode"
   },
   "settingsDisplay_miniModeWidgetHelp": {
-    "en": "Show one line per item on the single portfolio widget. Tap the cell to toggle between absolute and percentage."
+    "en": "Show one line per item on the single portfolio widget. Tap the cell to toggle between absolute and percentage.",
+    "fr": "Afficher uniquement une ligne par élément dans la liste du porte-feuille du widget. Tapez la dernière colonne d\\'une cellule pour basculer l\\'affichage."
   },
   "settingsDisplay_miniModeHoldingsHelp": {
-    "en": "Show one line per holding. Tap the cell to toggle between absolute and percentage."
+    "en": "Show one line per holding. Tap the cell to toggle between absolute and percentage.",
+    "fr": "Affiche uniquement une line sur l\\'onglet Positions. Taper la valeur de la variation pour basculer entre valeur et pourcentage."
   },
   "settingsDisplay_miniModeQuotesHelp": {
-    "en": "Show one line per quote. Tap the cell to toggle between absolute and percentage."
+    "en": "Show one line per quote. Tap the cell to toggle between absolute and percentage.",
+    "fr": "Affiche uniquement une line sur l\\'onglet Cours. Taper la valeur de la variation (dernière colonne) pour basculer entre valeur et pourcentage."
   },
   "settingsDisplay_numberOfShares": {
-    "en": "Number of Shares"
+    "en": "Number of Shares",
+    "fr": "Nombre d\\'actions"
   },
   "settingsDisplay_numberOfSharesPrecision": {
-    "en": "Number of shares min precision"
+    "en": "Number of shares min precision",
+    "fr": "Précision du nombre d\\'actions"
   },
   "settingsDisplay_percentagesOnTop": {
-    "en": "Percentages on top"
+    "en": "Percentages on top",
+    "fr": "Pourcentages en haut"
   },
   "settingsDisplay_percentagesOnTopHelp": {
-    "en": "Show percentage changes on 1st line. When in single-line mode, tap the cell to switch between percentages and absolutes."
+    "en": "Show percentage changes on 1st line. When in single-line mode, tap the cell to switch between percentages and absolutes.",
+    "fr": "Afficher le taux de variation sur la 1ère ligne"
   },
   "settingsDisplay_quoteExchange": {
-    "en": "Quote Exchange"
+    "en": "Quote Exchange",
+    "fr": "Cours du titre"
   },
   "settingsDisplay_quoteExchangeQuoteName": {
-    "en": "Quote Exchange, Quote Name"
+    "en": "Quote Exchange, Quote Name",
+    "fr": "Cours du titre, Nom du titre"
   },
   "settingsDisplay_quoteName": {
-    "en": "Quote Name"
+    "en": "Quote Name",
+    "fr": "Nom du titre"
   },
   "settingsDisplay_quoteSymbol": {
-    "en": "Quote Symbol"
+    "en": "Quote Symbol",
+    "fr": "Symbole du titre"
   },
   "settingsDisplay_showCurrencyOnQuotesTab": {
-    "en": "Show currency symbol on Quotes tab"
+    "en": "Show currency symbol on Quotes tab",
+    "fr": "Affiche le symbole monétaire dans l\\'onglet Cours"
   },
   "settingsDisplay_showCurrencyOnQuotesTabHelp": {
-    "en": "For example, $10. If off, then 10 (without currency symbol) will be shown."
+    "en": "For example, $10. If off, then 10 (without currency symbol) will be shown.",
+    "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché."
   },
   "settingsDisplay_showThumbnails": {
     "en": "Show Thumbnails"
@@ -2200,25 +2356,32 @@
     "en": "Show preview thumbnail on news list"
   },
   "settingsDisplay_showNotesHoldingsTab": {
-    "en": "Show Quote notes below Holding"
+    "en": "Show Quote notes below Holding",
+    "fr": ""
   },
   "settingsDisplay_showNotesHoldingsTabHelp": {
-    "en": "Display up to 5 lines of notes on the Holdings tab"
+    "en": "Display up to 5 lines of notes on the Holdings tab",
+    "fr": ""
   },
   "settingsDisplay_showNotesQuoteTab": {
-    "en": "Show notes below Quote"
+    "en": "Show notes below Quote",
+    "fr": "Afficher les notes sous le cours"
   },
   "settingsDisplay_showNotesQuoteTabHelp": {
-    "en": "Display up to 5 lines of notes on Quotes tab"
+    "en": "Display up to 5 lines of notes on Quotes tab",
+    "fr": "Afficher jusqu\\'à 5 lignes de notes dans l\\'onglet des cours"
   },
   "settingsDisplay_showNotesTransactionsTab": {
-    "en": "Show Transaction notes below Transaction"
+    "en": "Show Transaction notes below Transaction",
+    "fr": ""
   },
   "settingsDisplay_showNotesTransactionsTabHelp": {
-    "en": "Display up to 5 lines of notes on the Transactions tab"
+    "en": "Display up to 5 lines of notes on the Transactions tab",
+    "fr": ""
   },
   "settingsDisplay_showSharesAtAveragePricePerShare": {
-    "en": "Show Avg Price Per Share and Number of Shares below each holding"
+    "en": "Show Avg Price Per Share and Number of Shares below each holding",
+    "fr": "Afficher Prix moyen par action et Nombre d\\'actions sous chaque position"
   },
   "settingsDisplay_theme": {
     "en": "Theme",
@@ -2258,18 +2421,20 @@
     "en": "Show a confirmation message before exiting the app while on the home screen"
   },
   "settingsWidget_singleLineMode": {
-    "en": "Single-line mode"
+    "en": "Single-line mode",
+    "fr": "Mode ligne unique"
   },
   "settingsWidget_size": {
-    "en": "Widget UI size"
+    "en": "Widget UI size",
+    "fr": "Taille de l\\'IHM du widget"
   },
   "settingsWidget_sizeHelp": {
     "en": "Adjust widget font and button size",
-    "fr": ""
+    "fr": "Ajuster la taille des polices et boutons du widget"
   },
   "settings_about": {
     "en": "About App (MSP - My Stocks Portfolio)",
-    "fr": ""
+    "fr": "À propos l\\'application (MSP)"
   },
   "settings_appVersion": {
     "en": "App version",
@@ -2315,12 +2480,12 @@
   "settings_hideClosedPositions": {
     "en": "Hide closed positions",
     "de": "",
-    "fr": ""
+    "fr": "Masquer les positions fermées"
   },
   "settings_hideClosedPositionsSummary": {
     "en": "Holdings with 0 shares remaining will be hidden on the Holdings view",
     "de": "",
-    "fr": ""
+    "fr": "Les positions avec 0 actions restantes seront masquées dans la vue des positions"
   },
   "settings_hideClosedQuotes": {
     "en": "Hide closed quotes",
@@ -2330,22 +2495,22 @@
   "settings_holdingsIfAny": {
     "en": "Holdings (if any)",
     "de": "",
-    "fr": ""
+    "fr": "Positions, si disponible"
   },
   "settings_importExportAndSync": {
     "en": "Import/Export and Sync Data",
     "de": "",
-    "fr": ""
+    "fr": "Importer/Exporter and synchronizer les données"
   },
   "settings_lastSelectedPortfolio": {
     "en": "Last Selected Portfolio",
     "de": "",
-    "fr": ""
+    "fr": "Dernier portefeuille sélectionné"
   },
   "settings_openPlayStore": {
     "en": "Open Play Store",
     "de": "",
-    "fr": ""
+    "fr": "Ouvrir Google Play Store"
   },
   "settings_preferredPrecision": {
     "en": "Min precision (Auto increases)",
@@ -2355,17 +2520,19 @@
   "settings_precision": {
     "en": "Precision",
     "de": "",
-    "fr": ""
+    "fr": "Précision"
   },
   "settings_premium": {
     "en": "Premium",
     "de": "",
-    "fr": ""
+    "fr": "Premium"
   },
   "settings_privacyPolicy": {
     "en": "Privacy Policy",
     "de": "",
-    "fr": ""
+    "fr": "Politique de confidentialité",
+    "zh": "隐私政策",
+    "zh-Hant-TW": "隱私政策"
   },
   "settings_termsOfUse": {
     "en": "Terms of Use",
@@ -2375,95 +2542,95 @@
   "settings_refreshInterval": {
     "en": "Auto-refresh (when app is open)",
     "de": "",
-    "fr": ""
+    "fr": "Rafraîchissement automatique (quand l\\'application est ouverte)"
   },
   "settings_refreshIntervalManual": {
     "en": "Manual",
     "de": "",
-    "fr": ""
+    "fr": "Manuellement"
   },
   "settings_refreshIntervalMinutes1": {
     "en": "1 minute",
     "de": "",
-    "fr": ""
+    "fr": "1 minute"
   },
   "settings_refreshIntervalMinutes2": {
     "en": "2 minutes",
     "de": "",
-    "fr": ""
+    "fr": "2 minutes"
   },
   "settings_refreshIntervalMinutes5": {
     "en": "5 minutes",
     "de": "",
-    "fr": ""
+    "fr": "5 minutes"
   },
   "settings_refreshIntervalSeconds10": {
     "en": "10 seconds",
     "de": "",
-    "fr": ""
+    "fr": "10 secondes"
   },
   "settings_refreshIntervalSeconds30": {
     "en": "30 seconds",
     "de": "",
-    "fr": ""
+    "fr": "30 secondes"
   },
   "settings_refreshIntervalSeconds5": {
     "en": "5 seconds",
     "de": "",
-    "fr": ""
+    "fr": "5 secondes"
   },
   "settings_reviewApp": {
     "en": "Review",
     "de": "",
-    "fr": ""
+    "fr": "Revue"
   },
   "settings_reviewAppHelp": {
     "en": "Write a review for the app",
     "de": "",
-    "fr": ""
+    "fr": "Rédiger un avis pour l\\'application"
   },
   "settings_sendEmailDialog": {
     "en": "Send email…",
     "de": "",
-    "fr": ""
+    "fr": "Envoyer un courriel…"
   },
   "settings_sendFeedback": {
     "en": "Send Feedback",
     "de": "",
-    "fr": ""
+    "fr": "Envoyer des commentaires",
+    "zh": "发送意见回馈",
+    "zh-Hant-TW": "發送意見回饋"
   },
   "settings_sendFeedbackSubject": {
-    "en": "My Stocks Feedback",
+    "en": "MSP Feedback",
     "de": "",
-    "fr": ""
-  },
-  "settings_sendFeedbackToDeveloper": {
-    "en": "Send feedback to developer",
-    "de": "",
-    "fr": ""
+    "fr": "",
+    "zh": "MSP 意见回馈",
+    "zh-Hant-TW": "MSP 意見回饋"
   },
   "settings_shareAppWithFriends": {
     "en": "Share the App with friends",
     "de": "",
-    "fr": ""
+    "fr": "Partagez l\\'application avec des amis"
   },
   "settings_shareTheApp": {
     "en": "Share the App",
     "de": "",
-    "fr": ""
+    "fr": "Partagez l\\'application"
   },
   "settings_showCurrencySymbol": {
     "en": "Show currency symbol",
     "de": "",
-    "fr": ""
+    "fr": "Afficher le symbole monétaire"
   },
   "settings_showCurrencySymbolHelp": {
-    "en": "For example, $10. If off, then 10 (without currency symbol) will be shown. This option is only used when a home currency is set."
+    "en": "For example, $10. If off, then 10 (without currency symbol) will be shown. This option is only used when a home currency is set.",
+    "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché. Cette option n\\'est utilisée que lorsqu\\'une devise préférée est définie."
   },
   "settings_startingPortfolioScreenTab": {
     "en": "Starting portfolio screen tab",
     "de": "",
-    "fr": ""
+    "fr": "Afficher un portefeuille au démarrage"
   },
   "settings_startingQuoteDetailsScreenTab": {
     "en": "Starting quote details tab",
@@ -2473,27 +2640,27 @@
   "settings_startingScreen": {
     "en": "Starting screen",
     "de": "",
-    "fr": ""
+    "fr": "Écran de démarrage"
   },
   "settings_sync": {
     "en": "Server Sync",
     "de": "",
-    "fr": ""
+    "fr": "Synchronisation avec le serveur"
   },
   "settings_syncHelp": {
     "en": "Synchronize data to the server and between devices",
     "de": "",
-    "fr": ""
+    "fr": "Synchronisation entre appareils"
   },
   "settings_transparentTitleBar": {
     "en": "Transparent title bar",
     "de": "",
-    "fr": ""
+    "fr": "Barre de titre transparente"
   },
   "settings_transparentTitleBarDescription": {
     "en": "Make the title bar transparent",
     "de": "",
-    "fr": ""
+    "fr": "Rendre la barre de titre transparente"
   },
   "settings_widget": {
     "en": "Widget",
@@ -2502,48 +2669,48 @@
   "settings_widgetHideColumnHeaders": {
     "en": "Hide column headers",
     "de": "",
-    "fr": ""
+    "fr": "Masquer les en-têtes des colonnes"
   },
   "settings_widgetHideColumnHeadersDescription": {
     "en": "Hide the tappable column headers for switching display type (i.e. daily/total).",
     "de": "",
-    "fr": ""
+    "fr": "Masquer les en-têtes cliquables des colonnes pour changer le type d\\'affichage (p.e. jour/total)"
   },
   "settings_widgetHideTitleBar": {
     "en": "Hide title bar",
     "de": "",
-    "fr": ""
+    "fr": "Masquer la barre de titre"
   },
   "settings_widgetHideTitleBarDescription": {
     "en": "Hide the top title bar containing total numbers",
     "de": "",
-    "fr": ""
+    "fr": "Masquer la barre de titre contenant le nombre total"
   },
   "sync_completed": {
     "en": "Sync completed",
     "de": "",
-    "fr": ""
+    "fr": "Synchronisation terminée"
   },
   "sync_errorPleaseTrySignOut": {
     "en": "Sync error. If the problem persists, try signing out of Google and signing back in.",
     "de": "",
-    "fr": ""
+    "fr": "Erreur de synchronisation. Si le problème persiste, essayez de vous déconnecter de Google et de vous reconnecter."
   },
   "sync_help": {
     "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.\\n\\nTo see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export.",
     "de": "",
-    "fr": ""
+    "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d\\'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\\n\\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.\\n\\nVous pouvez aussi utiliser l\\'approche d\\'import/export dans les réglages de l\\'application, sauvegarder, import/export."
   },
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
     "de": "",
-    "fr": ""
+    "fr": "Synchronisation des portefeuilles…"
   },
   "sync_lastSynchronizedTimeFormatted": {
     "_formatted": "false",
     "en": "Last Synchronized: %s",
     "de": "",
-    "fr": ""
+    "fr": "Dernière synchronisation : %s"
   },
   "sync_lastChangeTimeFormatted": {
     "_formatted": "false",
@@ -2554,32 +2721,32 @@
   "sync_signInToBackupAndSynchronize": {
     "en": "Sign in to backup and synchronize Portfolio data between devices.",
     "de": "",
-    "fr": ""
+    "fr": "Connectez-vous pour sauvegarder et synchroniser les données de Portfolio entre les appareils."
   },
   "sync_startSync": {
     "en": "Synchronize with Server",
     "de": "",
-    "fr": ""
+    "fr": "Synchroniser avec le serveur"
   },
   "viewQuoteStats_52WeekHigh": {
     "en": "52wk High",
     "de": "",
-    "fr": ""
+    "fr": "+Haut 52sem"
   },
   "viewQuoteStats_52WeekHighHelp": {
     "en": "Highest price in 52 weeks",
     "de": "",
-    "fr": ""
+    "fr": "Prix le plus élevé en 52 semaines"
   },
   "viewQuoteStats_52WeekLow": {
     "en": "52wk Low",
     "de": "",
-    "fr": ""
+    "fr": "+Bas 52sem"
   },
   "viewQuoteStats_52WeekLowHelp": {
     "en": "Lowest price in 52 weeks",
     "de": "",
-    "fr": ""
+    "fr": "Prix le plus bas en 52 semaines"
   },
   "viewQuoteStats_ask": {
     "en": "Ask",
@@ -2588,27 +2755,27 @@
   "viewQuoteStats_askHelp": {
     "en": "Ask price",
     "de": "",
-    "fr": ""
+    "fr": "Prix de l\\'offre"
   },
   "viewQuoteStats_askSize": {
     "en": "Ask Size",
     "de": "",
-    "fr": ""
+    "fr": "Qté offre"
   },
   "viewQuoteStats_askSizeHelp": {
     "en": "Ask lot size",
     "de": "",
-    "fr": ""
+    "fr": "Nombre d\\'actions à ce prix (offre)"
   },
   "viewQuoteStats_averageVolume": {
     "en": "Avg Vol",
     "de": "",
-    "fr": ""
+    "fr": "Vol. moy."
   },
   "viewQuoteStats_averageVolumeHelp": {
     "en": "The average daily volume",
     "de": "",
-    "fr": ""
+    "fr": "Le volume quotidien moyen"
   },
   "viewQuoteStats_beta": {
     "en": "Beta",
@@ -2617,7 +2784,7 @@
   "viewQuoteStats_betaHelp": {
     "en": "Measure of the risk of a stock",
     "de": "",
-    "fr": ""
+    "fr": "Mesure du risque d\\'un titre"
   },
   "viewQuoteStats_bid": {
     "en": "Bid",
@@ -2636,7 +2803,7 @@
   "viewQuoteStats_bid_price": {
     "en": "Bid price",
     "de": "",
-    "fr": ""
+    "fr": "Prix de la demande"
   },
   "viewQuoteStats_bookValue": {
     "en": "Book Value",
@@ -2651,12 +2818,12 @@
   "viewQuoteStats_dividendAndYield": {
     "en": "Div/Yld",
     "de": "",
-    "fr": ""
+    "fr": "Div/Rdt"
   },
   "viewQuoteStats_dividendAndYieldHelp": {
     "en": "Div = annual dividend. Yld = percent yield of annual dividend.",
     "de": "",
-    "fr": ""
+    "fr": "Dividende annuel et pourcentage de rendement"
   },
   "viewQuoteStats_dividendDate": {
     "en": "Div Date",
@@ -2675,7 +2842,7 @@
   "viewQuoteStats_epsHelp": {
     "en": "Net income over last 4 quarters divided by total outstanding shares",
     "de": "",
-    "fr": ""
+    "fr": "Résultat net sur les 4 derniers trimestres divisé par le nombre total d\\'actions en circulation"
   },
   "viewQuoteStats_exDividendDate": {
     "en": "Ex Div",
@@ -2692,7 +2859,7 @@
   "viewQuoteStats_forwardEPSHelp": {
     "en": "Predicted net income over upcoming 4 quarters divided by total outstanding shares",
     "de": "",
-    "fr": ""
+    "fr": "Revenu net prévu au cours des 4 prochains trimestres divisé par le nombre total d\\'actions en circulation"
   },
   "viewQuoteStats_forwardPERatio": {
     "en": "Fwd P/E",
