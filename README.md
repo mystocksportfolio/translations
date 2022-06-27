@@ -16,7 +16,7 @@ Thank you for any help with translating!
 
 ![Progress](https://progress-bar.dev/2?title=zh&width=120) 19/766
 
-![Progress](https://progress-bar.dev/13?title=zh-Hant-TW&width=120) 99/766
+![Progress](https://progress-bar.dev/13?title=zh-Hant-TW&width=120) 102/766
 
 
 

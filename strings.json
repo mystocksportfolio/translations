@@ -1393,7 +1393,8 @@
   },
   "portfolio_addPortfolio": {
     "en": "Add Portfolio",
-    "fr": "Ajouter un portefeuille"
+    "fr": "Ajouter un portefeuille",
+    "zh-Hant-TW": "添加新組合"
   },
   "portfolio_addToPortfolio": {
     "en": "Add to Portfolio"
@@ -1583,7 +1584,8 @@
   },
   "portfolio_editPortfolio": {
     "en": "Edit Portfolio",
-    "fr": "Modifier le portefeuille"
+    "fr": "Modifier le portefeuille",
+    "zh-Hant-TW": "編輯組合"
   },
   "portfolio_enterThresholdOneToHundred": {
     "en": "Enter a threshold between 0–100"
@@ -1679,7 +1681,8 @@
   },
   "portfolio_portfolios": {
     "en": "Portfolios",
-    "fr": "Portefeuilles"
+    "fr": "Portefeuilles",
+    "zh-Hant-TW": "所有組合"
   },
   "portfolio_portfoliosOverview": {
     "en": "Portfolios Overview",
