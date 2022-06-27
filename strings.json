@@ -147,6 +147,7 @@
   },
   "addPortfolio_nameOfPortfolio": {
     "en": "Name of Portfolio",
+    "de": "Name des Portfolios",
     "fr": "Nom du portefeuille"
   },
   "addQuoteCash": {
@@ -163,7 +164,7 @@
   },
   "addQuoteCash_deposit": {
     "en": "Deposit",
-    "fr": "Dépôt",
+    "fr": "Déposer",
     "zh": "加值",
     "zh-Hant-TW": "加值"
   },
@@ -173,11 +174,12 @@
   },
   "addQuoteCash_selectCurrency": {
     "en": "Select Currency",
+    "de": "Wähle eine Währung",
     "fr": "Sélectionnez la devise"
   },
   "addQuoteCash_withdraw": {
     "en": "Withdraw",
-    "fr": "Retirer de l\\'argent",
+    "fr": "Retirer",
     "zh": "提领",
     "zh-Hant-TW": "提領"
   },
@@ -199,6 +201,7 @@
   },
   "addQuoteTransaction_calendar": {
     "en": "Calendar",
+    "de": "Kalendar",
     "fr": "Calendrier"
   },
   "addQuoteTransaction_commission": {
@@ -371,7 +374,8 @@
   },
   "addQuote_symbolWithHint": {
     "en": "Symbol (i.e. GOOG)",
-    "fr": "Symbole (ex. GOOG)"
+    "de": "Symbol (z.B. GOOG)",
+    "fr": "Symbole (par ex. GOOG)"
   },
   "addQuote_trackTransaction": {
     "en": "Track a Transaction",
@@ -432,6 +436,7 @@
   },
   "chart_intervalFiveMinutes": {
     "en": "5 Minutes",
+    "de": "5 Minuten",
     "fr": "5 minutes"
   },
   "chart_intervalOneHour": {
@@ -439,18 +444,22 @@
   },
   "chart_intervalOneDay": {
     "en": "1 Day",
+    "de": "1 Tag",
     "fr": "1 jour"
   },
   "chart_intervalOneMinute": {
     "en": "1 Minute",
+    "de": "1 Minute",
     "fr": "1 minute"
   },
   "chart_intervalOneMonth": {
     "en": "1 Month",
+    "de": "1 Monat",
     "fr": "1 mois"
   },
   "chart_intervalOneWeek": {
     "en": "1 Week",
+    "de": "1 Woche",
     "fr": "1 semaine"
   },
   "chart_loading": {
@@ -459,6 +468,7 @@
   },
   "chart_logarithmic": {
     "en": "Log",
+    "de": "Log",
     "fr": "Log",
     "zh-Hant-TW": "對數"
   },
@@ -468,23 +478,27 @@
   },
   "chart_rangeFiveDays": {
     "en": "5 Days",
+    "de": "5 Tage",
     "fr": "5 jours",
-    "zh-Hant-TW": "5天"
+    "zh-Hant-TW": "五天"
   },
   "chart_rangeFiveDaysCompact": {
     "en": "5D",
+    "de": "5T",
     "fr": "5j",
-    "zh-Hant-TW": "5天"
+    "zh-Hant-TW": "五天"
   },
   "chart_rangeFiveYears": {
     "en": "5 Years",
+    "de": "5 Jahre",
     "fr": "5 années",
-    "zh-Hant-TW": "5年"
+    "zh-Hant-TW": "五年"
   },
   "chart_rangeFiveYearsCompact": {
     "en": "5Y",
+    "de": "5J",
     "fr": "5a",
-    "zh-Hant-TW": "5年"
+    "zh-Hant-TW": "五年"
   },
   "chart_rangeMax": {
     "en": "Max",
@@ -501,67 +515,79 @@
   },
   "chart_rangeOneDay": {
     "en": "1 Day",
+    "de": "1 Tag",
     "fr": "1 jour",
-    "zh-Hant-TW": "1天"
+    "zh-Hant-TW": "一天"
   },
   "chart_rangeOneDayCompact": {
     "en": "1D",
+    "de": "1T",
     "fr": "1j",
-    "zh-Hant-TW": "1天"
+    "zh-Hant-TW": "一天"
   },
   "chart_rangeOneMonth": {
     "en": "1 Month",
+    "de": "1 Monat",
     "fr": "1 mois",
-    "zh-Hant-TW": "1月"
+    "zh-Hant-TW": "一月"
   },
   "chart_rangeOneMonthCompact": {
     "en": "1M",
+    "de": "1M",
     "fr": "1m",
-    "zh-Hant-TW": "1月"
+    "zh-Hant-TW": "一月"
   },
   "chart_rangeOneWeekCompact": {
     "en": "1W",
-    "zh-Hant-TW": "1週"
+    "zh-Hant-TW": "一週"
   },
   "chart_rangeOneYear": {
     "en": "1 Year",
+    "de": "1 Jahr",
     "fr": "1 année",
-    "zh-Hant-TW": "1年"
+    "zh-Hant-TW": "一年"
   },
   "chart_rangeOneYearCompact": {
     "en": "1Y",
+    "de": "1J",
     "fr": "1a",
-    "zh-Hant-TW": "1年"
+    "zh-Hant-TW": "一年"
   },
   "chart_rangeSixMonths": {
     "en": "6 Months",
+    "de": "6 Monate",
     "fr": "6 mois",
-    "zh-Hant-TW": "6月"
+    "zh-Hant-TW": "六月"
   },
   "chart_rangeSixMonthsCompact": {
     "en": "6M",
+    "de": "6M",
     "fr": "6m",
-    "zh-Hant-TW": "6月"
+    "zh-Hant-TW": "六月"
   },
   "chart_rangeThreeMonths": {
     "en": "3 Months",
+    "de": "3 Monate",
     "fr": "3 mois",
-    "zh-Hant-TW": "3月"
+    "zh-Hant-TW": "三月"
   },
   "chart_rangeThreeMonthsCompact": {
     "en": "3M",
+    "de": "3M",
     "fr": "3m",
-    "zh-Hant-TW": "3月"
+    "zh-Hant-TW": "三月"
   },
   "chart_rangeTwoYears": {
     "en": "2 Years",
+    "de": "2 Jahre",
     "fr": "2 années",
-    "zh-Hant-TW": "2年"
+    "zh-Hant-TW": "二年"
   },
   "chart_rangeTwoYearsCompact": {
     "en": "2Y",
+    "de": "2J",
     "fr": "2a",
-    "zh-Hant-TW": "2年"
+    "zh-Hant-TW": "二年"
   },
   "chart_rangeYearToDateCompact": {
     "en": "YTD",
@@ -872,6 +898,7 @@
   },
   "generic_from_colon": {
     "en": "From:",
+    "de": "Von",
     "fr": "De :",
     "zh": "从：",
     "zh-Hant-TW": "從："
@@ -1114,6 +1141,7 @@
   },
   "generic_to_colon": {
     "en": "To:",
+    "de": "Nach:",
     "fr": "À :",
     "zh": "至："
   },
@@ -1422,7 +1450,8 @@
   },
   "portfolio_costBasis": {
     "en": "Cost Basis",
-    "fr": "Cout de base"
+    "fr": "Cout de base",
+    "zh-Hant-TW": "總成本"
   },
   "portfolio_costPerShare": {
     "en": "Cost Per Share",
@@ -1437,11 +1466,13 @@
   },
   "portfolio_currency": {
     "en": "Currency",
+    "de": "Währung",
     "fr": "Devise",
     "zh-Hant-TW": "幣別"
   },
   "portfolio_currency_colon": {
     "en": "Currency:",
+    "de": "Währung:",
     "fr": "Devise :",
     "zh-Hant-TW": "幣別："
   },
@@ -1701,10 +1732,6 @@
     "fr": "Details",
     "zh-Hant-TW": "更多"
   },
-  "portfolio_sortChange": {
-    "en": "Change",
-    "fr": "Variation"
-  },
   "portfolio_sortAbsChange": {
     "en": "Change (Absolute)"
   },
@@ -1728,10 +1755,6 @@
   },
   "portfolio_sortAbsChangeReverse": {
     "en": "Change (Absolute, Ascending)"
-  },
-  "portfolio_sortCostBasis": {
-    "en": "Cost Basis",
-    "fr": "Cout"
   },
   "portfolio_sortCostBasisReverse": {
     "en": "Cost Basis (Ascending)",
@@ -1860,10 +1883,6 @@
   "portfolio_sortAbsTotalChangeReverse": {
     "en": "Total Change (Absolute, Ascending)"
   },
-  "portfolio_sortValue": {
-    "en": "Value",
-    "fr": "Valeur"
-  },
   "portfolio_sortValueReverse": {
     "en": "Value (Ascending)",
     "fr": "Valeur (Décroissant)"
@@ -1899,7 +1918,8 @@
   },
   "portfolio_total": {
     "en": "Total",
-    "fr": "Total"
+    "fr": "Total",
+    "zh-Hant-TW": "總額"
   },
   "portfolio_totalCostPlaceholder": {
     "_formatted": false,
