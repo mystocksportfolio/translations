@@ -203,11 +203,13 @@
   },
   "addQuoteTransaction_commission": {
     "en": "Commission",
-    "fr": "Commission"
+    "fr": "Commission",
+    "zh-Hant-TW": "手續費"
   },
   "addQuoteTransaction_commissions": {
     "en": "Commissions",
-    "fr": "Commissions"
+    "fr": "Commissions",
+    "zh-Hant-TW": "手續費"
   },
   "addQuoteTransaction_couldNotDetectCurrency": {
     "en": "Could not detect currency for this quote, so cannot use cash conversion method. Please uncheck the cash conversion checkbox.",
@@ -220,18 +222,19 @@
     "en": "Total Amount"
   },
   "addQuoteTransaction_currencyToCurrencyFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "%s to %s",
     "fr": "%s à %s"
   },
   "addQuoteTransaction_currencyToHomeCurrencyFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "%s to Home Currency",
     "fr": "%s à la devise préférée"
   },
   "addQuoteTransaction_date": {
     "en": "Transaction Date",
-    "fr": "Date de la transaction"
+    "fr": "Date de la transaction",
+    "zh-Hant-TW": "成交日期"
   },
   "addQuoteTransaction_depositCashToPortfolioFromDividends": {
     "en": "Deposit cash to portfolio from dividends",
@@ -253,8 +256,9 @@
     "fr": "Taux de change"
   },
   "addQuoteTransaction_percentCommission": {
-    "en": "&#37; Commission",
-    "fr": "&#37; Commission"
+    "en": "% Commission",
+    "fr": "% Commission",
+    "zh-Hant-TW": "% 手續費"
   },
   "addQuoteTransaction_pricePerShare": {
     "en": "Price Per Share",
@@ -271,7 +275,7 @@
   },
   "addQuoteTransaction_time": {
     "en": "Transaction Time",
-    "zh-Hant-TW": "日期"
+    "zh-Hant-TW": "成交時間"
   },
   "addQuoteTransaction_transaction_notes": {
     "en": "Transaction Notes",
@@ -279,7 +283,8 @@
   },
   "addQuoteTransaction_type": {
     "en": "Transaction Type",
-    "fr": "Type de transaction"
+    "fr": "Type de transaction",
+    "zh-Hant-TW": "成交類別"
   },
   "addQuoteTransaction_typeBuy": {
     "en": "Buy",
@@ -310,7 +315,8 @@
   },
   "addQuoteTransaction_typeSellShort": {
     "en": "Sell Short",
-    "fr": "Vente à découvert"
+    "fr": "Vente à découvert",
+    "zh-Hant-TW": "賣空"
   },
   "addQuoteTransaction_typeSplit": {
     "en": "Split"
@@ -318,9 +324,14 @@
   "addQuoteTransaction_typeUnknown": {
     "en": "Unknown"
   },
+  "addQuoteTransaction_useCommissions": {
+    "en": "Use Commissions",
+    "zh-Hant-TW": "手續費"
+  },
   "addQuoteTransaction_usePercentCommission": {
-    "en": "Use &#37; Commission?",
-    "fr": "Utiliser un pourcentage de commission ?"
+    "en": "Use % Commission?",
+    "fr": "Utiliser un pourcentage de commission ?",
+    "zh-Hant-TW": "用 % 手續費？"
   },
   "addQuoteTransaction_withdrawCashFromPortfolioToPurchase": {
     "en": "Withdraw cash from portfolio to purchase",
@@ -332,7 +343,8 @@
   },
   "addQuote_enterSymbolPrompt": {
     "en": "Please enter a symbol",
-    "fr": "Veuillez entrer un symbole"
+    "fr": "Veuillez entrer un symbole",
+    "zh-Hant-TW": "請輸入股票名稱／代號"
   },
   "addQuote_howToPreview": {
     "en": "How To: Preview quote without adding to watchlist",
@@ -375,7 +387,8 @@
   },
   "addQuote_typeMarket": {
     "en": "Market",
-    "fr": "Marché"
+    "fr": "Marché",
+    "zh-Hant-TW": "市場"
   },
   "addQuote_typeUnlisted": {
     "en": "Unlisted",
@@ -446,7 +459,8 @@
   },
   "chart_logarithmic": {
     "en": "Log",
-    "fr": "Log"
+    "fr": "Log",
+    "zh-Hant-TW": "對數"
   },
   "chart_price": {
     "en": "Price",
@@ -455,7 +469,7 @@
   "chart_rangeFiveDays": {
     "en": "5 Days",
     "fr": "5 jours",
-    "zh-Hant-TW": "5 天"
+    "zh-Hant-TW": "5天"
   },
   "chart_rangeFiveDaysCompact": {
     "en": "5D",
@@ -465,12 +479,12 @@
   "chart_rangeFiveYears": {
     "en": "5 Years",
     "fr": "5 années",
-    "zh-Hant-TW": "五年"
+    "zh-Hant-TW": "5年"
   },
   "chart_rangeFiveYearsCompact": {
     "en": "5Y",
     "fr": "5a",
-    "zh-Hant-TW": "五年"
+    "zh-Hant-TW": "5年"
   },
   "chart_rangeMax": {
     "en": "Max",
@@ -481,14 +495,14 @@
     "en": "MTD"
   },
   "chart_rangeNotAvailableFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "%s chart range not available",
     "fr": "Intervalle %s du graphique non disponible"
   },
   "chart_rangeOneDay": {
     "en": "1 Day",
     "fr": "1 jour",
-    "zh-Hant-TW": "1 天"
+    "zh-Hant-TW": "1天"
   },
   "chart_rangeOneDayCompact": {
     "en": "1D",
@@ -498,56 +512,56 @@
   "chart_rangeOneMonth": {
     "en": "1 Month",
     "fr": "1 mois",
-    "zh-Hant-TW": "1 個月"
+    "zh-Hant-TW": "1月"
   },
   "chart_rangeOneMonthCompact": {
     "en": "1M",
     "fr": "1m",
-    "zh-Hant-TW": "1個月"
+    "zh-Hant-TW": "1月"
   },
   "chart_rangeOneWeekCompact": {
     "en": "1W",
-    "zh-Hant-TW": "1 週"
+    "zh-Hant-TW": "1週"
   },
   "chart_rangeOneYear": {
     "en": "1 Year",
     "fr": "1 année",
-    "zh-Hant-TW": "一年"
+    "zh-Hant-TW": "1年"
   },
   "chart_rangeOneYearCompact": {
     "en": "1Y",
     "fr": "1a",
-    "zh-Hant-TW": "一年"
+    "zh-Hant-TW": "1年"
   },
   "chart_rangeSixMonths": {
     "en": "6 Months",
     "fr": "6 mois",
-    "zh-Hant-TW": "6 個月"
+    "zh-Hant-TW": "6月"
   },
   "chart_rangeSixMonthsCompact": {
     "en": "6M",
     "fr": "6m",
-    "zh-Hant-TW": "6個月"
+    "zh-Hant-TW": "6月"
   },
   "chart_rangeThreeMonths": {
     "en": "3 Months",
     "fr": "3 mois",
-    "zh-Hant-TW": "3 個月"
+    "zh-Hant-TW": "3月"
   },
   "chart_rangeThreeMonthsCompact": {
     "en": "3M",
     "fr": "3m",
-    "zh-Hant-TW": "3個月"
+    "zh-Hant-TW": "3月"
   },
   "chart_rangeTwoYears": {
     "en": "2 Years",
     "fr": "2 années",
-    "zh-Hant-TW": "兩年"
+    "zh-Hant-TW": "2年"
   },
   "chart_rangeTwoYearsCompact": {
     "en": "2Y",
     "fr": "2a",
-    "zh-Hant-TW": "兩年"
+    "zh-Hant-TW": "2年"
   },
   "chart_rangeYearToDateCompact": {
     "en": "YTD",
@@ -567,19 +581,23 @@
   },
   "chart_typeArea": {
     "en": "Area",
-    "fr": "Aire"
+    "fr": "Aire",
+    "zh-Hant-TW": "面積圖"
   },
   "chart_typeCandle": {
     "en": "Candle",
-    "fr": "Bougie"
+    "fr": "Bougie",
+    "zh-Hant-TW": "K線"
   },
   "chart_typeHollowCandle": {
     "en": "Hollow Candle",
-    "fr": "Bougie creuse"
+    "fr": "Bougie creuse",
+    "zh-Hant-TW": "空心K線"
   },
   "chart_typeLine": {
     "en": "Line",
-    "fr": "Ligne"
+    "fr": "Ligne",
+    "zh-Hant-TW": "線形圖"
   },
   "chart_typeOHLC": {
     "en": "OHLC",
@@ -587,7 +605,8 @@
   },
   "chart_volume": {
     "en": "Volume",
-    "fr": "Volume"
+    "fr": "Volume",
+    "zh-Hant-TW": "交易量"
   },
   "csv_fileEmpty": {
     "en": "File is empty"
@@ -633,7 +652,7 @@
     "fr": "Importé"
   },
   "csvImport_importedQuotesAndHoldingsFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "Successfully imported %s quotes and %s holdings",
     "fr": "Importation réussie de %s cours et %s positions"
   },
@@ -689,6 +708,7 @@
     "en": "Advertising help pay some of our costs. Customers who want a premium ad-free experience and want to support the development of the app can subscribe to the premium plan. Thank you for your support!"
   },
   "generic_accountX": {
+    "_formatted": false,
     "en": "Account: %s",
     "fr": "Compte : %s"
   },
@@ -799,7 +819,7 @@
     "en": "Email"
   },
   "generic_emailOrCopyPaste": {
-    "en": "Email / Copy &amp; Paste"
+    "en": "Email / Copy & Paste"
   },
   "generic_enterNotes": {
     "en": "Enter notes",
@@ -965,7 +985,8 @@
   },
   "generic_notes": {
     "en": "Notes",
-    "fr": "Notes"
+    "fr": "Notes",
+    "zh-Hant-TW": "備註"
   },
   "generic_ok": {
     "en": "OK",
@@ -1027,6 +1048,7 @@
     "zh-Hant-TW": "省下"
   },
   "generic_saveXMoney": {
+    "_formatted": false,
     "en": "Save %s",
     "fr": "Economisez %s",
     "zh-Hant-TW": "省下 %s"
@@ -1083,7 +1105,8 @@
     "en": "Sync"
   },
   "generic_tapToEdit": {
-    "en": "Tap to edit"
+    "en": "Tap to edit",
+    "zh-Hant-TW": "點選編輯"
   },
   "generic_termsOfUse": {
     "en": "Terms of Use",
@@ -1112,7 +1135,8 @@
     "fr": "Nous joindre sur Twitter"
   },
   "generic_type": {
-    "en": "Type"
+    "en": "Type",
+    "zh-Hant-TW": "類別"
   },
   "generic_updating": {
     "en": "Updating",
@@ -1228,7 +1252,7 @@
     "fr": "Impossible d\\'aller chercher l\\'actualité. Veuillez vérifier que vous avez une connexion Internet et réessayer plus tard."
   },
   "news_filterNewsFromXFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "Filter news from %s?",
     "fr": "Filtrer les nouvelles de %s ?"
   },
@@ -1257,7 +1281,7 @@
     "fr": "Partager"
   },
   "news_sharedViaFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "shared via %s",
     "fr": "partagé via %s"
   },
@@ -1450,29 +1474,26 @@
     "en": "If you are signed in, this will delete it from the server and your other devices when they sync."
   },
   "portfolio_deleteHoldingsForQuoteFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "Delete all Holdings for this Quote (%s)?",
     "fr": "Supprimer toutes les positions pour ce cours (%s) ?"
   },
   "portfolio_deleteQuoteWarningFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "Are you sure you want to delete this Quote (%s)?"
   },
   "portfolio_deleteQuoteWarningWithTransactionsFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "Are you sure you want to delete this Quote (%s) and all its Holdings in this portfolio?",
     "fr": "Supprimer un cours (%s) supprimera également toutes les positions associées dans le portefeuille. Continuer ?"
   },
   "portfolio_deleteSelectedPortfoliosWarning": {
-    "_formatted": "false",
     "en": "Are you sure you want to delete these Portfolios and all Quotes in them?"
   },
   "portfolio_deleteSelectedQuotesWarning": {
-    "_formatted": "false",
     "en": "Are you sure you want to delete these Quotes and all Transactions in them?"
   },
   "portfolio_deleteSelectedQuoteTransactionsWarning": {
-    "_formatted": "false",
     "en": "Are you sure you want to delete these Holdings and all Transactions in them?"
   },
   "portfolio_details": {
@@ -1666,12 +1687,12 @@
     "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4."
   },
   "portfolio_priceAndSharesFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "%s x %s shares",
     "fr": "%s x %s actions"
   },
   "portfolio_priceAndSharesFormattedWithLocal": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "%s (%s) x %s shares",
     "fr": "%s (%s) x %s actions"
   },
@@ -1749,12 +1770,12 @@
     "fr": "Faites glisser la poignée"
   },
   "portfolio_sortHoldingSelectedFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "%d Holding Selected",
     "fr": "%d position selectionnée"
   },
   "portfolio_sortHoldingsSelectedFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "%d Holdings Selected",
     "fr": "%d positions selectionnées"
   },
@@ -1776,12 +1797,12 @@
     "fr": "Nombre de transactions (Décroissant)"
   },
   "portfolio_sortPortfolioSelectedFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "%d Portfolio Selected",
     "fr": "%d portefeuille selectionné"
   },
   "portfolio_sortPortfoliosSelectedFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "%d Portfolios Selected",
     "fr": "%d portefeuilles selectionnés"
   },
@@ -1794,12 +1815,12 @@
     "fr": "Prix (Décroissant)"
   },
   "portfolio_sortQuoteSelectedFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "%d Quote Selected",
     "fr": "%d quotation selectionné"
   },
   "portfolio_sortQuotesSelectedFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "%d Quotes Selected",
     "fr": "%d quotations selectionnés"
   },
@@ -1848,7 +1869,8 @@
     "fr": "Valeur (Décroissant)"
   },
   "portfolio_sortCondition": {
-    "en": "Type"
+    "en": "Type",
+    "zh-Hant-TW": "類別"
   },
   "portfolio_sortConditionReverse": {
     "en": "Type (Reverse)"
@@ -1880,6 +1902,7 @@
     "fr": "Total"
   },
   "portfolio_totalCostPlaceholder": {
+    "_formatted": false,
     "en": "Total Cost: %s"
   },
   "portfolio_totalDividends": {
@@ -1887,6 +1910,7 @@
     "fr": "Total des dividendes"
   },
   "portfolio_totalProceedsPlaceholder": {
+    "_formatted": false,
     "en": "Proceeds: %s"
   },
   "portfolio_unannualized": {
@@ -2366,154 +2390,124 @@
   },
   "settings_general": {
     "en": "General",
-    "de": "",
     "fr": "Général"
   },
   "settings_helpAndFeedback": {
-    "en": "Help &amp; Feedback",
-    "de": "",
+    "en": "Help & Feedback",
     "fr": "Aide et commentaires"
   },
   "settings_hideClosedPositions": {
     "en": "Hide closed positions",
-    "de": "",
     "fr": "Masquer les positions fermées"
   },
   "settings_hideClosedPositionsSummary": {
     "en": "Holdings with 0 shares remaining will be hidden on the Holdings view",
-    "de": "",
     "fr": "Les positions avec 0 actions restantes seront masquées dans la vue des positions"
   },
   "settings_hideClosedQuotes": {
-    "en": "Hide closed quotes",
-    "de": ""
+    "en": "Hide closed quotes"
   },
   "settings_holdingsIfAny": {
     "en": "Holdings (if any)",
-    "de": "",
     "fr": "Positions, si disponible"
   },
   "settings_importExportAndSync": {
     "en": "Import/Export and Sync Data",
-    "de": "",
     "fr": "Importer/Exporter and synchronizer les données"
   },
   "settings_lastSelectedPortfolio": {
     "en": "Last Selected Portfolio",
-    "de": "",
     "fr": "Dernier portefeuille sélectionné"
   },
   "settings_openPlayStore": {
     "en": "Open Play Store",
-    "de": "",
     "fr": "Ouvrir Google Play Store"
   },
   "settings_preferredPrecision": {
-    "en": "Min precision (Auto increases)",
-    "de": ""
+    "en": "Min precision (Auto increases)"
   },
   "settings_precision": {
     "en": "Precision",
-    "de": "",
     "fr": "Précision"
   },
   "settings_premium": {
     "en": "Premium",
-    "de": "",
     "fr": "Premium"
   },
   "settings_privacyPolicy": {
     "en": "Privacy Policy",
-    "de": "",
     "fr": "Politique de confidentialité",
     "zh": "隐私政策",
     "zh-Hant-TW": "隱私政策"
   },
   "settings_termsOfUse": {
-    "en": "Terms of Use",
-    "de": ""
+    "en": "Terms of Use"
   },
   "settings_refreshInterval": {
     "en": "Auto-refresh (when app is open)",
-    "de": "",
     "fr": "Rafraîchissement automatique (quand l\\'application est ouverte)"
   },
   "settings_refreshIntervalManual": {
     "en": "Manual",
-    "de": "",
     "fr": "Manuellement"
   },
   "settings_refreshIntervalMinutes1": {
     "en": "1 minute",
-    "de": "",
     "fr": "1 minute"
   },
   "settings_refreshIntervalMinutes2": {
     "en": "2 minutes",
-    "de": "",
     "fr": "2 minutes"
   },
   "settings_refreshIntervalMinutes5": {
     "en": "5 minutes",
-    "de": "",
     "fr": "5 minutes"
   },
   "settings_refreshIntervalSeconds10": {
     "en": "10 seconds",
-    "de": "",
     "fr": "10 secondes"
   },
   "settings_refreshIntervalSeconds30": {
     "en": "30 seconds",
-    "de": "",
     "fr": "30 secondes"
   },
   "settings_refreshIntervalSeconds5": {
     "en": "5 seconds",
-    "de": "",
     "fr": "5 secondes"
   },
   "settings_reviewApp": {
     "en": "Review",
-    "de": "",
     "fr": "Revue"
   },
   "settings_reviewAppHelp": {
     "en": "Write a review for the app",
-    "de": "",
     "fr": "Rédiger un avis pour l\\'application"
   },
   "settings_sendEmailDialog": {
     "en": "Send email…",
-    "de": "",
     "fr": "Envoyer un courriel…"
   },
   "settings_sendFeedback": {
     "en": "Send Feedback",
-    "de": "",
     "fr": "Envoyer des commentaires",
     "zh": "发送意见回馈",
     "zh-Hant-TW": "發送意見回饋"
   },
   "settings_sendFeedbackSubject": {
     "en": "MSP Feedback",
-    "de": "",
     "zh": "MSP 意见回馈",
     "zh-Hant-TW": "MSP 意見回饋"
   },
   "settings_shareAppWithFriends": {
     "en": "Share the App with friends",
-    "de": "",
     "fr": "Partagez l\\'application avec des amis"
   },
   "settings_shareTheApp": {
     "en": "Share the App",
-    "de": "",
     "fr": "Partagez l\\'application"
   },
   "settings_showCurrencySymbol": {
     "en": "Show currency symbol",
-    "de": "",
     "fr": "Afficher le symbole monétaire"
   },
   "settings_showCurrencySymbolHelp": {
@@ -2522,36 +2516,29 @@
   },
   "settings_startingPortfolioScreenTab": {
     "en": "Starting portfolio screen tab",
-    "de": "",
     "fr": "Afficher un portefeuille au démarrage"
   },
   "settings_startingQuoteDetailsScreenTab": {
-    "en": "Starting quote details tab",
-    "de": ""
+    "en": "Starting quote details tab"
   },
   "settings_startingScreen": {
     "en": "Starting screen",
-    "de": "",
     "fr": "Écran de démarrage"
   },
   "settings_sync": {
     "en": "Server Sync",
-    "de": "",
     "fr": "Synchronisation avec le serveur"
   },
   "settings_syncHelp": {
     "en": "Synchronize data to the server and between devices",
-    "de": "",
     "fr": "Synchronisation entre appareils"
   },
   "settings_transparentTitleBar": {
     "en": "Transparent title bar",
-    "de": "",
     "fr": "Barre de titre transparente"
   },
   "settings_transparentTitleBarDescription": {
     "en": "Make the title bar transparent",
-    "de": "",
     "fr": "Rendre la barre de titre transparente"
   },
   "settings_widget": {
@@ -2560,63 +2547,51 @@
   },
   "settings_widgetHideColumnHeaders": {
     "en": "Hide column headers",
-    "de": "",
     "fr": "Masquer les en-têtes des colonnes"
   },
   "settings_widgetHideColumnHeadersDescription": {
     "en": "Hide the tappable column headers for switching display type (i.e. daily/total).",
-    "de": "",
     "fr": "Masquer les en-têtes cliquables des colonnes pour changer le type d\\'affichage (p.e. jour/total)"
   },
   "settings_widgetHideTitleBar": {
     "en": "Hide title bar",
-    "de": "",
     "fr": "Masquer la barre de titre"
   },
   "settings_widgetHideTitleBarDescription": {
     "en": "Hide the top title bar containing total numbers",
-    "de": "",
     "fr": "Masquer la barre de titre contenant le nombre total"
   },
   "sync_completed": {
     "en": "Sync completed",
-    "de": "",
     "fr": "Synchronisation terminée"
   },
   "sync_errorPleaseTrySignOut": {
     "en": "Sync error. If the problem persists, try signing out of Google and signing back in.",
-    "de": "",
     "fr": "Erreur de synchronisation. Si le problème persiste, essayez de vous déconnecter de Google et de vous reconnecter."
   },
   "sync_help": {
     "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.\\n\\nTo see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export.",
-    "de": "",
     "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d\\'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\\n\\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.\\n\\nVous pouvez aussi utiliser l\\'approche d\\'import/export dans les réglages de l\\'application, sauvegarder, import/export."
   },
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
-    "de": "",
     "fr": "Synchronisation des portefeuilles…"
   },
   "sync_lastSynchronizedTimeFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "Last Synchronized: %s",
-    "de": "",
     "fr": "Dernière synchronisation : %s"
   },
   "sync_lastChangeTimeFormatted": {
-    "_formatted": "false",
-    "en": "Last Change: %s%s",
-    "de": ""
+    "_formatted": false,
+    "en": "Last Change: %s%s"
   },
   "sync_signInToBackupAndSynchronize": {
     "en": "Sign in to backup and synchronize Portfolio data between devices.",
-    "de": "",
     "fr": "Connectez-vous pour sauvegarder et synchroniser les données de Portfolio entre les appareils."
   },
   "sync_startSync": {
     "en": "Synchronize with Server",
-    "de": "",
     "fr": "Synchroniser avec le serveur"
   },
   "tab_more": {
@@ -2638,24 +2613,20 @@
   },
   "viewQuoteStats_52WeekHigh": {
     "en": "52wk High",
-    "de": "",
     "fr": "+Haut 52sem",
     "zh-Hant-TW": "52 週高點"
   },
   "viewQuoteStats_52WeekHighHelp": {
     "en": "Highest price in 52 weeks",
-    "de": "",
     "fr": "Prix le plus élevé en 52 semaines"
   },
   "viewQuoteStats_52WeekLow": {
     "en": "52wk Low",
-    "de": "",
     "fr": "+Bas 52sem",
     "zh-Hant-TW": "52 週低點"
   },
   "viewQuoteStats_52WeekLowHelp": {
     "en": "Lowest price in 52 weeks",
-    "de": "",
     "fr": "Prix le plus bas en 52 semaines"
   },
   "viewQuoteStats_ask": {
@@ -2665,27 +2636,23 @@
   },
   "viewQuoteStats_askHelp": {
     "en": "Ask price",
-    "de": "",
     "fr": "Prix de l\\'offre"
   },
   "viewQuoteStats_askSize": {
     "en": "Ask Size",
-    "de": "",
     "fr": "Qté offre"
   },
   "viewQuoteStats_askSizeHelp": {
     "en": "Ask lot size",
-    "de": "",
     "fr": "Nombre d\\'actions à ce prix (offre)"
   },
   "viewQuoteStats_averageVolume": {
-    "en": "Avg Vol",
-    "de": "",
-    "fr": "Vol. moy."
+    "en": "Avg Vol (3m)",
+    "fr": "Vol. moy.",
+    "zh-Hant-TW": "平均交易量 (3月)"
   },
   "viewQuoteStats_averageVolumeHelp": {
     "en": "The average daily volume",
-    "de": "",
     "fr": "Le volume quotidien moyen"
   },
   "viewQuoteStats_beta": {
@@ -2694,7 +2661,6 @@
   },
   "viewQuoteStats_betaHelp": {
     "en": "Measure of the risk of a stock",
-    "de": "",
     "fr": "Mesure du risque d\\'un titre"
   },
   "viewQuoteStats_bid": {
@@ -2704,44 +2670,36 @@
   },
   "viewQuoteStats_bidSize": {
     "en": "Bid Size",
-    "de": "",
     "fr": "Qté demande"
   },
   "viewQuoteStats_bidSizeHelp": {
     "en": "Bid lot size",
-    "de": "",
     "fr": "Nombre d\\'actions à ce prix (demande)"
   },
   "viewQuoteStats_bid_price": {
     "en": "Bid price",
-    "de": "",
     "fr": "Prix de la demande"
   },
   "viewQuoteStats_bookValue": {
     "en": "Book Value",
-    "de": ""
+    "zh-Hant-TW": "賬面價值"
   },
   "viewQuoteStats_bookValueHelp": {
-    "en": "Total assets minus total liabilities. Reflects value shareholders would receive if company were to be liquidated.",
-    "de": ""
+    "en": "Total assets minus total liabilities. Reflects value shareholders would receive if company were to be liquidated."
   },
   "viewQuoteStats_dividendAndYield": {
     "en": "Div/Yld",
-    "de": "",
     "fr": "Div/Rdt"
   },
   "viewQuoteStats_dividendAndYieldHelp": {
     "en": "Div = annual dividend. Yld = percent yield of annual dividend.",
-    "de": "",
     "fr": "Dividende annuel et pourcentage de rendement"
   },
   "viewQuoteStats_dividendDate": {
-    "en": "Div Date",
-    "de": ""
+    "en": "Div Date"
   },
   "viewQuoteStats_dividendDateHelp": {
-    "en": "Date on which the scheduled dividend will be paid to investors.",
-    "de": ""
+    "en": "Date on which the scheduled dividend will be paid to investors."
   },
   "viewQuoteStats_eps": {
     "en": "EPS",
@@ -2750,12 +2708,10 @@
   },
   "viewQuoteStats_epsHelp": {
     "en": "Net income over last 4 quarters divided by total outstanding shares",
-    "de": "",
     "fr": "Résultat net sur les 4 derniers trimestres divisé par le nombre total d\\'actions en circulation"
   },
   "viewQuoteStats_exDividendDate": {
-    "en": "Ex Div",
-    "de": ""
+    "en": "Ex Div"
   },
   "viewQuoteStats_exDividendDateHelp": {
     "en": "Date before which investors must own the stock in order to receive the next upcoming dividend. Typically stocks decline on the ex dividend date by the amount of dividend issued."
@@ -2766,7 +2722,6 @@
   },
   "viewQuoteStats_forwardEPSHelp": {
     "en": "Predicted net income over upcoming 4 quarters divided by total outstanding shares",
-    "de": "",
     "fr": "Revenu net prévu au cours des 4 prochains trimestres divisé par le nombre total d\\'actions en circulation"
   },
   "viewQuoteStats_forwardPERatio": {
@@ -2775,23 +2730,19 @@
   },
   "viewQuoteStats_forwardPERatioHelp": {
     "en": "Share price divided by predicted earnings per share",
-    "de": "",
     "fr": "Le cours de l\\'action divisé par le bénéfice prévu par action"
   },
   "viewQuoteStats_high": {
     "en": "High",
-    "de": "",
     "fr": "+Haut",
     "zh-Hant-TW": "最高"
   },
   "viewQuoteStats_highHelp": {
     "en": "High price of the day",
-    "de": "",
     "fr": "Plus haut du jour"
   },
   "viewQuoteStats_low": {
     "en": "Low",
-    "de": "",
     "fr": "+Bas",
     "zh-Hant-TW": "最低"
   },
@@ -2801,7 +2752,6 @@
   },
   "viewQuoteStats_marketCap": {
     "en": "Mkt Cap",
-    "de": "",
     "fr": "Cap. boursière",
     "zh-Hant-TW": "總市值"
   },
@@ -2811,12 +2761,10 @@
   },
   "viewQuoteStats_oneYearTarget": {
     "en": "1y Target",
-    "de": "",
     "fr": "Objectif à 1 an"
   },
   "viewQuoteStats_oneYearTargetHelp": {
     "en": "Price of stock that analysts predicted the stock will be one year from now.",
-    "de": "",
     "fr": "Cours du titre prévu par les analystes à un an."
   },
   "viewQuoteStats_open": {
@@ -2902,17 +2850,17 @@
     "fr": "Nombre d\\'actions négociées la veille"
   },
   "viewQuoteTransaction_purchasedAmountFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "Purchased %s",
     "fr": "%s acheté"
   },
   "viewQuoteTransactions_dividendsFromHoldingFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "Dividends from %s",
     "fr": "Dividendes de %s"
   },
   "viewQuoteTransactions_soldAmountFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "Sold %s",
     "fr": "Vendu %s"
   },
@@ -2941,16 +2889,17 @@
     "fr": "Après clôture"
   },
   "viewQuote_lastTradeFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "Last Trade: %s",
     "fr": "Dernier échange : %s"
   },
   "viewQuote_moreNewsAboutXFormatted": {
-    "_formatted": "false",
+    "_formatted": false,
     "en": "More news about %s ➔",
     "fr": "Plus d\\'actualités à propos de %s ➔"
   },
   "viewQuote_newTickerChange": {
+    "_formatted": false,
     "en": "Ticker has changed %s\\nTap here to change to the new one"
   },
   "viewQuote_noData": {
