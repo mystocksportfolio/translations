@@ -160,7 +160,8 @@
     "_description": "Add Quote, Cash, Amount",
     "en": "Amount",
     "de": "Betrag",
-    "fr": "Montant"
+    "fr": "Montant",
+    "zh-Hant-TW": "數量"
   },
   "addQuoteCash_deposit": {
     "en": "Deposit",
@@ -379,7 +380,8 @@
   },
   "addQuote_trackTransaction": {
     "en": "Track a Transaction",
-    "fr": "Suivre transaction"
+    "fr": "Suivre transaction",
+    "zh-Hant-TW": "跟踪交易"
   },
   "addQuote_typeCrypto": {
     "en": "Crypto",
@@ -1645,6 +1647,11 @@
     "en": "This portfolio has different currencies but is set to display aggregate totals in its local currency. This option only works if the portfolio has holdings of one local currency. Tap here to edit currency settings.",
     "fr": "Ce portefeuille a différentes devises mais est configuré pour afficher les totaux globaux dans sa devise. Cette option ne fonctionne que si le portefeuille possède des positions dans une seule devise. Appuyez ici pour modifier les paramètres de devise."
   },
+  "portfolio_name": {
+    "en": "Name",
+    "fr": "Nom",
+    "zh-Hant-TW": "名稱"
+  },
   "portfolio_noPortfoliosHelp": {
     "en": "Add a new portfolio or watchlist by tapping the Add button in the menu or by tapping here."
   },
@@ -1716,6 +1723,10 @@
   },
   "portfolio_splitsHelp": {
     "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4."
+  },
+  "portfolio_price": {
+    "en": "Price",
+    "fr": "Prix"
   },
   "portfolio_priceAndSharesFormatted": {
     "_formatted": false,
@@ -1802,11 +1813,6 @@
     "en": "%d Holdings Selected",
     "fr": "%d positions selectionnées"
   },
-  "portfolio_sortName": {
-    "en": "Name",
-    "fr": "Nom",
-    "zh-Hant-TW": "名稱"
-  },
   "portfolio_sortNameReverse": {
     "en": "Name (Descending)",
     "fr": "Nom (Décroissant)"
@@ -1828,10 +1834,6 @@
     "_formatted": false,
     "en": "%d Portfolios Selected",
     "fr": "%d portefeuilles selectionnés"
-  },
-  "portfolio_sortPrice": {
-    "en": "Price",
-    "fr": "Prix"
   },
   "portfolio_sortPriceReverse": {
     "en": "Price (Ascending)",
@@ -2906,7 +2908,8 @@
   },
   "viewQuote_extendedHours": {
     "en": "Extended",
-    "fr": "Après clôture"
+    "fr": "Après clôture",
+    "zh-Hant-TW": "收盤後"
   },
   "viewQuote_lastTradeFormatted": {
     "_formatted": false,
