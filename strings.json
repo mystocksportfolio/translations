@@ -1892,7 +1892,7 @@
   "portfolio_ticker": {
     "en": "Ticker",
     "fr": "Symbole",
-    "zh-Hant-TW": "代號"
+    "zh-Hant-TW": "代碼"
   },
   "portfolio_top_daily_movers": {
     "en": "Top Daily Movers (US)"
