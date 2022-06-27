@@ -897,7 +897,8 @@
   },
   "generic_name": {
     "en": "Name",
-    "fr": "Nom"
+    "fr": "Nom",
+    "zh-Hant-TW": "名稱"
   },
   "generic_nameOptional": {
     "en": "Name (Optional)",
@@ -1022,11 +1023,13 @@
     "fr": "Rotation de l\\'écran"
   },
   "generic_save": {
-    "en": "Save"
+    "en": "Save",
+    "zh-Hant-TW": "省下"
   },
   "generic_saveXMoney": {
     "en": "Save %s",
-    "fr": "Economisez %s"
+    "fr": "Economisez %s",
+    "zh-Hant-TW": "省下 %s"
   },
   "generic_selectFile": {
     "en": "Select File",
@@ -1093,7 +1096,8 @@
   },
   "generic_today": {
     "en": "Today",
-    "fr": "Aujourd\\'hui"
+    "fr": "Aujourd\\'hui",
+    "zh-Hant-TW": "今天"
   },
   "generic_tooltipImageAccessibility": {
     "en": "Tooltip Image",
@@ -1423,7 +1427,8 @@
   },
   "portfolio_daily": {
     "en": "Daily",
-    "fr": "Jour"
+    "fr": "Jour",
+    "zh-Hant-TW": "每日"
   },
   "portfolio_dailyChangeCalculation": {
     "en": "Daily Change Calculation",
@@ -1472,7 +1477,8 @@
   },
   "portfolio_details": {
     "en": "Details",
-    "fr": "Détails"
+    "fr": "Détails",
+    "zh-Hant-TW": "更多細節"
   },
   "portfolio_displayLocalCurrency": {
     "en": "Display local currency instead of home currency for:",
@@ -1537,11 +1543,13 @@
   },
   "portfolio_hideDetails": {
     "en": "Hide Details",
-    "fr": "Details"
+    "fr": "Details",
+    "zh-Hant-TW": "隱藏"
   },
   "portfolio_holdings": {
     "en": "Holdings",
-    "fr": "Positions"
+    "fr": "Positions",
+    "zh-Hant-TW": "投資組合"
   },
   "portfolio_homeCurrency": {
     "en": "Home Currency",
@@ -1620,7 +1628,8 @@
   },
   "portfolio_quotes": {
     "en": "Quotes",
-    "fr": "Cours"
+    "fr": "Cours",
+    "zh-Hant-TW": "觀察清單"
   },
   "portfolio_realized": {
     "en": "Realized",
@@ -1668,7 +1677,8 @@
   },
   "portfolio_showDetails": {
     "en": "Show Details",
-    "fr": "Details"
+    "fr": "Details",
+    "zh-Hant-TW": "更多"
   },
   "portfolio_sortChange": {
     "en": "Change",
@@ -1750,7 +1760,8 @@
   },
   "portfolio_sortName": {
     "en": "Name",
-    "fr": "Nom"
+    "fr": "Nom",
+    "zh-Hant-TW": "名稱"
   },
   "portfolio_sortNameReverse": {
     "en": "Name (Descending)",
@@ -1900,6 +1911,10 @@
   "portfolio_warningDeletePortfolio": {
     "en": "Are you sure you want to delete this portfolio?",
     "fr": "Êtes-vous sûr de vouloir supprimer ce portefeuille ?"
+  },
+  "portfolio_watchlist": {
+    "en": "Watchlist",
+    "zh-Hant-TW": "觀察清單"
   },
   "portfolioHistorical_clearLocalCache": {
     "en": "Clear historical storage"
@@ -2605,7 +2620,8 @@
     "fr": "Synchroniser avec le serveur"
   },
   "tab_more": {
-    "en": "More"
+    "en": "More",
+    "zh-Hant-TW": "更用"
   },
   "tab_news": {
     "en": "News",
@@ -2613,7 +2629,8 @@
     "zh-Hant-TW": "新聞"
   },
   "tab_portfolio": {
-    "en": "Portfolio"
+    "en": "Portfolio",
+    "zh-Hant-TW": "組合"
   },
   "tab_overview": {
     "en": "Overview",
@@ -2728,7 +2745,8 @@
   },
   "viewQuoteStats_eps": {
     "en": "EPS",
-    "fr": "BPA"
+    "fr": "BPA",
+    "zh-Hant-TW": "每股營利"
   },
   "viewQuoteStats_epsHelp": {
     "en": "Net income over last 4 quarters divided by total outstanding shares",
