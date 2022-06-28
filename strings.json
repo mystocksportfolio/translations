@@ -1329,7 +1329,7 @@
   "news_title": {
     "en": "News",
     "fr": "Actualités",
-    "zh-Hant-TW": "新聞"
+    "zh-Hant-TW": "新聞內容"
   },
   "password_confirmPassword": {
     "en": "Confirm Password",
@@ -1457,7 +1457,8 @@
     "fr": "Impossible de trier manuellement lorsque qu\\'une colonne est utilisée pour trier. Tapez sur l\\'en-tête de colonne et choisissez \"Manual Sort\"."
   },
   "portfolio_ceo": {
-    "en": "CEO"
+    "en": "CEO",
+    "zh-Hant-TW": "執行長"
   },
   "portfolio_change": {
     "en": "Change",
@@ -1732,7 +1733,7 @@
   },
   "portfolio_sectorIndustry": {
     "en": "Sector, Industry",
-    "zh-Hant-TW": "Sector, 產業"
+    "zh-Hant-TW": "部門, 產業"
   },
   "portfolio_setHomeCurrency": {
     "en": "Set Home Currency",
@@ -2268,7 +2269,8 @@
     "fr": "2ème ligne"
   },
   "settingsDisplay_extendedHours": {
-    "en": "Extended hours"
+    "en": "Extended hours",
+    "zh-Hant-TW": "盤後價格"
   },
   "settingsDisplay_extendedHoursHelp": {
     "en": "Display extended trading (shows as 3rd line if single-line mode is off, shows on same line if single-line mode is on)"
@@ -2972,7 +2974,8 @@
     "fr": "Prix"
   },
   "viewQuote_profile": {
-    "en": "Profile"
+    "en": "Profile",
+    "zh-Hant-TW": "簡介"
   },
   "viewQuote_shareQuote": {
     "en": "Share Quote",
