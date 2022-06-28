@@ -309,7 +309,8 @@
     "fr": "Dividendes"
   },
   "addQuoteTransaction_typeReverseSplit": {
-    "en": "Reverse Split"
+    "en": "Reverse Split",
+    "zh-Hant-TW": "反向分割"
   },
   "addQuoteTransaction_typeSell": {
     "en": "Sell",
@@ -323,7 +324,8 @@
     "zh-Hant-TW": "賣空"
   },
   "addQuoteTransaction_typeSplit": {
-    "en": "Split"
+    "en": "Split",
+    "zh-Hant-TW": "股票分割"
   },
   "addQuoteTransaction_typeUnknown": {
     "en": "Unknown"
@@ -348,7 +350,7 @@
   "addQuote_enterSymbolPrompt": {
     "en": "Please enter a symbol",
     "fr": "Veuillez entrer un symbole",
-    "zh-Hant-TW": "請輸入股票名稱／代號"
+    "zh-Hant-TW": "請輸入股票名稱／代碼"
   },
   "addQuote_howToPreview": {
     "en": "How To: Preview quote without adding to watchlist",
@@ -367,7 +369,7 @@
   "addQuote_symbol": {
     "en": "Symbol",
     "fr": "Symbole",
-    "zh-Hant-TW": "代號"
+    "zh-Hant-TW": "代碼"
   },
   "addQuote_symbolDisplayOverride": {
     "en": "Symbol display override (Optional)",
@@ -942,7 +944,8 @@
     "en": "Manual Sort"
   },
   "generic_month": {
-    "en": "Month"
+    "en": "Month",
+    "zh-Hant-TW": "月"
   },
   "generic_name": {
     "en": "Name",
@@ -988,7 +991,8 @@
   },
   "generic_no": {
     "en": "No",
-    "fr": "Non"
+    "fr": "Non",
+    "zh-Hant-TW": "不"
   },
   "generic_noResults": {
     "en": "No Results",
@@ -1092,7 +1096,8 @@
   },
   "generic_settings": {
     "en": "Settings",
-    "fr": "Paramètres"
+    "fr": "Paramètres",
+    "zh-Hant-TW": "設定"
   },
   "generic_shareUsing": {
     "en": "Share using…"
@@ -1173,11 +1178,13 @@
     "fr": "Mise à jour"
   },
   "generic_year": {
-    "en": "Year"
+    "en": "Year",
+    "zh-Hant-TW": "年"
   },
   "generic_yes": {
     "en": "Yes",
-    "fr": "Oui"
+    "fr": "Oui",
+    "zh-Hant-TW": "是"
   },
   "help_announcements": {
     "en": "Announcements",
@@ -1380,6 +1387,16 @@
     "en": "Password Protection",
     "fr": "Protection par mot de passe"
   },
+  "portfolio": {
+    "en": "Portfolio",
+    "fr": "Portefeuille",
+    "zh-Hant-TW": "組合"
+  },
+  "portfolio_colon": {
+    "en": "Portfolio:",
+    "fr": "Portefeuille :",
+    "zh-Hant-TW": "組合："
+  },
   "portfolioAllocations_groupInOthers": {
     "en": "Group holding in \\'Others\\' when less than % of total",
     "fr": "Grouper les position sous \\'Autres\\' quand ils représentent moins que % du total"
@@ -1549,11 +1566,13 @@
   },
   "portfolio_dividends": {
     "en": "Dividends",
-    "fr": "Dividendes"
+    "fr": "Dividendes",
+    "zh-Hant-TW": "股息"
   },
   "portfolio_dividendsColon": {
     "en": "Dividends:",
-    "fr": "Dividendes :"
+    "fr": "Dividendes :",
+    "zh-Hant-TW": "股息："
   },
   "portfolio_dividendsInTotals": {
     "en": "Dividends reflected in totals",
@@ -1597,6 +1616,10 @@
     "en": "Full-Time Employees",
     "zh-Hant-TW": "員工人數"
   },
+  "portfolio_futures": {
+    "en": "Futures",
+    "zh-Hant-TW": "期貨"
+  },
   "portfolio_hideDetails": {
     "en": "Hide Details",
     "fr": "Details",
@@ -1622,8 +1645,8 @@
   "portfolio_lastPrice": {
     "en": "Last Price",
     "fr": "Cours",
-    "zh": "最新成交价格",
-    "zh-Hant-TW": "最新成交價格"
+    "zh": "最后成交价",
+    "zh-Hant-TW": "最後成交價"
   },
   "portfolio_ledgerNoTransactions": {
     "en": "No transactions added yet"
@@ -1708,7 +1731,8 @@
     "en": "Reverse Order"
   },
   "portfolio_sectorIndustry": {
-    "en": "Sector, Industry"
+    "en": "Sector, Industry",
+    "zh-Hant-TW": "Sector, 產業"
   },
   "portfolio_setHomeCurrency": {
     "en": "Set Home Currency",
@@ -1722,7 +1746,9 @@
   },
   "portfolio_sharesAt": {
     "en": "Shares @",
-    "fr": "Actions @"
+    "fr": "Actions @",
+    "zh": "股数 @",
+    "zh-Hant-TW": "股數 @"
   },
   "portfolio_splitsHelp": {
     "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4."
@@ -1734,12 +1760,14 @@
   "portfolio_priceAndSharesFormatted": {
     "_formatted": false,
     "en": "%s x %s shares",
-    "fr": "%s x %s actions"
+    "fr": "%s x %s actions",
+    "zh-Hant-TW": "%s x %s 股數"
   },
   "portfolio_priceAndSharesFormattedWithLocal": {
     "_formatted": false,
     "en": "%s (%s) x %s shares",
-    "fr": "%s (%s) x %s actions"
+    "fr": "%s (%s) x %s actions",
+    "zh-Hant-TW": "%s (%s) x %s 股數"
   },
   "portfolio_showDetails": {
     "en": "Show Details",
@@ -2478,27 +2506,33 @@
   },
   "settings_refreshIntervalMinutes1": {
     "en": "1 minute",
-    "fr": "1 minute"
+    "fr": "1 minute",
+    "zh-Hant-TW": "一分鐘"
   },
   "settings_refreshIntervalMinutes2": {
     "en": "2 minutes",
-    "fr": "2 minutes"
+    "fr": "2 minutes",
+    "zh-Hant-TW": "2分鐘"
   },
   "settings_refreshIntervalMinutes5": {
     "en": "5 minutes",
-    "fr": "5 minutes"
+    "fr": "5 minutes",
+    "zh-Hant-TW": "5分鐘"
   },
   "settings_refreshIntervalSeconds10": {
     "en": "10 seconds",
-    "fr": "10 secondes"
+    "fr": "10 secondes",
+    "zh-Hant-TW": "10秒"
   },
   "settings_refreshIntervalSeconds30": {
     "en": "30 seconds",
-    "fr": "30 secondes"
+    "fr": "30 secondes",
+    "zh-Hant-TW": "30秒"
   },
   "settings_refreshIntervalSeconds5": {
     "en": "5 seconds",
-    "fr": "5 secondes"
+    "fr": "5 secondes",
+    "zh-Hant-TW": "5秒"
   },
   "settings_reviewApp": {
     "en": "Review",
@@ -2835,7 +2869,8 @@
     "en": "Shares short (prior month). Data is delayed."
   },
   "viewQuoteStats_pegRatio": {
-    "en": "PEG Ratio"
+    "en": "PEG Ratio",
+    "zh-Hant-TW": "股價與成長比率"
   },
   "viewQuoteStats_pegRatioHelp": {
     "en": "Price/Earnings-to-Growth ratio is the P/E ratio divided by growth rate. Similar to P/E ratio, but factors in growth. A low value may mean the stock is undervalued."
@@ -2971,10 +3006,6 @@
     "en": "Configure Overview Widget",
     "fr": "Configurer le widget de synthèse"
   },
-  "widgetOverview_portfolio": {
-    "en": "Portfolio",
-    "fr": "Portefeuille"
-  },
   "widgetOverview_title": {
     "en": "Overview",
     "fr": "Synthèse",
@@ -2987,10 +3018,6 @@
   "widgetPortfolio_configure": {
     "en": "Configure Quotes Widget",
     "fr": "Configurer le widget des cours"
-  },
-  "widgetPortfolio_portfolio": {
-    "en": "Portfolio:",
-    "fr": "Portefeuille :"
   },
   "widgetPortfolio_title": {
     "en": "Single Portfolio",
