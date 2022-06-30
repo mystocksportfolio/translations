@@ -257,7 +257,8 @@
   },
   "addQuoteTransaction_exchangeRate": {
     "en": "Exchange Rate",
-    "fr": "Taux de change"
+    "fr": "Taux de change",
+    "zh-Hant-TW": "匯率"
   },
   "addQuoteTransaction_percentCommission": {
     "en": "% Commission",
@@ -283,7 +284,8 @@
   },
   "addQuoteTransaction_transaction_notes": {
     "en": "Transaction Notes",
-    "fr": "Notes de transaction"
+    "fr": "Notes de transaction",
+    "zh-Hant-TW": "交易備註"
   },
   "addQuoteTransaction_type": {
     "en": "Transaction Type",
@@ -303,10 +305,6 @@
   "addQuoteTransaction_typeDRIP": {
     "en": "Dividends + Reinvestment (DRIP)",
     "fr": "Dividendes + réinvestissement (RRD)"
-  },
-  "addQuoteTransaction_typeDividends": {
-    "en": "Dividends",
-    "fr": "Dividendes"
   },
   "addQuoteTransaction_typeReverseSplit": {
     "en": "Reverse Split",
@@ -391,7 +389,8 @@
   },
   "addQuote_typeForex": {
     "en": "Forex",
-    "fr": "Devises"
+    "fr": "Devises",
+    "zh-Hant-TW": "外匯"
   },
   "addQuote_typeMarket": {
     "en": "Market",
@@ -823,7 +822,8 @@
     "fr": "Continuer"
   },
   "generic_date": {
-    "en": "Date"
+    "en": "Date",
+    "zh-Hant-TW": "日期"
   },
   "generic_delete": {
     "en": "Delete",
@@ -839,7 +839,8 @@
   "generic_done": {
     "en": "Done",
     "fr": "Terminé",
-    "zh": "完成"
+    "zh": "完成",
+    "zh-Hant-TW": "完成"
   },
   "generic_edit": {
     "en": "Edit",
@@ -1111,12 +1112,14 @@
   "generic_signOut": {
     "en": "Sign Out",
     "fr": "Déconnexion",
-    "zh": "登出"
+    "zh": "登出",
+    "zh-Hant-TW": "登出"
   },
   "generic_sign_in": {
     "en": "Sign In",
     "fr": "Se connecter",
-    "zh": "登入"
+    "zh": "登入",
+    "zh-Hant-TW": "登入"
   },
   "generic_signInToSyncAcrossDevices": {
     "en": "Sign in to sync across devices"
@@ -1150,7 +1153,8 @@
     "en": "To:",
     "de": "Nach:",
     "fr": "À :",
-    "zh": "至："
+    "zh": "至：",
+    "zh-Hant-TW": "到："
   },
   "generic_today": {
     "en": "Today",
