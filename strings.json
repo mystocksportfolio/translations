@@ -836,6 +836,9 @@
     "en": "Dismiss",
     "fr": "Fermer"
   },
+  "generic_displayLanguage": {
+    "en": "Display Language"
+  },
   "generic_done": {
     "en": "Done",
     "fr": "Terminé",
@@ -925,6 +928,9 @@
   },
   "generic_import": {
     "en": "Import…"
+  },
+  "generic_language": {
+    "en": "Language"
   },
   "generic_larger": {
     "en": "Larger",
@@ -1133,6 +1139,12 @@
   },
   "generic_subscribed": {
     "en": "Subscribed"
+  },
+  "generic_suggestTranslations": {
+    "en": "Suggest Translations"
+  },
+  "generic_suggestTranslationsHelp": {
+    "en": "If you\\'d like to make suggested fixes or changes with translations"
   },
   "generic_sure": {
     "en": "Sure",
