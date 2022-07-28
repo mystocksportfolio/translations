@@ -467,7 +467,8 @@
   },
   "chart_loading": {
     "en": "Loading Chart…",
-    "fr": "Chargement du graphique…"
+    "fr": "Chargement du graphique…",
+    "zh-Hant-TW": "載入圖表中…"
   },
   "chart_logarithmic": {
     "en": "Log",
@@ -1236,7 +1237,8 @@
   },
   "help_reportBug": {
     "en": "Report a Bug",
-    "fr": "Signaler un bug"
+    "fr": "Signaler un bug",
+    "zh-Hant-TW": "異常回報"
   },
   "help_suggestions": {
     "en": "Suggestions",
