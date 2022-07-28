@@ -2201,6 +2201,9 @@
     "en": "Your cash will not be reflected in your total portfolio value",
     "fr": "Vos liquidités ne seront pas prises en compte dans la valeur totale du portefeuille."
   },
+  "settingsCalculations_todayResetsAt": {
+    "en": "New day time when using Today calculations"
+  },
   "settingsDisplay_averagePricePerShare": {
     "en": "Average Price per Share",
     "fr": "Affiche Nombre d\\'actions @ Prix moyen par action"
@@ -2407,6 +2410,9 @@
   },
   "settingsGeneral_keepScreenAliveHelp": {
     "en": "Prevent phone screen from sleeping while app is visible"
+  },
+  "settingsGeneral_openNewsExternalBrowser": {
+    "en": "Open news in external browser"
   },
   "settingsGeneral_showExitPrompt": {
     "en": "Confirm when exiting"
