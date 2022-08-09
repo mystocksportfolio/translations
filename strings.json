@@ -11,34 +11,45 @@
   },
 
   "accessibility_allTimeChange": {
-    "en": "All-Time Change"
+    "en": "All-Time Change",
+    "zh-Hant-TW": "總損益"
   },
   "accessibility_allTimeChangePercent": {
-    "en": "All-Time Change Percent"
+    "en": "All-Time Change Percent",
+    "zh-Hant-TW": "總損益百分比"    
   },
   "accessibility_allTimeCommissions": {
-    "en": "All-Time Commissions"
+    "en": "All-Time Commissions",
+    "zh-Hant-TW": "總手續費"
   },
   "accessibility_allTimeCostBasis": {
-    "en": "All-Time Cost Basis"
+    "en": "All-Time Cost Basis",
+    "zh-Hant-TW": "總成本"
   },
   "accessibility_allTimeDividends": {
-    "en": "All-Time Dividends"
+    "en": "All-Time Dividends",
+    "zh-Hant-TW": "總股息"
+    
   },
   "accessibility_allTimeValue": {
-    "en": "All-Time Value"
+    "en": "All-Time Value",
+    "zh-Hant-TW": "總市值"
   },
   "accessibility_currency": {
-    "en": "Currency"
+    "en": "Currency",
+    "zh-Hant-TW": "幣別"
   },
   "accessibility_dividendsInTotals": {
-    "en": "Dividends included in Totals"
+    "en": "Dividends included in Totals",
+    "zh-Hant-TW": "總額含股利"
   },
   "accessibility_editNotes": {
-    "en": "Edit Notes"
+    "en": "Edit Notes",
+    "zh-Hant-TW": "編輯備註"
   },
   "accessibility_filterNews": {
-    "en": "Filter News"
+    "en": "Filter News",
+    "zh-Hant-TW": "篩選"
   },
   "accessibility_omitCashFromTotals": {
     "en": "Omit Cash from Totals"
@@ -47,52 +58,69 @@
     "en": "Omit Cash from Percentage Returns"
   },
   "accessibility_realizedChange": {
-    "en": "Realized Change"
+    "en": "Realized Change",
+    "zh-Hant-TW": "已實現報酬"
   },
   "accessibility_realizedChangePercent": {
-    "en": "Realized Change Percent"
+    "en": "Realized Change Percent",
+    "zh-Hant-TW": "已實現報酬百分比"
   },
   "accessibility_realizedYTDChange": {
-    "en": "Realized YTD Change"
+    "en": "Realized YTD Change",
+    "zh-Hant-TW": "已實現年化報酬"
   },
   "accessibility_realizedYTDChangePercent": {
-    "en": "Realized YTD Change Percent"
+    "en": "Realized YTD Change Percent",
+    "zh-Hant-TW": "已實現年化報酬百分比"
   },
   "accessibility_realizedCostBasis": {
-    "en": "Realized Cost Basis"
+    "en": "Realized Cost Basis",
+    "zh-Hant-TW": "已實現成本"
   },
   "accessibility_realizedValue": {
-    "en": "Realized Value"
+    "en": "Realized Value",
+    "zh-Hant-TW": "已實現市值"
   },
   "accessibility_refreshNews": {
-    "en": "Refresh News"
+    "en": "Refresh News",
+    "zh-Hant-TW": "重新整理"
+    
   },
   "accessibility_unrealized": {
-    "en": "Unrealized"
+    "en": "Unrealized",
+    "zh-Hant-TW": "未實現"
   },
   "accessibility_unrealizedChange": {
-    "en": "Unrealized Change"
+    "en": "Unrealized Change",
+    "zh-Hant-TW": "未實現損益"
   },
   "accessibility_unrealizedChangePercent": {
-    "en": "Unrealized Change Percent"
+    "en": "Unrealized Change Percent",
+    "zh-Hant-TW": "未實現損益百分比"
   },
   "accessibility_unrealizedCostBasis": {
-    "en": "Unrealized Cost Basis"
+    "en": "Unrealized Cost Basis",
+    "zh-Hant-TW": "未實現成本"
   },
   "accessibility_unrealizedCostPerShare": {
-    "en": "Unrealized Cost per Share"
+    "en": "Unrealized Cost per Share",
+    "zh-Hant-TW": "未實現每股均價"
   },
   "accessibility_unrealizedDailyChange": {
-    "en": "Unrealized Daily Change"
+    "en": "Unrealized Daily Change",
+    "zh-Hant-TW": "未實現每日漲跌"
   },
   "accessibility_unrealizedDailyChangePercent": {
-    "en": "Unrealized Daily Change Percent"
+    "en": "Unrealized Daily Change Percent",
+    "zh-Hant-TW": "未實現每日漲跌百分比"
   },
   "accessibility_unrealizedShares": {
-    "en": "Unrealized Shares"
+    "en": "Unrealized Shares",
+    "zh-Hant-TW": "未實現股數"
   },
   "accessibility_unrealizedValue": {
-    "en": "Unrealized Value"
+    "en": "Unrealized Value",
+    "zh-Hant-TW": "未實現市值"
   },
   "accounting_fifo": {
     "en": "FIFO"
@@ -107,13 +135,15 @@
     "en": "Last In, First Out"
   },
   "accounting_highCost": {
-    "en": "High Cost"
+    "en": "High Cost",
+    "zh-Hant-TW": "成本高"
   },
   "accounting_highCostDescription": {
     "en": "Shares that were most expensive are sold first"
   },
   "accounting_lowCost": {
-    "en": "Low Cost"
+    "en": "Low Cost",
+    "zh-Hant-TW": "成本低"
   },
   "accounting_lowCostDescription": {
     "en": "Shares that were the least expensive are sold first"
@@ -167,16 +197,18 @@
     "en": "Deposit",
     "fr": "Déposer",
     "zh": "加值",
-    "zh-Hant-TW": "加值"
+    "zh-Hant-TW": "存入"
   },
   "addQuoteCash_enterCashAmount": {
     "en": "Please enter a cash amount",
-    "fr": "Veuillez entrer un montant d\\'espèces"
+    "fr": "Veuillez entrer un montant d\\'espèces",
+    "zh-Hant-TW": "請輸入現金總額"
   },
   "addQuoteCash_selectCurrency": {
     "en": "Select Currency",
     "de": "Wähle eine Währung",
-    "fr": "Sélectionnez la devise"
+    "fr": "Sélectionnez la devise",
+    "zh-Hant-TW": "選擇貨幣"
   },
   "addQuoteCash_withdraw": {
     "en": "Withdraw",
@@ -203,7 +235,8 @@
   "addQuoteTransaction_calendar": {
     "en": "Calendar",
     "de": "Kalendar",
-    "fr": "Calendrier"
+    "fr": "Calendrier",
+    "zh-Hant-TW": "日曆"
   },
   "addQuoteTransaction_commission": {
     "en": "Commission",
@@ -223,17 +256,20 @@
     "en": "Entry Method"
   },
   "addQuoteTransaction_costBasisTotalAmount": {
-    "en": "Total Amount"
+    "en": "Total Amount",
+    "zh-Hant-TW": "總金額"
   },
   "addQuoteTransaction_currencyToCurrencyFormatted": {
     "_formatted": false,
     "en": "%s to %s",
-    "fr": "%s à %s"
+    "fr": "%s à %s",
+    "zh-Hant-TW": "%s 至 %s"
   },
   "addQuoteTransaction_currencyToHomeCurrencyFormatted": {
     "_formatted": false,
     "en": "%s to Home Currency",
-    "fr": "%s à la devise préférée"
+    "fr": "%s à la devise préférée",
+    "zh-Hant-TW": "%s 至 預設貨幣"
   },
   "addQuoteTransaction_date": {
     "en": "Transaction Date",
@@ -242,7 +278,8 @@
   },
   "addQuoteTransaction_depositCashToPortfolioFromDividends": {
     "en": "Deposit cash to portfolio from dividends",
-    "fr": "Dépôt d\\'espèces au portefeuille lors des dividendes"
+    "fr": "Dépôt d\\'espèces au portefeuille lors des dividendes",
+    "zh-Hant-TW": "從股息存入現金至投資組合"
   },
   "addQuoteTransaction_depositCashToPortfolioFromSale": {
     "en": "Deposit cash to portfolio from sale",
@@ -250,10 +287,12 @@
   },
   "addQuoteTransaction_enterSharesPrompt": {
     "en": "Please enter the number of shares",
-    "fr": "S\\'il vous plaît entrez le nombre d\\'actions"
+    "fr": "S\\'il vous plaît entrez le nombre d\\'actions",
+    "zh-Hant-TW": "請輸入股數"
   },
   "addQuoteTransaction_enterValidDate": {
-    "en": "Please enter a valid transaction date"
+    "en": "Please enter a valid transaction date",
+    "zh-Hant-TW": "請輸入成交日期"
   },
   "addQuoteTransaction_exchangeRate": {
     "en": "Exchange Rate",
@@ -268,11 +307,12 @@
   "addQuoteTransaction_pricePerShare": {
     "en": "Price Per Share",
     "fr": "Prix par action",
-    "zh-Hant-TW": "購買價格"
+    "zh-Hant-TW": "每股價格"
   },
   "addQuoteTransaction_purchaseDate": {
     "en": "Purchase Date",
-    "fr": "Date d\\'achat"
+    "fr": "Date d\\'achat",
+    "zh-Hant-TW": "取得日期"
   },
   "addQuoteTransaction_purchaseExchangeRateHelp": {
     "en": "Exchange Rate at time of Transaction (Stock\\'s Currency to Home Currency). For example, 1.5 means $1 of the stock\\'s currency exchanges to $1.5 of your home currency. You can change the Home Currency by tapping Currency on the holdings screen. Leave blank to use today\\'s exchange rate.",
@@ -296,7 +336,7 @@
     "en": "Buy",
     "fr": "Acheter",
     "zh": "买",
-    "zh-Hant-TW": "購買"
+    "zh-Hant-TW": "買"
   },
   "addQuoteTransaction_typeBuyToCover": {
     "en": "Buy to Cover",
@@ -329,7 +369,8 @@
     "zh-Hant-TW": "股票分割"
   },
   "addQuoteTransaction_typeUnknown": {
-    "en": "Unknown"
+    "en": "Unknown",
+    "zh-Hant-TW": "未知"
   },
   "addQuoteTransaction_useCommissions": {
     "en": "Use Commissions",
@@ -342,7 +383,8 @@
   },
   "addQuoteTransaction_withdrawCashFromPortfolioToPurchase": {
     "en": "Withdraw cash from portfolio to purchase",
-    "fr": "Retirer de l\\'argent du portefeuille à l\\'achat"
+    "fr": "Retirer de l\\'argent du portefeuille à l\\'achat",
+    "zh-Hant-TW": "hj/6"
   },
   "addQuote_addUnlistedSymbolHelp": {
     "en": "Unlisted symbols can be used for equity such as shares that do not trade on the open market. To add price data, go to the quote details page after adding the symbol, open the menu, and click \\'Add Custom Prices\\'.",
@@ -362,7 +404,8 @@
     "fr": "Après avoir saisi le nom du symbole, cliquez sur le clavier ou sélectionnez un symbole depuis la liste d\\'auto-complétion.\\n\\nSi une prévisualisation du prix the la cotation surgit sous le champ du symbole, vous pouvez cliquer dessus pour prévisualiser la cotation et les actualités sans l\\'ajouter à votre portefeuille."
   },
   "addQuote_howToAddCrypto": {
-    "en": "How To: Tracking crypto"
+    "en": "How To: Tracking crypto",
+    "zh-Hant-TW": "如何追蹤加密貨幣"
   },
   "addQuote_howToAddCryptoHelp": {
     "en": "To track a crypto, enter the pair (i.e. BTC-USD). If you cannot find a pair, you may contact us at support@peeksoft.co to get it registered. Prices are aggregated across exchanges (Source: CoinGecko)."
@@ -374,7 +417,8 @@
   },
   "addQuote_symbolDisplayOverride": {
     "en": "Symbol display override (Optional)",
-    "fr": "Remplacement du symbole d\\'affichage (Facultatif)"
+    "fr": "Remplacement du symbole d\\'affichage (Facultatif)",
+    "zh-Hant-TW": "更改代碼顯示（選填）"
   },
   "addQuote_symbolWithHint": {
     "en": "Symbol (i.e. GOOG)",
