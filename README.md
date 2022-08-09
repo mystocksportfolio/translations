@@ -8,17 +8,17 @@ Thank you for any help with translating!
 
 
 
-### Progress (766 strings):
+### Progress (773 strings):
 
-![Progress](https://progress-bar.dev/100?title=en&width=120) 772/772
+![Progress](https://progress-bar.dev/100?title=en&width=120) 773/773
 
-![Progress](https://progress-bar.dev/69?title=fr&width=120) 529/772
+![Progress](https://progress-bar.dev/68?title=fr&width=120) 529/773
 
-![Progress](https://progress-bar.dev/4?title=de&width=120) 31/772
+![Progress](https://progress-bar.dev/4?title=de&width=120) 31/773
 
-![Progress](https://progress-bar.dev/3?title=zh&width=120) 20/772
+![Progress](https://progress-bar.dev/3?title=zh&width=120) 20/773
 
-![Progress](https://progress-bar.dev/18?title=zh-Hant-TW&width=120) 138/772
+![Progress](https://progress-bar.dev/18?title=zh-Hant-TW&width=120) 138/773
 
 
 

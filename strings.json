@@ -302,6 +302,9 @@
     "en": "Buy to Cover",
     "fr": "Acheter pour couvrir"
   },
+  "addQuoteTransaction_typeClosePosition": {
+    "en": "Close Position"
+  },
   "addQuoteTransaction_typeDRIP": {
     "en": "Dividends + Reinvestment (DRIP)",
     "fr": "Dividendes + réinvestissement (RRD)"
