@@ -104,7 +104,7 @@
   },
   "accessibility_unrealizedCostPerShare": {
     "en": "Unrealized Cost per Share",
-    "zh-Hant-TW": "成交均價"
+    "zh-Hant-TW": "成交價"
   },
   "accessibility_unrealizedDailyChange": {
     "en": "Unrealized Daily Change",
@@ -120,7 +120,7 @@
   },
   "accessibility_unrealizedValue": {
     "en": "Unrealized Value",
-    "zh-Hant-TW": "股票市值"
+    "zh-Hant-TW": "參考市值"
   },
   "accounting_fifo": {
     "en": "FIFO"
@@ -1536,16 +1536,17 @@
   "news_sorryCouldNotOpenNewsArticle": {
     "en": "Sorry, we couldn\\'t open that news article.",
     "fr": "Désolé, nous ne pouvons pas ouvrir cet article.",
-    "zh-Hant-TW": "抱歉"
+    "zh-Hant-TW": "抱歉～\\無法開啟此新聞"
   },
   "news_title": {
     "en": "News",
     "fr": "Actualités",
-    "zh-Hant-TW": "新聞內容"
+    "zh-Hant-TW": "新聞"
   },
   "password_confirmPassword": {
     "en": "Confirm Password",
-    "fr": "Confirmez le mot de passe"
+    "fr": "Confirmez le mot de passe",
+    "zh-Hant-TW": "確認密碼"
   },
   "password_enable": {
     "en": "Enable password protection",
@@ -1557,11 +1558,13 @@
   },
   "password_enterPassword": {
     "en": "Enter Password",
-    "fr": "Entrer le mot de passe"
+    "fr": "Entrer le mot de passe",
+    "zh-Hant-TW": "輸入密碼"
   },
   "password_enterPasswordPrompt": {
     "en": "Please enter a password",
-    "fr": "Veuillez entrer un mot de passe"
+    "fr": "Veuillez entrer un mot de passe",
+    "zh-Hant-TW": "請輸入密碼"
   },
   "password_enterPasswordTimeoutPrompt": {
     "en": "Please enter a valid password timeout (integer between 5 to 3600)",
@@ -1569,7 +1572,8 @@
   },
   "password_enterPasswordToContinue": {
     "en": "Enter password to continue",
-    "fr": "Entrez le mot de passe pour continuer"
+    "fr": "Entrez le mot de passe pour continuer",
+    "zh-Hant-TW": "輸入密碼後繼續"
   },
   "password_incorrectConfirmationPassword": {
     "en": "Incorrect confirmation password",
@@ -1577,19 +1581,23 @@
   },
   "password_incorrectPassword": {
     "en": "Incorrect password",
-    "fr": "Mot de passe incorrect"
+    "fr": "Mot de passe incorrect",
+    "zh-Hant-TW": "密碼不正確"
   },
   "password_pleaseConfirmYourPassword": {
     "en": "Please confirm your password",
-    "fr": "S\\'il vous plaît confirmez votre mot de passe"
+    "fr": "S\\'il vous plaît confirmez votre mot de passe",
+    "zh-Hant-TW": "請確認你的密碼"
   },
   "password_showPortfolioInfoOnWidget": {
     "en": "Show portfolio information on widget",
-    "fr": "Afficher les informations de portefeuille sur le widget"
+    "fr": "Afficher les informations de portefeuille sur le widget",
+    "zh-Hant-TW": "顯示投資組合資訊於小工具上"
   },
   "password_showQuotesListOnWidget": {
     "en": "Show quotes list on widget",
-    "fr": "Afficher la liste des cours sur le widget"
+    "fr": "Afficher la liste des cours sur le widget",
+    "zh-Hant-TW": "顯示報價清單於小工具上"
   },
   "password_timeoutInSeconds": {
     "en": "Timeout in seconds",
@@ -1597,7 +1605,8 @@
   },
   "password_title": {
     "en": "Password Protection",
-    "fr": "Protection par mot de passe"
+    "fr": "Protection par mot de passe",
+    "zh-Hant-TW": "密碼保護"
   },
   "portfolio": {
     "en": "Portfolio",
@@ -1615,7 +1624,8 @@
   },
   "portfolioAnalysis_changeSettings": {
     "en": "To change, open Settings, Calculations",
-    "fr": "Pour modifier, ouvrer Réglages, Calculs"
+    "fr": "Pour modifier, ouvrer Réglages, Calculs",
+    "zh-Hant-TW": "欲改變,開啟設定,金額統計"
   },
   "portfolio_absoluteMagnitude": {
     "en": "Absolute / Magnitude"
@@ -1623,13 +1633,15 @@
   "portfolio_addPortfolio": {
     "en": "Add Portfolio",
     "fr": "Ajouter un portefeuille",
-    "zh-Hant-TW": "添加新組合"
+    "zh-Hant-TW": "添加新投資組合"
   },
   "portfolio_addToPortfolio": {
-    "en": "Add to Portfolio"
+    "en": "Add to Portfolio",
+    "zh-Hant-TW": "新增至投資組合"
   },
   "portfolio_addingToPortfolio": {
-    "en": "Adding to portfolio…"
+    "en": "Adding to portfolio…",
+    "zh-Hant-TW": "新增至投資組合中…"
   },
   "portfolio_allocation_categoryTagHelp": {
     "en": "To assign category tags, click on the labels button (bottom right of an item). The allocation chart can be configured to show the symbol on the 1st level, and the category tag on the 2nd level."
@@ -1639,26 +1651,30 @@
   },
   "portfolio_allocations": {
     "en": "Allocations",
-    "fr": "Allocations"
+    "fr": "Allocations",
+     "zh-Hant-TW": "分佈"
   },
   "portfolio_allPositions": {
     "en": "All Positions",
-    "fr": "Toutes les positions"
+    "fr": "Toutes les positions",
+    "zh-Hant-TW": "所有倉位"
   },
   "portfolio_allTime": {
     "en": "All-Time",
-    "fr": "Toujours"
+    "fr": "Toujours",
   },
   "portfolio_allTimeColon": {
     "en": "All-Time:"
   },
   "portfolio_annualized": {
     "en": "Annualized:",
-    "fr": "Annualisé :"
+    "fr": "Annualisé :",
+    "zh-Hant-TW": "年化"
   },
   "portfolio_annualizedXIRR": {
     "en": "Annualized XIRR",
-    "fr": "Annualisé (XIRR)"
+    "fr": "Annualisé (XIRR)",
+    "zh-Hant-TW": "年化（XIRR）"
   },
   "portfolio_brokerSettings": {
     "en": "Broker Settings",
@@ -1684,18 +1700,21 @@
   "portfolio_costBasis": {
     "en": "Cost Basis",
     "fr": "Cout de base",
-    "zh-Hant-TW": "總成本"
+    "zh-Hant-TW": "投資成本"
   },
   "portfolio_costPerShare": {
     "en": "Cost Per Share",
-    "fr": "Cout par action"
+    "fr": "Cout par action",
+    "zh-Hant-TW": "成交價"
   },
   "portfolio_couldNotAddToPortfolio": {
-    "en": "Could not add to portfolio"
+    "en": "Could not add to portfolio",
+    "zh-Hant-TW": "無法新增至投資組合"
   },
   "portfolio_couldNotMoveToPortfolio": {
     "en": "Could not move to portfolio",
-    "fr": "Impossible de déplacer vers le portefeuille"
+    "fr": "Impossible de déplacer vers le portefeuille",
+    "zh-Hant-TW": "無法移動至投資組合"
   },
   "portfolio_currency": {
     "en": "Currency",
@@ -1711,7 +1730,8 @@
   },
   "portfolio_currentPortfolio": {
     "en": "Current Portfolio",
-    "fr": "Portefeuille actuel"
+    "fr": "Portefeuille actuel",
+    "zh-Hant-TW": "目前組合"
   },
   "portfolio_daily": {
     "en": "Daily",
@@ -1720,19 +1740,23 @@
   },
   "portfolio_dailyChangeCalculation": {
     "en": "Daily Change Calculation",
-    "fr": "Calcul des modifications quotidiennes"
+    "fr": "Calcul des modifications quotidiennes",
+    "zh-Hant-TW": "每日漲跌統計"
   },
   "portfolio_dailyColumnSettings": {
     "en": "Daily Column Settings",
-    "fr": "Paramètres de la colonne \"jour\""
+    "fr": "Paramètres de la colonne \"jour\"",
+    "zh-Hant-TW": "每日欄位設定"
   },
   "portfolio_defaultCurrency": {
     "en": "Default",
-    "fr": "Défaut"
+    "fr": "Défaut",
+    "zh-Hant-TW": "預設"
   },
   "portfolio_defaultName": {
     "en": "My Portfolio",
-    "fr": "Mon portefeuille"
+    "fr": "Mon portefeuille",
+    "zh-Hant-TW": "我的投資組合"
   },
   "portfolio_deleteFromServerDisclaimer": {
     "en": "If you are signed in, this will delete it from the server and your other devices when they sync."
@@ -1744,7 +1768,8 @@
   },
   "portfolio_deleteQuoteWarningFormatted": {
     "_formatted": false,
-    "en": "Are you sure you want to delete this Quote (%s)?"
+    "en": "Are you sure you want to delete this Quote (%s)?",
+    "zh-Hant-TW": "確定要刪除這個報價（%s）嗎?"
   },
   "portfolio_deleteQuoteWarningWithTransactionsFormatted": {
     "_formatted": false,
@@ -1752,10 +1777,12 @@
     "fr": "Supprimer un cours (%s) supprimera également toutes les positions associées dans le portefeuille. Continuer ?"
   },
   "portfolio_deleteSelectedPortfoliosWarning": {
-    "en": "Are you sure you want to delete these Portfolios and all Quotes in them?"
+    "en": "Are you sure you want to delete these Portfolios and all Quotes in them?",
+    "zh-Hant-TW": "確定要刪除這些投資組合與裡面所有的報價嗎?"
   },
   "portfolio_deleteSelectedQuotesWarning": {
-    "en": "Are you sure you want to delete these Quotes and all Transactions in them?"
+    "en": "Are you sure you want to delete these Quotes and all Transactions in them?",
+    "zh-Hant-TW": "確定要刪除這些報價與裡面所有的交易嗎?"
   },
   "portfolio_deleteSelectedQuoteTransactionsWarning": {
     "en": "Are you sure you want to delete these Holdings and all Transactions in them?"
@@ -1812,7 +1839,8 @@
   },
   "portfolio_editOrDeletePortfolio": {
     "en": "Edit/Delete Portfolio",
-    "fr": "Modifier / Supprimer le portefeuille"
+    "fr": "Modifier / Supprimer le portefeuille",
+    "zh-Hant-TW": "編輯/刪除組合"
   },
   "portfolio_editPortfolio": {
     "en": "Edit Portfolio",
@@ -1836,7 +1864,7 @@
   "portfolio_hideDetails": {
     "en": "Hide Details",
     "fr": "Details",
-    "zh-Hant-TW": "隱藏"
+    "zh-Hant-TW": "收起"
   },
   "portfolio_holdings": {
     "en": "Holdings",
@@ -1867,15 +1895,17 @@
   "portfolio_marketNews": {
     "en": "Market News",
     "fr": "Actualités du marché",
-    "zh-Hant-TW": "股市新聞"
+    "zh-Hant-TW": "市場新聞"
   },
   "portfolio_moveToPortfolio": {
     "en": "Move/Copy to Portfolio",
-    "fr": "Déplacer/Copie vers le portefeuille"
+    "fr": "Déplacer/Copie vers le portefeuille",
+    "zh-Hant-TW": "移動/拷貝至投資組合"
   },
   "portfolio_movingToPortfolio": {
     "en": "Moving to portfolio…",
-    "fr": "Déplacement vers le portefeuille…"
+    "fr": "Déplacement vers le portefeuille…",
+    "zh-Hant-TW": "移動至投資組合中…"
   },
   "portfolio_multipleCurrenciesNoHomeCurrency": {
     "en": "Multiple currencies detected but a home currency is not set, so totals can\\'t be calculated. Please tap here to set a home currency.",
@@ -1891,7 +1921,8 @@
     "zh-Hant-TW": "名稱"
   },
   "portfolio_noPortfoliosHelp": {
-    "en": "Add a new portfolio or watchlist by tapping the Add button in the menu or by tapping here."
+    "en": "Add a new portfolio or watchlist by tapping the Add button in the menu or by tapping here.",
+    
   },
   "portfolio_noQuotesHelp": {
     "en": "Add a new quote by tapping the Add button in the menu or by tapping here."
