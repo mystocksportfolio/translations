@@ -810,7 +810,7 @@
   },
   "faq_paidAlready": {
     "en": "I paid for the app already, but the app does not remember or recognize my purchase",
-    "zh-Hant-TW": "我已經付過錢了;但是app不記得或不認得我有訂閱過"
+    "zh-Hant-TW": "我已經付款過了;但app不記得或不認得我有訂閱過"
   },
   "faq_paidAlreadyAnswer": {
     "en": "Please make sure you are logged into the account used to make the purchase and click \\'Restore Purchases\\'. If you can\\'t restore the purchase, please reach out to us via support."
@@ -864,22 +864,22 @@
   "generic_autoRefresh": {
     "en": "Auto-refresh",
     "fr": "Mise à jour automatique",
-    "zh-Hant-TW": "自動重新載入"
+    "zh-Hant-TW": "自動刷新"
   },
   "generic_autoRefreshOnWeekends": {
     "en": "Auto-refresh on weekends",
     "fr": "Mise à jour automatique les week-ends",
-    "zh-Hant-TW": "週末自動重新載入"
+    "zh-Hant-TW": "週末自動刷新"
   },
   "generic_autoRefreshEndTime": {
     "en": "Auto-refresh end time",
     "fr": "Heure de fin de la mise à jour automatique",
-    "zh-Hant-TW": "自動重新載入結束時間"
+    "zh-Hant-TW": "自動刷新結束時間"
   },
   "generic_autoRefreshStartTime": {
     "en": "Auto-refresh start time",
     "fr": "Heure de début de la mise à jour automatique"
-    "zh-Hant-TW": "自動重新載入開始時間"
+    "zh-Hant-TW": "自動刷新開始時間"
   },
   "generic_beginImport": {
     "en": "Begin Import",
@@ -911,7 +911,7 @@
   },
   "generic_connectionIssue": {
     "en": "Could not reach servers. Please check your connection and try again.",
-    "zh-Hant-TW": "無法連結到伺服器，請檢查網路連線，再試一次"
+    "zh-Hant-TW": "無法連結到伺服器，請檢查網路連線並再試一次"
   },
   "generic_contactUs": {
     "en": "Contact Us",
@@ -1114,7 +1114,7 @@
   "generic_networkNotAvailable": {
     "en": "Network not available. Please connect to the internet and try again.",
     "fr": "Réseau non disponible Veuillez vous connecter à Internet et réessayer.",
-    "zh-Hant-TW": "網路不給你，稍後請重新再連結網路"
+    "zh-Hant-TW": "網路不給力，稍後請再重新連結網路"
   },
   "generic_newVersionAvailable": {
     "en": "New version available",
@@ -1129,7 +1129,7 @@
   "generic_newVersionAvailableHelp": {
     "en": "There is a new version of the app available and it is recommended to update. Download the update?",
     "fr": "Il existe une nouvelle version de l\\'application disponible et il est recommandé de la mettre à jour. Télécharger la mise à jour?",
-    "zh-Hant-TW": "新版本已釋出，建議更新至最新版本。下載新版本?"
+    "zh-Hant-TW": "新版本已釋出，建議更新至最新版本。要下載最新版本嗎?"
   },
   "generic_no": {
     "en": "No",
@@ -1873,7 +1873,8 @@
   },
   "portfolio_homeCurrency": {
     "en": "Home Currency",
-    "fr": "Devise préférée"
+    "fr": "Devise préférée",
+    "zh-Hant-TW": "預設幣別"
   },
   "portfolio_homeCurrencyHelp": {
     "en": "Your holdings will be converted to display in this currency. Note: historical performance chart data will be cleared.",
@@ -1936,11 +1937,13 @@
   },
   "portfolio_portfolioCurrency": {
     "en": "Portfolio Currency",
-    "fr": "Devise du portefeuille"
+    "fr": "Devise du portefeuille",
+    "zh-Hant-TW": "投資組合幣別"
   },
   "portfolio_portfolioIconAccessibility": {
     "en": "Portfolio Icon",
-    "fr": "Icône de portefeuille"
+    "fr": "Icône de portefeuille",
+    "zh-Hant-TW": "投資組合圖示"
   },
   "portfolio_portfolioMultipleCurrenciesNoHomeCurrency": {
     "en": "This portfolio has different currencies but a home currency is not set, so totals can\\'t be calculated. Please tap here to set currency settings.",
@@ -1953,7 +1956,8 @@
   },
   "portfolio_portfoliosOverview": {
     "en": "Portfolios Overview",
-    "fr": "Synthèse des portefeuilles"
+    "fr": "Synthèse des portefeuilles",
+    "zh-Hant-TW": "投資組合總覽"
   },
   "portfolio_quotes": {
     "en": "Quotes",
@@ -1962,17 +1966,20 @@
   },
   "portfolio_realized": {
     "en": "Realized",
-    "fr": "Réalisé"
+    "fr": "Réalisé",
+    "zh-Hant-TW": "已實現"
   },
   "portfolio_realizedColon": {
     "en": "Realized:",
-    "fr": "Réalisé :"
+    "fr": "Réalisé :",
+    "zh-Hant-TW": "庫存"
   },
   "portfolio_realizedYTDColon": {
     "en": "Rlzd YTD:"
   },
   "portfolio_reverseOrder": {
-    "en": "Reverse Order"
+    "en": "Reverse Order",
+    "zh-Hant-TW": "顛倒順序"
   },
   "portfolio_sectorIndustry": {
     "en": "Sector, Industry",
@@ -1980,7 +1987,8 @@
   },
   "portfolio_setHomeCurrency": {
     "en": "Set Home Currency",
-    "fr": "Définir la devise préférée"
+    "fr": "Définir la devise préférée",
+    "zh-Hant-TW": "設定預設幣別"
   },
   "portfolio_shares": {
     "en": "Shares",
@@ -1999,7 +2007,8 @@
   },
   "portfolio_price": {
     "en": "Price",
-    "fr": "Prix"
+    "fr": "Prix",
+    "zh-Hant-TW": "價格"
   },
   "portfolio_priceAndSharesFormatted": {
     "_formatted": false,
@@ -2023,7 +2032,8 @@
   },
   "portfolio_sortChangePercent": {
     "en": "Change %",
-    "fr": "Variation %"
+    "fr": "Variation %",
+    "zh-Hant-TW": "漲跌 %"
   },
   "portfolio_sortAbsChangePercent": {
     "en": "Change % (Absolute)"
@@ -2048,14 +2058,16 @@
   },
   "portfolio_sortDailyChange": {
     "en": "Daily Change",
-    "fr": "Variation quotidienne"
+    "fr": "Variation quotidienne",
+    "zh-Hant-TW": "每日漲跌"
   },
   "portfolio_sortAbsDailyChange": {
     "en": "Daily Change (Absolute)"
   },
   "portfolio_sortDailyChangePercent": {
     "en": "Daily Change %",
-    "fr": "Variation quotidienne %"
+    "fr": "Variation quotidienne %",
+    "zh-Hant-TW": "每日漲跌 %"
   },
   "portfolio_sortAbsDailyChangePercent": {
     "en": "Daily Change % (Absolute)"
@@ -2179,7 +2191,7 @@
   },
   "portfolio_sort_by": {
     "en": "Sort By…",
-    "fr": "Trier par…"
+    "fr": "Trier par…",
   },
   "portfolio_syncBrokerage": {
     "en": "Sync Brokerage",
@@ -2191,7 +2203,8 @@
     "zh-Hant-TW": "代碼"
   },
   "portfolio_top_daily_movers": {
-    "en": "Top Daily Movers (US)"
+    "en": "Top Daily Movers (US)",
+    "zh-Hant-TW": "漲跌榜（美國）"
   },
   "portfolio_total": {
     "en": "Total",
@@ -2200,22 +2213,26 @@
   },
   "portfolio_totalCostPlaceholder": {
     "_formatted": false,
-    "en": "Total Cost: %s"
+    "en": "Total Cost: %s",
+    "zh-Hant-TW": "總成本: %s"
   },
   "portfolio_totalDividends": {
     "en": "Total Dividends",
-    "fr": "Total des dividendes"
+    "fr": "Total des dividendes",
+    "zh-Hant-TW": "總股息"
   },
   "portfolio_totalProceedsPlaceholder": {
     "_formatted": false,
     "en": "Proceeds: %s"
   },
   "portfolio_unannualized": {
-    "en": "Unannualized XIRR"
+    "en": "Unannualized XIRR",
+    "zh-Hant-TW": "庫存 XIRR"
   },
   "portfolio_unrealized": {
     "en": "Unrealized",
-    "fr": "Non réalisé"
+    "fr": "Non réalisé",
+    "zh-Hant-TW": "庫存"
   },
   "portfolio_useTodayChange": {
     "en": "Today\\'s Change (New day time configurable in Settings, Calculations)",
@@ -2223,22 +2240,26 @@
   },
   "portfolio_value": {
     "en": "Value",
-    "fr": "Valeur"
+    "fr": "Valeur",
+    "zh-Hant-TW": "市值"
   },
   "portfolio_valueAndCost": {
     "en": "Value/Cost",
-    "fr": "Valeur/Coût"
+    "fr": "Valeur/Coût",
+    "zh-Hant-TW": "市值/成本"
   },
   "portfolio_warningDeletePortfolio": {
     "en": "Are you sure you want to delete this portfolio?",
-    "fr": "Êtes-vous sûr de vouloir supprimer ce portefeuille ?"
+    "fr": "Êtes-vous sûr de vouloir supprimer ce portefeuille ?",
+    "zh-Hant-TW": "確定要刪除這個投資組合嗎?"
   },
   "portfolio_watchlist": {
     "en": "Watchlist",
     "zh-Hant-TW": "觀察清單"
   },
   "portfolioHistorical_clearLocalCache": {
-    "en": "Clear historical storage"
+    "en": "Clear historical storage",
+    "zh-Hant-TW": "清除歷史紀錄"
   },
   "portfolioHistorical_title": {
     "en": "Calculate historical performance?\\n\\nNote: If you modify previous transactions, you may need to clear the historical storage and recalculate. If historical quote prices are missing, you can go to the quote details page and add custom historical prices from the top menu."
@@ -2268,35 +2289,45 @@
   },
   "purchases_manageSubscriptions": {
     "en": "Manage Subscriptions",
-    "fr": "Gérer les Souscriptions"
+    "fr": "Gérer les Souscriptions",
+    "zh-Hant-TW": "管理訂閱"
   },
   "purchases_notSignedIn": {
     "en": "Please open the Google Play Store app and verify that you are signed in",
-    "fr": "Veuillez ouvrez Google Play Store et vérifier que vous êtes authentifiés."
+    "fr": "Veuillez ouvrez Google Play Store et vérifier que vous êtes authentifiés.",
+    "zh-Hant-TW": "請打開Google Play商店 app登入並且進行驗證"
   },
   "purchases_pleaseRetryInFewSeconds": {
     "en": "Please retry in a few seconds",
-    "fr": "Veuillez réessayer dans quelques secondes"
+    "fr": "Veuillez réessayer dans quelques secondes",
+    "zh-Hant-TW": "請稍後再試"
   },
   "purchases_promoText": {
     "en": "Enjoy a premium ad-free experience!",
-    "fr": "Profitez d\\'une expérience premium sans publicité!"
+    "fr": "Profitez d\\'une expérience premium sans publicité!",
+    "zh-Hant-TW": "祝你有個美好的無廣告premium體驗"
   },
   "purchases_promoServerAutoSync": {
-    "en": "✓ Auto sync data across devices"
+    "en": "✓ Auto sync data across devices",
+    "zh-Hant-TW": "✓ 跨裝置資料自動備份"
   },
   "purchases_promoExportData": {
-    "en": "✓ More exported data (i.e. quote prices)"
+    "en": "✓ More exported data (i.e. quote prices)",
+    "zh-Hant-TW": "✓ 匯出更多數據（例如：報價）"
   },
   "purchases_promoNoAdvertisements": {
     "en": "✓ No advertisements",
-    "fr": "✓ Sans publicité"
+    "fr": "✓ Sans publicité",
+    "zh-Hant-TW": "✓ 沒有廣告干擾"
+    
   },
   "purchases_promoFullScreenHistoricals": {
-    "en": "✓ Fullscreen portfolio historical performance"
+    "en": "✓ Fullscreen portfolio historical performance",
+    "zh-Hant-TW": "✓ 全螢幕歷年投資組合表現"
   },
   "purchases_promoUnlimitedAlerts": {
-    "en": "✓ Unlimited server push alerts"
+    "en": "✓ Unlimited server push alerts",
+    "zh-Hant-TW": "✓ 無限制推播通知"
   },
   "purchases_restoreFailedPleaseCheckConnection": {
     "en": "Restore Failed. Please check your internet connection and try again later.",
