@@ -11,34 +11,45 @@
   },
 
   "accessibility_allTimeChange": {
-    "en": "All-Time Change"
+    "en": "All-Time Change",
+    "zh-Hant-TW": "總損益"
   },
   "accessibility_allTimeChangePercent": {
-    "en": "All-Time Change Percent"
+    "en": "All-Time Change Percent",
+    "zh-Hant-TW": "總損益％"    
   },
   "accessibility_allTimeCommissions": {
-    "en": "All-Time Commissions"
+    "en": "All-Time Commissions",
+    "zh-Hant-TW": "總手續費"
   },
   "accessibility_allTimeCostBasis": {
-    "en": "All-Time Cost Basis"
+    "en": "All-Time Cost Basis",
+    "zh-Hant-TW": "總成本"
   },
   "accessibility_allTimeDividends": {
-    "en": "All-Time Dividends"
+    "en": "All-Time Dividends",
+    "zh-Hant-TW": "總股息"
+    
   },
   "accessibility_allTimeValue": {
-    "en": "All-Time Value"
+    "en": "All-Time Value",
+    "zh-Hant-TW": "總市值"
   },
   "accessibility_currency": {
-    "en": "Currency"
+    "en": "Currency",
+    "zh-Hant-TW": "幣別"
   },
   "accessibility_dividendsInTotals": {
-    "en": "Dividends included in Totals"
+    "en": "Dividends included in Totals",
+    "zh-Hant-TW": "總額含股利"
   },
   "accessibility_editNotes": {
-    "en": "Edit Notes"
+    "en": "Edit Notes",
+    "zh-Hant-TW": "編輯備註"
   },
   "accessibility_filterNews": {
-    "en": "Filter News"
+    "en": "Filter News",
+    "zh-Hant-TW": "篩選"
   },
   "accessibility_omitCashFromTotals": {
     "en": "Omit Cash from Totals"
@@ -47,10 +58,12 @@
     "en": "Omit Cash from Percentage Returns"
   },
   "accessibility_realizedChange": {
-    "en": "Realized Change"
+    "en": "Realized Change",
+    "zh-Hant-TW": "已實現損益"
   },
   "accessibility_realizedChangePercent": {
-    "en": "Realized Change Percent"
+    "en": "Realized Change Percent",
+    "zh-Hant-TW": "已實現獲利率"
   },
   "accessibility_realizedYTDChange": {
     "en": "Realized YTD Change"
@@ -66,6 +79,7 @@
   },
   "accessibility_refreshNews": {
     "en": "Refresh News"
+    
   },
   "accessibility_unrealized": {
     "en": "Unrealized"
@@ -89,7 +103,8 @@
     "en": "Unrealized Daily Change Percent"
   },
   "accessibility_unrealizedShares": {
-    "en": "Unrealized Shares"
+    "en": "Unrealized Shares",
+    "zh-Hant-TW": "剩餘股數"
   },
   "accessibility_unrealizedValue": {
     "en": "Unrealized Value"
@@ -107,13 +122,15 @@
     "en": "Last In, First Out"
   },
   "accounting_highCost": {
-    "en": "High Cost"
+    "en": "High Cost",
+    "zh-Hant-TW": "成本高"
   },
   "accounting_highCostDescription": {
     "en": "Shares that were most expensive are sold first"
   },
   "accounting_lowCost": {
-    "en": "Low Cost"
+    "en": "Low Cost",
+    "zh-Hant-TW": "成本低"
   },
   "accounting_lowCostDescription": {
     "en": "Shares that were the least expensive are sold first"
@@ -143,12 +160,14 @@
   },
   "addPortfolio_enterNamePrompt": {
     "en": "Please enter a name",
-    "fr": "Veuillez entrer un nom"
+    "fr": "Veuillez entrer un nom",
+    "zh-Hant-TW": "請輸入投資組合名稱"
   },
   "addPortfolio_nameOfPortfolio": {
     "en": "Name of Portfolio",
     "de": "Name des Portfolios",
-    "fr": "Nom du portefeuille"
+    "fr": "Nom du portefeuille",
+    "zh-Hant-TW": "投資組合名稱"
   },
   "addQuoteCash": {
     "en": "Cash",
@@ -161,28 +180,30 @@
     "en": "Amount",
     "de": "Betrag",
     "fr": "Montant",
-    "zh-Hant-TW": "數量"
+    "zh-Hant-TW": "金額"
   },
   "addQuoteCash_deposit": {
     "en": "Deposit",
     "fr": "Déposer",
     "zh": "加值",
-    "zh-Hant-TW": "加值"
+    "zh-Hant-TW": "入金"
   },
   "addQuoteCash_enterCashAmount": {
     "en": "Please enter a cash amount",
-    "fr": "Veuillez entrer un montant d\\'espèces"
+    "fr": "Veuillez entrer un montant d\\'espèces",
+    "zh-Hant-TW": "請輸入金額"
   },
   "addQuoteCash_selectCurrency": {
     "en": "Select Currency",
     "de": "Wähle eine Währung",
-    "fr": "Sélectionnez la devise"
+    "fr": "Sélectionnez la devise",
+    "zh-Hant-TW": "幣別"
   },
   "addQuoteCash_withdraw": {
     "en": "Withdraw",
     "fr": "Retirer",
     "zh": "提领",
-    "zh-Hant-TW": "提領"
+    "zh-Hant-TW": "出金"
   },
   "addQuoteCrypto_enterCryptoPair": {
     "en": "Please enter a crypto pair, i.e. BTC-USD",
@@ -203,7 +224,8 @@
   "addQuoteTransaction_calendar": {
     "en": "Calendar",
     "de": "Kalendar",
-    "fr": "Calendrier"
+    "fr": "Calendrier",
+    "zh-Hant-TW": "日曆"
   },
   "addQuoteTransaction_commission": {
     "en": "Commission",
@@ -223,17 +245,20 @@
     "en": "Entry Method"
   },
   "addQuoteTransaction_costBasisTotalAmount": {
-    "en": "Total Amount"
+    "en": "Total Amount",
+    "zh-Hant-TW": "總金額"
   },
   "addQuoteTransaction_currencyToCurrencyFormatted": {
     "_formatted": false,
     "en": "%s to %s",
-    "fr": "%s à %s"
+    "fr": "%s à %s",
+    "zh-Hant-TW": "%s 至 %s"
   },
   "addQuoteTransaction_currencyToHomeCurrencyFormatted": {
     "_formatted": false,
     "en": "%s to Home Currency",
-    "fr": "%s à la devise préférée"
+    "fr": "%s à la devise préférée",
+    "zh-Hant-TW": "%s 至 預設幣別"
   },
   "addQuoteTransaction_date": {
     "en": "Transaction Date",
@@ -242,7 +267,8 @@
   },
   "addQuoteTransaction_depositCashToPortfolioFromDividends": {
     "en": "Deposit cash to portfolio from dividends",
-    "fr": "Dépôt d\\'espèces au portefeuille lors des dividendes"
+    "fr": "Dépôt d\\'espèces au portefeuille lors des dividendes",
+    "zh-Hant-TW": "股息入金至投資組合"
   },
   "addQuoteTransaction_depositCashToPortfolioFromSale": {
     "en": "Deposit cash to portfolio from sale",
@@ -250,13 +276,12 @@
   },
   "addQuoteTransaction_enterSharesPrompt": {
     "en": "Please enter the number of shares",
-    "fr": "S\\'il vous plaît entrez le nombre d\\'actions"
+    "fr": "S\\'il vous plaît entrez le nombre d\\'actions",
+    "zh-Hant-TW": "請輸入股數"
   },
   "addQuoteTransaction_enterValidDate": {
-    "en": "Please enter a valid transaction date"
-  },
-  "addQuoteTransaction_enterValidSymbol": {
-    "en": "Please enter a valid symbol"
+    "en": "Please enter a valid transaction date",
+    "zh-Hant-TW": "請輸入成交日期"
   },
   "addQuoteTransaction_exchangeRate": {
     "en": "Exchange Rate",
@@ -271,11 +296,12 @@
   "addQuoteTransaction_pricePerShare": {
     "en": "Price Per Share",
     "fr": "Prix par action",
-    "zh-Hant-TW": "購買價格"
+    "zh-Hant-TW": "每股價格"
   },
   "addQuoteTransaction_purchaseDate": {
     "en": "Purchase Date",
-    "fr": "Date d\\'achat"
+    "fr": "Date d\\'achat",
+    "zh-Hant-TW": "日期"
   },
   "addQuoteTransaction_purchaseExchangeRateHelp": {
     "en": "Exchange Rate at time of Transaction (Stock\\'s Currency to Home Currency). For example, 1.5 means $1 of the stock\\'s currency exchanges to $1.5 of your home currency. You can change the Home Currency by tapping Currency on the holdings screen. Leave blank to use today\\'s exchange rate.",
@@ -293,23 +319,20 @@
   "addQuoteTransaction_type": {
     "en": "Transaction Type",
     "fr": "Type de transaction",
-    "zh-Hant-TW": "成交類別"
+    "zh-Hant-TW": "交易別"
   },
   "addQuoteTransaction_typeBuy": {
     "en": "Buy",
     "fr": "Acheter",
     "zh": "买",
-    "zh-Hant-TW": "購買"
+    "zh-Hant-TW": "買"
   },
   "addQuoteTransaction_typeBuyToCover": {
     "en": "Buy to Cover",
     "fr": "Acheter pour couvrir"
   },
-  "addQuoteTransaction_typeClosePositions": {
-    "en": "Close Positions"
-  },
-  "addQuoteTransaction_typeCloseShortPositions": {
-    "en": "Close Short Positions"
+  "addQuoteTransaction_typeClosePosition": {
+    "en": "Close Position"
   },
   "addQuoteTransaction_typeDRIP": {
     "en": "Dividends + Reinvestment (DRIP)",
@@ -335,7 +358,8 @@
     "zh-Hant-TW": "股票分割"
   },
   "addQuoteTransaction_typeUnknown": {
-    "en": "Unknown"
+    "en": "Unknown",
+    "zh-Hant-TW": "未知"
   },
   "addQuoteTransaction_useCommissions": {
     "en": "Use Commissions",
@@ -357,18 +381,20 @@
   "addQuote_enterSymbolPrompt": {
     "en": "Please enter a symbol",
     "fr": "Veuillez entrer un symbole",
-    "zh-Hant-TW": "請輸入股票名稱／代碼"
+    "zh-Hant-TW": "請輸入名稱／代碼"
   },
   "addQuote_howToPreview": {
     "en": "How To: Preview quote without adding to watchlist",
-    "fr": "Comment faire : Prévisualiser la cotation sans ajout à la list de surveillance"
+    "fr": "Comment faire : Prévisualiser la cotation sans ajout à la list de surveillance",
+    "zh-Hant-TW": "如何預覽卻不用加到觀察清單"
   },
   "addQuote_howToPreviewHelp": {
     "en": "After entering the symbol/ticker, a price preview should show up.\\n\\nClick on the price preview to view the quote without adding it to your portfolio.",
     "fr": "Après avoir saisi le nom du symbole, cliquez sur le clavier ou sélectionnez un symbole depuis la liste d\\'auto-complétion.\\n\\nSi une prévisualisation du prix the la cotation surgit sous le champ du symbole, vous pouvez cliquer dessus pour prévisualiser la cotation et les actualités sans l\\'ajouter à votre portefeuille."
   },
   "addQuote_howToAddCrypto": {
-    "en": "How To: Tracking crypto"
+    "en": "How To: Tracking crypto",
+    "zh-Hant-TW": "如何追蹤加密貨幣"
   },
   "addQuote_howToAddCryptoHelp": {
     "en": "To track a crypto, enter the pair (i.e. BTC-USD). If you cannot find a pair, you may contact us at support@peeksoft.co to get it registered. Prices are aggregated across exchanges (Source: CoinGecko)."
@@ -380,21 +406,24 @@
   },
   "addQuote_symbolDisplayOverride": {
     "en": "Symbol display override (Optional)",
-    "fr": "Remplacement du symbole d\\'affichage (Facultatif)"
+    "fr": "Remplacement du symbole d\\'affichage (Facultatif)",
+    "zh-Hant-TW": "更改顯示（選填）"
   },
   "addQuote_symbolWithHint": {
     "en": "Symbol (i.e. GOOG)",
     "de": "Symbol (z.B. GOOG)",
-    "fr": "Symbole (par ex. GOOG)"
+    "fr": "Symbole (par ex. GOOG)",
+    "zh-Hant-TW": "代碼（例如: GOOG）"
   },
   "addQuote_trackTransaction": {
     "en": "Track a Transaction",
     "fr": "Suivre transaction",
-    "zh-Hant-TW": "跟踪交易"
+    "zh-Hant-TW": "追蹤交易"
   },
   "addQuote_typeCrypto": {
     "en": "Crypto",
-    "fr": "Crypto"
+    "fr": "Crypto",
+    "zh-Hant-TW": "加密貨幣"
   },
   "addQuote_typeForex": {
     "en": "Forex",
@@ -411,13 +440,16 @@
     "fr": "Non listé"
   },
   "alert_alertPageEmptyHelp": {
-    "en": "Add an alert by tapping Add Alert (Alert icon) in the menu, or by tapping here."
+    "en": "Add an alert by tapping Add Alert (Alert icon) in the menu, or by tapping here.",
+    "zh-Hant-TW": "點擊選單中新增到價通知或點擊這裡新增"
   },
   "alert_lessThan": {
-    "en": "less than"
+    "en": "less than",
+    "zh-Hant-TW": "低於"
   },
   "alert_moreThan": {
-    "en": "more than"
+    "en": "more than",
+    "zh-Hant-TW": "高於"
   },
   "alert_trailingStopLoss": {
     "en": "trailing stop loss"
@@ -426,7 +458,8 @@
     "en": "reverse trailing stop loss"
   },
   "alert_priceAlert": {
-    "en": "Price Alert"
+    "en": "Price Alert",
+    "zh-Hant-TW": "到價通知"
   },
   "alert_viewExistingAlerts": {
     "en": "View existing alerts"
@@ -440,39 +473,47 @@
     "fr": "Volume : Activer les couleurs"
   },
   "chart_gridlines": {
-    "en": "Gridlines"
+    "en": "Gridlines",
+    "zh-Hant-TW": "網格線"
   },
   "chart_indicators": {
     "en": "Indicators",
-    "fr": "Indicateurs"
+    "fr": "Indicateurs",
+    "zh-Hant-TW": "指標"
   },
   "chart_intervalFiveMinutes": {
     "en": "5 Minutes",
     "de": "5 Minuten",
-    "fr": "5 minutes"
+    "fr": "5 minutes",
+    "zh-Hant-TW": "五分"
   },
   "chart_intervalOneHour": {
-    "en": "1 Hour"
+    "en": "1 Hour",
+    "zh-Hant-TW": "一時"
   },
   "chart_intervalOneDay": {
     "en": "1 Day",
     "de": "1 Tag",
-    "fr": "1 jour"
+    "fr": "1 jour",
+    "zh-Hant-TW": "一天"
   },
   "chart_intervalOneMinute": {
     "en": "1 Minute",
     "de": "1 Minute",
-    "fr": "1 minute"
+    "fr": "1 minute",
+    "zh-Hant-TW": "一分"
   },
   "chart_intervalOneMonth": {
     "en": "1 Month",
     "de": "1 Monat",
-    "fr": "1 mois"
+    "fr": "1 mois",
+    "zh-Hant-TW": "一月"
   },
   "chart_intervalOneWeek": {
     "en": "1 Week",
     "de": "1 Woche",
-    "fr": "1 semaine"
+    "fr": "1 semaine",
+    "zh-Hant-TW": "一週"
   },
   "chart_loading": {
     "en": "Loading Chart…",
@@ -609,11 +650,13 @@
   },
   "chart_settings": {
     "en": "Chart Settings",
-    "fr": "Paramètres du graphique"
+    "fr": "Paramètres du graphique",
+    "zh-Hant-TW": "圖表設定"
   },
   "chart_title": {
     "en": "View Chart",
-    "fr": "Voir le graphique"
+    "fr": "Voir le graphique",
+    "zh-Hant-TW": "檢視圖表"
   },
   "chart_transactionAnnotations": {
     "en": "Transaction Annotations"
@@ -640,7 +683,8 @@
   },
   "chart_typeOHLC": {
     "en": "OHLC",
-    "fr": "OHLC"
+    "fr": "OHLC",
+    "zh-Hant-TW": "美國線"
   },
   "chart_volume": {
     "en": "Volume",
@@ -648,14 +692,17 @@
     "zh-Hant-TW": "交易量"
   },
   "csv_fileEmpty": {
-    "en": "File is empty"
+    "en": "File is empty",
+    "zh-Hant-TW": "空白檔案"
   },
   "csv_unableToOpen": {
-    "en": "Unable to open file"
+    "en": "Unable to open file",
+    "zh-Hant-TW": "無法開啟檔案"
   },
   "csvExport_exportAndOverwrite": {
     "en": "Export and overwrite existing file",
-    "fr": "Exporter et écraser le fichier existant"
+    "fr": "Exporter et écraser le fichier existant",
+    "zh-Hant-TW": "匯出並取代既有檔案"
   },
   "csvExport_externalStorageHelp": {
     "en": "To export, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nYou can choose to export to SDCard or local storage (open the side menu in the file picker), or Google Drive. If you export to Google Drive, your file will be accessible from your computer at https://drive.google.com."
@@ -665,7 +712,8 @@
   },
   "csvExport_unableToUpload": {
     "en": "Unable to upload CSV file",
-    "fr": "Impossible de charger le fichier CSV"
+    "fr": "Impossible de charger le fichier CSV",
+    "zh-Hant-TW": "無法上傳CSV檔案"
   },
   "csvImport_copyPasteHelp": {
     "en": "Copy and paste the text containing the CSV data into the text field below. Make sure to copy and paste the headers as well. Each line of the CSV should be on a separate line.",
@@ -673,39 +721,47 @@
   },
   "csvImport_couldNotFindData": {
     "en": "Could not find data to import",
-    "fr": "Impossible de trouver les données à importer"
+    "fr": "Impossible de trouver les données à importer",
+    "zh-Hant-TW": "找不到可匯入數據"
   },
   "csvImport_fileWasEmpty": {
     "en": "CSV file was empty",
-    "fr": "Le fichier CSV était vide"
+    "fr": "Le fichier CSV était vide",
+    "zh-Hant-TW": "空白CSV檔案"
   },
   "csvImport_externalStorageHelp": {
     "en": "To import, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nTo view your Google Drive files from your computer, you can visit https://drive.google.com. You can also import from your SDCard or any other external storage (open the side menu in the file picker)."
   },
   "csvImport_importAndOverwrite": {
     "en": "Delete local data after importing",
-    "fr": "Supprimer les données locales après avoir importé"
+    "fr": "Supprimer les données locales après avoir importé",
+    "zh-Hant-TW": "匯入後刪除原本數據"
   },
   "csvImport_imported": {
     "en": "Imported",
-    "fr": "Importé"
+    "fr": "Importé",
+    "zh-Hant-TW": "匯入"
   },
   "csvImport_importedQuotesAndHoldingsFormatted": {
     "_formatted": false,
     "en": "Successfully imported %s quotes and %s holdings",
-    "fr": "Importation réussie de %s cours et %s positions"
+    "fr": "Importation réussie de %s cours et %s positions",
+    "zh-Hant-TW": "成功匯入 %s 報價與 %s 股票"
   },
   "csvImport_importing": {
     "en": "Importing…",
-    "fr": "Importation…"
+    "fr": "Importation…",
+    "zh-Hant-TW": "匯入中…"
   },
   "csvImport_pasteDataHere": {
     "en": "Paste data here",
-    "fr": "Coller les données ici"
+    "fr": "Coller les données ici",
+    "zh-Hant-TW": "黏貼數據於此"
   },
   "csvImport_pleaseCopyPasteData": {
     "en": "Please copy and paste the CSV data",
-    "fr": "Veuillez copier et coller les données CSV"
+    "fr": "Veuillez copier et coller les données CSV",
+    "zh-Hant-TW": "請拷貝並貼上CSV數據"
   },
   "csvImport_sizeRestriction": {
     "en": "Use File option if you have a lot of data, since Android has a 1 MB size restriction for Clipboard/Email."
@@ -715,30 +771,36 @@
   },
   "csvImport_unableToDownload": {
     "en": "Unable to download CSV file",
-    "fr": "Impossible de télécharger le fichier CSV"
+    "fr": "Impossible de télécharger le fichier CSV",
+    "zh-Hant-TW": "無法下載CSV檔案"
   },
   "customizeFont_preview": {
     "en": "Preview:",
-    "fr": "Aperçu :"
+    "fr": "Aperçu :",
+    "zh-Hant-TW": "預覽"
   },
   "customizeFont_title": {
     "en": "Customize Font Size",
-    "fr": "Personnaliser la taille de la police"
+    "fr": "Personnaliser la taille de la police",
+    "zh-Hant-TW": "字體大小"
   },
   "faq_canIHaveTrial": {
-    "en": "Can I have a free trial?"
+    "en": "Can I have a free trial?",
+    "zh-Hant-TW": "有免費試用嗎?"
   },
   "faq_canIHaveTrialAnswer": {
     "en": "First time subscribers have 1 week free trial. You can cancel anytime by clicking manage subscriptions. On the purchase confirmation dialog, Google Play will confirm the trial time if you are eligible for a trial."
   },
   "faq_paidAlready": {
-    "en": "I paid for the app already, but the app does not remember or recognize my purchase"
+    "en": "I paid for the app already, but the app does not remember or recognize my purchase",
+    "zh-Hant-TW": "我已經付款過了;但app不記得或不認得我有訂閱過"
   },
   "faq_paidAlreadyAnswer": {
     "en": "Please make sure you are logged into the account used to make the purchase and click \\'Restore Purchases\\'. If you can\\'t restore the purchase, please reach out to us via support."
   },
   "faq_whySubscriptionFee": {
-    "en": "Why is there a subscription fee?"
+    "en": "Why is there a subscription fee?",
+    "zh-Hant-TW": "為什麼需要訂閱費用?"
   },
   "faq_whySubscriptionFeeP1": {
     "en": "We are an online service and must pay for our servers, data feeds, news sources, respond to customer support, maintain our servers and regularly ship new features. These are expensive and ongoing monthly costs, unlike offline software."
@@ -749,55 +811,66 @@
   "generic_accountX": {
     "_formatted": false,
     "en": "Account: %s",
-    "fr": "Compte : %s"
+    "fr": "Compte : %s",
+    "zh-Hant-TW": "帳戶: %s"
   },
   "generic_active": {
-    "en": "Active"
+    "en": "Active",
+    "zh-Hant-TW": "激活"
   },
   "generic_ad": {
-    "en": "Ad"
+    "en": "Ad",
+    "zh-Hant-TW": "廣告"
   },
   "generic_add": {
     "en": "Add",
     "fr": "Ajouter",
     "zh": "加",
-    "zh-Hant-TW": "加"
+    "zh-Hant-TW": "新增"
   },
   "generic_addAlert": {
     "en": "Add Alert",
-    "fr": "Ajouter une alerte"
+    "fr": "Ajouter une alerte",
+    "zh-Hant-TW": "到價通知"
   },
   "generic_additionalOptions": {
     "en": "Additional Options"
   },
   "generic_agreePrivacyPolicyAndTermsOfUse": {
     "en": "By continuing, you agree to the\\nPrivacy Policy and Terms of Use",
-    "fr": "En continuant, vous acceptez les\\nConditions d\\'utilisation et Politique de confidentialité"
+    "fr": "En continuant, vous acceptez les\\nConditions d\\'utilisation et Politique de confidentialité",
+    "zh-Hant-TW": "如要繼續，您需要同意隱私權政策與使用規範"
   },
   "generic_apply": {
     "en": "Apply"
   },
   "generic_autoRefresh": {
     "en": "Auto-refresh",
-    "fr": "Mise à jour automatique"
+    "fr": "Mise à jour automatique",
+    "zh-Hant-TW": "自動刷新"
   },
   "generic_autoRefreshOnWeekends": {
     "en": "Auto-refresh on weekends",
-    "fr": "Mise à jour automatique les week-ends"
+    "fr": "Mise à jour automatique les week-ends",
+    "zh-Hant-TW": "週末自動刷新"
   },
   "generic_autoRefreshEndTime": {
     "en": "Auto-refresh end time",
-    "fr": "Heure de fin de la mise à jour automatique"
+    "fr": "Heure de fin de la mise à jour automatique",
+    "zh-Hant-TW": "自動刷新結束時間"
   },
   "generic_autoRefreshStartTime": {
     "en": "Auto-refresh start time",
     "fr": "Heure de début de la mise à jour automatique"
+    "zh-Hant-TW": "自動刷新開始時間"
   },
   "generic_beginImport": {
-    "en": "Begin Import"
+    "en": "Begin Import",
+    "zh-Hant-TW": "開始匯入"
   },
   "generic_calculate": {
-    "en": "Calculate"
+    "en": "Calculate",
+    "zh-Hant-TW": "金額統計"
   },
   "generic_cancel": {
     "en": "Cancel",
@@ -816,10 +889,12 @@
   },
   "generic_closeDrawerAccessibility": {
     "en": "Close navigation drawer",
-    "fr": "Fermer le tiroir de navigation"
+    "fr": "Fermer le tiroir de navigation",
+    "zh-Hant-TW": "關閉側選單"
   },
   "generic_connectionIssue": {
-    "en": "Could not reach servers. Please check your connection and try again."
+    "en": "Could not reach servers. Please check your connection and try again.",
+    "zh-Hant-TW": "無法連結到伺服器，請檢查網路連線並再試一次"
   },
   "generic_contactUs": {
     "en": "Contact Us",
@@ -829,7 +904,8 @@
   },
   "generic_continue": {
     "en": "Continue",
-    "fr": "Continuer"
+    "fr": "Continuer",
+    "zh-Hant-TW": "繼續"
   },
   "generic_date": {
     "en": "Date",
@@ -837,7 +913,8 @@
   },
   "generic_delete": {
     "en": "Delete",
-    "fr": "Effacer"
+    "fr": "Effacer",
+    "zh-Hant-TW": "刪除"
   },
   "generic_disableWarningInSettings": {
     "en": "You can disable this warning in the settings section in the app, general settings"
@@ -847,7 +924,8 @@
     "fr": "Fermer"
   },
   "generic_displayLanguage": {
-    "en": "Display Language"
+    "en": "Display Language",
+    "zh-Hant-TW": "顯示語言"
   },
   "generic_done": {
     "en": "Done",
@@ -857,7 +935,8 @@
   },
   "generic_edit": {
     "en": "Edit",
-    "fr": "Modifier"
+    "fr": "Modifier",
+    "zh-Hant-TW": "編輯"
   },
   "generic_email": {
     "en": "Email"
@@ -867,35 +946,43 @@
   },
   "generic_enterNotes": {
     "en": "Enter notes",
-    "fr": "Entrer des notes"
+    "fr": "Entrer des notes",
+    "zh-Hant-TW": "輸入備註" 
   },
   "generic_enterValueBetween0And100": {
     "en": "Enter a value between 0-100",
-    "fr": "Entrer une valeur entre 0 et 100"
+    "fr": "Entrer une valeur entre 0 et 100",
+    "zh-Hant-TW": "輸入0-100之間數值"
   },
   "generic_enterYourAnswer": {
     "en": "Enter your answer",
-    "fr": "Entrez votre réponse"
+    "fr": "Entrez votre réponse",
+    "zh-Hant-TW": "輸入答案"
   },
   "generic_enterYourQuestion": {
     "en": "Enter your question",
-    "fr": "Entrez votre question"
+    "fr": "Entrez votre question",
+    "zh-Hant-TW": "輸入問題"
   },
   "generic_errorImageAccessibility": {
     "en": "Error Image",
-    "fr": "Image d\\'erreur"
+    "fr": "Image d\\'erreur",
+    "zh-Hant-TW": "影像錯誤"
   },
   "generic_errorFetchingResults": {
     "en": "Error fetching results. Please try again later."
   },
   "generic_exitApplication_question": {
-    "en": "Exit Application?"
+    "en": "Exit Application?",
+    "zh-Hant-TW": "離開應用程式"
   },
   "generic_exitAreYouSure": {
-    "en": "Are you sure you want to exit?"
+    "en": "Are you sure you want to exit?",
+    "zh-Hant-TW": "確定要離開嗎?"
   },
   "generic_export": {
-    "en": "Export…"
+    "en": "Export…",
+    "zh-Hant-TW": "匯出中…"
   },
   "generic_faq": {
     "en": "Frequently Asked Questions",
@@ -908,11 +995,13 @@
   },
   "generic_filter": {
     "en": "Filter",
-    "fr": "Filtre"
+    "fr": "Filtre",
+    "zh-Hant-TW": "篩選"
   },
   "generic_fontSize": {
     "en": "Font Size",
-    "fr": "Taille de police"
+    "fr": "Taille de police",
+    "zh-Hant-TW": "字體大小"
   },
   "generic_from_colon": {
     "en": "From:",
@@ -923,24 +1012,30 @@
   },
   "generic_help": {
     "en": "Help",
-    "fr": "Aide"
+    "fr": "Aide",
+    "zh-Hant-TW": "幫助"
   },
   "generic_hide": {
-    "en": "Hide"
+    "en": "Hide",
+    "zh-Hant-TW": "隱藏"
   },
   "generic_hideAdvertisingAccessibility": {
     "en": "Hide Advertising",
-    "fr": "Cacher la publicité"
+    "fr": "Cacher la publicité",
+    "zh-Hant-TW": "隱藏廣告"
   },
   "generic_iconAccessibility": {
     "en": "Icon",
-    "fr": "Icône"
+    "fr": "Icône",
+    "zh-Hant-TW": "圖示"
   },
   "generic_import": {
-    "en": "Import…"
+    "en": "Import…",
+    "zh-Hant-TW": "匯入中…"
   },
   "generic_language": {
-    "en": "Language"
+    "en": "Language",
+    "zh-Hant-TW": "語言"
   },
   "generic_larger": {
     "en": "Larger",
@@ -952,13 +1047,16 @@
   },
   "generic_manageAlerts": {
     "en": "Manage Alerts",
-    "fr": "Gérer les alertes"
+    "fr": "Gérer les alertes",
+    "zh-Hant-TW": "管理到價通知"
   },
   "generic_manageExistingAlerts": {
-    "en": "Manage existing alerts"
+    "en": "Manage existing alerts",
+    "zh-Hant-TW": "管理到價通知列表"
   },
   "generic_manualSort": {
-    "en": "Manual Sort"
+    "en": "Manual Sort",
+    "zh-Hant-TW": "手動分類"
   },
   "generic_month": {
     "en": "Month",
@@ -971,7 +1069,8 @@
   },
   "generic_nameOptional": {
     "en": "Name (Optional)",
-    "fr": "Nom (Optionel)"
+    "fr": "Nom (Optionel)",
+    "zh-Hant-TW": "名稱（選填）"
   },
   "generic_navigateUpAccessibility": {
     "en": "Navigate up",
@@ -982,29 +1081,36 @@
   },
   "generic_navigationAccessibility": {
     "en": "Navigation",
-    "fr": "Navigation"
+    "fr": "Navigation",
+    "zh-Hant-TW": "導覽"
   },
   "generic_navigationTabsAccessibility": {
     "en": "Navigation Tabs"
+    "zh-Hant-TW": "導覽頁籤"
   },
   "generic_navigationToolbarAccessibility": {
-    "en": "Navigation Toolbar"
+    "en": "Navigation Toolbar",
+    "zh-Hant-TW": "導覽工具列"
   },
   "generic_networkNotAvailable": {
     "en": "Network not available. Please connect to the internet and try again.",
-    "fr": "Réseau non disponible Veuillez vous connecter à Internet et réessayer."
+    "fr": "Réseau non disponible Veuillez vous connecter à Internet et réessayer.",
+    "zh-Hant-TW": "網路不給力，稍後請再重新連結網路"
   },
   "generic_newVersionAvailable": {
     "en": "New version available",
-    "fr": "Nouvelle version disponible"
+    "fr": "Nouvelle version disponible",
+    "zh-Hant-TW": "新版本"
   },
   "generic_newVersionAvailableHardUpgradeHelp": {
     "en": "Please upgrade to the newest version of the app for important bug fixes.",
-    "fr": "Veuillez mettre à jour vers la dernière version de l\\'application pour bénéficier de correctifs importants."
+    "fr": "Veuillez mettre à jour vers la dernière version de l\\'application pour bénéficier de correctifs importants.",
+    "zh-Hant-TW": "修復重大程式錯誤，請更新至最新版本"
   },
   "generic_newVersionAvailableHelp": {
     "en": "There is a new version of the app available and it is recommended to update. Download the update?",
-    "fr": "Il existe une nouvelle version de l\\'application disponible et il est recommandé de la mettre à jour. Télécharger la mise à jour ?"
+    "fr": "Il existe une nouvelle version de l\\'application disponible et il est recommandé de la mettre à jour. Télécharger la mise à jour?",
+    "zh-Hant-TW": "新版本已釋出，建議更新至最新版本。要下載最新版本嗎?"
   },
   "generic_no": {
     "en": "No",
@@ -1013,25 +1119,30 @@
   },
   "generic_noResults": {
     "en": "No Results",
-    "fr": "Aucun résultat"
+    "fr": "Aucun résultat",
+    "zh-Hant-TW": "沒有結果"
   },
   "generic_notesOptional": {
-    "en": "Notes (Optional)"
+    "en": "Notes (Optional)",
+    "zh-Hant-TW": "備註（選填）"
   },
   "generic_notificationTestInProgress": {
     "en": "You should receive a test notification in a few seconds"
   },
   "generic_noThanks": {
     "en": "No Thanks",
-    "fr": "Non merci"
+    "fr": "Non merci",
+    "zh-Hant-TW": "不,謝謝"
   },
   "generic_none": {
     "en": "None",
-    "fr": "Aucune sélection"
+    "fr": "Aucune sélection",
+    "zh-Hant-TW": "無"
   },
   "generic_notApplicable": {
     "en": "N/A",
-    "fr": "N/A"
+    "fr": "N/A",
+    "zh-Hant-TW": "N/A"
   },
   "generic_notes": {
     "en": "Notes",
@@ -1040,54 +1151,65 @@
   },
   "generic_ok": {
     "en": "OK",
-    "fr": "OK"
+    "fr": "OK",
+    "zh-Hant-TW": "OK"
   },
   "generic_openDrawerAccessibility": {
     "en": "Open navigation drawer",
-    "fr": "Ouvrir le tiroir de navigation"
+    "fr": "Ouvrir le tiroir de navigation",
+    "zh-Hant-TW": "開啟側選單"
   },
   "generic_pasteFromClipboard": {
-    "en": "Paste from Clipboard"
+    "en": "Paste from Clipboard",
+    "zh-Hant-TW": "從備忘錄貼上"
   },
   "generic_perMonthShort": {
     "en": "/month",
-    "fr": "/mois"
+    "fr": "/mois",
+    "zh-Hant-TW": "/月"
   },
   "generic_perYearShort": {
-    "en": "/year"
+    "en": "/year",
+    "zh-Hant-TW": "/年"
   },
   "generic_pleaseAgreeToPrivacyPolicyAndTerms": {
     "en": "Please agree to the Privacy Policy and Terms of Use before continuing",
-    "fr": "Veuillez accepter la Politique de confidentialité et les conditions d\\'utilisation avant de continuer"
+    "fr": "Veuillez accepter la Politique de confidentialité et les conditions d\\'utilisation avant de continuer",
+    "zh-Hant-TW": "若要繼續，請同意隱私權政策與使用規範"
   },
   "generic_privacyPolicy": {
     "en": "Privacy Policy",
-    "fr": "Politique de confidentialité"
+    "fr": "Politique de confidentialité",
+    "zh-Hant-TW": "隱私權政策"
   },
   "generic_proceedOffline": {
     "en": "Proceed Offline"
   },
   "generic_questionsViewFAQ": {
     "en": "View FAQ",
-    "fr": "Voir FAQ"
+    "fr": "Voir FAQ",
+    "zh-Hant-TW": "查看常見問題"
   },
   "generic_reactivate": {
     "en": "Re-activate"
   },
   "generic_refresh": {
     "en": "Refresh",
-    "fr": "Rafraîchir"
+    "fr": "Rafraîchir",
+    "zh-Hant-TW": "重新載入"
   },
   "generic_refreshAccessibility": {
     "en": "Refresh",
-    "fr": "Actualiser"
+    "fr": "Actualiser",
+    "zh-Hant-TW": "重新載入"
   },
   "generic_required": {
     "en": "Required"
   },
   "generic_retry": {
     "en": "Retry",
-    "fr": "Réessayer"
+    "fr": "Réessayer",
+    "zh-Hant-TW": "再試一次"
   },
   "generic_rotateScreen": {
     "en": "Rotate Screen",
@@ -1105,11 +1227,13 @@
   },
   "generic_selectFile": {
     "en": "Select File",
-    "fr": "Sélectionner un fichier"
+    "fr": "Sélectionner un fichier",
+    "zh-Hant-TW": "選取檔案"
   },
   "generic_set": {
     "en": "Set",
-    "fr": "Régler"
+    "fr": "Régler",
+    "zh-Hant-TW": "設定"
   },
   "generic_settings": {
     "en": "Settings",
@@ -1120,10 +1244,12 @@
     "en": "Share using…"
   },
   "generic_show": {
-    "en": "Show"
+    "en": "Show",
+    "zh-Hant-TW": "顯示"
   },
   "generic_signInGoogleDrive": {
-    "en": "Enable Google Drive account"
+    "en": "Enable Google Drive account",
+    "zh-Hant-TW": "Google雲端雲端硬碟帳戶無法使用"
   },
   "generic_signOut": {
     "en": "Sign Out",
@@ -1138,27 +1264,32 @@
     "zh-Hant-TW": "登入"
   },
   "generic_signInToSyncAcrossDevices": {
-    "en": "Sign in to sync across devices"
+    "en": "Sign in to sync across devices",
+    "zh-Hant-TW": "登入帳戶即可跨裝置備份"
   },
   "generic_smaller": {
     "en": "Smaller",
     "fr": "Plus petit"
   },
   "generic_sort": {
-    "en": "Sort"
+    "en": "Sort",
+    "zh-Hant-TW": "分類"
   },
   "generic_subscribed": {
     "en": "Subscribed"
   },
   "generic_suggestTranslations": {
-    "en": "Suggest Translations"
+    "en": "Suggest Translations",
+    "zh-Hant-TW": "翻譯建議"
   },
   "generic_suggestTranslationsHelp": {
-    "en": "If you\\'d like to make suggested fixes or changes with translations"
+    "en": "If you\\'d like to make suggested fixes or changes with translations",
+    "zh-Hant-TW": "如果你有翻譯建議"
   },
   "generic_sure": {
     "en": "Sure",
-    "fr": "Bien sûr"
+    "fr": "Bien sûr",
+    "zh-Hant-TW": "確定"
   },
   "generic_sync": {
     "en": "Sync"
@@ -1169,7 +1300,8 @@
   },
   "generic_termsOfUse": {
     "en": "Terms of Use",
-    "fr": "Conditions d\\'utilisation"
+    "fr": "Conditions d\\'utilisation",
+    "zh-Hant-TW": "使用規範"
   },
   "generic_to_colon": {
     "en": "To:",
@@ -1185,11 +1317,13 @@
   },
   "generic_tooltipImageAccessibility": {
     "en": "Tooltip Image",
-    "fr": "Image"
+    "fr": "Image",
+    "zh-Hant-TW": "工具提示"
   },
   "generic_twitter": {
     "en": "Twitter",
-    "fr": "Twitter"
+    "fr": "Twitter",
+    "zh-Hant-TW": "Twitter"
   },
   "generic_twitterHelp": {
     "en": "Reach out to us on Twitter",
@@ -1201,7 +1335,8 @@
   },
   "generic_updating": {
     "en": "Updating",
-    "fr": "Mise à jour"
+    "fr": "Mise à jour",
+    "zh-Hant-TW": "更新中"
   },
   "generic_year": {
     "en": "Year",
@@ -1222,27 +1357,33 @@
   },
   "help_dontSeeMyAnswer": {
     "en": "I don\\'t see my answer…",
-    "fr": "Je ne vois pas ma réponse…"
+    "fr": "Je ne vois pas ma réponse…",
+    "zh-Hant-TW": "我沒有找到答案…"
   },
   "help_howCanWeHelp": {
     "en": "How can we help?",
-    "fr": "Comment pouvons-nous vous aider ?"
+    "fr": "Comment pouvons-nous vous aider ?",
+    "zh-Hant-TW": "我們可以怎麼協助你呢?"
   },
   "help_needMoreHelp": {
     "en": "Need more help?",
-    "fr": "Besoin d\\'aide ?"
+    "fr": "Besoin d\\'aide ?",
+    "zh-Hant-TW": "需要幫助?"
   },
   "help_noAnswer": {
     "en": "Sorry, we could not find an answer to your question.",
     "fr": "Désolé, nous n\\'avons pas trouvé de réponse à votre question."
+    "zh-Hant-TW": "抱歉～我們沒有找到你問題的答案"
   },
   "help_popularTopics": {
     "en": "Popular topics",
-    "fr": "Sujets populaires"
+    "fr": "Sujets populaires",
+    "zh-Hant-TW": "熱門話題"
   },
   "help_question": {
     "en": "Question",
-    "fr": "Question"
+    "fr": "Question",
+    "zh-Hant-TW": "問題"
   },
   "help_reportBug": {
     "en": "Report a Bug",
@@ -1251,23 +1392,28 @@
   },
   "help_suggestions": {
     "en": "Suggestions",
-    "fr": "Suggestions"
+    "fr": "Suggestions",
+    "zh-Hant-TW": "建議"
   },
   "logInOut_couldNotConnectToGoogle": {
     "en": "Could not connect to Google. Please try again later.",
-    "fr": "Impossible de se connecter à Google. Veuillez réessayer plus tard."
+    "fr": "Impossible de se connecter à Google. Veuillez réessayer plus tard.",
+    "zh-Hant-TW": "無法連結至Google,請稍候再試"
   },
   "logInOut_googleSignInFailed": {
     "en": "Google sign-in failed. Please try again later.",
-    "fr": "La connexion à Google a échoué. Veuillez réessayer plus tard."
+    "fr": "La connexion à Google a échoué. Veuillez réessayer plus tard.",
+    "zh-Hant-TW": "無法登入Google，請稍候再試"
   },
   "logInOut_googleSignOutError": {
     "en": "Error signing out of Google",
-    "fr": "Erreur lors de la déconnexion de Google"
+    "fr": "Erreur lors de la déconnexion de Google",
+    "zh-Hant-TW": "Google帳戶登出錯誤"
   },
   "logInOut_signInWithYourGoogleAccount": {
     "en": "Please sign in with your Google account to continue",
-    "fr": "Veuillez vous connecter avec votre compte Google pour continuer"
+    "fr": "Veuillez vous connecter avec votre compte Google pour continuer",
+    "zh-Hant-TW": "如要繼續，請登入Google帳戶"
   },
   "logInOut_signInToPurchase": {
     "en": "Sign in first so that your purchases are saved to the cloud, can restored, and synced to other devices? If you have multiple accounts on your phone, you can sign in so that the purchase is linked to the correct account."
@@ -1277,35 +1423,43 @@
   },
   "logInOut_signOutOfGoogle": {
     "en": "Sign Out of Google",
-    "fr": "Se déconnecter de Google"
+    "fr": "Se déconnecter de Google",
+    "zh-Hant-TW": "登出Google帳戶"
   },
   "logInOut_signOutOrSwitchAccount": {
     "en": "Sign Out / Switch Account",
-    "fr": "Se déconnecter / Changer de compte"
+    "fr": "Se déconnecter / Changer de compte",
+    "zh-Hant-TW": "登出 / 切換帳戶"
   },
   "logInOut_signingInToGoogle": {
     "en": "Signing in to Google…",
-    "fr": "Connexion à Google…"
+    "fr": "Connexion à Google…",
+    "zh-Hant-TW": "透過Google帳戶登入…"
   },
   "logInOut_signingOutOfGoogle": {
     "en": "Signing out of Google…",
-    "fr": "Déconnexion de Google…"
+    "fr": "Déconnexion de Google…",
+    "zh-Hant-TW": "登出Google帳戶…"
   },
   "logInOut_switchAccount": {
     "en": "Switch Account",
-    "fr": "Changer de compte"
+    "fr": "Changer de compte",
+    "zh-Hant-TW": "切換帳戶"
   },
   "logInOut_switchAccountHescription": {
     "en": "Sign in to another Google account",
-    "fr": "Connexion à un autre compte Google"
+    "fr": "Connexion à un autre compte Google",
+    "zh-Hant-TW": "使用另一個Google帳戶登入"
   },
   "news_browserTitle": {
     "en": "Browser",
-    "fr": "Navigateur"
+    "fr": "Navigateur",
+    "zh-Hant-TW": "瀏覽器"
   },
   "news_configureNews": {
     "en": "Configure News",
-    "fr": "Régler les actualités"
+    "fr": "Régler les actualités",
+    "zh-Hant-TW": "新聞偏好設定"
   },
   "news_configureNewsHelp": {
     "en": "Configure which categories to view market news for by tapping Configure News (Gear icon) in the menu, or by tapping here.",
@@ -1318,15 +1472,18 @@
   "news_filterNewsFromXFormatted": {
     "_formatted": false,
     "en": "Filter news from %s?",
-    "fr": "Filtrer les nouvelles de %s ?"
+    "fr": "Filtrer les nouvelles de %s ?",
+    "zh-Hant-TW": "篩選新聞從 %s?"
   },
   "news_filterNewsSourcesHelp": {
     "en": "To filter a news source, press-hold on it from the news listings page. To remove a filter, click on it below.",
-    "fr": "Pour filtrer une source d\\'actualités, faites un clic long à partir de la page des nouvelles. Pour supprimer un filtre, cliquez ci-dessous."
+    "fr": "Pour filtrer une source d\\'actualités, faites un clic long à partir de la page des nouvelles. Pour supprimer un filtre, cliquez ci-dessous.",
+    "zh-Hant-TW": "於新聞列表中長按新聞，即可篩選新聞來源。點選即可移除篩選結果"
   },
   "news_filteredNewsSources": {
     "en": "Filtered News Sources",
-    "fr": "Sources d\\'informations filtrées"
+    "fr": "Sources d\\'informations filtrées",
+    "zh-Hant-TW": "篩選新聞來源"
   },
   "news_help": {
     "en": "Which categories do you want to retrieve news for? To re-order, press-hold for two seconds and then drag up/down.",
@@ -1334,33 +1491,39 @@
   },
   "news_imageAccessibility": {
     "en": "News Image",
-    "fr": "Image de l\\'actualité"
+    "fr": "Image de l\\'actualité",
+    "zh-Hant-TW": "影像"
   },
   "news_loading": {
     "en": "Loading News…",
-    "fr": "Chargement des actualités…"
+    "fr": "Chargement des actualités…",
+    "zh-Hant-TW": "載入新聞中…"
   },
   "news_share": {
     "en": "Share",
-    "fr": "Partager"
+    "fr": "Partager",
+    "zh-Hant-TW": "分享"
   },
   "news_sharedViaFormatted": {
     "_formatted": false,
     "en": "shared via %s",
-    "fr": "partagé via %s"
+    "fr": "partagé via %s",
+    "zh-Hant-TW": "透過 %s分享"
   },
   "news_sorryCouldNotOpenNewsArticle": {
     "en": "Sorry, we couldn\\'t open that news article.",
-    "fr": "Désolé, nous ne pouvons pas ouvrir cet article."
+    "fr": "Désolé, nous ne pouvons pas ouvrir cet article.",
+    "zh-Hant-TW": "抱歉～\\無法開啟此新聞"
   },
   "news_title": {
     "en": "News",
     "fr": "Actualités",
-    "zh-Hant-TW": "新聞內容"
+    "zh-Hant-TW": "新聞"
   },
   "password_confirmPassword": {
     "en": "Confirm Password",
-    "fr": "Confirmez le mot de passe"
+    "fr": "Confirmez le mot de passe",
+    "zh-Hant-TW": "確認密碼"
   },
   "password_enable": {
     "en": "Enable password protection",
@@ -1372,11 +1535,13 @@
   },
   "password_enterPassword": {
     "en": "Enter Password",
-    "fr": "Entrer le mot de passe"
+    "fr": "Entrer le mot de passe",
+    "zh-Hant-TW": "輸入密碼"
   },
   "password_enterPasswordPrompt": {
     "en": "Please enter a password",
-    "fr": "Veuillez entrer un mot de passe"
+    "fr": "Veuillez entrer un mot de passe",
+    "zh-Hant-TW": "請輸入密碼"
   },
   "password_enterPasswordTimeoutPrompt": {
     "en": "Please enter a valid password timeout (integer between 5 to 3600)",
@@ -1384,7 +1549,8 @@
   },
   "password_enterPasswordToContinue": {
     "en": "Enter password to continue",
-    "fr": "Entrez le mot de passe pour continuer"
+    "fr": "Entrez le mot de passe pour continuer",
+    "zh-Hant-TW": "輸入密碼後繼續"
   },
   "password_incorrectConfirmationPassword": {
     "en": "Incorrect confirmation password",
@@ -1392,19 +1558,23 @@
   },
   "password_incorrectPassword": {
     "en": "Incorrect password",
-    "fr": "Mot de passe incorrect"
+    "fr": "Mot de passe incorrect",
+    "zh-Hant-TW": "密碼不正確"
   },
   "password_pleaseConfirmYourPassword": {
     "en": "Please confirm your password",
-    "fr": "S\\'il vous plaît confirmez votre mot de passe"
+    "fr": "S\\'il vous plaît confirmez votre mot de passe",
+    "zh-Hant-TW": "請確認你的密碼"
   },
   "password_showPortfolioInfoOnWidget": {
     "en": "Show portfolio information on widget",
-    "fr": "Afficher les informations de portefeuille sur le widget"
+    "fr": "Afficher les informations de portefeuille sur le widget",
+    "zh-Hant-TW": "顯示投資組合資訊於小工具上"
   },
   "password_showQuotesListOnWidget": {
     "en": "Show quotes list on widget",
-    "fr": "Afficher la liste des cours sur le widget"
+    "fr": "Afficher la liste des cours sur le widget",
+    "zh-Hant-TW": "顯示報價清單於小工具上"
   },
   "password_timeoutInSeconds": {
     "en": "Timeout in seconds",
@@ -1412,7 +1582,8 @@
   },
   "password_title": {
     "en": "Password Protection",
-    "fr": "Protection par mot de passe"
+    "fr": "Protection par mot de passe",
+    "zh-Hant-TW": "密碼保護"
   },
   "portfolio": {
     "en": "Portfolio",
@@ -1430,7 +1601,8 @@
   },
   "portfolioAnalysis_changeSettings": {
     "en": "To change, open Settings, Calculations",
-    "fr": "Pour modifier, ouvrer Réglages, Calculs"
+    "fr": "Pour modifier, ouvrer Réglages, Calculs",
+    "zh-Hant-TW": "欲改變,開啟設定,金額統計"
   },
   "portfolio_absoluteMagnitude": {
     "en": "Absolute / Magnitude"
@@ -1438,13 +1610,15 @@
   "portfolio_addPortfolio": {
     "en": "Add Portfolio",
     "fr": "Ajouter un portefeuille",
-    "zh-Hant-TW": "添加新組合"
+    "zh-Hant-TW": "添加新投資組合"
   },
   "portfolio_addToPortfolio": {
-    "en": "Add to Portfolio"
+    "en": "Add to Portfolio",
+    "zh-Hant-TW": "新增至投資組合"
   },
   "portfolio_addingToPortfolio": {
-    "en": "Adding to portfolio…"
+    "en": "Adding to portfolio…",
+    "zh-Hant-TW": "新增至投資組合中…"
   },
   "portfolio_allocation_categoryTagHelp": {
     "en": "To assign category tags, click on the labels button (bottom right of an item). The allocation chart can be configured to show the symbol on the 1st level, and the category tag on the 2nd level."
@@ -1454,26 +1628,30 @@
   },
   "portfolio_allocations": {
     "en": "Allocations",
-    "fr": "Allocations"
+    "fr": "Allocations",
+     "zh-Hant-TW": "分佈"
   },
   "portfolio_allPositions": {
     "en": "All Positions",
-    "fr": "Toutes les positions"
+    "fr": "Toutes les positions",
+    "zh-Hant-TW": "所有倉位"
   },
   "portfolio_allTime": {
     "en": "All-Time",
-    "fr": "Toujours"
+    "fr": "Toujours",
   },
   "portfolio_allTimeColon": {
     "en": "All-Time:"
   },
   "portfolio_annualized": {
     "en": "Annualized:",
-    "fr": "Annualisé :"
+    "fr": "Annualisé :",
+    "zh-Hant-TW": "年化"
   },
   "portfolio_annualizedXIRR": {
     "en": "Annualized XIRR",
-    "fr": "Annualisé (XIRR)"
+    "fr": "Annualisé (XIRR)",
+    "zh-Hant-TW": "年化（XIRR）"
   },
   "portfolio_brokerSettings": {
     "en": "Broker Settings",
@@ -1499,18 +1677,21 @@
   "portfolio_costBasis": {
     "en": "Cost Basis",
     "fr": "Cout de base",
-    "zh-Hant-TW": "總成本"
+    "zh-Hant-TW": "投資成本"
   },
   "portfolio_costPerShare": {
     "en": "Cost Per Share",
-    "fr": "Cout par action"
+    "fr": "Cout par action",
+    "zh-Hant-TW": "成交價"
   },
   "portfolio_couldNotAddToPortfolio": {
-    "en": "Could not add to portfolio"
+    "en": "Could not add to portfolio",
+    "zh-Hant-TW": "無法新增至投資組合"
   },
   "portfolio_couldNotMoveToPortfolio": {
     "en": "Could not move to portfolio",
-    "fr": "Impossible de déplacer vers le portefeuille"
+    "fr": "Impossible de déplacer vers le portefeuille",
+    "zh-Hant-TW": "無法移動至投資組合"
   },
   "portfolio_currency": {
     "en": "Currency",
@@ -1526,7 +1707,8 @@
   },
   "portfolio_currentPortfolio": {
     "en": "Current Portfolio",
-    "fr": "Portefeuille actuel"
+    "fr": "Portefeuille actuel",
+    "zh-Hant-TW": "目前組合"
   },
   "portfolio_daily": {
     "en": "Daily",
@@ -1535,19 +1717,23 @@
   },
   "portfolio_dailyChangeCalculation": {
     "en": "Daily Change Calculation",
-    "fr": "Calcul des modifications quotidiennes"
+    "fr": "Calcul des modifications quotidiennes",
+    "zh-Hant-TW": "每日漲跌統計"
   },
   "portfolio_dailyColumnSettings": {
     "en": "Daily Column Settings",
-    "fr": "Paramètres de la colonne \"jour\""
+    "fr": "Paramètres de la colonne \"jour\"",
+    "zh-Hant-TW": "每日欄位設定"
   },
   "portfolio_defaultCurrency": {
     "en": "Default",
-    "fr": "Défaut"
+    "fr": "Défaut",
+    "zh-Hant-TW": "預設"
   },
   "portfolio_defaultName": {
     "en": "My Portfolio",
-    "fr": "Mon portefeuille"
+    "fr": "Mon portefeuille",
+    "zh-Hant-TW": "我的投資組合"
   },
   "portfolio_deleteFromServerDisclaimer": {
     "en": "If you are signed in, this will delete it from the server and your other devices when they sync."
@@ -1559,7 +1745,8 @@
   },
   "portfolio_deleteQuoteWarningFormatted": {
     "_formatted": false,
-    "en": "Are you sure you want to delete this Quote (%s)?"
+    "en": "Are you sure you want to delete this Quote (%s)?",
+    "zh-Hant-TW": "確定要刪除這個報價（%s）嗎?"
   },
   "portfolio_deleteQuoteWarningWithTransactionsFormatted": {
     "_formatted": false,
@@ -1567,10 +1754,12 @@
     "fr": "Supprimer un cours (%s) supprimera également toutes les positions associées dans le portefeuille. Continuer ?"
   },
   "portfolio_deleteSelectedPortfoliosWarning": {
-    "en": "Are you sure you want to delete these Portfolios and all Quotes in them?"
+    "en": "Are you sure you want to delete these Portfolios and all Quotes in them?",
+    "zh-Hant-TW": "確定要刪除這些投資組合與裡面所有的報價嗎?"
   },
   "portfolio_deleteSelectedQuotesWarning": {
-    "en": "Are you sure you want to delete these Quotes and all Transactions in them?"
+    "en": "Are you sure you want to delete these Quotes and all Transactions in them?",
+    "zh-Hant-TW": "確定要刪除這些報價與裡面所有的交易嗎?"
   },
   "portfolio_deleteSelectedQuoteTransactionsWarning": {
     "en": "Are you sure you want to delete these Holdings and all Transactions in them?"
@@ -1627,7 +1816,8 @@
   },
   "portfolio_editOrDeletePortfolio": {
     "en": "Edit/Delete Portfolio",
-    "fr": "Modifier / Supprimer le portefeuille"
+    "fr": "Modifier / Supprimer le portefeuille",
+    "zh-Hant-TW": "編輯/刪除組合"
   },
   "portfolio_editPortfolio": {
     "en": "Edit Portfolio",
@@ -1651,7 +1841,7 @@
   "portfolio_hideDetails": {
     "en": "Hide Details",
     "fr": "Details",
-    "zh-Hant-TW": "隱藏"
+    "zh-Hant-TW": "收起"
   },
   "portfolio_holdings": {
     "en": "Holdings",
@@ -1660,7 +1850,8 @@
   },
   "portfolio_homeCurrency": {
     "en": "Home Currency",
-    "fr": "Devise préférée"
+    "fr": "Devise préférée",
+    "zh-Hant-TW": "預設幣別"
   },
   "portfolio_homeCurrencyHelp": {
     "en": "Your holdings will be converted to display in this currency. Note: historical performance chart data will be cleared.",
@@ -1682,15 +1873,17 @@
   "portfolio_marketNews": {
     "en": "Market News",
     "fr": "Actualités du marché",
-    "zh-Hant-TW": "股市新聞"
+    "zh-Hant-TW": "市場新聞"
   },
   "portfolio_moveToPortfolio": {
     "en": "Move/Copy to Portfolio",
-    "fr": "Déplacer/Copie vers le portefeuille"
+    "fr": "Déplacer/Copie vers le portefeuille",
+    "zh-Hant-TW": "移動/拷貝至投資組合"
   },
   "portfolio_movingToPortfolio": {
     "en": "Moving to portfolio…",
-    "fr": "Déplacement vers le portefeuille…"
+    "fr": "Déplacement vers le portefeuille…",
+    "zh-Hant-TW": "移動至投資組合中…"
   },
   "portfolio_multipleCurrenciesNoHomeCurrency": {
     "en": "Multiple currencies detected but a home currency is not set, so totals can\\'t be calculated. Please tap here to set a home currency.",
@@ -1706,7 +1899,8 @@
     "zh-Hant-TW": "名稱"
   },
   "portfolio_noPortfoliosHelp": {
-    "en": "Add a new portfolio or watchlist by tapping the Add button in the menu or by tapping here."
+    "en": "Add a new portfolio or watchlist by tapping the Add button in the menu or by tapping here.",
+    
   },
   "portfolio_noQuotesHelp": {
     "en": "Add a new quote by tapping the Add button in the menu or by tapping here."
@@ -1720,11 +1914,13 @@
   },
   "portfolio_portfolioCurrency": {
     "en": "Portfolio Currency",
-    "fr": "Devise du portefeuille"
+    "fr": "Devise du portefeuille",
+    "zh-Hant-TW": "投資組合幣別"
   },
   "portfolio_portfolioIconAccessibility": {
     "en": "Portfolio Icon",
-    "fr": "Icône de portefeuille"
+    "fr": "Icône de portefeuille",
+    "zh-Hant-TW": "投資組合圖示"
   },
   "portfolio_portfolioMultipleCurrenciesNoHomeCurrency": {
     "en": "This portfolio has different currencies but a home currency is not set, so totals can\\'t be calculated. Please tap here to set currency settings.",
@@ -1737,7 +1933,8 @@
   },
   "portfolio_portfoliosOverview": {
     "en": "Portfolios Overview",
-    "fr": "Synthèse des portefeuilles"
+    "fr": "Synthèse des portefeuilles",
+    "zh-Hant-TW": "投資組合總覽"
   },
   "portfolio_quotes": {
     "en": "Quotes",
@@ -1746,7 +1943,8 @@
   },
   "portfolio_realized": {
     "en": "Realized",
-    "fr": "Réalisé"
+    "fr": "Réalisé",
+    "zh-Hant-TW": "已實現"
   },
   "portfolio_realizedColon": {
     "en": "Realized:",
@@ -1756,7 +1954,8 @@
     "en": "Rlzd YTD:"
   },
   "portfolio_reverseOrder": {
-    "en": "Reverse Order"
+    "en": "Reverse Order",
+    "zh-Hant-TW": "顛倒順序"
   },
   "portfolio_sectorIndustry": {
     "en": "Sector, Industry",
@@ -1764,7 +1963,8 @@
   },
   "portfolio_setHomeCurrency": {
     "en": "Set Home Currency",
-    "fr": "Définir la devise préférée"
+    "fr": "Définir la devise préférée",
+    "zh-Hant-TW": "設定預設幣別"
   },
   "portfolio_shares": {
     "en": "Shares",
@@ -1783,7 +1983,8 @@
   },
   "portfolio_price": {
     "en": "Price",
-    "fr": "Prix"
+    "fr": "Prix",
+    "zh-Hant-TW": "價格"
   },
   "portfolio_priceAndSharesFormatted": {
     "_formatted": false,
@@ -1807,7 +2008,8 @@
   },
   "portfolio_sortChangePercent": {
     "en": "Change %",
-    "fr": "Variation %"
+    "fr": "Variation %",
+    "zh-Hant-TW": "漲跌 %"
   },
   "portfolio_sortAbsChangePercent": {
     "en": "Change % (Absolute)"
@@ -1832,14 +2034,16 @@
   },
   "portfolio_sortDailyChange": {
     "en": "Daily Change",
-    "fr": "Variation quotidienne"
+    "fr": "Variation quotidienne",
+    "zh-Hant-TW": "每日漲跌"
   },
   "portfolio_sortAbsDailyChange": {
     "en": "Daily Change (Absolute)"
   },
   "portfolio_sortDailyChangePercent": {
     "en": "Daily Change %",
-    "fr": "Variation quotidienne %"
+    "fr": "Variation quotidienne %",
+    "zh-Hant-TW": "每日漲跌 %"
   },
   "portfolio_sortAbsDailyChangePercent": {
     "en": "Daily Change % (Absolute)"
@@ -1963,7 +2167,7 @@
   },
   "portfolio_sort_by": {
     "en": "Sort By…",
-    "fr": "Trier par…"
+    "fr": "Trier par…",
   },
   "portfolio_syncBrokerage": {
     "en": "Sync Brokerage",
@@ -1975,7 +2179,8 @@
     "zh-Hant-TW": "代碼"
   },
   "portfolio_top_daily_movers": {
-    "en": "Top Daily Movers (US)"
+    "en": "Top Daily Movers (US)",
+    "zh-Hant-TW": "漲跌榜（美國）"
   },
   "portfolio_total": {
     "en": "Total",
@@ -1984,11 +2189,13 @@
   },
   "portfolio_totalCostPlaceholder": {
     "_formatted": false,
-    "en": "Total Cost: %s"
+    "en": "Total Cost: %s",
+    "zh-Hant-TW": "總成本: %s"
   },
   "portfolio_totalDividends": {
     "en": "Total Dividends",
-    "fr": "Total des dividendes"
+    "fr": "Total des dividendes",
+    "zh-Hant-TW": "總股息"
   },
   "portfolio_totalProceedsPlaceholder": {
     "_formatted": false,
@@ -1999,7 +2206,8 @@
   },
   "portfolio_unrealized": {
     "en": "Unrealized",
-    "fr": "Non réalisé"
+    "fr": "Non réalisé",
+    "zh-Hant-TW": "庫存"
   },
   "portfolio_useTodayChange": {
     "en": "Today\\'s Change (New day time configurable in Settings, Calculations)",
@@ -2007,22 +2215,26 @@
   },
   "portfolio_value": {
     "en": "Value",
-    "fr": "Valeur"
+    "fr": "Valeur",
+    "zh-Hant-TW": "市值"
   },
   "portfolio_valueAndCost": {
     "en": "Value/Cost",
-    "fr": "Valeur/Coût"
+    "fr": "Valeur/Coût",
+    "zh-Hant-TW": "市值/成本"
   },
   "portfolio_warningDeletePortfolio": {
     "en": "Are you sure you want to delete this portfolio?",
-    "fr": "Êtes-vous sûr de vouloir supprimer ce portefeuille ?"
+    "fr": "Êtes-vous sûr de vouloir supprimer ce portefeuille ?",
+    "zh-Hant-TW": "確定要刪除這個投資組合嗎?"
   },
   "portfolio_watchlist": {
     "en": "Watchlist",
     "zh-Hant-TW": "觀察清單"
   },
   "portfolioHistorical_clearLocalCache": {
-    "en": "Clear historical storage"
+    "en": "Clear historical storage",
+    "zh-Hant-TW": "清除歷史紀錄"
   },
   "portfolioHistorical_title": {
     "en": "Calculate historical performance?\\n\\nNote: If you modify previous transactions, you may need to clear the historical storage and recalculate. If historical quote prices are missing, you can go to the quote details page and add custom historical prices from the top menu."
@@ -2052,35 +2264,45 @@
   },
   "purchases_manageSubscriptions": {
     "en": "Manage Subscriptions",
-    "fr": "Gérer les Souscriptions"
+    "fr": "Gérer les Souscriptions",
+    "zh-Hant-TW": "管理訂閱"
   },
   "purchases_notSignedIn": {
     "en": "Please open the Google Play Store app and verify that you are signed in",
-    "fr": "Veuillez ouvrez Google Play Store et vérifier que vous êtes authentifiés."
+    "fr": "Veuillez ouvrez Google Play Store et vérifier que vous êtes authentifiés.",
+    "zh-Hant-TW": "請打開Google Play商店 app登入並且進行驗證"
   },
   "purchases_pleaseRetryInFewSeconds": {
     "en": "Please retry in a few seconds",
-    "fr": "Veuillez réessayer dans quelques secondes"
+    "fr": "Veuillez réessayer dans quelques secondes",
+    "zh-Hant-TW": "請稍後再試"
   },
   "purchases_promoText": {
     "en": "Enjoy a premium ad-free experience!",
-    "fr": "Profitez d\\'une expérience premium sans publicité!"
+    "fr": "Profitez d\\'une expérience premium sans publicité!",
+    "zh-Hant-TW": "祝你有個美好的無廣告premium體驗"
   },
   "purchases_promoServerAutoSync": {
-    "en": "✓ Auto sync data across devices"
+    "en": "✓ Auto sync data across devices",
+    "zh-Hant-TW": "✓ 跨裝置資料自動備份"
   },
   "purchases_promoExportData": {
-    "en": "✓ More exported data (i.e. quote prices)"
+    "en": "✓ More exported data (i.e. quote prices)",
+    "zh-Hant-TW": "✓ 匯出更多數據（例如：報價）"
   },
   "purchases_promoNoAdvertisements": {
     "en": "✓ No advertisements",
-    "fr": "✓ Sans publicité"
+    "fr": "✓ Sans publicité",
+    "zh-Hant-TW": "✓ 沒有廣告干擾"
+    
   },
   "purchases_promoFullScreenHistoricals": {
-    "en": "✓ Fullscreen portfolio historical performance"
+    "en": "✓ Fullscreen portfolio historical performance",
+    "zh-Hant-TW": "✓ 全螢幕歷年投資組合表現"
   },
   "purchases_promoUnlimitedAlerts": {
-    "en": "✓ Unlimited server push alerts"
+    "en": "✓ Unlimited server push alerts",
+    "zh-Hant-TW": "✓ 無限制推播通知"
   },
   "purchases_restoreFailedPleaseCheckConnection": {
     "en": "Restore Failed. Please check your internet connection and try again later.",
