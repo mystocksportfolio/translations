@@ -283,6 +283,9 @@
     "en": "Please enter a valid transaction date",
     "zh-Hant-TW": "請輸入成交日期"
   },
+  "addQuoteTransaction_enterValidSymbol": {
+    "en": "Please enter a valid symbol"
+  },
   "addQuoteTransaction_exchangeRate": {
     "en": "Exchange Rate",
     "fr": "Taux de change",
@@ -331,8 +334,11 @@
     "en": "Buy to Cover",
     "fr": "Acheter pour couvrir"
   },
-  "addQuoteTransaction_typeClosePosition": {
-    "en": "Close Position"
+  "addQuoteTransaction_typeClosePositions": {
+    "en": "Close Positions"
+  },
+  "addQuoteTransaction_typeCloseShortPositions": {
+    "en": "Close Short Positions"
   },
   "addQuoteTransaction_typeDRIP": {
     "en": "Dividends + Reinvestment (DRIP)",
