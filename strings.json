@@ -63,7 +63,7 @@
   },
   "accessibility_realizedChangePercent": {
     "en": "Realized Change Percent",
-    "zh-Hant-TW": "已實現損獲利率"
+    "zh-Hant-TW": "已實現獲利率"
   },
   "accessibility_realizedYTDChange": {
     "en": "Realized YTD Change",
@@ -1269,7 +1269,7 @@
   },
   "generic_signInGoogleDrive": {
     "en": "Enable Google Drive account",
-    "zh-Hant-TW": "Google雲端雲端印碟帳戶無法使用"
+    "zh-Hant-TW": "Google雲端雲端硬碟帳戶無法使用"
   },
   "generic_signOut": {
     "en": "Sign Out",
@@ -1430,11 +1430,13 @@
   },
   "logInOut_googleSignOutError": {
     "en": "Error signing out of Google",
-    "fr": "Erreur lors de la déconnexion de Google"
+    "fr": "Erreur lors de la déconnexion de Google",
+    "zh-Hant-TW": "Google帳戶登出錯誤"
   },
   "logInOut_signInWithYourGoogleAccount": {
     "en": "Please sign in with your Google account to continue",
-    "fr": "Veuillez vous connecter avec votre compte Google pour continuer"
+    "fr": "Veuillez vous connecter avec votre compte Google pour continuer",
+    "zh-Hant-TW": "如要繼續，請登入Google帳戶"
   },
   "logInOut_signInToPurchase": {
     "en": "Sign in first so that your purchases are saved to the cloud, can restored, and synced to other devices? If you have multiple accounts on your phone, you can sign in so that the purchase is linked to the correct account."
@@ -1444,35 +1446,43 @@
   },
   "logInOut_signOutOfGoogle": {
     "en": "Sign Out of Google",
-    "fr": "Se déconnecter de Google"
+    "fr": "Se déconnecter de Google",
+    "zh-Hant-TW": "登出Google帳戶"
   },
   "logInOut_signOutOrSwitchAccount": {
     "en": "Sign Out / Switch Account",
-    "fr": "Se déconnecter / Changer de compte"
+    "fr": "Se déconnecter / Changer de compte",
+    "zh-Hant-TW": "登出 / 切換帳戶"
   },
   "logInOut_signingInToGoogle": {
     "en": "Signing in to Google…",
-    "fr": "Connexion à Google…"
+    "fr": "Connexion à Google…",
+    "zh-Hant-TW": "透過Google帳戶登入…"
   },
   "logInOut_signingOutOfGoogle": {
     "en": "Signing out of Google…",
-    "fr": "Déconnexion de Google…"
+    "fr": "Déconnexion de Google…",
+    "zh-Hant-TW": "登出Google帳戶…"
   },
   "logInOut_switchAccount": {
     "en": "Switch Account",
-    "fr": "Changer de compte"
+    "fr": "Changer de compte",
+    "zh-Hant-TW": "切換帳戶"
   },
   "logInOut_switchAccountHescription": {
     "en": "Sign in to another Google account",
-    "fr": "Connexion à un autre compte Google"
+    "fr": "Connexion à un autre compte Google",
+    "zh-Hant-TW": "使用另一個Google帳戶登入"
   },
   "news_browserTitle": {
     "en": "Browser",
-    "fr": "Navigateur"
+    "fr": "Navigateur",
+    "zh-Hant-TW": "瀏覽器"
   },
   "news_configureNews": {
     "en": "Configure News",
-    "fr": "Régler les actualités"
+    "fr": "Régler les actualités",
+    "zh-Hant-TW": "新聞偏好設定"
   },
   "news_configureNewsHelp": {
     "en": "Configure which categories to view market news for by tapping Configure News (Gear icon) in the menu, or by tapping here.",
@@ -1485,15 +1495,18 @@
   "news_filterNewsFromXFormatted": {
     "_formatted": false,
     "en": "Filter news from %s?",
-    "fr": "Filtrer les nouvelles de %s ?"
+    "fr": "Filtrer les nouvelles de %s ?",
+    "zh-Hant-TW": "篩選新聞從 %s?"
   },
   "news_filterNewsSourcesHelp": {
     "en": "To filter a news source, press-hold on it from the news listings page. To remove a filter, click on it below.",
-    "fr": "Pour filtrer une source d\\'actualités, faites un clic long à partir de la page des nouvelles. Pour supprimer un filtre, cliquez ci-dessous."
+    "fr": "Pour filtrer une source d\\'actualités, faites un clic long à partir de la page des nouvelles. Pour supprimer un filtre, cliquez ci-dessous.",
+    "zh-Hant-TW": "於新聞列表中長按新聞，即可篩選新聞來源。點選即可移除篩選結果"
   },
   "news_filteredNewsSources": {
     "en": "Filtered News Sources",
-    "fr": "Sources d\\'informations filtrées"
+    "fr": "Sources d\\'informations filtrées",
+    "zh-Hant-TW": "篩選新聞來源"
   },
   "news_help": {
     "en": "Which categories do you want to retrieve news for? To re-order, press-hold for two seconds and then drag up/down.",
@@ -1501,24 +1514,29 @@
   },
   "news_imageAccessibility": {
     "en": "News Image",
-    "fr": "Image de l\\'actualité"
+    "fr": "Image de l\\'actualité",
+    "zh-Hant-TW": "影像"
   },
   "news_loading": {
     "en": "Loading News…",
-    "fr": "Chargement des actualités…"
+    "fr": "Chargement des actualités…",
+    "zh-Hant-TW": "載入新聞中…"
   },
   "news_share": {
     "en": "Share",
-    "fr": "Partager"
+    "fr": "Partager",
+    "zh-Hant-TW": "分享"
   },
   "news_sharedViaFormatted": {
     "_formatted": false,
     "en": "shared via %s",
-    "fr": "partagé via %s"
+    "fr": "partagé via %s",
+    "zh-Hant-TW": "透過 %s分享"
   },
   "news_sorryCouldNotOpenNewsArticle": {
     "en": "Sorry, we couldn\\'t open that news article.",
-    "fr": "Désolé, nous ne pouvons pas ouvrir cet article."
+    "fr": "Désolé, nous ne pouvons pas ouvrir cet article.",
+    "zh-Hant-TW": "抱歉"
   },
   "news_title": {
     "en": "News",
