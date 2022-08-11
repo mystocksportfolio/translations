@@ -295,6 +295,9 @@
     "en": "Please enter a valid transaction date",
     "zh-Hant-TW": "請輸入成交日期"
   },
+  "addQuoteTransaction_enterValidSymbol": {
+    "en": "Please enter a valid symbol"
+  },
   "addQuoteTransaction_exchangeRate": {
     "en": "Exchange Rate",
     "fr": "Taux de change",
@@ -343,8 +346,11 @@
     "en": "Buy to Cover",
     "fr": "Acheter pour couvrir"
   },
-  "addQuoteTransaction_typeClosePosition": {
-    "en": "Close Position"
+  "addQuoteTransaction_typeClosePositions": {
+    "en": "Close Positions"
+  },
+  "addQuoteTransaction_typeCloseShortPositions": {
+    "en": "Close Short Positions"
   },
   "addQuoteTransaction_typeDRIP": {
     "en": "Dividends + Reinvestment (DRIP)",
@@ -877,7 +883,7 @@
   },
   "generic_autoRefreshStartTime": {
     "en": "Auto-refresh start time",
-    "fr": "Heure de début de la mise à jour automatique"
+    "fr": "Heure de début de la mise à jour automatique",
     "zh-Hant-TW": "自動刷新開始時間"
   },
   "generic_beginImport": {
@@ -1103,7 +1109,7 @@
     "zh-Hant-TW": "導覽"
   },
   "generic_navigationTabsAccessibility": {
-    "en": "Navigation Tabs"
+    "en": "Navigation Tabs",
     "zh-Hant-TW": "導覽頁籤"
   },
   "generic_navigationToolbarAccessibility": {
@@ -1394,7 +1400,7 @@
   },
   "help_noAnswer": {
     "en": "Sorry, we could not find an answer to your question.",
-    "fr": "Désolé, nous n\\'avons pas trouvé de réponse à votre question."
+    "fr": "Désolé, nous n\\'avons pas trouvé de réponse à votre question.",
     "zh-Hant-TW": "抱歉～我們沒有找到你問題的答案"
   },
   "help_popularTopics": {
@@ -1660,7 +1666,7 @@
   },
   "portfolio_allTime": {
     "en": "All-Time",
-    "fr": "Toujours",
+    "fr": "Toujours"
   },
   "portfolio_allTimeColon": {
     "en": "All-Time:"
@@ -1921,7 +1927,7 @@
     "zh-Hant-TW": "名稱"
   },
   "portfolio_noPortfoliosHelp": {
-    "en": "Add a new portfolio or watchlist by tapping the Add button in the menu or by tapping here.",
+    "en": "Add a new portfolio or watchlist by tapping the Add button in the menu or by tapping here."
     
   },
   "portfolio_noQuotesHelp": {
@@ -2190,7 +2196,7 @@
   },
   "portfolio_sort_by": {
     "en": "Sort By…",
-    "fr": "Trier par…",
+    "fr": "Trier par…"
   },
   "portfolio_syncBrokerage": {
     "en": "Sync Brokerage",

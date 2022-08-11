@@ -12,13 +12,13 @@ Thank you for any help with translating!
 
 ![Progress](https://progress-bar.dev/100?title=en&width=120) 775/775
 
+![Progress](https://progress-bar.dev/47?title=zh-Hant-TW&width=120) 362/775
+
 ![Progress](https://progress-bar.dev/68?title=fr&width=120) 529/775
 
 ![Progress](https://progress-bar.dev/4?title=de&width=120) 31/775
 
 ![Progress](https://progress-bar.dev/3?title=zh&width=120) 20/775
-
-![Progress](https://progress-bar.dev/18?title=zh-Hant-TW&width=120) 138/775
 
 
 
