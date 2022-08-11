@@ -41,7 +41,7 @@
   },
   "accessibility_dividendsInTotals": {
     "en": "Dividends included in Totals",
-    "zh-Hant-TW": "總額含股利"
+    "zh-Hant-TW": "市值含息"
   },
   "accessibility_editNotes": {
     "en": "Edit Notes",
@@ -67,11 +67,11 @@
   },
   "accessibility_realizedYTDChange": {
     "en": "Realized YTD Change",
-    "zh-Hant-TW": "已實現年化報酬"
+    "zh-Hant-TW": "已實YTD損益"
   },
   "accessibility_realizedYTDChangePercent": {
     "en": "Realized YTD Change Percent",
-    "zh-Hant-TW": "已實現年化報酬率"
+    "zh-Hant-TW": "已實現YTD獲利率"
   },
   "accessibility_realizedCostBasis": {
     "en": "Realized Cost Basis",
@@ -87,7 +87,7 @@
   },
   "accessibility_unrealized": {
     "en": "Unrealized",
-    "zh-Hant-TW": "庫存損益"
+    "zh-Hant-TW": "庫存"
   },
   "accessibility_unrealizedChange": {
     "en": "Unrealized Change",
@@ -107,15 +107,15 @@
   },
   "accessibility_unrealizedDailyChange": {
     "en": "Unrealized Daily Change",
-    "zh-Hant-TW": "每日漲跌"
+    "zh-Hant-TW": "日漲跌"
   },
   "accessibility_unrealizedDailyChangePercent": {
     "en": "Unrealized Daily Change Percent",
-    "zh-Hant-TW": "每日漲跌％"
+    "zh-Hant-TW": "日漲跌％"
   },
   "accessibility_unrealizedShares": {
     "en": "Unrealized Shares",
-    "zh-Hant-TW": "剩餘股數"
+    "zh-Hant-TW": "庫存股"
   },
   "accessibility_unrealizedValue": {
     "en": "Unrealized Value",
@@ -160,7 +160,8 @@
     "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction."
   },
   "account_deleted": {
-    "en": "Account Deleted"
+    "en": "Account Deleted",
+    "zh-Hant-TW": "已刪除帳戶"
   },
   "adBanner_placeHolder": {
     "en": "Upgrade to Premium and enjoy an Ad-free experience",
@@ -219,7 +220,8 @@
   },
   "addQuoteCrypto_enterCryptoPair": {
     "en": "Please enter a crypto pair, i.e. BTC-USD",
-    "fr": "Veuillez entrer une parité crypto, ex. BTC-USD"
+    "fr": "Veuillez entrer une parité crypto, ex. BTC-USD",
+    "zh-Hant-TW": "請輸入加密貨幣交易對, 例如：BTC-USD"
   },
   "addQuoteCrypto_help": {
     "en": "Prices are aggregated across exchanges (Source: CoinGecko). If you cannot find a coin, you may contact us via support@peeksoft.co to get it registered.",
@@ -227,7 +229,8 @@
   },
   "addQuoteCrypto_pairHint": {
     "en": "Crypto Pair (i.e. BTC-USD)",
-    "fr": "Parité Crypto (ex. BTC-USD)"
+    "fr": "Parité Crypto (ex. BTC-USD)",
+    "zh-Hant-TW": "加密貨幣交易對（例如：BTC-USD）"
   },
   "addQuoteForex_targetCurrencyShouldBeDifferentThanSource": {
     "en": "Target currency should be different than source currency",
@@ -296,7 +299,9 @@
     "zh-Hant-TW": "請輸入成交日期"
   },
   "addQuoteTransaction_enterValidSymbol": {
-    "en": "Please enter a valid symbol"
+    "en": "Please enter a valid symbol",
+    "zh-Hant-TW": "請輸入代碼"
+    
   },
   "addQuoteTransaction_exchangeRate": {
     "en": "Exchange Rate",
@@ -483,7 +488,7 @@
   },
   "alert_viewExistingAlerts": {
     "en": "View existing alerts",
-    "zh-Hant-TW": ""
+    "zh-Hant-TW": "查看既有到價通知"
   },
   "chart_couldNotFetchChart": {
     "en": "Could not fetch chart\\n\\nPlease check your internet connection and try a different interval (1 Day, 5 Days, etc.)",
@@ -864,27 +869,28 @@
     "zh-Hant-TW": "如要繼續，您需要同意隱私權政策與使用規範"
   },
   "generic_apply": {
-    "en": "Apply"
+    "en": "Apply",
+    "zh-Hant-TW": "應用"
   },
   "generic_autoRefresh": {
     "en": "Auto-refresh",
     "fr": "Mise à jour automatique",
-    "zh-Hant-TW": "自動刷新"
+    "zh-Hant-TW": "自動重新整理"
   },
   "generic_autoRefreshOnWeekends": {
     "en": "Auto-refresh on weekends",
     "fr": "Mise à jour automatique les week-ends",
-    "zh-Hant-TW": "週末自動刷新"
+    "zh-Hant-TW": "週末自動重新整理"
   },
   "generic_autoRefreshEndTime": {
     "en": "Auto-refresh end time",
     "fr": "Heure de fin de la mise à jour automatique",
-    "zh-Hant-TW": "自動刷新結束時間"
+    "zh-Hant-TW": "自動重新整理結束時間"
   },
   "generic_autoRefreshStartTime": {
     "en": "Auto-refresh start time",
     "fr": "Heure de début de la mise à jour automatique",
-    "zh-Hant-TW": "自動刷新開始時間"
+    "zh-Hant-TW": "自動重新整理開始時間"
   },
   "generic_beginImport": {
     "en": "Begin Import",
@@ -901,7 +907,8 @@
     "zh-Hant-TW": "取消"
   },
   "generic_checkOutThisApp": {
-    "en": "Check out this app!"
+    "en": "Check out this app!",
+    "zh-Hant-TW": "查看這個 app"
   },
   "generic_checkOutThisAppLong": {
     "en": "Check out My Stocks Portfolio, an app for monitoring your stocks and portfolios!"
@@ -922,7 +929,7 @@
     "en": "Contact Us",
     "fr": "Contactez-nous",
     "zh": "联络我们",
-    "zh-Hant-TW": "聯絡我們"
+    "zh-Hant-TW": "聯繫我們"
   },
   "generic_continue": {
     "en": "Continue",
@@ -1238,7 +1245,8 @@
   },
   "generic_rotateScreen": {
     "en": "Rotate Screen",
-    "fr": "Rotation de l\\'écran"
+    "fr": "Rotation de l\\'écran",
+    "zh-Hant-TW": "旋轉螢幕"
   },
   "generic_save": {
     "en": "Save",
@@ -1319,7 +1327,7 @@
   },
   "generic_sync": {
     "en": "Sync",
-    "zh-Hant-TW": "備份"
+    "zh-Hant-TW": "同步"
   },
   "generic_tapToEdit": {
     "en": "Tap to edit",
@@ -1700,7 +1708,8 @@
   },
   "portfolio_closedSoldPositions": {
     "en": "Closed / Sold Positions",
-    "fr": "Fermé / Positions vendues"
+    "fr": "Fermé / Positions vendues",
+    "zh-Hant-TW": "平倉"
   },
   "portfolio_costBasis": {
     "en": "Cost Basis",
@@ -1741,7 +1750,7 @@
   "portfolio_daily": {
     "en": "Daily",
     "fr": "Jour",
-    "zh-Hant-TW": "每日"
+    "zh-Hant-TW": "每日漲跌"
   },
   "portfolio_dailyChangeCalculation": {
     "en": "Daily Change Calculation",
@@ -1751,7 +1760,7 @@
   "portfolio_dailyColumnSettings": {
     "en": "Daily Column Settings",
     "fr": "Paramètres de la colonne \"jour\"",
-    "zh-Hant-TW": "每日欄位設定"
+    "zh-Hant-TW": "每日漲跌欄位設定"
   },
   "portfolio_defaultCurrency": {
     "en": "Default",
@@ -1769,7 +1778,8 @@
   "portfolio_deleteHoldingsForQuoteFormatted": {
     "_formatted": false,
     "en": "Delete all Holdings for this Quote (%s)?",
-    "fr": "Supprimer toutes les positions pour ce cours (%s) ?"
+    "fr": "Supprimer toutes les positions pour ce cours (%s) ?",
+    "zh-Hant-TW": "刪除股票（%s）所有持股?"
   },
   "portfolio_deleteQuoteWarningFormatted": {
     "_formatted": false,
@@ -1779,7 +1789,8 @@
   "portfolio_deleteQuoteWarningWithTransactionsFormatted": {
     "_formatted": false,
     "en": "Are you sure you want to delete this Quote (%s) and all its Holdings in this portfolio?",
-    "fr": "Supprimer un cours (%s) supprimera également toutes les positions associées dans le portefeuille. Continuer ?"
+    "fr": "Supprimer un cours (%s) supprimera également toutes les positions associées dans le portefeuille. Continuer ?",
+    "zh-Hant-TW": "確定要刪除投資組合中此股（%s）所有持股嗎?"
   },
   "portfolio_deleteSelectedPortfoliosWarning": {
     "en": "Are you sure you want to delete these Portfolios and all Quotes in them?",
@@ -1790,7 +1801,8 @@
     "zh-Hant-TW": "確定要刪除這些報價與裡面所有的交易嗎?"
   },
   "portfolio_deleteSelectedQuoteTransactionsWarning": {
-    "en": "Are you sure you want to delete these Holdings and all Transactions in them?"
+    "en": "Are you sure you want to delete these Holdings and all Transactions in them?",
+    "zh-Hant-TW": "確定要刪除這些持股與所有的交易明細嗎?"
   },
   "portfolio_details": {
     "en": "Details",
@@ -1799,7 +1811,8 @@
   },
   "portfolio_displayLocalCurrency": {
     "en": "Display local currency instead of home currency for:",
-    "fr": "Afficher la devise du titre au lieu de la devise préférée pour :"
+    "fr": "Afficher la devise du titre au lieu de la devise préférée pour :",
+    "zh-Hant-TW": "顯示當地地幣別;而不是預設幣別"
   },
   "portfolio_displayLocalCurrencyForHoldings": {
     "en": "Individual holdings in this portfolio: For example, GOOG holdings will be shown in USD and BNS.TO holdings will be shown in CAD.",
@@ -1840,7 +1853,8 @@
   },
   "portfolio_editHolding": {
     "en": "Edit Holding",
-    "fr": "Modifier la transaction"
+    "fr": "Modifier la transaction",
+    "zh-Hant-TW": "編輯持股"
   },
   "portfolio_editOrDeletePortfolio": {
     "en": "Edit/Delete Portfolio",
@@ -1927,14 +1941,16 @@
     "zh-Hant-TW": "名稱"
   },
   "portfolio_noPortfoliosHelp": {
-    "en": "Add a new portfolio or watchlist by tapping the Add button in the menu or by tapping here."
-    
+    "en": "Add a new portfolio or watchlist by tapping the Add button in the menu or by tapping here.",
+    "zh-Hant-TW": "點擊選單中新增按鈕，新增投資組合或觀察清單" 
   },
   "portfolio_noQuotesHelp": {
-    "en": "Add a new quote by tapping the Add button in the menu or by tapping here."
+    "en": "Add a new quote by tapping the Add button in the menu or by tapping here.",
+    "zh-Hant-TW": "點擊選單中新增按鈕，新增報價"
   },
   "portfolio_noTransactionsHelp": {
-    "en": "Track a new transaction by tapping the Add button in the menu or by tapping here."
+    "en": "Track a new transaction by tapping the Add button in the menu or by tapping here.",
+    "zh-Hant-TW": "點擊選單中新增按鈕，追蹤新交易"
   },
   "portfolio_openUnsoldPositions": {
     "en": "Open / Unsold Positions",
@@ -1980,7 +1996,8 @@
     "zh-Hant-TW": "庫存"
   },
   "portfolio_realizedYTDColon": {
-    "en": "Rlzd YTD:"
+    "en": "Rlzd YTD:",
+    "zh-Hant-TW": "已實現 YTD"
   },
   "portfolio_reverseOrder": {
     "en": "Reverse Order",
@@ -1999,13 +2016,13 @@
     "en": "Shares",
     "fr": "Actions",
     "zh": "股数",
-    "zh-Hant-TW": "股數"
+    "zh-Hant-TW": "股"
   },
   "portfolio_sharesAt": {
     "en": "Shares @",
     "fr": "Actions @",
     "zh": "股数 @",
-    "zh-Hant-TW": "股數 @"
+    "zh-Hant-TW": "股 @"
   },
   "portfolio_splitsHelp": {
     "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4."
@@ -2019,13 +2036,13 @@
     "_formatted": false,
     "en": "%s x %s shares",
     "fr": "%s x %s actions",
-    "zh-Hant-TW": "%s x %s 股數"
+    "zh-Hant-TW": "%s x %s 股"
   },
   "portfolio_priceAndSharesFormattedWithLocal": {
     "_formatted": false,
     "en": "%s (%s) x %s shares",
     "fr": "%s (%s) x %s actions",
-    "zh-Hant-TW": "%s (%s) x %s 股數"
+    "zh-Hant-TW": "%s (%s) x %s 股"
   },
   "portfolio_showDetails": {
     "en": "Show Details",
@@ -2340,11 +2357,13 @@
   },
   "purchases_restorePurchases": {
     "en": "Restore Purchases",
-    "fr": "Restorer les achats"
+    "fr": "Restorer les achats",
+    "zh-Hant-TW": "重新安裝"
   },
   "purchases_restoringPurchases": {
     "en": "Restoring Purchases…",
-    "fr": "Restoration des achats…"
+    "fr": "Restoration des achats…",
+    "zh-Hant-TW": "重新安裝中…"
   },
   "purchases_restorePurchasesHelp": {
     "en": "Restores previous purchases made using your currently signed in Google account",
@@ -2376,43 +2395,52 @@
   },
   "purchases_thankYouForUpgrading": {
     "en": "Thank you for upgrading!",
-    "fr": "Merci d\\'avoir procédé à la mise à niveau !"
+    "fr": "Merci d\\'avoir procédé à la mise à niveau !",
   },
   "purchases_trial": {
     "en": "Join free for a week\\n(first time subscribers)",
-    "fr": "Rejoindre gratuitement pour une semaine\\n(Souscripteur pour la première fois)"
+    "fr": "Rejoindre gratuitement pour une semaine\\n(Souscripteur pour la première fois)",
+    "zh-Hant-TW": "享有7天免費試用\\n(第一次訂閱)"
   },
   "reviewPrompt_areYouEnjoyingApp": {
     "en": "Are you enjoying this app?",
-    "fr": "Appréciez-vous cette application ?"
+    "fr": "Appréciez-vous cette application ?",
+    "zh-Hant-TW": "喜歡App的體驗嗎?"
   },
   "reviewPrompt_couldBeBetter": {
     "en": "Could be better",
-    "fr": "Pourrait être mieux"
+    "fr": "Pourrait être mieux",
+    "zh-Hant-TW": "還可以再更好"
   },
   "reviewPrompt_emailFeedbackOnHowToImprove": {
     "en": "Email us feedback on how to improve?",
-    "fr": "Envoyez-nous vos commentaires afin de nous améliorer"
+    "fr": "Envoyez-nous vos commentaires afin de nous améliorer",
+    "zh-Hant-TW": "我們很重視您的聲音，歡迎來信，提供您的意見，讓我們知道如何可以更好"
   },
   "reviewPrompt_howWouldYouRateApp": {
     "en": "How would you rate the app?",
-    "fr": "Comment évalueriez-vous l\\'application ?"
+    "fr": "Comment évalueriez-vous l\\'application ?",
+    "zh-Hant-TW": "您會給這個App打幾分呢?"
   },
   "reviewPrompt_iLoveIt": {
     "en": "I love it!",
-    "fr": "J\\'adore ça!"
+    "fr": "J\\'adore ça!",
+    "zh-Hant-TW": "愛死了"
   },
   "reviewPrompt_rateApp": {
     "en": "Rate app",
-    "fr": "Evaluer l\\'application"
+    "fr": "Evaluer l\\'application",
+    "zh-Hant-TW": "替App評分"
   },
   "reviewPrompt_rateFiveStars": {
     "en": "Rate 5 ⭐",
-    "fr": "Evaluer à 5 ⭐"
+    "fr": "Evaluer à 5 ⭐",
+    "zh-Hant-TW": "5⭐"
   },
   "reviewPrompt_rateFourStarsOrLess": {
     "en": "Rate 4 ⭐ or less",
-    "fr": "Evaluer à 4 ⭐ ou moins"
+    "fr": "Evaluer à 4 ⭐ ou moins",
+    "zh-Hant-TW": "4⭐"
   },
   "reviewPrompt_takeMomentToRateApp": {
     "en": "Take a moment to rate the app? 5 ⭐ ratings help the app to attract more customers and improve.",
@@ -2420,7 +2448,8 @@
   },
   "reviewPrompt_whatDoYouThinkAboutApp": {
     "en": "What do you think about the app?",
-    "fr": "Que pensez-vous de l\\'application ?"
+    "fr": "Que pensez-vous de l\\'application ?",
+    "zh-Hant-TW": "對於這個App有什麼想法呢?"
   },
   "settingsCalculations_askPriceIfAvailable": {
     "en": "Ask Price, if available and within 10 percent",
@@ -2435,7 +2464,8 @@
     "fr": "Prix (demande), si disponible and within 10 percent"
   },
   "settingsCalculations_extendedHoursIfAvailable": {
-    "en": "Extended Hours, if available"
+    "en": "Extended Hours, if available",
+    "zh-Hant-TW": "盤後,如果有得話"
   },
   "settingsCalculations_holdingDailyChangeUses": {
     "en": "Holdings daily change uses…",
@@ -2467,7 +2497,9 @@
   },
   "settingsDisplay_averagePricePerShare": {
     "en": "Average Price per Share",
-    "fr": "Affiche Nombre d\\'actions @ Prix moyen par action"
+    "fr": "Affiche Nombre d\\'actions @ Prix moyen par action",
+    "zh-Hant-TW": "均價"
+    "fr": "Affiche Nombre d\\'actions @ Prix moyen par action",
   },
   "settingsDisplay_averagePricePerSharePrecision": {
     "en": "Avg price per share min precision",
@@ -2479,43 +2511,53 @@
   },
   "settingsDisplay_decimalPlaces0": {
     "en": "0 decimal places",
-    "fr": "0 décimales"
+    "fr": "0 décimales",
+    "zh-Hant-TW": "小數點第0位"
   },
   "settingsDisplay_decimalPlaces1": {
     "en": "1 decimal place",
-    "fr": "1 décimale"
+    "fr": "1 décimale",
+    "zh-Hant-TW": "小數點第1位"
   },
   "settingsDisplay_decimalPlaces2": {
     "en": "2 decimal places",
-    "fr": "2 décimales"
+    "fr": "2 décimales",
+    "zh-Hant-TW": "小數點第2位"
   },
   "settingsDisplay_decimalPlaces3": {
     "en": "3 decimal places",
-    "fr": "3 décimales"
+    "fr": "3 décimales",
+    "zh-Hant-TW": "小數點第3位"
   },
   "settingsDisplay_decimalPlaces4": {
     "en": "4 decimal places",
-    "fr": "4 décimales"
+    "fr": "4 décimales",
+    "zh-Hant-TW": "小數點第4位"
   },
   "settingsDisplay_decimalPlaces5": {
     "en": "5 decimal places",
-    "fr": "5 décimales"
+    "fr": "5 décimales",
+    "zh-Hant-TW": "小數點第5位"
   },
   "settingsDisplay_decimalPlaces6": {
     "en": "6 decimal places",
-    "fr": "6 décimales"
+    "fr": "6 décimales",
+    "zh-Hant-TW": "小數點第6位"
   },
   "settingsDisplay_decimalPlaces7": {
     "en": "7 decimal places",
-    "fr": "7 décimales"
+    "fr": "7 décimales",
+    "zh-Hant-TW": "小數點第7位"
   },
   "settingsDisplay_decimalPlaces8": {
     "en": "8 decimal places",
-    "fr": "8 décimales"
+    "fr": "8 décimales",
+    "zh-Hant-TW": "小數點第8位"
   },
   "settingsDisplay_fontSizeHelp": {
     "en": "Adjust application font size",
-    "fr": "Ajuste la taille de la police dans l\\'application"
+    "fr": "Ajuste la taille de la police dans l\\'application",
+    "zh-Hant-TW": "調整應用程式字體大小"
   },
   "settingsDisplay_inlineAllTimeAndRealized": {
     "en": "Inline all-time and realized returns",
@@ -2533,33 +2575,38 @@
   },
   "settingsDisplay_invertFontColor": {
     "en": "Invert font color",
-    "fr": "Inverser la couleur de la police"
+    "fr": "Inverser la couleur de la police",
+    "zh-Hant-TW": "對調字體顏色"
   },
   "settingsDisplay_invertFontColorHelp": {
     "en": "Invert fall/rise colors. This will make a decrease in price appear in green and a rise in price appear in red.",
-    "fr": "Inverser les couleurs des baisses/hausses. Cela fera apparaître les baisses de prix en vert et les hausses en rouge."
+    "fr": "Inverser les couleurs des baisses/hausses. Cela fera apparaître les baisses de prix en vert et les hausses en rouge.",
+    "zh-Hant-TW": "對調下降/上升顏色。漲會顯示綠色，跌會顯示紅色"
   },
   "settingsDisplay_lastTradedPrice": {
     "en": "Last Open Market Price"
   },
   "settingsDisplay_line1": {
     "en": "1st Line",
-    "fr": "1ère ligne"
+    "fr": "1ère ligne",
+    "zh-Hant-TW": "第一行"
   },
   "settingsDisplay_line2": {
     "en": "2nd Line",
-    "fr": "2ème ligne"
+    "fr": "2ème ligne",
+    "zh-Hant-TW": "第二行"
   },
   "settingsDisplay_extendedHours": {
     "en": "Extended hours",
-    "zh-Hant-TW": "盤後價格"
+    "zh-Hant-TW": "盤後"
   },
   "settingsDisplay_extendedHoursHelp": {
     "en": "Display extended trading (shows as 3rd line if single-line mode is off, shows on same line if single-line mode is on)"
   },
   "settingsDisplay_miniMode": {
     "en": "Single-line mode",
-    "fr": "Mini-mode"
+    "fr": "Mini-mode",
+    "zh-Hant-TW": "單行模式"
   },
   "settingsDisplay_miniModeWidgetHelp": {
     "en": "Show one line per item on the single portfolio widget. Tap the cell to toggle between absolute and percentage.",
@@ -2575,7 +2622,8 @@
   },
   "settingsDisplay_numberOfShares": {
     "en": "Number of Shares",
-    "fr": "Nombre d\\'actions"
+    "fr": "Nombre d\\'actions",
+    "zh-Hant-TW": "股數"
   },
   "settingsDisplay_numberOfSharesPrecision": {
     "en": "Number of shares min precision",
@@ -2583,7 +2631,8 @@
   },
   "settingsDisplay_percentagesOnTop": {
     "en": "Percentages on top",
-    "fr": "Pourcentages en haut"
+    "fr": "Pourcentages en haut",
+    "zh-Hant-TW": "％在上面"
   },
   "settingsDisplay_percentagesOnTopHelp": {
     "en": "Show percentage changes on 1st line. When in single-line mode, tap the cell to switch between percentages and absolutes.",
@@ -2599,11 +2648,13 @@
   },
   "settingsDisplay_quoteName": {
     "en": "Quote Name",
-    "fr": "Nom du titre"
+    "fr": "Nom du titre",
+    "zh-Hant-TW": "報價名稱"
   },
   "settingsDisplay_quoteSymbol": {
     "en": "Quote Symbol",
-    "fr": "Symbole du titre"
+    "fr": "Symbole du titre",
+    "zh-Hant-TW": "報價代碼"
   },
   "settingsDisplay_showCurrencyOnQuotesTab": {
     "en": "Show currency symbol on Quotes tab",
@@ -2614,30 +2665,38 @@
     "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché."
   },
   "settingsDisplay_showThumbnails": {
-    "en": "Show Thumbnails"
+    "en": "Show Thumbnails",
+    "zh-Hant-TW": "顯示縮圖"
   },
   "settingsDisplay_showThumbnailsSummary": {
-    "en": "Show preview thumbnail on news list"
+    "en": "Show preview thumbnail on news list",
+    "zh-Hant-TW": "於心清單中顯示預覽縮圖"
   },
   "settingsDisplay_showNotesHoldingsTab": {
-    "en": "Show Quote notes below Holding"
+    "en": "Show Quote notes below Holding",
+    "zh-Hant-TW": "顯示備註於持股下方"
   },
   "settingsDisplay_showNotesHoldingsTabHelp": {
-    "en": "Display up to 5 lines of notes on the Holdings tab"
+    "en": "Display up to 5 lines of notes on the Holdings tab",
+    "zh-Hant-TW": "在持股頁籤上，最多顯示五行備註"
   },
   "settingsDisplay_showNotesQuoteTab": {
     "en": "Show notes below Quote",
-    "fr": "Afficher les notes sous le cours"
+    "fr": "Afficher les notes sous le cours",
+    "zh-Hant-TW": "顯示備註於報價下"
   },
   "settingsDisplay_showNotesQuoteTabHelp": {
     "en": "Display up to 5 lines of notes on Quotes tab",
-    "fr": "Afficher jusqu\\'à 5 lignes de notes dans l\\'onglet des cours"
+    "fr": "Afficher jusqu\\'à 5 lignes de notes dans l\\'onglet des cours",
+    "zh-Hant-TW": "在報價頁籤上，最多顯示五行備註"
   },
   "settingsDisplay_showNotesTransactionsTab": {
-    "en": "Show Transaction notes below Transaction"
+    "en": "Show Transaction notes below Transaction",
+    "zh-Hant-TW": "顯示交易備註於交易明細下方"
   },
   "settingsDisplay_showNotesTransactionsTabHelp": {
-    "en": "Display up to 5 lines of notes on the Transactions tab"
+    "en": "Display up to 5 lines of notes on the Transactions tab",
+    "zh-Hant-TW": "交易明細頁籤上，最多顯示五行備註"
   },
   "settingsDisplay_showSharesAtAveragePricePerShare": {
     "en": "Show Avg Price Per Share and Number of Shares below each holding",
@@ -2645,35 +2704,43 @@
   },
   "settingsDisplay_theme": {
     "en": "Theme",
-    "fr": "Thème"
+    "fr": "Thème",
+    "zh-Hant-TW": "主題"
   },
   "settingsDisplay_themeBlack": {
     "en": "Black",
-    "fr": "Noir"
+    "fr": "Noir",
+    "zh-Hant-TW": "黑色"
   },
   "settingsDisplay_themeDark": {
     "en": "Dark",
-    "fr": "Sombre"
+    "fr": "Sombre",
+    "zh-Hant-TW": "深色"
   },
   "settingsDisplay_themeLight": {
     "en": "Light",
-    "fr": "Clair"
+    "fr": "Clair",
+    "zh-Hant-TW": "亮色"
   },
   "settingsDisplay_themeSystem": {
-    "en": "System"
+    "en": "System",
+    "zh-Hant-TW": "系統"
   },
   "settingsDisplay_title": {
     "en": "Display",
-    "fr": "Afficher"
+    "fr": "Afficher",
+    "zh-Hant-TW": "顯示"
   },
   "settingsGeneral_keepScreenAlive": {
-    "en": "Keep screen alive"
+    "en": "Keep screen alive",
+    "zh-Hant-TW": "永不鎖定螢幕"
   },
   "settingsGeneral_keepScreenAliveHelp": {
     "en": "Prevent phone screen from sleeping while app is visible"
   },
   "settingsGeneral_openNewsExternalBrowser": {
-    "en": "Open news in external browser"
+    "en": "Open news in external browser",
+    "zh-Hant-TW": "開啟新聞於外部瀏覽器"
   },
   "settingsGeneral_showExitPrompt": {
     "en": "Confirm when exiting"
@@ -2683,27 +2750,33 @@
   },
   "settingsWidget_singleLineMode": {
     "en": "Single-line mode",
-    "fr": "Mode ligne unique"
+    "fr": "Mode ligne unique",
+    "zh-Hant-TW": "單行模式"
   },
   "settingsWidget_size": {
     "en": "Widget UI size",
-    "fr": "Taille de l\\'IHM du widget"
+    "fr": "Taille de l\\'IHM du widget",
+    "zh-Hant-TW": "小工具尺寸大小"
   },
   "settingsWidget_sizeHelp": {
     "en": "Adjust widget font and button size",
-    "fr": "Ajuster la taille des polices et boutons du widget"
+    "fr": "Ajuster la taille des polices et boutons du widget",
+    "zh-Hant-TW": "調整小工具字體大小與按鈕大小"
   },
   "settings_about": {
     "en": "About App (MSP - My Stocks Portfolio)",
-    "fr": "À propos l\\'application (MSP)"
+    "fr": "À propos l\\'application (MSP)",
+    "zh-Hant-TW": "關於App(MSP - My Stocks Portfolio）"
   },
   "settings_appVersion": {
     "en": "App version",
-    "fr": "Version de l\\'application"
+    "fr": "Version de l\\'application",
+    "zh-Hant-TW": "App版本"
   },
   "settings_calculations": {
     "en": "Calculations",
-    "fr": "Calculs"
+    "fr": "Calculs",
+    "zh-Hant-TW": "金額統計"
   },
   "settings_couldNotStartEmailApp": {
     "en": "Could not start email app. Have you set up email on your device?",
@@ -2711,16 +2784,20 @@
   },
   "settings_csv": {
     "en": "CSV",
-    "fr": "CSV"
+    "fr": "CSV",
+    "zh-Hant-TW": "CSV"
   },
   "settings_importExport": {
-    "en": "Import / Export"
+    "en": "Import / Export",
+    "zh-Hant-TW": "匯入 / 匯出"
   },
   "settings_csvExportPortfolios": {
-    "en": "Export Portfolios as CSV"
+    "en": "Export Portfolios as CSV",
+    "zh-Hant-TW": "將投資組合匯出成CSV檔"
   },
   "settings_csvExportPortfoliosHelp": {
-    "en": "Export to Google Drive / SDCard / External Storage / Email / Clipboard"
+    "en": "Export to Google Drive / SDCard / External Storage / Email / Clipboard",
+    "zh-Hant-TW": "匯出至Google雲端硬碟 / SD卡 / 外接儲存裝置 / Email / 備忘錄"
   },
   "settings_csvImportPortfolios": {
     "en": "Import Portfolios from CSV"
