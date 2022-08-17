@@ -2512,47 +2512,47 @@
   "settingsDisplay_decimalPlaces0": {
     "en": "0 decimal places",
     "fr": "0 décimales",
-    "zh-Hant-TW": "小數點第0位"
+    "zh-Hant-TW": "小數點0位"
   },
   "settingsDisplay_decimalPlaces1": {
     "en": "1 decimal place",
     "fr": "1 décimale",
-    "zh-Hant-TW": "小數點第1位"
+    "zh-Hant-TW": "小數點1位"
   },
   "settingsDisplay_decimalPlaces2": {
     "en": "2 decimal places",
     "fr": "2 décimales",
-    "zh-Hant-TW": "小數點第2位"
+    "zh-Hant-TW": "小數點2位"
   },
   "settingsDisplay_decimalPlaces3": {
     "en": "3 decimal places",
     "fr": "3 décimales",
-    "zh-Hant-TW": "小數點第3位"
+    "zh-Hant-TW": "小數點3位"
   },
   "settingsDisplay_decimalPlaces4": {
     "en": "4 decimal places",
     "fr": "4 décimales",
-    "zh-Hant-TW": "小數點第4位"
+    "zh-Hant-TW": "小數點4位"
   },
   "settingsDisplay_decimalPlaces5": {
     "en": "5 decimal places",
     "fr": "5 décimales",
-    "zh-Hant-TW": "小數點第5位"
+    "zh-Hant-TW": "小數點5位"
   },
   "settingsDisplay_decimalPlaces6": {
     "en": "6 decimal places",
     "fr": "6 décimales",
-    "zh-Hant-TW": "小數點第6位"
+    "zh-Hant-TW": "小數點6位"
   },
   "settingsDisplay_decimalPlaces7": {
     "en": "7 decimal places",
     "fr": "7 décimales",
-    "zh-Hant-TW": "小數點第7位"
+    "zh-Hant-TW": "小數點7位"
   },
   "settingsDisplay_decimalPlaces8": {
     "en": "8 decimal places",
     "fr": "8 décimales",
-    "zh-Hant-TW": "小數點第8位"
+    "zh-Hant-TW": "小數點8位"
   },
   "settingsDisplay_fontSizeHelp": {
     "en": "Adjust application font size",
@@ -2670,11 +2670,11 @@
   },
   "settingsDisplay_showThumbnailsSummary": {
     "en": "Show preview thumbnail on news list",
-    "zh-Hant-TW": "於心清單中顯示預覽縮圖"
+    "zh-Hant-TW": "在新清單中顯示預覽縮圖"
   },
   "settingsDisplay_showNotesHoldingsTab": {
     "en": "Show Quote notes below Holding",
-    "zh-Hant-TW": "顯示備註於持股下方"
+    "zh-Hant-TW": "在持股下方顯示備註"
   },
   "settingsDisplay_showNotesHoldingsTabHelp": {
     "en": "Display up to 5 lines of notes on the Holdings tab",
@@ -2683,7 +2683,7 @@
   "settingsDisplay_showNotesQuoteTab": {
     "en": "Show notes below Quote",
     "fr": "Afficher les notes sous le cours",
-    "zh-Hant-TW": "顯示備註於報價下"
+    "zh-Hant-TW": "在報價下方顯示備註"
   },
   "settingsDisplay_showNotesQuoteTabHelp": {
     "en": "Display up to 5 lines of notes on Quotes tab",
@@ -2692,11 +2692,11 @@
   },
   "settingsDisplay_showNotesTransactionsTab": {
     "en": "Show Transaction notes below Transaction",
-    "zh-Hant-TW": "顯示交易備註於交易明細下方"
+    "zh-Hant-TW": "在交易明細下方顯示交易備註"
   },
   "settingsDisplay_showNotesTransactionsTabHelp": {
     "en": "Display up to 5 lines of notes on the Transactions tab",
-    "zh-Hant-TW": "交易明細頁籤上，最多顯示五行備註"
+    "zh-Hant-TW": "在交易明細頁籤上，最多顯示五行備註"
   },
   "settingsDisplay_showSharesAtAveragePricePerShare": {
     "en": "Show Avg Price Per Share and Number of Shares below each holding",
