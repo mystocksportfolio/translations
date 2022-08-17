@@ -82,7 +82,8 @@
     
   },
   "accessibility_unrealized": {
-    "en": "Unrealized"
+    "en": "Unrealized",
+    "zh-Hant-TW": "庫存"
   },
   "accessibility_unrealizedChange": {
     "en": "Unrealized Change"
@@ -2360,19 +2361,23 @@
   },
   "reviewPrompt_areYouEnjoyingApp": {
     "en": "Are you enjoying this app?",
-    "fr": "Appréciez-vous cette application ?"
+    "fr": "Appréciez-vous cette application ?",
+    "zh-Hant-TW": "喜歡App的體驗嗎?"
   },
   "reviewPrompt_couldBeBetter": {
     "en": "Could be better",
-    "fr": "Pourrait être mieux"
+    "fr": "Pourrait être mieux",
+    "zh-Hant-TW": "還可以再更好"
   },
   "reviewPrompt_emailFeedbackOnHowToImprove": {
     "en": "Email us feedback on how to improve?",
-    "fr": "Envoyez-nous vos commentaires afin de nous améliorer"
+    "fr": "Envoyez-nous vos commentaires afin de nous améliorer",
+    "zh-Hant-TW": "我們很重視您的聲音，歡迎來信，提供您的意見，讓我們知道如何可以更好"
   },
   "reviewPrompt_howWouldYouRateApp": {
     "en": "How would you rate the app?",
-    "fr": "Comment évalueriez-vous l\\'application ?"
+    "fr": "Comment évalueriez-vous l\\'application ?",
+    "zh-Hant-TW": "您會給這個App打幾分呢?"
   },
   "reviewPrompt_iLoveIt": {
     "en": "I love it!",
@@ -2380,7 +2385,8 @@
   },
   "reviewPrompt_rateApp": {
     "en": "Rate app",
-    "fr": "Evaluer l\\'application"
+    "fr": "Evaluer l\\'application",
+    "zh-Hant-TW": "替App評分"
   },
   "reviewPrompt_rateFiveStars": {
     "en": "Rate 5 ⭐",
@@ -2396,7 +2402,8 @@
   },
   "reviewPrompt_whatDoYouThinkAboutApp": {
     "en": "What do you think about the app?",
-    "fr": "Que pensez-vous de l\\'application ?"
+    "fr": "Que pensez-vous de l\\'application ?",
+    "zh-Hant-TW": "對於這個App有什麼想法呢?"
   },
   "settingsCalculations_askPriceIfAvailable": {
     "en": "Ask Price, if available and within 10 percent",
@@ -2411,7 +2418,8 @@
     "fr": "Prix (demande), si disponible and within 10 percent"
   },
   "settingsCalculations_extendedHoursIfAvailable": {
-    "en": "Extended Hours, if available"
+    "en": "Extended Hours, if available",
+    "zh-Hant-TW": "盤後,如果有得話"
   },
   "settingsCalculations_holdingDailyChangeUses": {
     "en": "Holdings daily change uses…",
@@ -2443,7 +2451,8 @@
   },
   "settingsDisplay_averagePricePerShare": {
     "en": "Average Price per Share",
-    "fr": "Affiche Nombre d\\'actions @ Prix moyen par action"
+    "fr": "Affiche Nombre d\\'actions @ Prix moyen par action",
+    "zh-Hant-TW": "均價"
   },
   "settingsDisplay_averagePricePerSharePrecision": {
     "en": "Avg price per share min precision",
@@ -2455,43 +2464,53 @@
   },
   "settingsDisplay_decimalPlaces0": {
     "en": "0 decimal places",
-    "fr": "0 décimales"
+    "fr": "0 décimales",
+    "zh-Hant-TW": "小數點0位"
   },
   "settingsDisplay_decimalPlaces1": {
     "en": "1 decimal place",
-    "fr": "1 décimale"
+    "fr": "1 décimale",
+    "zh-Hant-TW": "小數點1位"
   },
   "settingsDisplay_decimalPlaces2": {
     "en": "2 decimal places",
-    "fr": "2 décimales"
+    "fr": "2 décimales",
+    "zh-Hant-TW": "小數點2位"
   },
   "settingsDisplay_decimalPlaces3": {
     "en": "3 decimal places",
-    "fr": "3 décimales"
+    "fr": "3 décimales",
+    "zh-Hant-TW": "小數點3位"
   },
   "settingsDisplay_decimalPlaces4": {
     "en": "4 decimal places",
-    "fr": "4 décimales"
+    "fr": "4 décimales",
+    "zh-Hant-TW": "小數點4位"
   },
   "settingsDisplay_decimalPlaces5": {
     "en": "5 decimal places",
-    "fr": "5 décimales"
+    "fr": "5 décimales",
+    "zh-Hant-TW": "小數點5位"
   },
   "settingsDisplay_decimalPlaces6": {
     "en": "6 decimal places",
-    "fr": "6 décimales"
+    "fr": "6 décimales",
+    "zh-Hant-TW": "小數點6位"
   },
   "settingsDisplay_decimalPlaces7": {
     "en": "7 decimal places",
-    "fr": "7 décimales"
+    "fr": "7 décimales",
+    "zh-Hant-TW": "小數點7位"
   },
   "settingsDisplay_decimalPlaces8": {
     "en": "8 decimal places",
-    "fr": "8 décimales"
+    "fr": "8 décimales",
+    "zh-Hant-TW": "小數點8位"
   },
   "settingsDisplay_fontSizeHelp": {
     "en": "Adjust application font size",
-    "fr": "Ajuste la taille de la police dans l\\'application"
+    "fr": "Ajuste la taille de la police dans l\\'application",
+    "zh-Hant-TW": "調整應用程式字體大小"
   },
   "settingsDisplay_inlineAllTimeAndRealized": {
     "en": "Inline all-time and realized returns",
@@ -2520,15 +2539,17 @@
   },
   "settingsDisplay_line1": {
     "en": "1st Line",
-    "fr": "1ère ligne"
+    "fr": "1ère ligne",
+    "zh-Hant-TW": "第一行"
   },
   "settingsDisplay_line2": {
     "en": "2nd Line",
-    "fr": "2ème ligne"
+    "fr": "2ème ligne",
+    "zh-Hant-TW": "第二行"
   },
   "settingsDisplay_extendedHours": {
     "en": "Extended hours",
-    "zh-Hant-TW": "盤後價格"
+    "zh-Hant-TW": "盤後"
   },
   "settingsDisplay_extendedHoursHelp": {
     "en": "Display extended trading (shows as 3rd line if single-line mode is off, shows on same line if single-line mode is on)"
@@ -2551,7 +2572,8 @@
   },
   "settingsDisplay_numberOfShares": {
     "en": "Number of Shares",
-    "fr": "Nombre d\\'actions"
+    "fr": "Nombre d\\'actions",
+    "zh-Hant-TW": "股數"
   },
   "settingsDisplay_numberOfSharesPrecision": {
     "en": "Number of shares min precision",
@@ -2559,7 +2581,8 @@
   },
   "settingsDisplay_percentagesOnTop": {
     "en": "Percentages on top",
-    "fr": "Pourcentages en haut"
+    "fr": "Pourcentages en haut",
+    "zh-Hant-TW": "％在上面"
   },
   "settingsDisplay_percentagesOnTopHelp": {
     "en": "Show percentage changes on 1st line. When in single-line mode, tap the cell to switch between percentages and absolutes.",
@@ -2575,11 +2598,13 @@
   },
   "settingsDisplay_quoteName": {
     "en": "Quote Name",
-    "fr": "Nom du titre"
+    "fr": "Nom du titre",
+    "zh-Hant-TW": "報價名稱"
   },
   "settingsDisplay_quoteSymbol": {
     "en": "Quote Symbol",
-    "fr": "Symbole du titre"
+    "fr": "Symbole du titre",
+    "zh-Hant-TW": "報價代碼"
   },
   "settingsDisplay_showCurrencyOnQuotesTab": {
     "en": "Show currency symbol on Quotes tab",
@@ -2590,10 +2615,12 @@
     "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché."
   },
   "settingsDisplay_showThumbnails": {
-    "en": "Show Thumbnails"
+    "en": "Show Thumbnails",
+    "zh-Hant-TW": "顯示縮圖"
   },
   "settingsDisplay_showThumbnailsSummary": {
-    "en": "Show preview thumbnail on news list"
+    "en": "Show preview thumbnail on news list",
+    "zh-Hant-TW": "於心清單中顯示預覽縮圖"
   },
   "settingsDisplay_showNotesHoldingsTab": {
     "en": "Show Quote notes below Holding"
@@ -2621,29 +2648,36 @@
   },
   "settingsDisplay_theme": {
     "en": "Theme",
-    "fr": "Thème"
+    "fr": "Thème",
+    "zh-Hant-TW": "主題"
   },
   "settingsDisplay_themeBlack": {
     "en": "Black",
-    "fr": "Noir"
+    "fr": "Noir",
+    "zh-Hant-TW": "黑色"
   },
   "settingsDisplay_themeDark": {
     "en": "Dark",
-    "fr": "Sombre"
+    "fr": "Sombre",
+    "zh-Hant-TW": "深色"
   },
   "settingsDisplay_themeLight": {
     "en": "Light",
-    "fr": "Clair"
+    "fr": "Clair",
+    "zh-Hant-TW": "亮色"
   },
   "settingsDisplay_themeSystem": {
-    "en": "System"
+    "en": "System",
+    "zh-Hant-TW": "系統"
   },
   "settingsDisplay_title": {
     "en": "Display",
-    "fr": "Afficher"
+    "fr": "Afficher",
+    "zh-Hant-TW": "顯示"
   },
   "settingsGeneral_keepScreenAlive": {
-    "en": "Keep screen alive"
+    "en": "Keep screen alive",
+    "zh-Hant-TW": "永不鎖定螢幕"
   },
   "settingsGeneral_keepScreenAliveHelp": {
     "en": "Prevent phone screen from sleeping while app is visible"
@@ -2671,11 +2705,13 @@
   },
   "settings_about": {
     "en": "About App (MSP - My Stocks Portfolio)",
-    "fr": "À propos l\\'application (MSP)"
+    "fr": "À propos l\\'application (MSP - My Stocks Portfolio)",
+    "zh-Hant-TW": "關於App (MSP - My Stocks Portfolio)"
   },
   "settings_appVersion": {
     "en": "App version",
-    "fr": "Version de l\\'application"
+    "fr": "Version de l\\'application",
+    "zh-Hant-TW": "App版本"
   },
   "settings_calculations": {
     "en": "Calculations",
@@ -2687,16 +2723,19 @@
   },
   "settings_csv": {
     "en": "CSV",
-    "fr": "CSV"
+    "fr": "CSV",
+    "zh-Hant-TW": "CSV"
   },
   "settings_importExport": {
-    "en": "Import / Export"
+    "en": "Import / Export",
+    "zh-Hant-TW": "匯入 / 匯出"
   },
   "settings_csvExportPortfolios": {
     "en": "Export Portfolios as CSV"
   },
   "settings_csvExportPortfoliosHelp": {
-    "en": "Export to Google Drive / SDCard / External Storage / Email / Clipboard"
+    "en": "Export to Google Drive / SDCard / External Storage / Email / Clipboard",
+    "zh-Hant-TW": "匯出至Google雲端硬碟 / SD卡 / 外接儲存裝置 / Email / 備忘錄"
   },
   "settings_csvImportPortfolios": {
     "en": "Import Portfolios from CSV"
@@ -3210,7 +3249,7 @@
   "viewQuote_extendedHours": {
     "en": "Extended",
     "fr": "Après clôture",
-    "zh-Hant-TW": "收盤後"
+    "zh-Hant-TW": "盤後"
   },
   "viewQuote_lastTradeFormatted": {
     "_formatted": false,
