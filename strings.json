@@ -2499,7 +2499,6 @@
     "en": "Average Price per Share",
     "fr": "Affiche Nombre d\\'actions @ Prix moyen par action",
     "zh-Hant-TW": "均價"
-    "fr": "Affiche Nombre d\\'actions @ Prix moyen par action",
   },
   "settingsDisplay_averagePricePerSharePrecision": {
     "en": "Avg price per share min precision",
@@ -2765,8 +2764,8 @@
   },
   "settings_about": {
     "en": "About App (MSP - My Stocks Portfolio)",
-    "fr": "À propos l\\'application (MSP)",
-    "zh-Hant-TW": "關於App(MSP - My Stocks Portfolio）"
+    "fr": "À propos l\\'application (MSP - My Stocks Portfolio)",
+    "zh-Hant-TW": "關於App (MSP - My Stocks Portfolio)"
   },
   "settings_appVersion": {
     "en": "App version",
@@ -3311,7 +3310,7 @@
   "viewQuote_extendedHours": {
     "en": "Extended",
     "fr": "Après clôture",
-    "zh-Hant-TW": "收盤後"
+    "zh-Hant-TW": "盤後"
   },
   "viewQuote_lastTradeFormatted": {
     "_formatted": false,
