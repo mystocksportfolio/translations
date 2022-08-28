@@ -972,7 +972,7 @@
   },
   "generic_emailOrCopyPaste": {
     "en": "Email / Copy & Paste",
-    "zh-Hant-TW": "Email /拷貝 & 貼上"
+    "zh-Hant-TW": "Email / 拷貝 & 貼上"
   },
   "generic_enterNotes": {
     "en": "Enter notes",
@@ -1996,7 +1996,7 @@
   },
   "portfolio_realizedYTDColon": {
     "en": "Rlzd YTD:",
-    "zh-Hant-TW": "已實現 YTD"
+    "zh-Hant-TW": "已實現 YTD："
   },
   "portfolio_reverseOrder": {
     "en": "Reverse Order",
