@@ -212,7 +212,7 @@
   "addQuoteCrypto_enterCryptoPair": {
     "en": "Please enter a crypto pair, i.e. BTC-USD",
     "fr": "Veuillez entrer une parité crypto, ex. BTC-USD",
-    "zh-Hant-TW": "請輸入加密貨幣交易對, 例如:BTC-USD"
+    "zh-Hant-TW": "請輸入加密貨幣交易對, 例如：BTC-USD"
   },
   "addQuoteCrypto_help": {
     "en": "Prices are aggregated across exchanges (Source: CoinGecko). If you cannot find a coin, you may contact us via support@peeksoft.co to get it registered.",
@@ -221,7 +221,7 @@
   "addQuoteCrypto_pairHint": {
     "en": "Crypto Pair (i.e. BTC-USD)",
     "fr": "Parité Crypto (ex. BTC-USD)",
-    "zh-Hant-TW": "加密貨幣交易對 (例如:BTC-USD)"
+    "zh-Hant-TW": "加密貨幣交易對 (例如：BTC-USD)"
   },
   "addQuoteForex_targetCurrencyShouldBeDifferentThanSource": {
     "en": "Target currency should be different than source currency",
@@ -426,7 +426,7 @@
     "en": "Symbol (i.e. GOOG)",
     "de": "Symbol (z.B. GOOG)",
     "fr": "Symbole (par ex. GOOG)",
-    "zh-Hant-TW": "代碼（例如: GOOG）"
+    "zh-Hant-TW": "代碼（例如：GOOG）"
   },
   "addQuote_trackTransaction": {
     "en": "Track a Transaction",
