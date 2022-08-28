@@ -221,7 +221,7 @@
   "addQuoteCrypto_pairHint": {
     "en": "Crypto Pair (i.e. BTC-USD)",
     "fr": "Parité Crypto (ex. BTC-USD)",
-    "zh-Hant-TW": "加密貨幣交易對 (例如：BTC-USD)"
+    "zh-Hant-TW": "加密貨幣交易對（例如：BTC-USD）"
   },
   "addQuoteForex_targetCurrencyShouldBeDifferentThanSource": {
     "en": "Target currency should be different than source currency",
