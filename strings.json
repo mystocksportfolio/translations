@@ -301,7 +301,6 @@
   "addQuoteTransaction_enterValidSymbol": {
     "en": "Please enter a valid symbol",
     "zh-Hant-TW": "請輸入代碼"
-    
   },
   "addQuoteTransaction_exchangeRate": {
     "en": "Exchange Rate",
@@ -437,7 +436,7 @@
     "en": "Symbol (i.e. GOOG)",
     "de": "Symbol (z.B. GOOG)",
     "fr": "Symbole (par ex. GOOG)",
-    "zh-Hant-TW": "代碼（例如: GOOG）"
+    "zh-Hant-TW": "代碼（例如：GOOG）"
   },
   "addQuote_trackTransaction": {
     "en": "Track a Transaction",
@@ -711,7 +710,7 @@
   "chart_typeOHLC": {
     "en": "OHLC",
     "fr": "OHLC",
-    "zh-Hant-TW": "美國線"
+    "zh-Hant-TW": "美國線"\
   },
   "chart_volume": {
     "en": "Volume",
