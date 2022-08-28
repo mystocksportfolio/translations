@@ -856,27 +856,28 @@
     "zh-Hant-TW": "如要繼續，您需要同意隱私權政策與使用規範"
   },
   "generic_apply": {
-    "en": "Apply"
+    "en": "Apply",
+    "zh-Hant-TW": "應用"
   },
   "generic_autoRefresh": {
     "en": "Auto-refresh",
     "fr": "Mise à jour automatique",
-    "zh-Hant-TW": "自動刷新"
+    "zh-Hant-TW": "自動重新整理"
   },
   "generic_autoRefreshOnWeekends": {
     "en": "Auto-refresh on weekends",
     "fr": "Mise à jour automatique les week-ends",
-    "zh-Hant-TW": "週末自動刷新"
+    "zh-Hant-TW": "週末自動重新整理"
   },
   "generic_autoRefreshEndTime": {
     "en": "Auto-refresh end time",
     "fr": "Heure de fin de la mise à jour automatique",
-    "zh-Hant-TW": "自動刷新結束時間"
+    "zh-Hant-TW": "自動重新整理結束時間"
   },
   "generic_autoRefreshStartTime": {
     "en": "Auto-refresh start time",
     "fr": "Heure de début de la mise à jour automatique",
-    "zh-Hant-TW": "自動刷新開始時間"
+    "zh-Hant-TW": "自動重新整理開始時間"
   },
   "generic_beginImport": {
     "en": "Begin Import",
@@ -893,7 +894,8 @@
     "zh-Hant-TW": "取消"
   },
   "generic_checkOutThisApp": {
-    "en": "Check out this app!"
+    "en": "Check out this app!",
+    "zh-Hant-TW": "查看這個 app"
   },
   "generic_checkOutThisAppLong": {
     "en": "Check out My Stocks Portfolio, an app for monitoring your stocks and portfolios!"
@@ -914,7 +916,7 @@
     "en": "Contact Us",
     "fr": "Contactez-nous",
     "zh": "联络我们",
-    "zh-Hant-TW": "聯絡我們"
+    "zh-Hant-TW": "聯繫我們"
   },
   "generic_continue": {
     "en": "Continue",
@@ -953,10 +955,12 @@
     "zh-Hant-TW": "編輯"
   },
   "generic_email": {
-    "en": "Email"
+    "en": "Email",
+    "zh-Hant-TW": "Email"
   },
   "generic_emailOrCopyPaste": {
-    "en": "Email / Copy & Paste"
+    "en": "Email / Copy & Paste",
+    "zh-Hant-TW": "Email / 拷貝 & 貼上"
   },
   "generic_enterNotes": {
     "en": "Enter notes",
@@ -1141,7 +1145,8 @@
     "zh-Hant-TW": "備註（選填）"
   },
   "generic_notificationTestInProgress": {
-    "en": "You should receive a test notification in a few seconds"
+    "en": "You should receive a test notification in a few seconds",
+    "zh-Hant-TW": "您將會在幾秒內收到測試通知"
   },
   "generic_noThanks": {
     "en": "No Thanks",
@@ -1227,7 +1232,8 @@
   },
   "generic_rotateScreen": {
     "en": "Rotate Screen",
-    "fr": "Rotation de l\\'écran"
+    "fr": "Rotation de l\\'écran",
+    "zh-Hant-TW": "旋轉螢幕"
   },
   "generic_save": {
     "en": "Save",
@@ -1290,7 +1296,8 @@
     "zh-Hant-TW": "分類"
   },
   "generic_subscribed": {
-    "en": "Subscribed"
+    "en": "Subscribed",
+    "zh-Hant-TW": "已訂閱"
   },
   "generic_suggestTranslations": {
     "en": "Suggest Translations",
@@ -1727,7 +1734,7 @@
   "portfolio_daily": {
     "en": "Daily",
     "fr": "Jour",
-    "zh-Hant-TW": "每日"
+    "zh-Hant-TW": "每日漲跌"
   },
   "portfolio_dailyChangeCalculation": {
     "en": "Daily Change Calculation",
@@ -1737,7 +1744,7 @@
   "portfolio_dailyColumnSettings": {
     "en": "Daily Column Settings",
     "fr": "Paramètres de la colonne \"jour\"",
-    "zh-Hant-TW": "每日欄位設定"
+    "zh-Hant-TW": "每日漲跌欄位設定"
   },
   "portfolio_defaultCurrency": {
     "en": "Default",
@@ -1826,7 +1833,8 @@
   },
   "portfolio_editHolding": {
     "en": "Edit Holding",
-    "fr": "Modifier la transaction"
+    "fr": "Modifier la transaction",
+    "zh-Hant-TW": "編輯持股"
   },
   "portfolio_editOrDeletePortfolio": {
     "en": "Edit/Delete Portfolio",
@@ -1965,7 +1973,8 @@
     "fr": "Réalisé :"
   },
   "portfolio_realizedYTDColon": {
-    "en": "Rlzd YTD:"
+    "en": "Rlzd YTD:",
+    "zh-Hant-TW": "已實現 YTD："
   },
   "portfolio_reverseOrder": {
     "en": "Reverse Order",
@@ -2714,11 +2723,13 @@
   },
   "settingsWidget_size": {
     "en": "Widget UI size",
-    "fr": "Taille de l\\'IHM du widget"
+    "fr": "Taille de l\\'IHM du widget",
+    "zh-Hant-TW": "小工具尺寸大小"
   },
   "settingsWidget_sizeHelp": {
     "en": "Adjust widget font and button size",
-    "fr": "Ajuster la taille des polices et boutons du widget"
+    "fr": "Ajuster la taille des polices et boutons du widget",
+    "zh-Hant-TW": "調整小工具字體大小與按鈕大小"
   },
   "settings_about": {
     "en": "About App (MSP - My Stocks Portfolio)",
@@ -2748,7 +2759,8 @@
     "zh-Hant-TW": "匯入 / 匯出"
   },
   "settings_csvExportPortfolios": {
-    "en": "Export Portfolios as CSV"
+    "en": "Export Portfolios as CSV",
+    "zh-Hant-TW": "將投資組合匯出成CSV"
   },
   "settings_csvExportPortfoliosHelp": {
     "en": "Export to Google Drive / SDCard / External Storage / Email / Clipboard",
