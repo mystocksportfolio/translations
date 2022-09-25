@@ -75,15 +75,15 @@
   },
   "accessibility_realizedCostBasis": {
     "en": "Realized Cost Basis",
-    "zh-Hant-TW": "投資成本"
+    "zh-Hant-TW": "已實現成本"
   },
   "accessibility_realizedValue": {
     "en": "Realized Value",
-    "zh-Hant-TW": "帳面收入"
+    "zh-Hant-TW": "已實現市值"
   },
   "accessibility_refreshNews": {
     "en": "Refresh News",
-    "zh-Hant-TW": "重新整理"
+    "zh-Hant-TW": "刷新市場新聞"
   },
   "accessibility_unrealized": {
     "en": "Unrealized",
@@ -91,27 +91,27 @@
   },
   "accessibility_unrealizedChange": {
     "en": "Unrealized Change",
-    "zh-Hant-TW": "預估損益"
+    "zh-Hant-TW": "漲跌"
   },
   "accessibility_unrealizedChangePercent": {
     "en": "Unrealized Change Percent",
-    "zh-Hant-TW": "預估獲利率"
+    "zh-Hant-TW": "漲跌百分比"
   },
   "accessibility_unrealizedCostBasis": {
     "en": "Unrealized Cost Basis",
-    "zh-Hant-TW": "持有成本"
+    "zh-Hant-TW": "成本"
   },
   "accessibility_unrealizedCostPerShare": {
     "en": "Unrealized Cost per Share",
-    "zh-Hant-TW": "成交價"
+    "zh-Hant-TW": "每股均價"
   },
   "accessibility_unrealizedDailyChange": {
     "en": "Unrealized Daily Change",
-    "zh-Hant-TW": "日漲跌"
+    "zh-Hant-TW": "每日漲跌"
   },
   "accessibility_unrealizedDailyChangePercent": {
     "en": "Unrealized Daily Change Percent",
-    "zh-Hant-TW": "日漲跌％"
+    "zh-Hant-TW": "每日漲跌百分比"
   },
   "accessibility_unrealizedShares": {
     "en": "Unrealized Shares",
@@ -119,39 +119,46 @@
   },
   "accessibility_unrealizedValue": {
     "en": "Unrealized Value",
-    "zh-Hant-TW": "參考市值"
+    "zh-Hant-TW": "市值"
   },
   "accounting_fifo": {
-    "en": "FIFO"
+    "en": "FIFO",
+    "zh-Hant-TW": "先買,先賣"
   },
   "accounting_fifoDescription": {
-    "en": "First In, First Out"
+    "en": "First In, First Out",
+    "zh-Hant-TW": "先買,先賣"
   },
   "accounting_lifo": {
-    "en": "LIFO"
+    "en": "LIFO",
+    "zh-Hant-TW": "後買,先賣"
   },
   "accounting_lifoDescription": {
-    "en": "Last In, First Out"
+    "en": "Last In, First Out",
+    "zh-Hant-TW": "後買,先賣"
   },
   "accounting_highCost": {
     "en": "High Cost",
     "zh-Hant-TW": "成本高"
   },
   "accounting_highCostDescription": {
-    "en": "Shares that were most expensive are sold first"
+    "en": "Shares that were most expensive are sold first",
+    "zh-Hant-TW": "成本最高,先賣"
   },
   "accounting_lowCost": {
     "en": "Low Cost",
     "zh-Hant-TW": "成本低"
   },
   "accounting_lowCostDescription": {
-    "en": "Shares that were the least expensive are sold first"
+    "en": "Shares that were the least expensive are sold first",
+    "zh-Hant-TW": "成本低,先賣"
   },
   "accounting_weightedAverage": {
     "en": "Weighted Average"
   },
   "accounting_weightedAverageDescription": {
-    "en": "The cost basis is calculated using the current unrealized cost per share"
+    "en": "The cost basis is calculated using the current unrealized cost per share",
+    "zh-Hant-TW": "成本計算使用現有庫存股每股均價計算"
   },
   "accounting_specificLots": {
     "en": "Specific Lots"
@@ -165,7 +172,8 @@
   },
   "adBanner_placeHolder": {
     "en": "Upgrade to Premium and enjoy an Ad-free experience",
-    "fr": "Mettre à jour vers Premium et profiter d\\'une expérience sans publicité"
+    "fr": "Mettre à jour vers Premium et profiter d\\'une expérience sans publicité",
+    "zh-Hant-TW": "升級成Premium帳戶,享受無廣告干擾體驗"
   },
   "addCustomPrices_help": {
     "en": "Add custom end of day prices for equity not listed on the market, to override prices, or to fill missing data. To delete a price data point, click on it in the list.",
@@ -348,17 +356,20 @@
   },
   "addQuoteTransaction_typeBuyToCover": {
     "en": "Buy to Cover",
-    "fr": "Acheter pour couvrir"
+    "fr": "Acheter pour couvrir",
+    "zh-Hant-TW": "空單補回 (Buy to Cover)"
   },
   "addQuoteTransaction_typeClosePositions": {
-    "en": "Close Positions"
+    "en": "Close Positions",
+    "zh-Hant-TW": "平倉"
   },
   "addQuoteTransaction_typeCloseShortPositions": {
     "en": "Close Short Positions"
   },
   "addQuoteTransaction_typeDRIP": {
     "en": "Dividends + Reinvestment (DRIP)",
-    "fr": "Dividendes + réinvestissement (RRD)"
+    "fr": "Dividendes + réinvestissement (RRD)",
+    "zh-Hant-TW": "股票股利/股息再投入"
   },
   "addQuoteTransaction_typeReverseSplit": {
     "en": "Reverse Split",
@@ -496,7 +507,7 @@
   "chart_enableVolumeColors": {
     "en": "Volume: Enable Colors",
     "fr": "Volume : Activer les couleurs",
-    "zh-Hant-TW": "無顏色"
+    "zh-Hant-TW": "量：顏色"
   },
   "chart_gridlines": {
     "en": "Gridlines",
@@ -734,7 +745,8 @@
     "en": "To export, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nYou can choose to export to SDCard or local storage (open the side menu in the file picker), or Google Drive. If you export to Google Drive, your file will be accessible from your computer at https://drive.google.com."
   },
   "csvExport_externalStorageUploaded": {
-    "en": "CSV saved to External Storage"
+    "en": "CSV saved to External Storage",
+    "zh-Hant-TW": "儲存CSV檔案至外部儲存裝置"
   },
   "csvExport_unableToUpload": {
     "en": "Unable to upload CSV file",
@@ -743,7 +755,8 @@
   },
   "csvImport_copyPasteHelp": {
     "en": "Copy and paste the text containing the CSV data into the text field below. Make sure to copy and paste the headers as well. Each line of the CSV should be on a separate line.",
-    "fr": "Copiez et collez le texte contenant les données CSV dans le champ de texte ci-dessous. Assurez-vous de copier et coller les en-têtes également. Chaque ligne du fichier CSV doit être sur une ligne distincte."
+    "fr": "Copiez et collez le texte contenant les données CSV dans le champ de texte ci-dessous. Assurez-vous de copier et coller les en-têtes également. Chaque ligne du fichier CSV doit être sur une ligne distincte.",
+    "zh-Hant-TW": "拷貝貼上CSV資料內容文字至文字輸入框內.請確認是否也有拷貝貼上標題.每一個CSV欄位應該要分開成不同的欄位"
   },
   "csvImport_couldNotFindData": {
     "en": "Could not find data to import",
@@ -790,10 +803,12 @@
     "zh-Hant-TW": "請拷貝並貼上CSV數據"
   },
   "csvImport_sizeRestriction": {
-    "en": "Use File option if you have a lot of data, since Android has a 1 MB size restriction for Clipboard/Email."
+    "en": "Use File option if you have a lot of data, since Android has a 1 MB size restriction for Clipboard/Email.",
+    "zh-Hant-TW": "如果你有很多的資料,請使用檔案選項.由於安卓系統只提供1 MB給備忘錄/Email"
   },
   "csvImport_recognizedHeadersHelp": {
-    "en": "Recognized CSV Headers:\\n\\nSymbol: Symbol name (i.e. BB)\\nPortfolio: Portfolio the quote belongs to\\nShares: Shares owned\\nType: Buy, Sell, Buy to Cover, Sell Short\\nPrice: Cost per share\\nCommission: Total commissions\\nDate: Date of transaction (YYYY-MM-DD GMT+HH:MM), i.e. 2017–05–25 GMT+01:00\\nNotes: Additional notes\\n\\nTo see a sample CSV, you can export a CSV from the app.\\n\\nThe Date format must be correct or the date will not be imported. If you are using Excel, you can customize the format of the generated dates. 2016–11–25 GMT-08:00 is a valid date, 11–25–2017 is not."
+    "en": "Recognized CSV Headers:\\n\\nSymbol: Symbol name (i.e. BB)\\nPortfolio: Portfolio the quote belongs to\\nShares: Shares owned\\nType: Buy, Sell, Buy to Cover, Sell Short\\nPrice: Cost per share\\nCommission: Total commissions\\nDate: Date of transaction (YYYY-MM-DD GMT+HH:MM), i.e. 2017–05–25 GMT+01:00\\nNotes: Additional notes\\n\\nTo see a sample CSV, you can export a CSV from the app.\\n\\nThe Date format must be correct or the date will not be imported. If you are using Excel, you can customize the format of the generated dates. 2016–11–25 GMT-08:00 is a valid date, 11–25–2017 is not.",
+    "zh-Hant-TW": "確認 CSV 標題:\\n\\n代碼: 代碼名稱 (例. BB)\\n組合: 股票屬於組合\\n股數: 擁有股數\\n類別: 買, 賣, 空單補回, 賣空\\n價格: 每股均價\\n手續費: 總手續費\\n日期: 成交日期 (YYYY-MM-DD GMT+HH:MM), 例. 2017–05–25 GMT+01:00\\n備註: 附註\\n\\n不知道CSV格式的話,你可以從app匯出CSV.\\n\\n日期格式一定要正確,否則該日期將不會被匯入.如果是使用Excel的話,可以客製化日期格式 2016–11–25 GMT-08:00 這個日期格式是可以的, 11–25–2017 則不行."
   },
   "csvImport_unableToDownload": {
     "en": "Unable to download CSV file",
@@ -815,7 +830,8 @@
     "zh-Hant-TW": "有免費試用嗎?"
   },
   "faq_canIHaveTrialAnswer": {
-    "en": "First time subscribers have 1 week free trial. You can cancel anytime by clicking manage subscriptions. On the purchase confirmation dialog, Google Play will confirm the trial time if you are eligible for a trial."
+    "en": "First time subscribers have 1 week free trial. You can cancel anytime by clicking manage subscriptions. On the purchase confirmation dialog, Google Play will confirm the trial time if you are eligible for a trial.",
+    "zh-Hant-TW": "第一次訂閱享有1週免費體驗.點選管理訂閱,你隨時可以取消訂閱."
   },
   "faq_paidAlready": {
     "en": "I paid for the app already, but the app does not remember or recognize my purchase",
@@ -829,10 +845,12 @@
     "zh-Hant-TW": "為什麼需要訂閱費用?"
   },
   "faq_whySubscriptionFeeP1": {
-    "en": "We are an online service and must pay for our servers, data feeds, news sources, respond to customer support, maintain our servers and regularly ship new features. These are expensive and ongoing monthly costs, unlike offline software."
+    "en": "We are an online service and must pay for our servers, data feeds, news sources, respond to customer support, maintain our servers and regularly ship new features. These are expensive and ongoing monthly costs, unlike offline software.",
+    "zh-Hant-TW": "MSP為線上軟體服務,須支付伺服器、數據、新聞、人事成本等開支,以維持產品的穩定與提供更多元的產品服務."
   },
   "faq_whySubscriptionFeeP2": {
-    "en": "Advertising help pay some of our costs. Customers who want a premium ad-free experience and want to support the development of the app can subscribe to the premium plan. Thank you for your support!"
+    "en": "Advertising help pay some of our costs. Customers who want a premium ad-free experience and want to support the development of the app can subscribe to the premium plan. Thank you for your support!",
+    "zh-Hant-TW": "MSP盡可能提供使用者優良的使用體驗,將廣告干擾降至最低.有限的廣告收入並無法足夠負擔維護與提供更加體驗.如果喜歡我們的產品,並且享受無廣告干擾的Premium體驗,並且支持我們提供更優良的服務與體驗,請訂閱MSP Premium.MSP開發團隊感謝您的支持與愛戴!"
   },
   "generic_accountX": {
     "_formatted": false,
@@ -842,7 +860,7 @@
   },
   "generic_active": {
     "en": "Active",
-    "zh-Hant-TW": "激活"
+    "zh-Hant-TW": "啟用"
   },
   "generic_ad": {
     "en": "Ad",
@@ -860,7 +878,8 @@
     "zh-Hant-TW": "到價通知"
   },
   "generic_additionalOptions": {
-    "en": "Additional Options"
+    "en": "Additional Options",
+    "zh-Hant-TW": "額外的選項"
   },
   "generic_agreePrivacyPolicyAndTermsOfUse": {
     "en": "By continuing, you agree to the\\nPrivacy Policy and Terms of Use",
@@ -1824,12 +1843,12 @@
   "portfolio_dividends": {
     "en": "Dividends",
     "fr": "Dividendes",
-    "zh-Hant-TW": "股息"
+    "zh-Hant-TW": "現金股利"
   },
   "portfolio_dividendsColon": {
     "en": "Dividends:",
-    "fr": "Dividendes :",
-    "zh-Hant-TW": "股息："
+    "fr": "Dividendes:",
+    "zh-Hant-TW": "現金股利："
   },
   "portfolio_dividendsInTotals": {
     "en": "Dividends reflected in totals",
@@ -2464,7 +2483,7 @@
   },
   "settingsCalculations_extendedHoursIfAvailable": {
     "en": "Extended Hours, if available",
-    "zh-Hant-TW": "盤後,如果有得話"
+    "zh-Hant-TW": "盤後,如果有的話"
   },
   "settingsCalculations_holdingDailyChangeUses": {
     "en": "Holdings daily change uses…",
