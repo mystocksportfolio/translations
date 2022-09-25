@@ -16,7 +16,7 @@
   },
   "accessibility_allTimeChangePercent": {
     "en": "All-Time Change Percent",
-    "zh-Hant-TW": "總損益％"    
+    "zh-Hant-TW": "總損益％"
   },
   "accessibility_allTimeCommissions": {
     "en": "All-Time Commissions",
@@ -29,7 +29,6 @@
   "accessibility_allTimeDividends": {
     "en": "All-Time Dividends",
     "zh-Hant-TW": "總股息"
-    
   },
   "accessibility_allTimeValue": {
     "en": "All-Time Value",
@@ -1951,7 +1950,6 @@
   },
   "portfolio_noPortfoliosHelp": {
     "en": "Add a new portfolio or watchlist by tapping the Add button in the menu or by tapping here."
-    
   },
   "portfolio_noQuotesHelp": {
     "en": "Add a new quote by tapping the Add button in the menu or by tapping here."
@@ -2346,7 +2344,6 @@
     "en": "✓ No advertisements",
     "fr": "✓ Sans publicité",
     "zh-Hant-TW": "✓ 沒有廣告干擾"
-    
   },
   "purchases_promoFullScreenHistoricals": {
     "en": "✓ Fullscreen portfolio historical performance",
