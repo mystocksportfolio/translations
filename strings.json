@@ -1811,7 +1811,8 @@
     "zh-Hant-TW": "確定要刪除這些報價與裡面所有的交易嗎?"
   },
   "portfolio_deleteSelectedQuoteTransactionsWarning": {
-    "en": "Are you sure you want to delete these Holdings and all Transactions in them?"
+    "en": "Are you sure you want to delete these Holdings and all Transactions in them?",
+    "zh-Hant-TW": "確定要刪除這些持股與所有的交易明細嗎?"
   },
   "portfolio_details": {
     "en": "Details",
@@ -1949,13 +1950,16 @@
     "zh-Hant-TW": "名稱"
   },
   "portfolio_noPortfoliosHelp": {
-    "en": "Add a new portfolio or watchlist by tapping the Add button in the menu or by tapping here."
+    "en": "Add a new portfolio or watchlist by tapping the Add button in the menu or by tapping here.",
+    "zh-Hant-TW": "點擊選單中新增按鈕，新增投資組合或觀察清單"
   },
   "portfolio_noQuotesHelp": {
-    "en": "Add a new quote by tapping the Add button in the menu or by tapping here."
+    "en": "Add a new quote by tapping the Add button in the menu or by tapping here.",
+    "zh-Hant-TW": "點擊選單中新增按鈕，新增報價"
   },
   "portfolio_noTransactionsHelp": {
-    "en": "Track a new transaction by tapping the Add button in the menu or by tapping here."
+    "en": "Track a new transaction by tapping the Add button in the menu or by tapping here.",
+    "zh-Hant-TW": "點擊選單中新增按鈕，追蹤新交易"
   },
   "portfolio_openUnsoldPositions": {
     "en": "Open / Unsold Positions",
@@ -2363,7 +2367,8 @@
   },
   "purchases_restoringPurchases": {
     "en": "Restoring Purchases…",
-    "fr": "Restoration des achats…"
+    "fr": "Restoration des achats…",
+    "zh-Hant-TW": "重新安裝中…"
   },
   "purchases_restorePurchasesHelp": {
     "en": "Restores previous purchases made using your currently signed in Google account",
@@ -2571,11 +2576,13 @@
   },
   "settingsDisplay_invertFontColor": {
     "en": "Invert font color",
-    "fr": "Inverser la couleur de la police"
+    "fr": "Inverser la couleur de la police",
+    "zh-Hant-TW": "對調字體顏色"
   },
   "settingsDisplay_invertFontColorHelp": {
     "en": "Invert fall/rise colors. This will make a decrease in price appear in green and a rise in price appear in red.",
-    "fr": "Inverser les couleurs des baisses/hausses. Cela fera apparaître les baisses de prix en vert et les hausses en rouge."
+    "fr": "Inverser les couleurs des baisses/hausses. Cela fera apparaître les baisses de prix en vert et les hausses en rouge.",
+    "zh-Hant-TW": "對調下降/上升顏色。漲會顯示紅色，跌會顯示綠色"
   },
   "settingsDisplay_lastTradedPrice": {
     "en": "Last Open Market Price"
@@ -2769,7 +2776,8 @@
   },
   "settings_calculations": {
     "en": "Calculations",
-    "fr": "Calculs"
+    "fr": "Calculs",
+    "zh-Hant-TW": "金額統計"
   },
   "settings_couldNotStartEmailApp": {
     "en": "Could not start email app. Have you set up email on your device?",
