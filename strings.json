@@ -2807,7 +2807,7 @@
   },
   "settings_csvExportPortfolios": {
     "en": "Export Portfolios as CSV",
-    "zh-Hant-TW": "將投資組合匯出成CSV檔"
+    "zh-Hant-TW": "將投資組合匯出成CSV"
   },
   "settings_csvExportPortfoliosHelp": {
     "en": "Export to Google Drive / SDCard / External Storage / Email / Clipboard",
