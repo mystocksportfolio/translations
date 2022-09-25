@@ -404,8 +404,7 @@
   },
   "addQuoteTransaction_withdrawCashFromPortfolioToPurchase": {
     "en": "Withdraw cash from portfolio to purchase",
-    "fr": "Retirer de l\\'argent du portefeuille à l\\'achat",
-    "zh-Hant-TW": "hj/6"
+    "fr": "Retirer de l\\'argent du portefeuille à l\\'achat"
   },
   "addQuote_addUnlistedSymbolHelp": {
     "en": "Unlisted symbols can be used for equity such as shares that do not trade on the open market. To add price data, go to the quote details page after adding the symbol, open the menu, and click \\'Add Custom Prices\\'.",
@@ -720,7 +719,7 @@
   "chart_typeOHLC": {
     "en": "OHLC",
     "fr": "OHLC",
-    "zh-Hant-TW": "美國線"\
+    "zh-Hant-TW": "美國線"
   },
   "chart_volume": {
     "en": "Volume",
