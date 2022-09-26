@@ -9,7 +9,6 @@
     "zh": "例子",
     "zh-Hant-TW": "例子"
   },
-
   "accessibility_allTimeChange": {
     "en": "All-Time Change",
     "zh-Hant-TW": "總損益"
@@ -1675,6 +1674,11 @@
   "portfolio_allocation_categoryTagPopupHelp": {
     "en": "To assign tags, click the pie chart and then on the labels button"
   },
+  "portfolio_allocation": {
+    "en": "Allocation",
+    "fr": "Allocation",
+     "zh-Hant-TW": "分佈"
+  },
   "portfolio_allocations": {
     "en": "Allocations",
     "fr": "Allocations",
@@ -1688,6 +1692,10 @@
   "portfolio_allTime": {
     "en": "All-Time",
     "fr": "Toujours"
+  },
+  "portfolio_allTimeChange": {
+    "en": "All-Time Change",
+    "zh-Hant-TW": "總損益"
   },
   "portfolio_allTimeColon": {
     "en": "All-Time:"
@@ -1964,6 +1972,13 @@
   "portfolio_openUnsoldPositions": {
     "en": "Open / Unsold Positions",
     "fr": "Ouvert / Positions non vendues"
+  },
+  "portfolio_overview": {
+    "en": "Overview",
+    "zh-Hant-TW": "總覽"
+  },
+  "portfolio_performanceReport": {
+    "en": "Performance Report"
   },
   "portfolio_portfolioCurrency": {
     "en": "Portfolio Currency",
@@ -3030,10 +3045,6 @@
   "tab_portfolio": {
     "en": "Portfolio",
     "zh-Hant-TW": "組合"
-  },
-  "tab_overview": {
-    "en": "Overview",
-    "zh-Hant-TW": "總覽"
   },
   "viewQuoteStats_52WeekHigh": {
     "en": "52wk High",
