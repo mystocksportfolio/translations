@@ -253,11 +253,6 @@
     "fr": "Commission",
     "zh-Hant-TW": "手續費"
   },
-  "addQuoteTransaction_commissions": {
-    "en": "Commissions",
-    "fr": "Commissions",
-    "zh-Hant-TW": "手續費"
-  },
   "addQuoteTransaction_couldNotDetectCurrency": {
     "en": "Could not detect currency for this quote, so cannot use cash conversion method. Please uncheck the cash conversion checkbox.",
     "fr": "Impossible de détecter la devise pour ce cours, impossible de convertir en espèces. Veuillez décocher la case de conversion en espèces."
@@ -581,12 +576,6 @@
     "fr": "5 années",
     "zh-Hant-TW": "五年"
   },
-  "chart_rangeFiveYearsCompact": {
-    "en": "5Y",
-    "de": "5J",
-    "fr": "5a",
-    "zh-Hant-TW": "五年"
-  },
   "chart_rangeMax": {
     "en": "Max",
     "fr": "Max",
@@ -668,12 +657,6 @@
     "en": "2 Years",
     "de": "2 Jahre",
     "fr": "2 années",
-    "zh-Hant-TW": "二年"
-  },
-  "chart_rangeTwoYearsCompact": {
-    "en": "2Y",
-    "de": "2J",
-    "fr": "2a",
     "zh-Hant-TW": "二年"
   },
   "chart_rangeYearToDateCompact": {
@@ -1236,6 +1219,24 @@
     "fr": "Voir FAQ",
     "zh-Hant-TW": "查看常見問題"
   },
+  "generic_rangeTwoYearsCompact": {
+    "en": "2Y",
+    "de": "2J",
+    "fr": "2a",
+    "zh-Hant-TW": "二年"
+  },
+  "generic_rangeFiveYearsCompact": {
+    "en": "5Y",
+    "de": "5J",
+    "fr": "5a",
+    "zh-Hant-TW": "五年"
+  },
+  "generic_rangeTenYearsCompact": {
+    "en": "10Y",
+    "de": "10J",
+    "fr": "10a",
+    "zh-Hant-TW": "十年"
+  },
   "generic_reactivate": {
     "en": "Re-activate"
   },
@@ -1643,6 +1644,11 @@
     "fr": "Portefeuille :",
     "zh-Hant-TW": "組合："
   },
+  "portfolio_commissions": {
+    "en": "Commissions",
+    "fr": "Commissions",
+    "zh-Hant-TW": "手續費"
+  },
   "portfolioAllocations_groupInOthers": {
     "en": "Group holding in \\'Others\\' when less than % of total",
     "fr": "Grouper les position sous \\'Autres\\' quand ils représentent moins que % du total"
@@ -1699,6 +1705,10 @@
   },
   "portfolio_allTimeColon": {
     "en": "All-Time:"
+  },
+  "portfolio_allValuesInPlaceholder": {
+    "_formatted": false,
+    "en": "All values in %s"
   },
   "portfolio_annualized": {
     "en": "Annualized:",
@@ -1969,6 +1979,12 @@
     "en": "Track a new transaction by tapping the Add button in the menu or by tapping here.",
     "zh-Hant-TW": "點擊選單中新增按鈕，追蹤新交易"
   },
+  "portfolio_openAndClosedPositions": {
+    "en": "Open & Closed Positions"
+  },
+  "portfolio_openPositions": {
+    "en": "Open Positions"
+  },
   "portfolio_openUnsoldPositions": {
     "en": "Open / Unsold Positions",
     "fr": "Ouvert / Positions non vendues"
@@ -2004,6 +2020,9 @@
     "fr": "Synthèse des portefeuilles",
     "zh-Hant-TW": "投資組合總覽"
   },
+  "portfolio_portfolioValue": {
+    "en": "Portfolio Value"
+  },
   "portfolio_quotes": {
     "en": "Quotes",
     "fr": "Cours",
@@ -2017,6 +2036,9 @@
   "portfolio_realizedColon": {
     "en": "Realized:",
     "fr": "Réalisé :"
+  },
+  "portfolio_realizedYTD": {
+    "en": "Realized YTD"
   },
   "portfolio_realizedYTDColon": {
     "en": "Rlzd YTD:",
@@ -2270,8 +2292,9 @@
     "_formatted": false,
     "en": "Proceeds: %s"
   },
-  "portfolio_unannualized": {
-    "en": "Unannualized XIRR"
+  "portfolio_unannualizedPlaceholder": {
+    "_formatted": false,
+    "en": "Unannualized %s"
   },
   "portfolio_unrealized": {
     "en": "Unrealized",
@@ -2300,6 +2323,9 @@
   "portfolio_watchlist": {
     "en": "Watchlist",
     "zh-Hant-TW": "觀察清單"
+  },
+  "portfolio_xirr": {
+    "en": "XIRR"
   },
   "portfolioHistorical_clearLocalCache": {
     "en": "Clear historical storage",
