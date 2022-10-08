@@ -2393,24 +2393,27 @@
     "zh-Hant-TW": "祝你有個美好的無廣告premium體驗"
   },
   "purchases_promoServerAutoSync": {
-    "en": "✓ Auto sync data across devices",
+    "en": "✓ Auto Sync Data Across Devices",
     "zh-Hant-TW": "✓ 跨裝置資料自動備份"
   },
   "purchases_promoExportData": {
-    "en": "✓ More exported data (i.e. quote prices)",
+    "en": "✓ More Exported Data (i.e. Quote Prices)",
     "zh-Hant-TW": "✓ 匯出更多數據（例如：報價）"
   },
+  "purchases_promoExportPortfolioReportAsPDF": {
+    "en": "✓ Export Portfolio Report as PDF"
+  },
   "purchases_promoNoAdvertisements": {
-    "en": "✓ No advertisements",
+    "en": "✓ No Advertisements",
     "fr": "✓ Sans publicité",
     "zh-Hant-TW": "✓ 沒有廣告干擾"
   },
   "purchases_promoFullScreenHistoricals": {
-    "en": "✓ Fullscreen portfolio historical performance",
+    "en": "✓ Fullscreen Portfolio Historical Performance",
     "zh-Hant-TW": "✓ 全螢幕歷年投資組合表現"
   },
   "purchases_promoUnlimitedAlerts": {
-    "en": "✓ Unlimited server push alerts",
+    "en": "✓ Unlimited Price Push Alerts",
     "zh-Hant-TW": "✓ 無限制推播通知"
   },
   "purchases_restoreFailedPleaseCheckConnection": {
