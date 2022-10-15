@@ -9,117 +9,6 @@
     "zh": "例子",
     "zh-Hant-TW": "例子"
   },
-  "accessibility_allTimeChange": {
-    "en": "All-Time Change",
-    "zh-Hant-TW": "總損益"
-  },
-  "accessibility_allTimeChangePercent": {
-    "en": "All-Time Change Percent",
-    "zh-Hant-TW": "總損益比"
-  },
-  "accessibility_allTimeCommissions": {
-    "en": "All-Time Commissions",
-    "zh-Hant-TW": "總手續費"
-  },
-  "accessibility_allTimeCostBasis": {
-    "en": "All-Time Cost Basis",
-    "zh-Hant-TW": "總成本"
-  },
-  "accessibility_allTimeDividends": {
-    "en": "All-Time Dividends",
-    "zh-Hant-TW": "總股息"
-  },
-  "accessibility_allTimeValue": {
-    "en": "All-Time Value",
-    "zh-Hant-TW": "總市值"
-  },
-  "accessibility_currency": {
-    "en": "Currency",
-    "zh-Hant-TW": "幣別"
-  },
-  "accessibility_dividendsInTotals": {
-    "en": "Dividends included in Totals",
-    "zh-Hant-TW": "總額含股利"
-  },
-  "accessibility_editNotes": {
-    "en": "Edit Notes",
-    "zh-Hant-TW": "編輯備註"
-  },
-  "accessibility_filterNews": {
-    "en": "Filter News",
-    "zh-Hant-TW": "篩選新聞"
-  },
-  "accessibility_omitCashFromTotals": {
-    "en": "Omit Cash from Totals",
-    "zh-Hant-TW": "總額不含現金"
-  },
-  "accessibility_omitCashFromPercentages": {
-    "en": "Omit Cash from Percentage Returns"
-  },
-  "accessibility_realizedChange": {
-    "en": "Realized Change",
-    "zh-Hant-TW": "已實現損益"
-  },
-  "accessibility_realizedChangePercent": {
-    "en": "Realized Change Percent",
-    "zh-Hant-TW": "已實現損益比"
-  },
-  "accessibility_realizedYTDChange": {
-    "en": "Realized YTD Change",
-    "zh-Hant-TW": "已實現YTD損益"
-  },
-  "accessibility_realizedYTDChangePercent": {
-    "en": "Realized YTD Change Percent",
-    "zh-Hant-TW": "已實現YTD損益比"
-  },
-  "accessibility_realizedCostBasis": {
-    "en": "Realized Cost Basis",
-    "zh-Hant-TW": "已實現成本"
-  },
-  "accessibility_realizedValue": {
-    "en": "Realized Value",
-    "zh-Hant-TW": "已實現市值"
-  },
-  "accessibility_refreshNews": {
-    "en": "Refresh News",
-    "zh-Hant-TW": "刷新市場新聞"
-  },
-  "accessibility_unrealized": {
-    "en": "Unrealized",
-    "zh-Hant-TW": "未實現"
-  },
-  "accessibility_unrealizedChange": {
-    "en": "Unrealized Change",
-    "zh-Hant-TW": "未實現損益"
-  },
-  "accessibility_unrealizedChangePercent": {
-    "en": "Unrealized Change Percent",
-    "zh-Hant-TW": "未實現損益比"
-  },
-  "accessibility_unrealizedCostBasis": {
-    "en": "Unrealized Cost Basis",
-    "zh-Hant-TW": "未實現成本"
-  },
-  "accessibility_unrealizedCostPerShare": {
-    "en": "Unrealized Cost per Share",
-    "zh-Hant-TW": "未實現每股均價"
-  },
-  "accessibility_unrealizedDailyChange": {
-    "en": "Unrealized Daily Change",
-    "zh-Hant-TW": "未實現每日損益"
-  },
-  "accessibility_unrealizedDailyChangePercent": {
-    "en": "Unrealized Daily Change Percent",
-    "zh-Hant-TW": "未實現每日損益比"
-  },
-  "accessibility_unrealizedShares": {
-    "en": "Unrealized Shares",
-    "zh-Hant-TW": "未實現股數"
-  },
-  "accessibility_unrealizedValue": {
-    "en": "Unrealized Value",
-    "zh-Hant-TW": "未實現市值"
-  },
   "accounting_fifo": {
     "en": "FIFO",
     "zh-Hant-TW": "先買先賣"
@@ -922,7 +811,7 @@
     "en": "Check out My Stocks Portfolio, an app for monitoring your stocks and portfolios!"
   },
   "generic_clientOutOfDate": {
-    "en": "It looks like your app version is out of date, so this type is unrecognized. Please udpate to the latest version of the app."
+    "en": "It looks like your app version is out of date, so this type is unrecognized. Please update to the latest version of the app."
   },
   "generic_closeDrawerAccessibility": {
     "en": "Close navigation drawer",
@@ -943,6 +832,12 @@
     "en": "Continue",
     "fr": "Continuer",
     "zh-Hant-TW": "繼續"
+  },
+  "generic_copiedToClipboard": {
+    "en": "Copied to Clipboard"
+  },
+  "generic_copyToClipboard": {
+    "en": "Copy to Clipboard"
   },
   "generic_date": {
     "en": "Date",
@@ -1023,6 +918,12 @@
   "generic_export": {
     "en": "Export…",
     "zh-Hant-TW": "匯出中…"
+  },
+  "generic_exportToEmail": {
+    "en": "Export to Email"
+  },
+  "generic_exportToFile": {
+    "en": "Export to File"
   },
   "generic_faq": {
     "en": "Frequently Asked Questions",
@@ -1212,6 +1113,9 @@
   "generic_perYearShort": {
     "en": "/year",
     "zh-Hant-TW": "/年"
+  },
+  "generic_pickAFile": {
+    "en": "Pick a File"
   },
   "generic_pleaseAgreeToPrivacyPolicyAndTerms": {
     "en": "Please agree to the Privacy Policy and Terms of Use before continuing",
@@ -1728,9 +1632,29 @@
     "en": "All-Time Change",
     "zh-Hant-TW": "總損益"
   },
+  "portfolio_allTimeChangePercent": {
+    "en": "All-Time Change Percent",
+    "zh-Hant-TW": "總損益比"
+  },
   "portfolio_allTimeColon": {
     "en": "All-Time:",
     "zh-Hant-TW": "所有時間:"
+  },
+  "portfolio_allTimeCommissions": {
+    "en": "All-Time Commissions",
+    "zh-Hant-TW": "總手續費"
+  },
+  "portfolio_allTimeCostBasis": {
+    "en": "All-Time Cost Basis",
+    "zh-Hant-TW": "總成本"
+  },
+  "portfolio_allTimeDividends": {
+    "en": "All-Time Dividends",
+    "zh-Hant-TW": "總股息"
+  },
+  "portfolio_allTimeValue": {
+    "en": "All-Time Value",
+    "zh-Hant-TW": "總市值"
   },
   "portfolio_allValuesInPlaceholder": {
     "_formatted": false,
@@ -1864,6 +1788,9 @@
     "fr": "Détails",
     "zh-Hant-TW": "細節"
   },
+  "portfolio_details_viewActivity": {
+    "en": "View Activity"
+  },
   "portfolio_displayLocalCurrency": {
     "en": "Display local currency instead of home currency for:",
     "fr": "Afficher la devise du titre au lieu de la devise préférée pour :"
@@ -1888,7 +1815,8 @@
   },
   "portfolio_dividendsInTotals": {
     "en": "Dividends reflected in totals",
-    "fr": "Dividendes reflétés dans les totaux"
+    "fr": "Dividendes reflétés dans les totaux",
+    "zh-Hant-TW": "總額含股利"
   },
   "portfolio_dividendsInTotalsHelp": {
     "en": "If OFF, dividends not reinvested will be omitted from your total calculations. Dividends reinvested will be reflected with a cost basis as if you purchased again with cash. This is the accounting method used at most exchanges. If ON, dividends in both cases are added to your total calculations at no cost basis.",
@@ -1915,6 +1843,10 @@
     "fr": "Modifier / Supprimer le portefeuille",
     "zh-Hant-TW": "編輯/刪除組合"
   },
+  "portfolio_editNotes": {
+    "en": "Edit Notes",
+    "zh-Hant-TW": "編輯備註"
+  },
   "portfolio_editPortfolio": {
     "en": "Edit Portfolio",
     "fr": "Modifier le portefeuille",
@@ -1925,6 +1857,10 @@
   },
   "portfolio_excludedFromTotals": {
     "en": "Excluded from totals"
+  },
+  "portfolio_filterNews": {
+    "en": "Filter News",
+    "zh-Hant-TW": "篩選新聞"
   },
   "portfolio_fullTimeEmployees": {
     "en": "Full-Time Employees",
@@ -2048,6 +1984,9 @@
     "en": "Track a new transaction by tapping the Add button in the menu or by tapping here.",
     "zh-Hant-TW": "點擊選單中新增按鈕，追蹤新交易"
   },
+  "portfolio_omitCashFromPercentages": {
+    "en": "Omit Cash from Percentage Returns"
+  },
   "portfolio_openAndClosedPositions": {
     "en": "Open & Closed Positions"
   },
@@ -2061,6 +2000,9 @@
   "portfolio_overview": {
     "en": "Overview",
     "zh-Hant-TW": "總覽"
+  },
+  "portfolio_outOfBounds": {
+    "en": "Out of bounds"
   },
   "portfolio_performanceReport": {
     "en": "Performance Report"
@@ -2102,18 +2044,46 @@
     "fr": "Réalisé",
     "zh-Hant-TW": "已實現"
   },
+  "portfolio_realizedChange": {
+    "en": "Realized Change",
+    "zh-Hant-TW": "已實現損益"
+  },
+  "portfolio_realizedChangePercent": {
+    "en": "Realized Change Percent",
+    "zh-Hant-TW": "已實現損益比"
+  },
   "portfolio_realizedColon": {
     "en": "Realized:",
     "fr": "Réalisé :",
     "zh-Hant-TW": "已實現："
   },
+  "portfolio_realizedCostBasis": {
+    "en": "Realized Cost Basis",
+    "zh-Hant-TW": "已實現成本"
+  },
+  "portfolio_realizedValue": {
+    "en": "Realized Value",
+    "zh-Hant-TW": "已實現市值"
+  },
   "portfolio_realizedYTD": {
     "en": "Realized YTD",
     "zh-Hant-TW": "已實現 YTD"
   },
+  "portfolio_realizedYTDChange": {
+    "en": "Realized YTD Change",
+    "zh-Hant-TW": "已實現YTD損益"
+  },
+  "portfolio_realizedYTDChangePercent": {
+    "en": "Realized YTD Change Percent",
+    "zh-Hant-TW": "已實現YTD損益比"
+  },
   "portfolio_realizedYTDColon": {
     "en": "Rlzd YTD:",
     "zh-Hant-TW": "已實現 YTD："
+  },
+  "portfolio_refreshNews": {
+    "en": "Refresh News",
+    "zh-Hant-TW": "刷新市場新聞"
   },
   "portfolio_reverseOrder": {
     "en": "Reverse Order",
@@ -2142,6 +2112,9 @@
   },
   "portfolio_splitsHelp": {
     "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4."
+  },
+  "portfolio_previewCSV_colon": {
+    "en": "Preview CSV:"
   },
   "portfolio_price": {
     "en": "Price",
@@ -2340,7 +2313,7 @@
     "fr": "Symbole",
     "zh-Hant-TW": "代碼"
   },
-  "portfolio_top_daily_movers": {
+  "portfolio_top_daily_movers_us": {
     "en": "Top Daily Movers (US)",
     "zh-Hant-TW": "漲跌榜（美國）"
   },
@@ -2370,7 +2343,39 @@
   "portfolio_unrealized": {
     "en": "Unrealized",
     "fr": "Non réalisé",
-    "zh-Hant-TW": "庫存"
+    "zh-Hant-TW": "未實現"
+  },
+  "portfolio_unrealizedChange": {
+    "en": "Unrealized Change",
+    "zh-Hant-TW": "未實現損益"
+  },
+  "portfolio_unrealizedChangePercent": {
+    "en": "Unrealized Change Percent",
+    "zh-Hant-TW": "未實現損益比"
+  },
+  "portfolio_unrealizedCostBasis": {
+    "en": "Unrealized Cost Basis",
+    "zh-Hant-TW": "未實現成本"
+  },
+  "portfolio_unrealizedCostPerShare": {
+    "en": "Unrealized Cost per Share",
+    "zh-Hant-TW": "未實現每股均價"
+  },
+  "portfolio_unrealizedDailyChange": {
+    "en": "Unrealized Daily Change",
+    "zh-Hant-TW": "未實現每日損益"
+  },
+  "portfolio_unrealizedDailyChangePercent": {
+    "en": "Unrealized Daily Change Percent",
+    "zh-Hant-TW": "未實現每日損益比"
+  },
+  "portfolio_unrealizedShares": {
+    "en": "Unrealized Shares",
+    "zh-Hant-TW": "未實現股數"
+  },
+  "portfolio_unrealizedValue": {
+    "en": "Unrealized Value",
+    "zh-Hant-TW": "未實現市值"
   },
   "portfolio_useTodayChange": {
     "en": "Today\\'s Change (New day time configurable in Settings, Calculations)",
@@ -2606,7 +2611,8 @@
   },
   "settingsCalculations_omitCashFromTotals": {
     "en": "Omit cash from totals",
-    "fr": "Omettre les liquidités des totaux"
+    "fr": "Omettre les liquidités des totaux",
+    "zh-Hant-TW": "總額不含現金"
   },
   "settingsCalculations_omitCashFromTotalsHelp": {
     "en": "Your cash will not be reflected in your total portfolio value",
@@ -2905,6 +2911,10 @@
     "en": "CSV",
     "fr": "CSV",
     "zh-Hant-TW": "CSV"
+  },
+  "settings_import": {
+    "en": "Import",
+    "zh-Hant-TW": "匯入"
   },
   "settings_importExport": {
     "en": "Import / Export",
@@ -3461,6 +3471,9 @@
   "viewQuote_price": {
     "en": "Price",
     "fr": "Prix"
+  },
+  "viewQuote_basedOnPortfolioTab": {
+    "en": "Based on portfolio tab"
   },
   "viewQuote_profile": {
     "en": "Profile",
