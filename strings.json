@@ -15,7 +15,7 @@
   },
   "accessibility_allTimeChangePercent": {
     "en": "All-Time Change Percent",
-    "zh-Hant-TW": "總損益％"
+    "zh-Hant-TW": "總損益比"
   },
   "accessibility_allTimeCommissions": {
     "en": "All-Time Commissions",
@@ -47,10 +47,11 @@
   },
   "accessibility_filterNews": {
     "en": "Filter News",
-    "zh-Hant-TW": "篩選"
+    "zh-Hant-TW": "篩選新聞"
   },
   "accessibility_omitCashFromTotals": {
-    "en": "Omit Cash from Totals"
+    "en": "Omit Cash from Totals",
+    "zh-Hant-TW": "總額不含現金"
   },
   "accessibility_omitCashFromPercentages": {
     "en": "Omit Cash from Percentage Returns"
@@ -61,15 +62,15 @@
   },
   "accessibility_realizedChangePercent": {
     "en": "Realized Change Percent",
-    "zh-Hant-TW": "已實現獲利率"
+    "zh-Hant-TW": "已實現損益比"
   },
   "accessibility_realizedYTDChange": {
     "en": "Realized YTD Change",
-    "zh-Hant-TW": "已實YTD損益"
+    "zh-Hant-TW": "已實現YTD損益"
   },
   "accessibility_realizedYTDChangePercent": {
     "en": "Realized YTD Change Percent",
-    "zh-Hant-TW": "已實現YTD獲利率"
+    "zh-Hant-TW": "已實現YTD損益比"
   },
   "accessibility_realizedCostBasis": {
     "en": "Realized Cost Basis",
@@ -85,55 +86,55 @@
   },
   "accessibility_unrealized": {
     "en": "Unrealized",
-    "zh-Hant-TW": "庫存"
+    "zh-Hant-TW": "未實現"
   },
   "accessibility_unrealizedChange": {
     "en": "Unrealized Change",
-    "zh-Hant-TW": "漲跌"
+    "zh-Hant-TW": "未實現損益"
   },
   "accessibility_unrealizedChangePercent": {
     "en": "Unrealized Change Percent",
-    "zh-Hant-TW": "漲跌百分比"
+    "zh-Hant-TW": "未實現損益比"
   },
   "accessibility_unrealizedCostBasis": {
     "en": "Unrealized Cost Basis",
-    "zh-Hant-TW": "成本"
+    "zh-Hant-TW": "未實現成本"
   },
   "accessibility_unrealizedCostPerShare": {
     "en": "Unrealized Cost per Share",
-    "zh-Hant-TW": "每股均價"
+    "zh-Hant-TW": "未實現每股均價"
   },
   "accessibility_unrealizedDailyChange": {
     "en": "Unrealized Daily Change",
-    "zh-Hant-TW": "每日漲跌"
+    "zh-Hant-TW": "未實現每日損益"
   },
   "accessibility_unrealizedDailyChangePercent": {
     "en": "Unrealized Daily Change Percent",
-    "zh-Hant-TW": "每日漲跌百分比"
+    "zh-Hant-TW": "未實現每日損益比"
   },
   "accessibility_unrealizedShares": {
     "en": "Unrealized Shares",
-    "zh-Hant-TW": "剩餘股數"
+    "zh-Hant-TW": "未實現股數"
   },
   "accessibility_unrealizedValue": {
     "en": "Unrealized Value",
-    "zh-Hant-TW": "市值"
+    "zh-Hant-TW": "未實現市值"
   },
   "accounting_fifo": {
     "en": "FIFO",
-    "zh-Hant-TW": "先買,先賣"
+    "zh-Hant-TW": "先買先賣"
   },
   "accounting_fifoDescription": {
     "en": "First In, First Out",
-    "zh-Hant-TW": "先買,先賣"
+    "zh-Hant-TW": "先買先賣"
   },
   "accounting_lifo": {
     "en": "LIFO",
-    "zh-Hant-TW": "後買,先賣"
+    "zh-Hant-TW": "後買先賣"
   },
   "accounting_lifoDescription": {
     "en": "Last In, First Out",
-    "zh-Hant-TW": "後買,先賣"
+    "zh-Hant-TW": "後買先賣"
   },
   "accounting_highCost": {
     "en": "High Cost",
@@ -141,7 +142,7 @@
   },
   "accounting_highCostDescription": {
     "en": "Shares that were most expensive are sold first",
-    "zh-Hant-TW": "成本最高,先賣"
+    "zh-Hant-TW": "成本最高的先賣"
   },
   "accounting_lowCost": {
     "en": "Low Cost",
@@ -149,7 +150,7 @@
   },
   "accounting_lowCostDescription": {
     "en": "Shares that were the least expensive are sold first",
-    "zh-Hant-TW": "成本低,先賣"
+    "zh-Hant-TW": "成本最低的先賣"
   },
   "accounting_weightedAverage": {
     "en": "Weighted Average"
@@ -240,7 +241,8 @@
   },
   "addQuoteForex_targetCurrencyShouldBeDifferentThanSource": {
     "en": "Target currency should be different than source currency",
-    "fr": "La devise cible doit être différente de la devise source"
+    "fr": "La devise cible doit être différente de la devise source",
+    "zh-Hant-TW": "目標幣別不能與來源幣別相同"
   },
   "addQuoteTransaction_calendar": {
     "en": "Calendar",
@@ -556,7 +558,8 @@
   },
   "chart_price": {
     "en": "Price",
-    "fr": "Prix"
+    "fr": "Prix",
+    "zh-Hant-TW": "價格"
   },
   "chart_rangeFiveDays": {
     "en": "5 Days",
@@ -582,7 +585,8 @@
     "zh-Hant-TW": "全部"
   },
   "chart_rangeMonthToDateCompact": {
-    "en": "MTD"
+    "en": "MTD",
+    "zh-Hant-TW": "本月"
   },
   "chart_rangeNotAvailableFormatted": {
     "_formatted": false,
@@ -735,7 +739,7 @@
   "csvImport_copyPasteHelp": {
     "en": "Copy and paste the text containing the CSV data into the text field below. Make sure to copy and paste the headers as well. Each line of the CSV should be on a separate line.",
     "fr": "Copiez et collez le texte contenant les données CSV dans le champ de texte ci-dessous. Assurez-vous de copier et coller les en-têtes également. Chaque ligne du fichier CSV doit être sur une ligne distincte.",
-    "zh-Hant-TW": "拷貝貼上CSV資料內容文字至文字輸入框內.請確認是否也有拷貝貼上標題.每一個CSV欄位應該要分開成不同的欄位"
+    "zh-Hant-TW": "複製貼上CSV資料內容文字至文字輸入框內。請確認是否也有複製貼上標題，每一個CSV欄位應該要分開成不同的欄位。"
   },
   "csvImport_couldNotFindData": {
     "en": "Could not find data to import",
@@ -779,11 +783,11 @@
   "csvImport_pleaseCopyPasteData": {
     "en": "Please copy and paste the CSV data",
     "fr": "Veuillez copier et coller les données CSV",
-    "zh-Hant-TW": "請拷貝並貼上CSV數據"
+    "zh-Hant-TW": "請複製並貼上CSV數據"
   },
   "csvImport_sizeRestriction": {
     "en": "Use File option if you have a lot of data, since Android has a 1 MB size restriction for Clipboard/Email.",
-    "zh-Hant-TW": "如果你有很多的資料,請使用檔案選項.由於安卓系統只提供1 MB給備忘錄/Email"
+    "zh-Hant-TW": "由於安卓系統只提供 1 MB 給剪貼簿/Email，如果你有很多的資料，請使用檔案選項。"
   },
   "csvImport_recognizedHeadersHelp": {
     "en": "Recognized CSV Headers:\\n\\nSymbol: Symbol name (i.e. BB)\\nPortfolio: Portfolio the quote belongs to\\nShares: Shares owned\\nType: Buy, Sell, Buy to Cover, Sell Short\\nPrice: Cost per share\\nCommission: Total commissions\\nDate: Date of transaction (YYYY-MM-DD GMT+HH:MM), i.e. 2017–05–25 GMT+01:00\\nNotes: Additional notes\\n\\nTo see a sample CSV, you can export a CSV from the app.\\n\\nThe Date format must be correct or the date will not be imported. If you are using Excel, you can customize the format of the generated dates. 2016–11–25 GMT-08:00 is a valid date, 11–25–2017 is not.",
@@ -814,7 +818,7 @@
   },
   "faq_paidAlready": {
     "en": "I paid for the app already, but the app does not remember or recognize my purchase",
-    "zh-Hant-TW": "我已經付款過了;但app不記得或不認得我有訂閱過"
+    "zh-Hant-TW": "我已經付款過了，但 app 不記得或不認得我有訂閱過"
   },
   "faq_paidAlreadyAnswer": {
     "en": "Please make sure you are logged into the account used to make the purchase and click \\'Restore Purchases\\'. If you can\\'t restore the purchase, please reach out to us via support."
@@ -867,7 +871,7 @@
   },
   "generic_apply": {
     "en": "Apply",
-    "zh-Hant-TW": "應用"
+    "zh-Hant-TW": "套用"
   },
   "generic_autoRefresh": {
     "en": "Auto-refresh",
@@ -890,7 +894,8 @@
     "zh-Hant-TW": "自動重新整理開始時間"
   },
   "generic_backup": {
-    "en": "Backup"
+    "en": "Backup",
+    "zh-Hant-TW": "備份"
   },
   "generic_beginImport": {
     "en": "Begin Import",
@@ -953,7 +958,8 @@
   },
   "generic_dismiss": {
     "en": "Dismiss",
-    "fr": "Fermer"
+    "fr": "Fermer",
+    "zh-Hant-TW": "關閉"
   },
   "generic_displayLanguage": {
     "en": "Display Language",
@@ -976,12 +982,12 @@
   },
   "generic_emailOrCopyPaste": {
     "en": "Email / Copy & Paste",
-    "zh-Hant-TW": "Email / 拷貝 & 貼上"
+    "zh-Hant-TW": "Email / 複製 & 貼上"
   },
   "generic_enterNotes": {
     "en": "Enter notes",
     "fr": "Entrer des notes",
-    "zh-Hant-TW": "輸入備註" 
+    "zh-Hant-TW": "輸入備註"
   },
   "generic_enterValueBetween0And100": {
     "en": "Enter a value between 0-100",
@@ -1213,7 +1219,8 @@
     "zh-Hant-TW": "若要繼續，請同意隱私權政策與使用規範"
   },
   "generic_preview": {
-    "en": "Preview"
+    "en": "Preview",
+    "zh-Hant-TW": "預覽"
   },
   "generic_privacyPolicy": {
     "en": "Privacy Policy",
@@ -1306,7 +1313,7 @@
   },
   "generic_signInGoogleDrive": {
     "en": "Enable Google Drive account",
-    "zh-Hant-TW": "Google雲端雲端硬碟帳戶無法使用"
+    "zh-Hant-TW": "使用 Google 雲端雲端硬碟帳戶"
   },
   "generic_signOut": {
     "en": "Sign Out",
@@ -1333,7 +1340,7 @@
   },
   "generic_sort": {
     "en": "Sort",
-    "zh-Hant-TW": "分類"
+    "zh-Hant-TW": "排序"
   },
   "generic_subscribed": {
     "en": "Subscribed",
@@ -1353,7 +1360,8 @@
     "zh-Hant-TW": "確定"
   },
   "generic_sync": {
-    "en": "Sync"
+    "en": "Sync",
+    "zh-Hant-TW": "同步"
   },
   "generic_tapToEdit": {
     "en": "Tap to edit",
@@ -1388,7 +1396,8 @@
   },
   "generic_twitterHelp": {
     "en": "Reach out to us on Twitter",
-    "fr": "Nous joindre sur Twitter"
+    "fr": "Nous joindre sur Twitter",
+    "zh-Hant-TW": "在 Twitter 聯繫我們"
   },
   "generic_type": {
     "en": "Type",
@@ -1410,7 +1419,8 @@
   },
   "help_announcements": {
     "en": "Announcements",
-    "fr": "Annonces"
+    "fr": "Annonces",
+    "zh-Hant-TW": "公告"
   },
   "help_couldNotConnect": {
     "en": "Could not connect to the Help server. Email the developer with your question?",
@@ -1534,7 +1544,7 @@
     "_formatted": false,
     "en": "Filter news from %s?",
     "fr": "Filtrer les nouvelles de %s ?",
-    "zh-Hant-TW": "篩選新聞從 %s?"
+    "zh-Hant-TW": "從 %s 篩選新聞?"
   },
   "news_filterNewsSourcesHelp": {
     "en": "To filter a news source, press-hold on it from the news listings page. To remove a filter, click on it below.",
@@ -1569,12 +1579,12 @@
     "_formatted": false,
     "en": "shared via %s",
     "fr": "partagé via %s",
-    "zh-Hant-TW": "透過 %s分享"
+    "zh-Hant-TW": "透過 %s 分享"
   },
   "news_sorryCouldNotOpenNewsArticle": {
     "en": "Sorry, we couldn\\'t open that news article.",
     "fr": "Désolé, nous ne pouvons pas ouvrir cet article.",
-    "zh-Hant-TW": "抱歉～\\無法開啟此新聞"
+    "zh-Hant-TW": "抱歉～無法開啟此新聞"
   },
   "news_title": {
     "en": "News",
@@ -1588,7 +1598,8 @@
   },
   "password_enable": {
     "en": "Enable password protection",
-    "fr": "Activer la protection par mot de passe"
+    "fr": "Activer la protection par mot de passe",
+    "zh-Hant-TW": "啟用密碼保護"
   },
   "password_enableHelp": {
     "en": "Enabling password protection will prompt for a password when the app is launched. If you lose your password, you will need to re-install the app.\\n\\nSetting a password does not protect your data if your device is stolen. Google provides ways to remotely wipe your device: https://www.google.com/#q=android+remotely+wipe+phone",
@@ -1615,7 +1626,8 @@
   },
   "password_incorrectConfirmationPassword": {
     "en": "Incorrect confirmation password",
-    "fr": "Mot de passe de confirmation incorrect"
+    "fr": "Mot de passe de confirmation incorrect",
+    "zh-Hant-TW": "再次確認的密碼不正確"
   },
   "password_incorrectPassword": {
     "en": "Incorrect password",
@@ -1709,18 +1721,21 @@
   },
   "portfolio_allTime": {
     "en": "All-Time",
-    "fr": "Toujours"
+    "fr": "Toujours",
+    "zh-Hant-TW": "所有時間"
   },
   "portfolio_allTimeChange": {
     "en": "All-Time Change",
     "zh-Hant-TW": "總損益"
   },
   "portfolio_allTimeColon": {
-    "en": "All-Time:"
+    "en": "All-Time:",
+    "zh-Hant-TW": "所有時間:"
   },
   "portfolio_allValuesInPlaceholder": {
     "_formatted": false,
-    "en": "All values in %s"
+    "en": "All values in %s",
+    "zh-Hant-TW": "總價值於 %s"
   },
   "portfolio_annualized": {
     "en": "Annualized:",
@@ -1761,7 +1776,7 @@
   "portfolio_costPerShare": {
     "en": "Cost Per Share",
     "fr": "Cout par action",
-    "zh-Hant-TW": "成交價"
+    "zh-Hant-TW": "每股均價"
   },
   "portfolio_couldNotAddToPortfolio": {
     "en": "Could not add to portfolio",
@@ -1847,7 +1862,7 @@
   "portfolio_details": {
     "en": "Details",
     "fr": "Détails",
-    "zh-Hant-TW": "更多細節"
+    "zh-Hant-TW": "細節"
   },
   "portfolio_displayLocalCurrency": {
     "en": "Display local currency instead of home currency for:",
@@ -2089,10 +2104,12 @@
   },
   "portfolio_realizedColon": {
     "en": "Realized:",
-    "fr": "Réalisé :"
+    "fr": "Réalisé :",
+    "zh-Hant-TW": "已實現："
   },
   "portfolio_realizedYTD": {
-    "en": "Realized YTD"
+    "en": "Realized YTD",
+    "zh-Hant-TW": "已實現 YTD"
   },
   "portfolio_realizedYTDColon": {
     "en": "Rlzd YTD:",
@@ -2902,18 +2919,22 @@
     "zh-Hant-TW": "匯出至Google雲端硬碟 / SD卡 / 外接儲存裝置 / Email / 備忘錄"
   },
   "settings_csvImportPortfolios": {
-    "en": "Import Portfolios from CSV"
+    "en": "Import Portfolios from CSV",
+    "zh-Hant-TW": "從CSV匯入投資組合"
   },
   "settings_csvImportPortfoliosHelp": {
-    "en": "Import from Google Drive / SDCard / External Storage / Email / Clipboard"
+    "en": "Import from Google Drive / SDCard / External Storage / Email / Clipboard",
+    "zh-Hant-TW": "從 Google Drive / SD卡 / 外部儲存空間 / Email / 剪貼簿 匯入"
   },
   "settings_general": {
     "en": "General",
-    "fr": "Général"
+    "fr": "Général",
+    "zh-Hant-TW": "一般"
   },
   "settings_helpAndFeedback": {
     "en": "Help & Feedback",
-    "fr": "Aide et commentaires"
+    "fr": "Aide et commentaires",
+    "zh-Hant-TW": "幫助與回饋"
   },
   "settings_hideClosedPositions": {
     "en": "Hide closed positions",
@@ -2928,7 +2949,8 @@
   },
   "settings_holdingsIfAny": {
     "en": "Holdings (if any)",
-    "fr": "Positions, si disponible"
+    "fr": "Positions, si disponible",
+    "zh-Hant-TW": "持股（如果有的話）"
   },
   "settings_importExportAndSync": {
     "en": "Import/Export and Sync Data",
@@ -2936,7 +2958,8 @@
   },
   "settings_lastSelectedPortfolio": {
     "en": "Last Selected Portfolio",
-    "fr": "Dernier portefeuille sélectionné"
+    "fr": "Dernier portefeuille sélectionné",
+    "zh-Hant-TW": "上次使用的投資組合"
   },
   "settings_openPlayStore": {
     "en": "Open Play Store",
@@ -2960,7 +2983,8 @@
     "zh-Hant-TW": "隱私政策"
   },
   "settings_termsOfUse": {
-    "en": "Terms of Use"
+    "en": "Terms of Use",
+    "zh-Hant-TW": "使用條款"
   },
   "settings_refreshInterval": {
     "en": "Auto-refresh (when app is open)",
@@ -3029,7 +3053,8 @@
   },
   "settings_shareTheApp": {
     "en": "Share the App",
-    "fr": "Partagez l\\'application"
+    "fr": "Partagez l\\'application",
+    "zh-Hant-TW": "分享 App"
   },
   "settings_showCurrencySymbol": {
     "en": "Show currency symbol",
@@ -3041,18 +3066,22 @@
   },
   "settings_startingPortfolioScreenTab": {
     "en": "Starting portfolio screen tab",
-    "fr": "Afficher un portefeuille au démarrage"
+    "fr": "Afficher un portefeuille au démarrage",
+    "zh-Hant-TW": "預設投資組合畫面頁籤"
   },
   "settings_startingQuoteDetailsScreenTab": {
-    "en": "Starting quote details tab"
+    "en": "Starting quote details tab",
+    "zh-Hant-TW": "預設報價細節頁籤"
   },
   "settings_startingScreen": {
     "en": "Starting screen",
-    "fr": "Écran de démarrage"
+    "fr": "Écran de démarrage",
+    "zh-Hant-TW": "預設畫面"
   },
   "settings_sync": {
     "en": "Server Sync",
-    "fr": "Synchronisation avec le serveur"
+    "fr": "Synchronisation avec le serveur",
+    "zh-Hant-TW": "伺服器同步"
   },
   "settings_syncHelp": {
     "en": "Synchronize data to the server and between devices",
@@ -3121,7 +3150,7 @@
   },
   "tab_more": {
     "en": "More",
-    "zh-Hant-TW": "更用"
+    "zh-Hant-TW": "更多"
   },
   "tab_news": {
     "en": "News",
