@@ -1196,6 +1196,9 @@
     "fr": "Economisez %s",
     "zh-Hant-TW": "省下 %s"
   },
+  "generic_selected": {
+    "en": "Selected"
+  },
   "generic_selectFile": {
     "en": "Select File",
     "fr": "Sélectionner un fichier",
@@ -1641,7 +1644,7 @@
   },
   "portfolio_allTimeColon": {
     "en": "All-Time:",
-    "zh-Hant-TW": "所有時間:"
+    "zh-Hant-TW": "所有時間："
   },
   "portfolio_allTimeCommissions": {
     "en": "All-Time Commissions",
