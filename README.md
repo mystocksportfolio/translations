@@ -6,17 +6,17 @@ You may also open a ticket (Issues tab) or send an email to info@mystocksportfol
 
 Thank you for any help with translating!
 
-Progress (810 strings):
+Progress (813 strings):
 
-![Progress](https://progress-bar.dev/100?title=en&width=120) 810/810
+![Progress](https://progress-bar.dev/100?title=en&width=120) 813/813
 
-![Progress](https://progress-bar.dev/61?title=zh-Hant-TW&width=120) 498/810
+![Progress](https://progress-bar.dev/61?title=zh-Hant-TW&width=120) 499/813
 
-![Progress](https://progress-bar.dev/66?title=fr&width=120) 531/810
+![Progress](https://progress-bar.dev/65?title=fr&width=120) 532/813
 
-![Progress](https://progress-bar.dev/4?title=de&width=120) 32/810
+![Progress](https://progress-bar.dev/4?title=de&width=120) 32/813
 
-![Progress](https://progress-bar.dev/2?title=zh&width=120) 20/810
+![Progress](https://progress-bar.dev/2?title=zh&width=120) 20/813
 
 ### Links:
 

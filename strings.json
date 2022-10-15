@@ -794,6 +794,9 @@
     "en": "Calculate",
     "zh-Hant-TW": "金額統計"
   },
+  "generic_calculating": {
+    "en": "Calculating…"
+  },
   "generic_cancel": {
     "en": "Cancel",
     "fr": "Annuler",
@@ -1987,6 +1990,15 @@
   "portfolio_omitCashFromPercentages": {
     "en": "Omit Cash from Percentage Returns"
   },
+  "portfolio_omitCashFromTotals": {
+    "en": "Omit cash from totals",
+    "fr": "Omettre les liquidités des totaux",
+    "zh-Hant-TW": "總額不含現金"
+  },
+  "portfolio_omitCashFromTotalsHelp": {
+    "en": "Your cash will not be reflected in your total portfolio value",
+    "fr": "Vos liquidités ne seront pas prises en compte dans la valeur totale du portefeuille."
+  },
   "portfolio_openAndClosedPositions": {
     "en": "Open & Closed Positions"
   },
@@ -2345,6 +2357,11 @@
     "fr": "Non réalisé",
     "zh-Hant-TW": "未實現"
   },
+  "portfolio_unrealized_colon": {
+    "en": "Unrealized:",
+    "fr": "Non réalisé:",
+    "zh-Hant-TW": "未實現："
+  },
   "portfolio_unrealizedChange": {
     "en": "Unrealized Change",
     "zh-Hant-TW": "未實現損益"
@@ -2402,6 +2419,9 @@
   },
   "portfolio_xirr": {
     "en": "XIRR"
+  },
+  "portfolio_ytdStart": {
+    "en": "YTD Start"
   },
   "portfolioHistorical_clearLocalCache": {
     "en": "Clear historical storage",
@@ -2608,15 +2628,6 @@
   },
   "settingsCalculations_omitCashFromPercentagesHelp": {
     "en": "Cash will be omitted when calculating portfolio percentage returns, such as unrealized change percent"
-  },
-  "settingsCalculations_omitCashFromTotals": {
-    "en": "Omit cash from totals",
-    "fr": "Omettre les liquidités des totaux",
-    "zh-Hant-TW": "總額不含現金"
-  },
-  "settingsCalculations_omitCashFromTotalsHelp": {
-    "en": "Your cash will not be reflected in your total portfolio value",
-    "fr": "Vos liquidités ne seront pas prises en compte dans la valeur totale du portefeuille."
   },
   "settingsCalculations_todayResetsAt": {
     "en": "New day time when using Today calculations"
