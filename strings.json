@@ -758,6 +758,9 @@
     "fr": "En continuant, vous acceptez les\\nConditions d\\'utilisation et Politique de confidentialité",
     "zh-Hant-TW": "如要繼續，您需要同意隱私權政策與使用規範"
   },
+  "generic_appLockHelp": {
+    "en": "Enabling App Lock will prompt for a Passcode or Face ID/Touch ID when the app is launched. If you lose your Passcode, you will need to re-install the app."
+  },
   "generic_apply": {
     "en": "Apply",
     "zh-Hant-TW": "套用"
@@ -825,6 +828,9 @@
     "en": "Could not reach servers. Please check your connection and try again.",
     "zh-Hant-TW": "無法連結到伺服器，請檢查網路連線並再試一次"
   },
+  "generic_confirmPasscode": {
+    "en": "Confirm Passcode"
+  },
   "generic_contactUs": {
     "en": "Contact Us",
     "fr": "Contactez-nous",
@@ -882,10 +888,19 @@
     "en": "Email / Copy & Paste",
     "zh-Hant-TW": "Email / 複製 & 貼上"
   },
+  "generic_enableAppLock": {
+    "en": "Enable App Lock"
+  },
+  "generic_enableFaceOrTouchID": {
+    "en": "Enable Face ID/Touch ID"
+  },
   "generic_enterNotes": {
     "en": "Enter notes",
     "fr": "Entrer des notes",
     "zh-Hant-TW": "輸入備註"
+  },
+  "generic_enterPasscode": {
+    "en": "Enter Passcode"
   },
   "generic_enterValueBetween0And100": {
     "en": "Enter a value between 0-100",
@@ -988,6 +1003,9 @@
   "generic_later": {
     "en": "Later",
     "fr": "Plus tard"
+  },
+  "generic_loading": {
+    "en": "Loading…"
   },
   "generic_manageAlerts": {
     "en": "Manage Alerts",
@@ -1104,6 +1122,9 @@
     "fr": "Ouvrir le tiroir de navigation",
     "zh-Hant-TW": "開啟側選單"
   },
+  "generic_passcode": {
+    "en": "Passcode"
+  },
   "generic_pasteFromClipboard": {
     "en": "Paste from Clipboard",
     "zh-Hant-TW": "從備忘錄貼上"
@@ -1195,6 +1216,9 @@
     "en": "Save %s",
     "fr": "Economisez %s",
     "zh-Hant-TW": "省下 %s"
+  },
+  "generic_security": {
+    "en": "Security"
   },
   "generic_selected": {
     "en": "Selected"
@@ -1609,8 +1633,8 @@
     "zh-Hant-TW": "顯示報價清單於小工具上"
   },
   "password_timeoutInSeconds": {
-    "en": "Timeout in seconds",
-    "fr": "Délai d\\'attente en secondes"
+    "en": "Timeout in Seconds",
+    "fr": "Délai d\\'attente en Secondes"
   },
   "password_title": {
     "en": "Password Protection",
@@ -1807,6 +1831,12 @@
     "en": "My Portfolio",
     "fr": "Mon portefeuille",
     "zh-Hant-TW": "我的投資組合"
+  },
+  "portfolio_deleteAccount": {
+    "en": "Delete Account"
+  },
+  "portfolio_deleteAccountMessage": {
+    "en": "Are you sure you want to delete your account and all portfolio data stored in the cloud? There is no way to undo this operation."
   },
   "portfolio_deleteFromServerDisclaimer": {
     "en": "If you are signed in, this will delete it from the server and your other devices when they sync."
@@ -2760,6 +2790,9 @@
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtdHelp": {
     "en": "Shows YTD returns (for tax loss harvesting). Requires \\'Inline all-time and realized gains\\' to be enabled."
+  },
+  "settingsDisplay_inlineSharesAndAveragePricePerShare": {
+    "en": "Inline shares and average price per share"
   },
   "settingsDisplay_invertFontColor": {
     "en": "Invert font color",
