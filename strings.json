@@ -809,6 +809,9 @@
   "generic_cant_send_email_error": {
     "en": "Can\\'t send email. Please check that email has been set up properly on your device."
   },
+  "generic_changePasscode": {
+    "en": "Change Passcode"
+  },
   "generic_checkOutThisApp": {
     "en": "Check out this app!",
     "zh-Hant-TW": "查看這個 app"
@@ -893,6 +896,9 @@
   },
   "generic_enableFaceOrTouchID": {
     "en": "Enable Face ID/Touch ID"
+  },
+  "generic_enableWidgetLock": {
+    "en": "Enable Widget Lock"
   },
   "generic_enterNotes": {
     "en": "Enter notes",
@@ -1232,6 +1238,9 @@
     "en": "Set",
     "fr": "Régler",
     "zh-Hant-TW": "設定"
+  },
+  "generic_setPasscode": {
+    "en": "Set Passcode"
   },
   "generic_settings": {
     "en": "Settings",
