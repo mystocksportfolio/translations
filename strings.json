@@ -9,6 +9,9 @@
     "zh": "例子",
     "zh-Hant-TW": "例子"
   },
+  "accounting_addLots": {
+    "en": "Add Lot(s)"
+  },
   "accounting_execution": {
     "en": "Execution"
   },
@@ -44,6 +47,12 @@
     "en": "Shares that were the least expensive are sold first",
     "zh-Hant-TW": "成本最低的先賣"
   },
+  "accounting_noLotsFound": {
+    "en": "No lots found"
+  },
+  "accounting_noLotsFoundHelp": {
+    "en": "Couldn't find any valid lots (transactions) to select before this transaction's date"
+  },
   "accounting_selectLots": {
     "en": "Select Lots"
   },
@@ -56,6 +65,9 @@
   },
   "accounting_specificLots": {
     "en": "Specific Lots"
+  },
+  "accounting_specificLotsHelp": {
+    "en": "To use the \\'Specific Lots\\' execution type, please add the quote first and then go to the quote details page, transactions tab, and add the transaction from there so the app knows which lots can be used."
   },
   "accounting_specificLotsDescription": {
     "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction."
