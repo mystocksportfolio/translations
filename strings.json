@@ -9,6 +9,9 @@
     "zh": "例子",
     "zh-Hant-TW": "例子"
   },
+  "accounting_execution": {
+    "en": "Execution"
+  },
   "accounting_fifo": {
     "en": "FIFO",
     "zh-Hant-TW": "先買先賣"
@@ -40,6 +43,9 @@
   "accounting_lowCostDescription": {
     "en": "Shares that were the least expensive are sold first",
     "zh-Hant-TW": "成本最低的先賣"
+  },
+  "accounting_selectLots": {
+    "en": "Select Lots"
   },
   "accounting_weightedAverage": {
     "en": "Weighted Average"
@@ -923,6 +929,9 @@
     "fr": "Entrez votre question",
     "zh-Hant-TW": "輸入問題"
   },
+  "generic_error": {
+    "en": "Error"
+  },
   "generic_errorImageAccessibility": {
     "en": "Error Image",
     "fr": "Image d\\'erreur",
@@ -942,6 +951,9 @@
   "generic_export": {
     "en": "Export…",
     "zh-Hant-TW": "匯出中…"
+  },
+  "generic_exportData": {
+    "en": "Export Data"
   },
   "generic_exportToEmail": {
     "en": "Export to Email"
@@ -997,6 +1009,9 @@
   "generic_import": {
     "en": "Import…",
     "zh-Hant-TW": "匯入中…"
+  },
+  "generic_importData": {
+    "en": "Import Data"
   },
   "generic_language": {
     "en": "Language",
@@ -1519,6 +1534,9 @@
     "fr": "Navigateur",
     "zh-Hant-TW": "瀏覽器"
   },
+  "news_configureMarketNews": {
+    "en": "Configure Market News"
+  },
   "news_configureNews": {
     "en": "Configure News",
     "fr": "Régler les actualités",
@@ -1676,6 +1694,9 @@
   },
   "portfolio_absoluteMagnitude": {
     "en": "Absolute / Magnitude"
+  },
+  "portfolio_activity": {
+    "en": "Activity"
   },
   "portfolio_addPortfolio": {
     "en": "Add Portfolio",
