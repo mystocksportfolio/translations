@@ -9,7 +9,6 @@
     "zh": "例子",
     "zh-Hant-TW": "例子"
     "tr": "Örnek",
-    
   },
   "accounting_addLots": {
     "en": "Add Lot(s)"
@@ -52,7 +51,6 @@
     "en": "Low Cost",
     "zh-Hant-TW": "成本低"
     "tr": "Düşük Maliyetli",
-    
   },
   "accounting_lowCostDescription": {
     "en": "Shares that were the least expensive are sold first",
@@ -67,16 +65,20 @@
   },
   "accounting_selectLots": {
     "en": "Select Lots"
+    "tr": "Lotları Seç"
   },
   "accounting_weightedAverage": {
     "en": "Weighted Average"
+    "tr": "Ağırlıklı Ortalama"
   },
   "accounting_weightedAverageDescription": {
     "en": "The cost basis is calculated using the current unrealized cost per share",
     "zh-Hant-TW": "成本計算使用現有庫存股每股均價計算"
+    "tr": "Maliyet esası, hisse başına cari gerçekleşmemiş maliyet kullanılarak hesaplanır"
   },
   "accounting_specificLots": {
     "en": "Specific Lots"
+    "tr": "Belirli Lotlar"
   },
   "accounting_specificLotsHelp": {
     "en": "To use the \\'Specific Lots\\' execution type, please add the quote first and then go to the quote details page, transactions tab, and add the transaction from there so the app knows which lots can be used."
