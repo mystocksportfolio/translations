@@ -109,12 +109,14 @@
     "de": "Name des Portfolios",
     "fr": "Nom du portefeuille",
     "zh-Hant-TW": "投資組合名稱"
+    "tr": "Portföy Adı",
   },
   "addQuoteCash": {
     "en": "Cash",
     "fr": "Liquidités",
     "zh": "现金",
     "zh-Hant-TW": "現金"
+    "tr": "Nakit",
   },
   "addQuoteCash_amount": {
     "_description": "Add Quote, Cash, Amount",
