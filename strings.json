@@ -89,11 +89,13 @@
   "account_deleted": {
     "en": "Account Deleted",
     "zh-Hant-TW": "已刪除帳戶"
+    "tr": "Hesap Silindi",
   },
   "adBanner_placeHolder": {
     "en": "Upgrade to Premium and enjoy an Ad-free experience",
     "fr": "Mettre à jour vers Premium et profiter d\\'une expérience sans publicité",
     "zh-Hant-TW": "升級成Premium帳戶,享受無廣告干擾體驗"
+    "tr": "Premiuma yükselt ve reklamsız uygulamanın keyfini çıkar",
   },
   "addCustomPrices_help": {
     "en": "Add custom end of day prices for equity not listed on the market, to override prices, or to fill missing data. To delete a price data point, click on it in the list.",
@@ -172,11 +174,13 @@
     "de": "Kalendar",
     "fr": "Calendrier",
     "zh-Hant-TW": "日曆"
+    "tr": "Takvim",
   },
   "addQuoteTransaction_commission": {
     "en": "Commission",
     "fr": "Commission",
     "zh-Hant-TW": "手續費"
+    "tr": "Komisyon",
   },
   "addQuoteTransaction_couldNotDetectCurrency": {
     "en": "Could not detect currency for this quote, so cannot use cash conversion method. Please uncheck the cash conversion checkbox.",
@@ -283,6 +287,7 @@
   },
   "addQuoteTransaction_typeCloseShortPositions": {
     "en": "Close Short Positions"
+    "tr": "Short Pozisyonları Kapat"
   },
   "addQuoteTransaction_typeDRIP": {
     "en": "Dividends + Reinvestment (DRIP)",
