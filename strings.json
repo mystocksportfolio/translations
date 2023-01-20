@@ -85,6 +85,7 @@
   },
   "accounting_specificLotsDescription": {
     "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction."
+    "tr": "Öncelik sırasına göre yürütülecek lotları seçin.\\n\\nYeniden sıralamak için: Basılı tutun ve yukarı/aşağı sürükleyin. Listenin en üstündeki işlemler önce kullanılacaktır.\\n\\nKaldırmak için: Lotun/işlemin üzerine dokunun."
   },
   "account_deleted": {
     "en": "Account Deleted",
@@ -128,13 +129,14 @@
     "de": "Betrag",
     "fr": "Montant",
     "zh-Hant-TW": "金額"
-    "tr": "Miktar",
+    "tr": "Tutar",
   },
   "addQuoteCash_deposit": {
     "en": "Deposit",
     "fr": "Déposer",
     "zh": "加值",
     "zh-Hant-TW": "入金"
+    "tr": "Mevduat",
   },
   "addQuoteCash_enterCashAmount": {
     "en": "Please enter a cash amount",
@@ -154,25 +156,30 @@
     "fr": "Retirer",
     "zh": "提领",
     "zh-Hant-TW": "出金"
+    "tr": "Çekme"
   },
   "addQuoteCrypto_enterCryptoPair": {
     "en": "Please enter a crypto pair, i.e. BTC-USD",
     "fr": "Veuillez entrer une parité crypto, ex. BTC-USD",
     "zh-Hant-TW": "請輸入加密貨幣交易對, 例如：BTC-USD"
+    "tr": "Lütfen bir kripto çifti girin, Örn. BTC-USD",
   },
   "addQuoteCrypto_help": {
     "en": "Prices are aggregated across exchanges (Source: CoinGecko). If you cannot find a coin, you may contact us via support@peeksoft.co to get it registered.",
     "fr": "Les prix sont agrégés entre les bourses (Source : CoinGecko). Si vous ne trouvez pas une pièce, vous pouvez nous contacter via support@peeksoft.co pour l\\'enregistrer."
+    "tr": "Fiyatlar borsalar arasında toplanmıştır (Kaynak: CoinGecko). Bir coin bulamazsanız, kaydettirmek için support@peeksoft.co üzerinden bizimle iletişime geçebilirsiniz.",
   },
   "addQuoteCrypto_pairHint": {
     "en": "Crypto Pair (i.e. BTC-USD)",
     "fr": "Parité Crypto (ex. BTC-USD)",
     "zh-Hant-TW": "加密貨幣交易對（例如：BTC-USD）"
+    "tr": "Kripto Çifti (Örn. BTC-USD))",
   },
   "addQuoteForex_targetCurrencyShouldBeDifferentThanSource": {
     "en": "Target currency should be different than source currency",
     "fr": "La devise cible doit être différente de la devise source",
     "zh-Hant-TW": "目標幣別不能與來源幣別相同"
+    "tr": "Hedef para birimi kaynak para biriminden farklı olmalıdır",
   },
   "addQuoteTransaction_calendar": {
     "en": "Calendar",
@@ -193,10 +200,12 @@
   },
   "addQuoteTransaction_costBasisEntryMethod": {
     "en": "Entry Method"
+    "tr": "Giriş Yöntemi"
   },
   "addQuoteTransaction_costBasisTotalAmount": {
     "en": "Total Amount",
     "zh-Hant-TW": "總金額"
+    "tr": "Toplam Tutar"
   },
   "addQuoteTransaction_currencyToCurrencyFormatted": {
     "_formatted": false,
@@ -236,26 +245,31 @@
   "addQuoteTransaction_enterValidSymbol": {
     "en": "Please enter a valid symbol",
     "zh-Hant-TW": "請輸入代碼"
+    "tr": "Lütfen geçerli bir sembol girin",
   },
   "addQuoteTransaction_exchangeRate": {
     "en": "Exchange Rate",
     "fr": "Taux de change",
     "zh-Hant-TW": "匯率"
+    "tr": "Döviz Kuru",
   },
   "addQuoteTransaction_percentCommission": {
     "en": "% Commission",
     "fr": "% Commission",
     "zh-Hant-TW": "% 手續費"
+    "tr": "% Komisyon",
   },
   "addQuoteTransaction_pricePerShare": {
     "en": "Price Per Share",
     "fr": "Prix par action",
     "zh-Hant-TW": "每股價格"
+    "tr": "Hisse Başı Fiyat",
   },
   "addQuoteTransaction_purchaseDate": {
     "en": "Purchase Date",
     "fr": "Date d\\'achat",
     "zh-Hant-TW": "日期"
+    "tr": "Satın Alma Tarihi",
   },
   "addQuoteTransaction_purchaseExchangeRateHelp": {
     "en": "Exchange Rate at time of Transaction (Stock\\'s Currency to Home Currency). For example, 1.5 means $1 of the stock\\'s currency exchanges to $1.5 of your home currency. You can change the Home Currency by tapping Currency on the holdings screen. Leave blank to use today\\'s exchange rate.",
@@ -264,22 +278,26 @@
   "addQuoteTransaction_time": {
     "en": "Transaction Time",
     "zh-Hant-TW": "成交時間"
+    "tr": "İşlem Zamanı",
   },
   "addQuoteTransaction_transaction_notes": {
     "en": "Transaction Notes",
     "fr": "Notes de transaction",
     "zh-Hant-TW": "交易備註"
+    "tr": "İşlem Notları",
   },
   "addQuoteTransaction_type": {
     "en": "Transaction Type",
     "fr": "Type de transaction",
     "zh-Hant-TW": "交易別"
+    "tr": "İşlem Türü",
   },
   "addQuoteTransaction_typeBuy": {
     "en": "Buy",
     "fr": "Acheter",
     "zh": "买",
     "zh-Hant-TW": "買"
+    "tr": "Al",
   },
   "addQuoteTransaction_typeBuyToCover": {
     "en": "Buy to Cover",
@@ -289,10 +307,11 @@
   "addQuoteTransaction_typeClosePositions": {
     "en": "Close Positions",
     "zh-Hant-TW": "平倉"
+    "tr": "Pozisyonları Kapat",
   },
   "addQuoteTransaction_typeCloseShortPositions": {
     "en": "Close Short Positions"
-    "tr": "Short Pozisyonları Kapat"
+    "tr": "Açığa Satış Pozisyonlarını Kapat"
   },
   "addQuoteTransaction_typeDRIP": {
     "en": "Dividends + Reinvestment (DRIP)",
@@ -302,25 +321,30 @@
   "addQuoteTransaction_typeReverseSplit": {
     "en": "Reverse Split",
     "zh-Hant-TW": "反向分割"
+    "tr": "Ters Bölünme",
   },
   "addQuoteTransaction_typeSell": {
     "en": "Sell",
     "fr": "Vendre",
     "zh": "卖",
     "zh-Hant-TW": "賣"
+    "tr": "Sat",
   },
   "addQuoteTransaction_typeSellShort": {
     "en": "Sell Short",
     "fr": "Vente à découvert",
     "zh-Hant-TW": "賣空"
+    "tr": "Açığa Sat",
   },
   "addQuoteTransaction_typeSplit": {
     "en": "Split",
     "zh-Hant-TW": "股票分割"
+    "tr": "Bölünme",
   },
   "addQuoteTransaction_typeUnknown": {
     "en": "Unknown",
     "zh-Hant-TW": "未知"
+    "tr": "Biinmeyen",
   },
   "addQuoteTransaction_useCommissions": {
     "en": "Use Commissions",
@@ -334,6 +358,7 @@
   "addQuoteTransaction_withdrawCashFromPortfolioToPurchase": {
     "en": "Withdraw cash from portfolio to purchase",
     "fr": "Retirer de l\\'argent du portefeuille à l\\'achat"
+    "tr": "Portföyden nakit çekerek satın alma",
   },
   "addQuote_addUnlistedSymbolHelp": {
     "en": "Unlisted symbols can be used for equity such as shares that do not trade on the open market. To add price data, go to the quote details page after adding the symbol, open the menu, and click \\'Add Custom Prices\\'.",
@@ -343,6 +368,7 @@
     "en": "Please enter a symbol",
     "fr": "Veuillez entrer un symbole",
     "zh-Hant-TW": "請輸入名稱／代碼"
+    "tr": "Lütfen bir sembol girin",
   },
   "addQuote_howToPreview": {
     "en": "How To: Preview quote without adding to watchlist",
@@ -364,6 +390,7 @@
     "en": "Symbol",
     "fr": "Symbole",
     "zh-Hant-TW": "代碼"
+    "tr": "Sembol",
   },
   "addQuote_symbolDisplayOverride": {
     "en": "Symbol display override (Optional)",
@@ -375,30 +402,36 @@
     "de": "Symbol (z.B. GOOG)",
     "fr": "Symbole (par ex. GOOG)",
     "zh-Hant-TW": "代碼（例如：GOOG）"
+    "tr": "Sembol (Örn. GOOG)",
   },
   "addQuote_trackTransaction": {
     "en": "Track a Transaction",
     "fr": "Suivre transaction",
     "zh-Hant-TW": "追蹤交易"
+    "tr": "İşlemi Takip et",
   },
   "addQuote_typeCrypto": {
     "en": "Crypto",
     "fr": "Crypto",
     "zh-Hant-TW": "加密貨幣"
+    "tr": "Kripto",
   },
   "addQuote_typeForex": {
     "en": "Forex",
     "fr": "Devises",
     "zh-Hant-TW": "外匯"
+    "tr": "Forex",
   },
   "addQuote_typeMarket": {
     "en": "Market",
     "fr": "Marché",
     "zh-Hant-TW": "市場"
+    "tr": "Piyasa",
   },
   "addQuote_typeUnlisted": {
     "en": "Unlisted",
     "fr": "Non listé"
+    "tr": "Listelenmeyen,
   },
   "alert_alertPageEmptyHelp": {
     "en": "Add an alert by tapping Add Alert (Alert icon) in the menu, or by tapping here.",
@@ -407,115 +440,139 @@
   "alert_lessThan": {
     "en": "less than",
     "zh-Hant-TW": "低於"
+    "tr": "Daha az",
   },
   "alert_moreThan": {
     "en": "more than",
     "zh-Hant-TW": "高於"
+    "tr": "Daha çok",
   },
   "alert_trailingStopLoss": {
     "en": "trailing stop loss"
+    "tr": "Takip eden stoploss",
   },
   "alert_reverseTrailingStopLoss": {
     "en": "reverse trailing stop loss"
+    "tr": "Tersine takip eden stoploss",
   },
   "alert_priceAlert": {
     "en": "Price Alert",
     "zh-Hant-TW": "到價通知"
+    "tr": "Fiyat Uyarıları",
   },
   "alert_viewExistingAlerts": {
     "en": "View existing alerts",
     "zh-Hant-TW": "查看既有到價通知"
+    "tr": "Mevcut uyarıları görüntüle",
   },
   "chart_couldNotFetchChart": {
     "en": "Could not fetch chart\\n\\nPlease check your internet connection and try a different interval (1 Day, 5 Days, etc.)",
     "fr": "Impossible de récupérer le graphique\\n\\nVérifiez votre connexion internet et essayez un interval différent (1 jour, 5 jours, etc.)"
+    "tr": "Grafik alınamadı\\n\\nLütfen internet bağlantınızı kontrol edin ve farklı bir aralık deneyin (1 Gün, 5 Gün, vb.)",
   },
   "chart_enableVolumeColors": {
     "en": "Volume: Enable Colors",
     "fr": "Volume : Activer les couleurs",
     "zh-Hant-TW": "量：顏色"
+    "tr": "Hacim: Renkleri Etkinleştir",
   },
   "chart_gridlines": {
     "en": "Gridlines",
     "zh-Hant-TW": "網格線"
+    "tr": "Klavuz Çizgileri",
+    
   },
   "chart_indicators": {
     "en": "Indicators",
     "fr": "Indicateurs",
     "zh-Hant-TW": "指標"
+    "tr": "İndikatörler",
   },
   "chart_intervalFiveMinutes": {
     "en": "5 Minutes",
     "de": "5 Minuten",
     "fr": "5 minutes",
     "zh-Hant-TW": "五分"
+    "tr": "5 Dakika",
   },
   "chart_intervalOneHour": {
     "en": "1 Hour",
     "zh-Hant-TW": "一時"
+    "tr": "1 Saat",
   },
   "chart_intervalOneDay": {
     "en": "1 Day",
     "de": "1 Tag",
     "fr": "1 jour",
     "zh-Hant-TW": "一天"
+    "tr": "1 Gün",
   },
   "chart_intervalOneMinute": {
     "en": "1 Minute",
     "de": "1 Minute",
     "fr": "1 minute",
     "zh-Hant-TW": "一分"
+    "tr": "1 Dakika",
   },
   "chart_intervalOneMonth": {
     "en": "1 Month",
     "de": "1 Monat",
     "fr": "1 mois",
     "zh-Hant-TW": "一月"
+    "tr": "1 Ay",
   },
   "chart_intervalOneWeek": {
     "en": "1 Week",
     "de": "1 Woche",
     "fr": "1 semaine",
     "zh-Hant-TW": "一週"
+    "tr": "1 Hafta",
   },
   "chart_loading": {
     "en": "Loading Chart…",
     "fr": "Chargement du graphique…",
     "zh-Hant-TW": "載入圖表中…"
+    "tr": "Grafik Yükleniyor...",
   },
   "chart_logarithmic": {
     "en": "Log",
     "de": "Log",
     "fr": "Log",
     "zh-Hant-TW": "對數"
+    "tr": "Log",
   },
   "chart_price": {
     "en": "Price",
     "fr": "Prix",
     "zh-Hant-TW": "價格"
+    "tr": "Fiyat",
   },
   "chart_rangeFiveDays": {
     "en": "5 Days",
     "de": "5 Tage",
     "fr": "5 jours",
     "zh-Hant-TW": "五天"
+    "tr": " Gün",
   },
   "chart_rangeFiveDaysCompact": {
     "en": "5D",
     "de": "5T",
     "fr": "5j",
     "zh-Hant-TW": "五天"
+    "tr": "5G",
   },
   "chart_rangeFiveYears": {
     "en": "5 Years",
     "de": "5 Jahre",
     "fr": "5 années",
     "zh-Hant-TW": "五年"
+    "tr": "5 Yıl",
   },
   "chart_rangeMax": {
     "en": "Max",
     "fr": "Max",
     "zh-Hant-TW": "全部"
+    "tr": "Max",
   },
   "chart_rangeMonthToDateCompact": {
     "en": "MTD",
@@ -531,70 +588,82 @@
     "de": "1 Tag",
     "fr": "1 jour",
     "zh-Hant-TW": "一天"
+    "tr": "1 Gün",
   },
   "chart_rangeOneDayCompact": {
     "en": "1D",
     "de": "1T",
     "fr": "1j",
     "zh-Hant-TW": "一天"
+    "tr": "1G",
   },
   "chart_rangeOneMonth": {
     "en": "1 Month",
     "de": "1 Monat",
     "fr": "1 mois",
     "zh-Hant-TW": "一月"
+    "tr": "1 Ay",
   },
   "chart_rangeOneMonthCompact": {
     "en": "1M",
     "de": "1M",
     "fr": "1m",
     "zh-Hant-TW": "一月"
+    "tr": "1A",
   },
   "chart_rangeOneWeekCompact": {
     "en": "1W",
     "zh-Hant-TW": "一週"
+    "tr": "1H",
   },
   "chart_rangeOneYear": {
     "en": "1 Year",
     "de": "1 Jahr",
     "fr": "1 année",
     "zh-Hant-TW": "一年"
+    "tr": "1 Yıl",
   },
   "chart_rangeOneYearCompact": {
     "en": "1Y",
     "de": "1J",
     "fr": "1a",
     "zh-Hant-TW": "一年"
+    "tr": "1Y",
   },
   "chart_rangeSixMonths": {
     "en": "6 Months",
     "de": "6 Monate",
     "fr": "6 mois",
     "zh-Hant-TW": "六月"
+    "tr": "6 Ay",
   },
   "chart_rangeSixMonthsCompact": {
     "en": "6M",
     "de": "6M",
     "fr": "6m",
     "zh-Hant-TW": "六月"
+    "tr": "6A",
   },
   "chart_rangeThreeMonths": {
     "en": "3 Months",
     "de": "3 Monate",
     "fr": "3 mois",
     "zh-Hant-TW": "三月"
+    "tr": "3 Ay",
   },
   "chart_rangeThreeMonthsCompact": {
     "en": "3M",
     "de": "3M",
     "fr": "3m",
     "zh-Hant-TW": "三月"
+    "tr": "3A",
   },
   "chart_rangeTwoYears": {
     "en": "2 Years",
     "de": "2 Jahre",
     "fr": "2 années",
     "zh-Hant-TW": "二年"
+    "tr": "2 Yıl",
   },
   "chart_rangeYearToDateCompact": {
     "en": "YTD",
@@ -605,24 +674,29 @@
     "en": "Chart Settings",
     "fr": "Paramètres du graphique",
     "zh-Hant-TW": "圖表設定"
+    "tr": "Grafik Ayarları",
   },
   "chart_title": {
     "en": "View Chart",
     "fr": "Voir le graphique",
     "zh-Hant-TW": "檢視圖表"
+    "tr": "Grafiği Görüntüle",
   },
   "chart_transactionAnnotations": {
     "en": "Transaction Annotations"
+    "tr": "İşlem Açıklamaları",
   },
   "chart_typeArea": {
     "en": "Area",
     "fr": "Aire",
     "zh-Hant-TW": "面積圖"
+    "tr": "Bölge",
   },
   "chart_typeCandle": {
     "en": "Candle",
     "fr": "Bougie",
     "zh-Hant-TW": "K線"
+    "tr": "Mum",
   },
   "chart_typeHollowCandle": {
     "en": "Hollow Candle",
