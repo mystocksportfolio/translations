@@ -8,9 +8,11 @@
     "ko": "예시",
     "zh": "例子",
     "zh-Hant-TW": "例子"
+    "tr": "Örnek",
   },
   "accounting_addLots": {
     "en": "Add Lot(s)"
+    "tr": "Lot(ları) Ekle"
   },
   "accounting_execution": {
     "en": "Execution"
@@ -18,34 +20,42 @@
   "accounting_fifo": {
     "en": "FIFO",
     "zh-Hant-TW": "先買先賣"
+    "tr": "FİFO",
   },
   "accounting_fifoDescription": {
     "en": "First In, First Out",
     "zh-Hant-TW": "先買先賣"
+    "tr": "İlk giren, İlk Çıkar",
   },
   "accounting_lifo": {
     "en": "LIFO",
     "zh-Hant-TW": "後買先賣"
+    "tr": "LİFO",
   },
   "accounting_lifoDescription": {
     "en": "Last In, First Out",
     "zh-Hant-TW": "後買先賣"
+    "tr": "Son Giren, İlke Çıkar",
   },
   "accounting_highCost": {
     "en": "High Cost",
     "zh-Hant-TW": "成本高"
+    "tr": "Yükssek Maliyetli",
   },
   "accounting_highCostDescription": {
     "en": "Shares that were most expensive are sold first",
     "zh-Hant-TW": "成本最高的先賣"
+     "tr": "Önce en pahalı hisseler satılır",
   },
   "accounting_lowCost": {
     "en": "Low Cost",
     "zh-Hant-TW": "成本低"
+    "tr": "Düşük Maliyetli",
   },
   "accounting_lowCostDescription": {
     "en": "Shares that were the least expensive are sold first",
     "zh-Hant-TW": "成本最低的先賣"
+    "tr": "Önce en ucuz olan hisseler satılır",
   },
   "accounting_noLotsFound": {
     "en": "No lots found"
@@ -55,16 +65,20 @@
   },
   "accounting_selectLots": {
     "en": "Select Lots"
+    "tr": "Lotları Seç"
   },
   "accounting_weightedAverage": {
     "en": "Weighted Average"
+    "tr": "Ağırlıklı Ortalama"
   },
   "accounting_weightedAverageDescription": {
     "en": "The cost basis is calculated using the current unrealized cost per share",
     "zh-Hant-TW": "成本計算使用現有庫存股每股均價計算"
+    "tr": "Maliyet esası, hisse başına cari gerçekleşmemiş maliyet kullanılarak hesaplanır"
   },
   "accounting_specificLots": {
     "en": "Specific Lots"
+    "tr": "Belirli Lotlar"
   },
   "accounting_specificLotsHelp": {
     "en": "To use the \\'Specific Lots\\' execution type, please add the quote first and then go to the quote details page, transactions tab, and add the transaction from there so the app knows which lots can be used."
@@ -75,11 +89,13 @@
   "account_deleted": {
     "en": "Account Deleted",
     "zh-Hant-TW": "已刪除帳戶"
+    "tr": "Hesap Silindi",
   },
   "adBanner_placeHolder": {
     "en": "Upgrade to Premium and enjoy an Ad-free experience",
     "fr": "Mettre à jour vers Premium et profiter d\\'une expérience sans publicité",
     "zh-Hant-TW": "升級成Premium帳戶,享受無廣告干擾體驗"
+    "tr": "Premiuma yükselt ve reklamsız uygulamanın keyfini çıkar",
   },
   "addCustomPrices_help": {
     "en": "Add custom end of day prices for equity not listed on the market, to override prices, or to fill missing data. To delete a price data point, click on it in the list.",
@@ -95,12 +111,14 @@
     "de": "Name des Portfolios",
     "fr": "Nom du portefeuille",
     "zh-Hant-TW": "投資組合名稱"
+    "tr": "Portföy Adı",
   },
   "addQuoteCash": {
     "en": "Cash",
     "fr": "Liquidités",
     "zh": "现金",
     "zh-Hant-TW": "現金"
+    "tr": "Nakit",
   },
   "addQuoteCash_amount": {
     "_description": "Add Quote, Cash, Amount",
@@ -156,11 +174,13 @@
     "de": "Kalendar",
     "fr": "Calendrier",
     "zh-Hant-TW": "日曆"
+    "tr": "Takvim",
   },
   "addQuoteTransaction_commission": {
     "en": "Commission",
     "fr": "Commission",
     "zh-Hant-TW": "手續費"
+    "tr": "Komisyon",
   },
   "addQuoteTransaction_couldNotDetectCurrency": {
     "en": "Could not detect currency for this quote, so cannot use cash conversion method. Please uncheck the cash conversion checkbox.",
@@ -267,6 +287,7 @@
   },
   "addQuoteTransaction_typeCloseShortPositions": {
     "en": "Close Short Positions"
+    "tr": "Short Pozisyonları Kapat"
   },
   "addQuoteTransaction_typeDRIP": {
     "en": "Dividends + Reinvestment (DRIP)",
