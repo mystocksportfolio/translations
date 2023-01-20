@@ -40,7 +40,7 @@
   "accounting_highCost": {
     "en": "High Cost",
     "zh-Hant-TW": "成本高"
-    "tr": "Yükssek Maliyetli",
+    "tr": "Yüksek Maliyetli",
   },
   "accounting_highCostDescription": {
     "en": "Shares that were most expensive are sold first",
@@ -100,18 +100,20 @@
   "addCustomPrices_help": {
     "en": "Add custom end of day prices for equity not listed on the market, to override prices, or to fill missing data. To delete a price data point, click on it in the list.",
     "fr": "Ajouter des prix personnalisés pour les fonds non listés par le marché, pour écraser des prix, ou pour renseigner des données manquantes. Pour effacer un prix, cliquez-le dans la liste."
+    "tr": "Piyasada listelenmeyen hisse senetleri için, fiyatları geçersiz kılmak için veya eksik verileri doldurmak için özel gün sonu fiyatları ekleyin. Bir fiyat veri noktasını silmek için listede üzerine tıklayın.",
   },
   "addPortfolio_enterNamePrompt": {
     "en": "Please enter a name",
     "fr": "Veuillez entrer un nom",
     "zh-Hant-TW": "請輸入投資組合名稱"
+    "tr": "Lütfen bir ad giriniz",
   },
   "addPortfolio_nameOfPortfolio": {
     "en": "Name of Portfolio",
     "de": "Name des Portfolios",
     "fr": "Nom du portefeuille",
     "zh-Hant-TW": "投資組合名稱"
-    "tr": "Portföy Adı",
+    "tr": "Portföyün Adı",
   },
   "addQuoteCash": {
     "en": "Cash",
@@ -126,6 +128,7 @@
     "de": "Betrag",
     "fr": "Montant",
     "zh-Hant-TW": "金額"
+    "tr": "Miktar",
   },
   "addQuoteCash_deposit": {
     "en": "Deposit",
@@ -137,12 +140,14 @@
     "en": "Please enter a cash amount",
     "fr": "Veuillez entrer un montant d\\'espèces",
     "zh-Hant-TW": "請輸入金額"
+    "tr": "Lütfen nakit tutarı girin",
   },
   "addQuoteCash_selectCurrency": {
     "en": "Select Currency",
     "de": "Wähle eine Währung",
     "fr": "Sélectionnez la devise",
     "zh-Hant-TW": "幣別"
+    "tr": "Para Birimini Seçin",
   },
   "addQuoteCash_withdraw": {
     "en": "Withdraw",
