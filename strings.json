@@ -3697,66 +3697,82 @@
     "_formatted": false,
     "en": "More news about %s ➔",
     "fr": "Plus d\\'actualités à propos de %s ➔"
+    "tr": "Hakkında daha fazla heber için %s ➔",
   },
   "viewQuote_newTickerChange": {
     "_formatted": false,
     "en": "Ticker has changed %s\\nTap here to change to the new one"
+    "tr": "Kodu değişti %s\\nYenisine geçmek için buraya dokunun",
   },
   "viewQuote_noData": {
     "en": "No Data",
     "fr": "Pas de données"
+    "tr": "Veri Yok",
   },
   "viewQuote_price": {
     "en": "Price",
     "fr": "Prix"
+    "tr": "Fiyat",
   },
   "viewQuote_basedOnPortfolioTab": {
     "en": "Based on portfolio tab"
+    "tr": "Portföy sekmesine dayalı",
   },
   "viewQuote_profile": {
     "en": "Profile",
     "zh-Hant-TW": "簡介"
+    "tr": "Profil",
   },
   "viewQuote_shareQuote": {
     "en": "Share Quote",
     "fr": "Partager un cours"
+    "tr": "Teklifi Paylaş",
   },
   "viewQuote_summary": {
     "en": "Summary",
     "fr": "Sommaire"
+    "tr": "Özet",
   },
   "viewQuote_tapToEnterNotes": {
     "en": "Tap to enter notes",
     "fr": "Appuyez pour entrer des notes"
+    "tr": "Teklifi Görüntüle",
   },
   "viewQuote_title": {
     "en": "View Quote",
     "fr": "Voir le cours"
+    "tr": "Teklifi Görüntüle",
   },
   "viewQuote_transactions": {
     "en": "Transactions",
     "fr": "Transactions"
+    "tr": "İşlemler",
   },
   "viewQuote_warningDeleteTransaction": {
     "en": "Are you sure you want to delete this transaction?",
     "fr": "Êtes-vous sûr de vouloir supprimer cette transaction ?"
+    "tr": "Bu işlemi silmek istediğinizden emin misiniz?",
   },
   "welcome_welcomeMessage": {
     "en": "Thank you for downloading My Stocks Portfolio (MSP)!\\n\\nA sample portfolio has been created. Please visit the help section for questions.",
     "fr": "Merci d\\'avoir téléchargé cette application !\\n\\nUn exemple de portefeuille a été créé."
+    "tr": "My Stocks Portfolio (MSP) indirdiğiniz için teşekkür ederiz! Örnek bir portföy oluşturulmuştur. Sorularınız için lütfen yardım bölümünü ziyaret edin.",
   },
   "widgetOverview_configure": {
     "en": "Configure Overview Widget",
     "fr": "Configurer le widget de synthèse"
+    "tr": "Genel Bakış Widgetini yapılandır",
   },
   "widgetOverview_title": {
     "en": "Overview",
     "fr": "Synthèse",
     "zh-Hant-TW": "總覽"
+    "tr": "Genel Bakış",
   },
   "widgetPortfolio_changeView": {
     "en": "Change View",
     "fr": "Changement de vue"
+    "tr": "Görünümü Değiştir",
   },
   "widgetPortfolio_configure": {
     "en": "Configure Quotes Widget",
@@ -3765,29 +3781,35 @@
   "widgetPortfolio_title": {
     "en": "Single Portfolio",
     "fr": "Portefeuille unique"
+    "tr": "Tek Portföy.",
   },
   "widgetPortfolio_youDoNotHaveAnyPortfolios": {
     "en": "You do not have any portfolios",
     "fr": "Vous n\\'avez aucun portefeuille"
+    "tr": "Herhangi bir portföyünüz yok",
   },
   "widget_configureHelp": {
     "en": "To configure widget settings (such as auto-refresh and font size), open the app, Settings, and go to the Widget section. If you resize the widget to be very small, be sure to visit widget settings to reduce the UI size so everything fits.\\n\\nPlease note that there are two types of widgets - overview and single portfolio. If you do not see your quotes, you may have meant to pin the single portfolio widget but pinned the overview widget.",
     "fr": "Pour effectuer le réglage du widget (tels que la mise à jour automatique and la taille de la police), ouvrez l\\'application, Réglages and allez dans la rubrique Widget. Si vous redimensionnez le widget pour qu\\'il soit très petit, veillez à réduire la taille dans les réglages du widget pour que tout s\\'affiche correctement."
-  },
+     },
   "widget_refreshing": {
     "en": "Refreshing Widget",
     "fr": "Rafraîchir le widget"
+    "tr": "Widget Yenineliyor.",
   },
   "widget_sharesAndPrice": {
     "en": "Shares/Price",
     "fr": "Action/Prix"
+    "tr": "Hisseler/Fiyat.",
   },
   "widget_syncAlreadyInProgress": {
     "en": "Sync already in progress.",
     "fr": "Synchronisation déjà en cours."
+    "tr": "Senkronizasyon zaten devam ediyor.",
   },
   "widget_transparency": {
     "en": "Widget Transparency",
     "fr": "Transparence des widgets"
+    "tr": "Widget saydamlığı",
   }
 }
