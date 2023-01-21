@@ -779,7 +779,7 @@
     "en": "Delete local data after importing",
     "fr": "Supprimer les données locales après avoir importé",
     "zh-Hant-TW": "匯入後刪除原本數據"
-    "tr": "İçe aktardıktan sonra yerel verileri silin",
+    "tr": "İçe aktardıktan sonra yerel verileri sil",
   },
   "csvImport_imported": {
     "en": "Imported",
@@ -803,46 +803,55 @@
     "en": "Paste data here",
     "fr": "Coller les données ici",
     "zh-Hant-TW": "黏貼數據於此"
+    "tr": "Verileri buraya yapıştırın",
   },
   "csvImport_pleaseCopyPasteData": {
     "en": "Please copy and paste the CSV data",
     "fr": "Veuillez copier et coller les données CSV",
     "zh-Hant-TW": "請複製並貼上CSV數據"
+    "tr": "Lütfen CSV verilerini kopyalayıp yapıştırın",
   },
   "csvImport_sizeRestriction": {
     "en": "Use File option if you have a lot of data, since Android has a 1 MB size restriction for Clipboard/Email.",
     "zh-Hant-TW": "由於安卓系統只提供 1 MB 給剪貼簿/Email，如果你有很多的資料，請使用檔案選項。"
+    "tr": "Android'de Pano/E-posta için 1 MB boyut sınırlaması olduğundan, çok fazla veriniz varsa dosya seçeneğini kullanın.",
   },
   "csvImport_recognizedHeadersHelp": {
     "en": "Recognized CSV Headers:\\n\\nSymbol: Symbol name (i.e. BB)\\nPortfolio: Portfolio the quote belongs to\\nShares: Shares owned\\nType: Buy, Sell, Buy to Cover, Sell Short\\nPrice: Cost per share\\nCommission: Total commissions\\nDate: Date of transaction (YYYY-MM-DD GMT+HH:MM), i.e. 2017–05–25 GMT+01:00\\nNotes: Additional notes\\n\\nTo see a sample CSV, you can export a CSV from the app.\\n\\nThe Date format must be correct or the date will not be imported. If you are using Excel, you can customize the format of the generated dates. 2016–11–25 GMT-08:00 is a valid date, 11–25–2017 is not.",
     "zh-Hant-TW": "確認 CSV 標題:\\n\\n代碼: 代碼名稱 (例. BB)\\n組合: 股票屬於組合\\n股數: 擁有股數\\n類別: 買, 賣, 空單補回, 賣空\\n價格: 每股均價\\n手續費: 總手續費\\n日期: 成交日期 (YYYY-MM-DD GMT+HH:MM), 例. 2017–05–25 GMT+01:00\\n備註: 附註\\n\\n不知道CSV格式的話,你可以從app匯出CSV.\\n\\n日期格式一定要正確,否則該日期將不會被匯入.如果是使用Excel的話,可以客製化日期格式 2016–11–25 GMT-08:00 這個日期格式是可以的, 11–25–2017 則不行."
-  },
+     },
   "csvImport_unableToDownload": {
     "en": "Unable to download CSV file",
     "fr": "Impossible de télécharger le fichier CSV",
     "zh-Hant-TW": "無法下載CSV檔案"
+    "tr": "CSV dosyası indirilemiyor",
   },
   "customizeFont_preview": {
     "en": "Preview:",
     "fr": "Aperçu :",
     "zh-Hant-TW": "預覽"
+    "tr": "Önizleme",
   },
   "customizeFont_title": {
     "en": "Customize Font Size",
     "fr": "Personnaliser la taille de la police",
     "zh-Hant-TW": "字體大小"
+    "tr": "Yazı boyutu özelleştirme",
   },
   "faq_canIHaveTrial": {
     "en": "Can I have a free trial?",
     "zh-Hant-TW": "有免費試用嗎?"
+    "tr": "Ücretsiz deneme alabilir miyim?",
   },
   "faq_canIHaveTrialAnswer": {
     "en": "First time subscribers have 1 week free trial. You can cancel anytime by clicking manage subscriptions. On the purchase confirmation dialog, Google Play will confirm the trial time if you are eligible for a trial.",
     "zh-Hant-TW": "第一次訂閱享有1週免費體驗.點選管理訂閱,你隨時可以取消訂閱."
+    "tr": "İlk kez abone olanların 1 haftalık ücretsiz deneme süresi vardır. Abonelikleri yönet seçeneğine tıklayarak istediğiniz zaman iptal edebilirsiniz. Satın alma onayı iletişim kutusunda, deneme için uygunsanız Google Play deneme süresini onaylayacaktır.",
   },
   "faq_paidAlready": {
     "en": "I paid for the app already, but the app does not remember or recognize my purchase",
     "zh-Hant-TW": "我已經付款過了，但 app 不記得或不認得我有訂閱過"
+    "tr": "Uygulama için zaten ödeme yaptım, ancak uygulama satın alma işlemimi hatırlamıyor veya tanımıyor",
   },
   "faq_paidAlreadyAnswer": {
     "en": "Please make sure you are logged into the account used to make the purchase and click \\'Restore Purchases\\'. If you can\\'t restore the purchase, please reach out to us via support."
@@ -850,24 +859,29 @@
   "faq_whySubscriptionFee": {
     "en": "Why is there a subscription fee?",
     "zh-Hant-TW": "為什麼需要訂閱費用?"
+    "tr": "Neden bir abonelik ücreti var?",
   },
   "faq_whySubscriptionFeeP1": {
     "en": "We are an online service and must pay for our servers, data feeds, news sources, respond to customer support, maintain our servers and regularly ship new features. These are expensive and ongoing monthly costs, unlike offline software.",
     "zh-Hant-TW": "MSP為線上軟體服務,須支付伺服器、數據、新聞、人事成本等開支,以維持產品的穩定與提供更多元的產品服務."
+    "tr": "Biz çevrimiçi bir hizmetiz ve sunucularımız, veri akışlarımız, haber kaynaklarımız için ödeme yapmak, müşteri desteğine yanıt vermek, sunucularımızın bakımını yapmak ve düzenli olarak yeni özellikler göndermek zorundayız. Bunlar, çevrimdışı yazılımların aksine pahalı ve devam eden aylık maliyetlerdir.",
   },
   "faq_whySubscriptionFeeP2": {
     "en": "Advertising help pay some of our costs. Customers who want a premium ad-free experience and want to support the development of the app can subscribe to the premium plan. Thank you for your support!",
     "zh-Hant-TW": "MSP盡可能提供使用者優良的使用體驗,將廣告干擾降至最低.有限的廣告收入並無法足夠負擔維護與提供更加體驗.如果喜歡我們的產品,並且享受無廣告干擾的Premium體驗,並且支持我們提供更優良的服務與體驗,請訂閱MSP Premium.MSP開發團隊感謝您的支持與愛戴!"
+    "tr": "Reklamlar maliyetlerimizin bir kısmının karşılanmasına yardımcı oluyor. Premium reklamsız bir deneyim isteyen ve uygulamanın gelişimini desteklemek isteyen müşterilerimiz premium plana abone olabilirler. Desteğiniz için teşekkür ederiz!",
   },
   "generic_accountX": {
     "_formatted": false,
     "en": "Account: %s",
     "fr": "Compte : %s",
     "zh-Hant-TW": "帳戶: %s"
+    "tr": "Hesap: %s",
   },
   "generic_active": {
     "en": "Active",
     "zh-Hant-TW": "啟用"
+    "tr": "Aktif",
   },
   "generic_ad": {
     "en": "Ad",
@@ -887,11 +901,13 @@
   "generic_additionalOptions": {
     "en": "Additional Options",
     "zh-Hant-TW": "額外的選項"
+    "tr": "İlave seçenekler",
   },
   "generic_agreePrivacyPolicyAndTermsOfUse": {
     "en": "By continuing, you agree to the\\nPrivacy Policy and Terms of Use",
     "fr": "En continuant, vous acceptez les\\nConditions d\\'utilisation et Politique de confidentialité",
     "zh-Hant-TW": "如要繼續，您需要同意隱私權政策與使用規範"
+    "tr": "Devam ederek Gizlilik Politikasını ve Kullanım Koşullarını\\nkabul etmiş olursunuz",
   },
   "generic_appLockHelp": {
     "en": "Enabling App Lock will prompt for a Passcode or Face ID/Touch ID when the app is launched. If you lose your Passcode, you will need to re-install the app."
@@ -899,104 +915,130 @@
   "generic_apply": {
     "en": "Apply",
     "zh-Hant-TW": "套用"
+    "tr": "Uygula",
+    
   },
   "generic_autoRefresh": {
     "en": "Auto-refresh",
     "fr": "Mise à jour automatique",
     "zh-Hant-TW": "自動重新整理"
+    "tr": "Otomatik yenile",
   },
   "generic_autoRefreshOnWeekends": {
     "en": "Auto-refresh on weekends",
     "fr": "Mise à jour automatique les week-ends",
     "zh-Hant-TW": "週末自動重新整理"
+    "tr": "Haftasonları otomatik yenile",
   },
   "generic_autoRefreshEndTime": {
     "en": "Auto-refresh end time",
     "fr": "Heure de fin de la mise à jour automatique",
     "zh-Hant-TW": "自動重新整理結束時間"
+    "tr": "Otomatik yenileme bitiş zamanı",
   },
   "generic_autoRefreshStartTime": {
     "en": "Auto-refresh start time",
     "fr": "Heure de début de la mise à jour automatique",
     "zh-Hant-TW": "自動重新整理開始時間"
+    "tr": "Otomatik yenileme bbaşlangıç zamanı",
   },
   "generic_backup": {
     "en": "Backup",
     "zh-Hant-TW": "備份"
+    "tr": "Yedekleme",
   },
   "generic_beginImport": {
     "en": "Begin Import",
     "zh-Hant-TW": "開始匯入"
+    "tr": "İçe aktaryamaya başla",
   },
   "generic_calculate": {
     "en": "Calculate",
     "zh-Hant-TW": "金額統計"
+    "tr": "Hesapla",
   },
   "generic_calculating": {
     "en": "Calculating…"
+    "tr": "Hesaplanıyor",
   },
   "generic_cancel": {
     "en": "Cancel",
     "fr": "Annuler",
     "zh": "取消",
-    "zh-Hant-TW": "取消"
+    "zh-Hant-TW": "取消",
+    "tr": "İptal",
   },
   "generic_cant_send_email_error": {
     "en": "Can\\'t send email. Please check that email has been set up properly on your device."
+    "tr": "E-posta gönderilemiyor. Lütfen cihazınızda e-postanın doğru şekilde kurulup kurulmadığını kontrol edin.",
   },
   "generic_changePasscode": {
     "en": "Change Passcode"
+    "tr": "Parolayı Değiştir",
   },
   "generic_checkOutThisApp": {
     "en": "Check out this app!",
     "zh-Hant-TW": "查看這個 app"
+    "tr": "Bu uygulamaya bir göz atın!",
   },
   "generic_checkOutThisAppLong": {
     "en": "Check out My Stocks Portfolio, an app for monitoring your stocks and portfolios!"
+    "tr": "Hisse senetlerinizi ve portföylerinizi izlemek için bir uygulama olan My Stocks Portfolio'ya göz atın!",
   },
   "generic_clientOutOfDate": {
     "en": "It looks like your app version is out of date, so this type is unrecognized. Please update to the latest version of the app."
+    "tr": "Uygulama sürümünüz güncel değil gibi görünüyor, bu nedenle bu tür tanınmıyor. Lütfen uygulamanın en son sürümüne güncelleyin.",
   },
   "generic_closeDrawerAccessibility": {
     "en": "Close navigation drawer",
     "fr": "Fermer le tiroir de navigation",
     "zh-Hant-TW": "關閉側選單"
+    "tr": "Gezinme çekmecesini kapatın",
   },
   "generic_connectionIssue": {
     "en": "Could not reach servers. Please check your connection and try again.",
     "zh-Hant-TW": "無法連結到伺服器，請檢查網路連線並再試一次"
+    "tr": "Sunuculara ulaşılamadı. Lütfen bağlantınızı kontrol edin ve tekrar deneyin.",
   },
   "generic_confirmPasscode": {
     "en": "Confirm Passcode"
+    "tr": "Parolayı Onayla",
   },
   "generic_contactUs": {
     "en": "Contact Us",
     "fr": "Contactez-nous",
     "zh": "联络我们",
     "zh-Hant-TW": "聯繫我們"
+    "tr": "Bize Ulaşın",
   },
   "generic_continue": {
     "en": "Continue",
     "fr": "Continuer",
     "zh-Hant-TW": "繼續"
+    "tr": "Devam",
   },
   "generic_copiedToClipboard": {
     "en": "Copied to Clipboard"
+    "tr": "Panoya Kopyalandı",
   },
   "generic_copyToClipboard": {
     "en": "Copy to Clipboard"
+    "tr": "Panoya Kopyala",
   },
   "generic_date": {
     "en": "Date",
     "zh-Hant-TW": "日期"
+    "tr": "Tarih",
   },
   "generic_delete": {
     "en": "Delete",
     "fr": "Effacer",
     "zh-Hant-TW": "刪除"
+    "tr": "Sil",
   },
   "generic_disableWarningInSettings": {
     "en": "You can disable this warning in the settings section in the app, general settings"
+    "tr": "Bu uyarıyı uygulamadaki ayarlar bölümünden, genel ayarlardan devre dışı bırakabilirsiniz",
   },
   "generic_dismiss": {
     "en": "Dismiss",
@@ -1006,21 +1048,25 @@
   "generic_displayLanguage": {
     "en": "Display Language",
     "zh-Hant-TW": "顯示語言"
+    "tr": "Görüntüleme Dili",
   },
   "generic_done": {
     "en": "Done",
     "fr": "Terminé",
     "zh": "完成",
-    "zh-Hant-TW": "完成"
+    "zh-Hant-TW": "完成",
+    "tr": "Bitti",
   },
   "generic_edit": {
     "en": "Edit",
     "fr": "Modifier",
     "zh-Hant-TW": "編輯"
+    "tr": "Düzenle",
   },
   "generic_email": {
     "en": "Email",
     "zh-Hant-TW": "Email"
+    "tr": "Eposta",
   },
   "generic_emailOrCopyPaste": {
     "en": "Email / Copy & Paste",
