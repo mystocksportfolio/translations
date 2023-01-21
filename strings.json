@@ -297,7 +297,7 @@
     "fr": "Acheter",
     "zh": "买",
     "zh-Hant-TW": "買"
-    "tr": "Al",
+    "tr": "Alış",
   },
   "addQuoteTransaction_typeBuyToCover": {
     "en": "Buy to Cover",
@@ -328,7 +328,7 @@
     "fr": "Vendre",
     "zh": "卖",
     "zh-Hant-TW": "賣"
-    "tr": "Sat",
+    "tr": "Satış",
   },
   "addQuoteTransaction_typeSellShort": {
     "en": "Sell Short",
@@ -702,74 +702,90 @@
     "en": "Hollow Candle",
     "fr": "Bougie creuse",
     "zh-Hant-TW": "空心K線"
+    "tr": "İçi Boş Mum",
   },
   "chart_typeLine": {
     "en": "Line",
     "fr": "Ligne",
     "zh-Hant-TW": "線形圖"
+    "tr": "Çizgi",
   },
   "chart_typeOHLC": {
     "en": "OHLC",
     "fr": "OHLC",
     "zh-Hant-TW": "美國線"
+    "tr": "OHLC",
   },
   "chart_volume": {
     "en": "Volume",
     "fr": "Volume",
     "zh-Hant-TW": "交易量"
+    "tr": "Hacim",
   },
   "csv_fileEmpty": {
     "en": "File is empty",
     "zh-Hant-TW": "空白檔案"
+    "tr": "Dosya boş",
   },
   "csv_unableToOpen": {
     "en": "Unable to open file",
     "zh-Hant-TW": "無法開啟檔案"
+    "tr": "Dosya açılamadı",
   },
   "csvExport_exportAndOverwrite": {
     "en": "Export and overwrite existing file",
     "fr": "Exporter et écraser le fichier existant",
     "zh-Hant-TW": "匯出並取代既有檔案"
+    "tr": "Dışa aktar ve mevcut dosya üzerine yaz",
   },
   "csvExport_externalStorageHelp": {
     "en": "To export, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nYou can choose to export to SDCard or local storage (open the side menu in the file picker), or Google Drive. If you export to Google Drive, your file will be accessible from your computer at https://drive.google.com."
+    "tr": "Dışa aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\n SDCard'a veya yerel depolama alanına (dosya seçicideki yan menüyü açın) ya da Google Drive'a dışa aktarmayı seçebilirsiniz. Google Drive'a dışa aktarırsanız, dosyanıza bilgisayarınızdan https://drive.google.com adresinden erişilebilir.",
   },
   "csvExport_externalStorageUploaded": {
     "en": "CSV saved to External Storage",
     "zh-Hant-TW": "儲存CSV檔案至外部儲存裝置"
+    "tr": "CSV Harici Depolamaya kaydedildi",
   },
   "csvExport_unableToUpload": {
     "en": "Unable to upload CSV file",
     "fr": "Impossible de charger le fichier CSV",
     "zh-Hant-TW": "無法上傳CSV檔案"
+    "tr": "CSV dosyası yüklenemedi",
   },
   "csvImport_copyPasteHelp": {
     "en": "Copy and paste the text containing the CSV data into the text field below. Make sure to copy and paste the headers as well. Each line of the CSV should be on a separate line.",
     "fr": "Copiez et collez le texte contenant les données CSV dans le champ de texte ci-dessous. Assurez-vous de copier et coller les en-têtes également. Chaque ligne du fichier CSV doit être sur une ligne distincte.",
     "zh-Hant-TW": "複製貼上CSV資料內容文字至文字輸入框內。請確認是否也有複製貼上標題，每一個CSV欄位應該要分開成不同的欄位。"
+    "tr": "CSV verilerini içeren metni kopyalayıp aşağıdaki metin alanına yapıştırın. Başlıkları da kopyalayıp yapıştırdığınızdan emin olun. CSV'nin her satırı ayrı bir satırda olmalıdır.",
   },
   "csvImport_couldNotFindData": {
     "en": "Could not find data to import",
     "fr": "Impossible de trouver les données à importer",
     "zh-Hant-TW": "找不到可匯入數據"
+    "tr": "İçe aktarılacak veri bulunamadı",
   },
   "csvImport_fileWasEmpty": {
     "en": "CSV file was empty",
     "fr": "Le fichier CSV était vide",
     "zh-Hant-TW": "空白CSV檔案"
+    "tr": "CSV dosyası boş",
   },
   "csvImport_externalStorageHelp": {
     "en": "To import, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nTo view your Google Drive files from your computer, you can visit https://drive.google.com. You can also import from your SDCard or any other external storage (open the side menu in the file picker)."
+    "tr": "İçe aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\nGoogle Drive dosyalarınızı bilgisayarınızdan görüntülemek için https://drive.google.com adresini ziyaret edebilirsiniz. SDCard'ınızdan veya başka bir harici depolama alanından da içe aktarabilirsiniz (dosya seçicideki yan menüyü açın).",
   },
   "csvImport_importAndOverwrite": {
     "en": "Delete local data after importing",
     "fr": "Supprimer les données locales après avoir importé",
     "zh-Hant-TW": "匯入後刪除原本數據"
+    "tr": "İçe aktardıktan sonra yerel verileri silin",
   },
   "csvImport_imported": {
     "en": "Imported",
     "fr": "Importé",
     "zh-Hant-TW": "匯入"
+    "tr": "İçe aktarıldı",
   },
   "csvImport_importedQuotesAndHoldingsFormatted": {
     "_formatted": false,
@@ -781,6 +797,7 @@
     "en": "Importing…",
     "fr": "Importation…",
     "zh-Hant-TW": "匯入中…"
+    "tr": "İçe aktarılıyor...",
   },
   "csvImport_pasteDataHere": {
     "en": "Paste data here",
