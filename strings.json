@@ -45,7 +45,7 @@
   "accounting_highCostDescription": {
     "en": "Shares that were most expensive are sold first",
     "zh-Hant-TW": "成本最高的先賣"
-     "tr": "Önce en pahalı hisseler satılır",
+    "tr": "Önce en pahalı hisseler satılır",
   },
   "accounting_lowCost": {
     "en": "Low Cost",
