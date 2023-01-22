@@ -1071,89 +1071,111 @@
   "generic_emailOrCopyPaste": {
     "en": "Email / Copy & Paste",
     "zh-Hant-TW": "Email / 複製 & 貼上"
+    "tr": "Eposta / Kopyala & Yapıştır",
   },
   "generic_enableAppLock": {
     "en": "Enable App Lock"
+    "tr": "Uygulama Kilidini Etkinleştir",
   },
   "generic_enableFaceOrTouchID": {
     "en": "Enable Face ID/Touch ID"
+    "tr": "Face ID/Touch ID'yi etkinleştirin",
   },
   "generic_enableWidgetLock": {
     "en": "Enable Widget Lock"
+    "tr": "Widget Kilidini Etkinleştir",
   },
   "generic_enterNotes": {
     "en": "Enter notes",
     "fr": "Entrer des notes",
     "zh-Hant-TW": "輸入備註"
+    "tr": "Notları girin",
   },
   "generic_enterPasscode": {
     "en": "Enter Passcode"
+    "tr": "Parolayı girin",
   },
   "generic_enterValueBetween0And100": {
     "en": "Enter a value between 0-100",
     "fr": "Entrer une valeur entre 0 et 100",
     "zh-Hant-TW": "輸入0-100之間數值"
+    "tr": "0-100 arasında bir değer girin",
   },
   "generic_enterYourAnswer": {
     "en": "Enter your answer",
     "fr": "Entrez votre réponse",
     "zh-Hant-TW": "輸入答案"
+    "tr": "Cevabınızı girin",
   },
   "generic_enterYourQuestion": {
     "en": "Enter your question",
     "fr": "Entrez votre question",
     "zh-Hant-TW": "輸入問題"
+    "tr": "Sorunuzu girin",
   },
   "generic_error": {
     "en": "Error"
+    "tr": "Hata",
   },
   "generic_errorImageAccessibility": {
     "en": "Error Image",
     "fr": "Image d\\'erreur",
     "zh-Hant-TW": "影像錯誤"
+    "tr": "Hata Görüntüsü",
   },
   "generic_errorFetchingResults": {
     "en": "Error fetching results. Please try again later."
+    "tr": "Sonuçlar alınırken hata oluştu. Lütfen daha sonra tekrar deneyin",
   },
   "generic_exitApplication_question": {
     "en": "Exit Application?",
     "zh-Hant-TW": "離開應用程式"
+    "tr": "Uygulamadan çıkılsın mı?",
   },
   "generic_exitAreYouSure": {
     "en": "Are you sure you want to exit?",
     "zh-Hant-TW": "確定要離開嗎?"
+    "tr": "Çıkmak istediğinizden emin misiniz?",
   },
   "generic_export": {
     "en": "Export…",
     "zh-Hant-TW": "匯出中…"
+    "tr": "Dışa aktar...?",
   },
   "generic_exportData": {
     "en": "Export Data"
+    "tr": "Verileri dışa aktar"
   },
   "generic_exportToEmail": {
     "en": "Export to Email"
+    "tr": "Epostaya aktar"
   },
   "generic_exportToFile": {
     "en": "Export to File"
+    "tr": "Dosyaya aktar"
   },
   "generic_faq": {
     "en": "Frequently Asked Questions",
     "fr": "Questions fréquentes",
     "zh": "常见问题",
     "zh-Hant-TW": "常見問題"
+    "tr": "Sıkça Sorulan Sorular",
   },
   "generic_failedToOpenBrowser": {
     "en": "Could not open your web browser. Please check that you have one installed."
+    "tr": "Web tarayıcınız açılamadı. Lütfen yüklü bir tarayıcınız olup olmadığını kontrol edin."
   },
   "generic_filter": {
     "en": "Filter",
     "fr": "Filtre",
     "zh-Hant-TW": "篩選"
+    "tr": "Filtre",
   },
   "generic_fontSize": {
     "en": "Font Size",
     "fr": "Taille de police",
     "zh-Hant-TW": "字體大小"
+    "tr": "Yazı Tipi Boyutu",
   },
   "generic_from_colon": {
     "en": "From:",
@@ -1161,36 +1183,44 @@
     "fr": "De :",
     "zh": "从：",
     "zh-Hant-TW": "從："
+    "tr": "Kimden:",
   },
   "generic_help": {
     "en": "Help",
     "fr": "Aide",
     "zh-Hant-TW": "幫助"
+    "tr": "Yardım",
   },
   "generic_hide": {
     "en": "Hide",
     "zh-Hant-TW": "隱藏"
+    "tr": "Gizle",
   },
   "generic_hideAdvertisingAccessibility": {
     "en": "Hide Advertising",
     "fr": "Cacher la publicité",
     "zh-Hant-TW": "隱藏廣告"
+    "tr": "Reklamları Gizle",
   },
   "generic_iconAccessibility": {
     "en": "Icon",
     "fr": "Icône",
     "zh-Hant-TW": "圖示"
+    "tr": "İkon",
   },
   "generic_import": {
     "en": "Import…",
     "zh-Hant-TW": "匯入中…"
+    "tr": "İçe aktar...",
   },
   "generic_importData": {
     "en": "Import Data"
+    "tr": "Datayı içe aktar",
   },
   "generic_language": {
     "en": "Language",
     "zh-Hant-TW": "語言"
+    "tr": "Dil",
   },
   "generic_larger": {
     "en": "Larger",
