@@ -1215,7 +1215,7 @@
   },
   "generic_importData": {
     "en": "Import Data"
-    "tr": "Datayı içe aktar",
+    "tr": "veriyi içe aktar",
   },
   "generic_language": {
     "en": "Language",
@@ -1225,103 +1225,126 @@
   "generic_larger": {
     "en": "Larger",
     "fr": "Plein écran"
+    "tr": "Daha büyük",
   },
   "generic_later": {
     "en": "Later",
     "fr": "Plus tard"
+    "tr": "Sonra",
   },
   "generic_loading": {
     "en": "Loading…"
+    "tr": "Yükleniyor...",
   },
   "generic_manageAlerts": {
     "en": "Manage Alerts",
     "fr": "Gérer les alertes",
     "zh-Hant-TW": "管理到價通知"
+    "tr": "Uyarıları Yönet",
   },
   "generic_manageExistingAlerts": {
     "en": "Manage existing alerts",
     "zh-Hant-TW": "管理到價通知列表"
+    "tr": "Mevcut uyarıları yönet",
   },
   "generic_manualSort": {
     "en": "Manual Sort",
     "zh-Hant-TW": "手動分類"
+    "tr": "Manuel Sıralama",
   },
   "generic_month": {
     "en": "Month",
     "zh-Hant-TW": "月"
+    "tr": "Ay",
   },
   "generic_name": {
     "en": "Name",
     "fr": "Nom",
     "zh-Hant-TW": "名稱"
+    "tr": "Ad",
   },
   "generic_nameOptional": {
     "en": "Name (Optional)",
     "fr": "Nom (Optionel)",
     "zh-Hant-TW": "名稱（選填）"
+    "tr": "Ad ( İsteğe bağlı)",
   },
   "generic_navigateUpAccessibility": {
     "en": "Navigate up",
     "fr": "Naviguer vers le haut"
+    "tr": "Yukarı git",
   },
   "generic_navigationAppBarAccessibility": {
     "en": "Navigation Application Bar"
+    "tr": "Uygulama Gezinme Barı",
   },
   "generic_navigationAccessibility": {
     "en": "Navigation",
     "fr": "Navigation",
     "zh-Hant-TW": "導覽"
+    "tr": "Gezinme",
   },
   "generic_navigationTabsAccessibility": {
     "en": "Navigation Tabs",
     "zh-Hant-TW": "導覽頁籤"
+    "tr": "Gezinme Sekmeleri",
   },
   "generic_navigationToolbarAccessibility": {
     "en": "Navigation Toolbar",
     "zh-Hant-TW": "導覽工具列"
+    "tr": "Gezinme Araç Çubuğu",
   },
   "generic_networkNotAvailable": {
     "en": "Network not available. Please connect to the internet and try again.",
     "fr": "Réseau non disponible Veuillez vous connecter à Internet et réessayer.",
     "zh-Hant-TW": "網路不給力，稍後請再重新連結網路"
+    "tr": "Ağ mevcut değil. Lütfen internete bağlanın ve tekrar deneyin.",
   },
   "generic_newVersionAvailable": {
     "en": "New version available",
     "fr": "Nouvelle version disponible",
     "zh-Hant-TW": "新版本"
+    "tr": "Yeni sürüm mevcut",
   },
   "generic_newVersionAvailableHardUpgradeHelp": {
     "en": "Please upgrade to the newest version of the app for important bug fixes.",
     "fr": "Veuillez mettre à jour vers la dernière version de l\\'application pour bénéficier de correctifs importants.",
     "zh-Hant-TW": "修復重大程式錯誤，請更新至最新版本"
+    "tr": "Önemli hata düzeltmeleri için lütfen uygulamanın en yeni sürümüne yükseltin.",
   },
   "generic_newVersionAvailableHelp": {
     "en": "There is a new version of the app available and it is recommended to update. Download the update?",
     "fr": "Il existe une nouvelle version de l\\'application disponible et il est recommandé de la mettre à jour. Télécharger la mise à jour?",
     "zh-Hant-TW": "新版本已釋出，建議更新至最新版本。要下載最新版本嗎?"
+    "tr": "Uygulamanın yeni bir sürümü mevcut ve güncellemeniz önerilir. Güncelleme indirilsin mi?",
   },
   "generic_no": {
     "en": "No",
     "fr": "Non",
     "zh-Hant-TW": "不"
+    "tr": "Hayır",
   },
   "generic_noResults": {
     "en": "No Results",
     "fr": "Aucun résultat",
     "zh-Hant-TW": "沒有結果"
+    "tr": "Sonuç Yok",
   },
   "generic_notesOptional": {
     "en": "Notes (Optional)",
     "zh-Hant-TW": "備註（選填）"
+    "tr": "Notlar (İsteğe bağlı)",
   },
   "generic_notificationTestInProgress": {
     "en": "You should receive a test notification in a few seconds",
     "zh-Hant-TW": "您將會在幾秒內收到測試通知"
+    "tr": "Birkaç saniye içinde bir test bildirimi almalısınız",
   },
   "generic_noThanks": {
     "en": "No Thanks",
     "fr": "Non merci",
     "zh-Hant-TW": "不,謝謝"
+    "tr": "Hayır Teşekkürler",
   },
   "generic_none": {
     "en": "None",
@@ -1332,110 +1355,134 @@
     "en": "N/A",
     "fr": "N/A",
     "zh-Hant-TW": "N/A"
+    "tr": "N/A",
   },
   "generic_notes": {
     "en": "Notes",
     "fr": "Notes",
     "zh-Hant-TW": "備註"
+    "tr": "Notlar",
   },
   "generic_ok": {
     "en": "OK",
     "fr": "OK",
     "zh-Hant-TW": "OK"
+    "tr": "Tamam",
   },
   "generic_openDrawerAccessibility": {
     "en": "Open navigation drawer",
     "fr": "Ouvrir le tiroir de navigation",
     "zh-Hant-TW": "開啟側選單"
+    "tr": "Gezinti bölmesini açın",
   },
   "generic_passcode": {
     "en": "Passcode"
+    "tr": "Parola",
   },
   "generic_pasteFromClipboard": {
     "en": "Paste from Clipboard",
     "zh-Hant-TW": "從備忘錄貼上"
+    "tr": "Panodan Yapıştır",
   },
   "generic_perMonthShort": {
     "en": "/month",
     "fr": "/mois",
     "zh-Hant-TW": "/月"
+    "tr": "/Ay",
   },
   "generic_perYearShort": {
     "en": "/year",
     "zh-Hant-TW": "/年"
+    "tr": "/Yıl",
   },
   "generic_pickAFile": {
     "en": "Pick a File"
+    "tr": "Bir dosya seçin"
   },
   "generic_pleaseAgreeToPrivacyPolicyAndTerms": {
     "en": "Please agree to the Privacy Policy and Terms of Use before continuing",
     "fr": "Veuillez accepter la Politique de confidentialité et les conditions d\\'utilisation avant de continuer",
     "zh-Hant-TW": "若要繼續，請同意隱私權政策與使用規範"
+    "tr": "Lütfen devam etmeden önce Gizlilik Politikası ve Kullanım Koşullarını kabul edin",
   },
   "generic_preview": {
     "en": "Preview",
     "zh-Hant-TW": "預覽"
+    "tr": "Görünüm",
   },
   "generic_privacyPolicy": {
     "en": "Privacy Policy",
     "fr": "Politique de confidentialité",
     "zh-Hant-TW": "隱私權政策"
+    "tr": "Gizlilik Politikası",
   },
   "generic_proceedOffline": {
     "en": "Proceed Offline"
+    "tr": "Çevirimdışı devam edin",
   },
   "generic_questionsViewFAQ": {
     "en": "View FAQ",
     "fr": "Voir FAQ",
     "zh-Hant-TW": "查看常見問題"
+    "tr": "SSS'ları görüntüle",
   },
   "generic_rangeTwoYearsCompact": {
     "en": "2Y",
     "de": "2J",
     "fr": "2a",
     "zh-Hant-TW": "二年"
+    "tr": "2Y",
   },
   "generic_rangeFiveYearsCompact": {
     "en": "5Y",
     "de": "5J",
     "fr": "5a",
     "zh-Hant-TW": "五年"
+    "tr": "5Y",
   },
   "generic_rangeTenYearsCompact": {
     "en": "10Y",
     "de": "10J",
     "fr": "10a",
     "zh-Hant-TW": "十年"
+    "tr": "10Y",
   },
   "generic_reactivate": {
     "en": "Re-activate"
+    "tr": "Yeniden etkinleştir"
   },
   "generic_refresh": {
     "en": "Refresh",
     "fr": "Rafraîchir",
     "zh-Hant-TW": "重新載入"
+    "tr": "Yenile",
   },
   "generic_refreshAccessibility": {
     "en": "Refresh",
     "fr": "Actualiser",
     "zh-Hant-TW": "重新載入"
+    "tr": "Yenile",
   },
   "generic_required": {
     "en": "Required"
+    "tr": "Gerekli"
   },
   "generic_retry": {
     "en": "Retry",
     "fr": "Réessayer",
     "zh-Hant-TW": "再試一次"
+    "tr": "Yeniden dene",
   },
   "generic_rotateScreen": {
     "en": "Rotate Screen",
     "fr": "Rotation de l\\'écran",
     "zh-Hant-TW": "旋轉螢幕"
+    "tr": "Ekranı Döndür",
   },
   "generic_save": {
     "en": "Save",
     "zh-Hant-TW": "省下"
+    "tr": "Kaydet",
   },
   "generic_saveXMoney": {
     "_formatted": false,
@@ -1445,54 +1492,66 @@
   },
   "generic_security": {
     "en": "Security"
+    "tr": "Güvenlik"
   },
   "generic_selected": {
     "en": "Selected"
+    "tr": "Seçildi"
   },
   "generic_selectFile": {
     "en": "Select File",
     "fr": "Sélectionner un fichier",
     "zh-Hant-TW": "選取檔案"
+    "tr": "Dosya seçin",
   },
   "generic_set": {
     "en": "Set",
     "fr": "Régler",
     "zh-Hant-TW": "設定"
+    "tr": "Ayarla",
   },
   "generic_setPasscode": {
     "en": "Set Passcode"
+    "tr": "Parola ayarla"
   },
   "generic_settings": {
     "en": "Settings",
     "fr": "Paramètres",
     "zh-Hant-TW": "設定"
+    "tr": "Ayarlar",
   },
   "generic_shareUsing": {
     "en": "Share using…"
+    "tr": "...Kullanarak paylaş"
   },
   "generic_show": {
     "en": "Show",
     "zh-Hant-TW": "顯示"
+    "tr": "Göster",
   },
   "generic_signInGoogleDrive": {
     "en": "Enable Google Drive account",
     "zh-Hant-TW": "使用 Google 雲端雲端硬碟帳戶"
+    "tr": "Google Drive hesabını etkinleştirin",
   },
   "generic_signOut": {
     "en": "Sign Out",
     "fr": "Déconnexion",
     "zh": "登出",
     "zh-Hant-TW": "登出"
+    "tr": "Çıkış Yap",
   },
   "generic_sign_in": {
     "en": "Sign In",
     "fr": "Se connecter",
     "zh": "登入",
     "zh-Hant-TW": "登入"
+    "tr": "Giriş Yap",
   },
   "generic_signInToSyncAcrossDevices": {
     "en": "Sign in to sync across devices",
     "zh-Hant-TW": "登入帳戶即可跨裝置備份"
+    "tr": "Cihazlar arasında senkronizasyon için oturum açın",
   },
   "generic_sincePlaceholder": {
     "en": "Since %s"
