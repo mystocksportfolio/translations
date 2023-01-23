@@ -1824,120 +1824,145 @@
   },
   "logInOut_signInToPurchase": {
     "en": "Sign in first so that your purchases are saved to the cloud, can restored, and synced to other devices? If you have multiple accounts on your phone, you can sign in so that the purchase is linked to the correct account."
+    "tr": "Satın aldıklarınızın buluta kaydedilmesi, geri yüklenebilmesi ve diğer cihazlarla senkronize edilebilmesi için önce oturum açın? Telefonunuzda birden fazla hesabınız varsa, satın alma işleminin doğru hesaba bağlanması için oturum açabilirsiniz."
   },
   "logInOut_signInToRestorePurchases": {
     "en": "Sign in to share purchases on the cloud? Click No if you want to use your local Google Play account. (If you have multiple accounts on your phone, Google Play sometimes restores it from the incorrect account. You should sign in to the correct account to workaround that issue.).\\n\\nNote: If your purchases are shared on the cloud and you are not signed in, they will be transferred from the cloud to your local account, and other signed in devices using purchases from the cloud will lose access to that purchase. To share purchases on the cloud, sign in, and then click restore, to transfer purchases from your local device to the cloud."
+    "tr": "Satın alımları bulutta paylaşmak için oturum açın. Yerel Google Play hesabınızı kullanmak istiyorsanız Hayır'a tıklayın. (Telefonunuzda birden fazla hesabınız varsa, Google Play bazen yanlış hesaptan geri yükler. Bu sorunu çözmek için doğru hesapta oturum açmalısınız).\\n\\nNot: Satın alımlarınız bulutta paylaşılıyorsa ve oturum açmadıysanız, buluttan yerel hesabınıza aktarılır ve buluttan satın alımları kullanan diğer oturum açmış cihazlar bu satın alımlara erişimini kaybeder. Satın alımları bulutta paylaşmak için oturum açın ve ardından satın alımları yerel cihazınızdan buluta aktarmak için geri yükle'ye tıklayın."
   },
   "logInOut_signOutOfGoogle": {
     "en": "Sign Out of Google",
     "fr": "Se déconnecter de Google",
+    "tr": "Google'dan Çıkış Yapın",
     "zh-Hant-TW": "登出Google帳戶"
   },
   "logInOut_signOutOrSwitchAccount": {
     "en": "Sign Out / Switch Account",
     "fr": "Se déconnecter / Changer de compte",
+    "tr": "Oturumu Kapat / Hesap Değiştir",
     "zh-Hant-TW": "登出 / 切換帳戶"
   },
   "logInOut_signingInToGoogle": {
     "en": "Signing in to Google…",
     "fr": "Connexion à Google…",
+    "tr": "Google'da oturum açıyorum...",
     "zh-Hant-TW": "透過Google帳戶登入…"
   },
   "logInOut_signingOutOfGoogle": {
     "en": "Signing out of Google…",
     "fr": "Déconnexion de Google…",
+    "tr": "Google'dan çıkış yapıyorum...",
     "zh-Hant-TW": "登出Google帳戶…"
   },
   "logInOut_switchAccount": {
     "en": "Switch Account",
     "fr": "Changer de compte",
+    "tr": "Hesap Değiştir",
     "zh-Hant-TW": "切換帳戶"
   },
   "logInOut_switchAccountHescription": {
     "en": "Sign in to another Google account",
     "fr": "Connexion à un autre compte Google",
+    "tr": "Başka bir Google hesabında oturum açın",
     "zh-Hant-TW": "使用另一個Google帳戶登入"
   },
   "news_browserTitle": {
     "en": "Browser",
     "fr": "Navigateur",
+    "tr": "Tarayıcı",
     "zh-Hant-TW": "瀏覽器"
   },
   "news_configureMarketNews": {
     "en": "Configure Market News"
+    "tr": "Piyasa Haberlerini Yapılandır"
   },
   "news_configureNews": {
     "en": "Configure News",
     "fr": "Régler les actualités",
+    "tr": "Haberleri Yapılandır",
     "zh-Hant-TW": "新聞偏好設定"
   },
   "news_configureNewsHelp": {
     "en": "Configure which categories to view market news for by tapping Configure News (Gear icon) in the menu, or by tapping here.",
     "fr": "Régler pour quels catégories visualiser les actualités en tapant Régler les actualités (icone roue dentée) dans le menu, ou en tapant ici."
+    "tr": "Hangi kategorilerde piyasa haberlerinin görüntüleneceğini Menüdeki Haberleri Yapılandır (Dişli simgesi) öğesine veya buraya dokunarak yapılandırabilirsiniz."
   },
   "news_fetchFailed": {
     "en": "Failed to fetch news. Please check that you have internet connection and try again later.",
     "fr": "Impossible d\\'aller chercher l\\'actualité. Veuillez vérifier que vous avez une connexion Internet et réessayer plus tard."
+    "tr": "Haberler alınamadı. Lütfen internet bağlantınızın olup olmadığını kontrol edin ve daha sonra tekrar deneyin.",
   },
   "news_filterNewsFromXFormatted": {
     "_formatted": false,
     "en": "Filter news from %s?",
     "fr": "Filtrer les nouvelles de %s ?",
+    "tr": "%s 'dan gelen haberleri filtreleyelim mi?",
     "zh-Hant-TW": "從 %s 篩選新聞?"
   },
   "news_filterNewsSourcesHelp": {
     "en": "To filter a news source, press-hold on it from the news listings page. To remove a filter, click on it below.",
     "fr": "Pour filtrer une source d\\'actualités, faites un clic long à partir de la page des nouvelles. Pour supprimer un filtre, cliquez ci-dessous.",
+    "tr": "Bir haber kaynağını filtrelemek için haber listeleri sayfasından üzerine basılı tutun. Aşağıdaki bir filtreyi kaldırmak için üzerine tıklayın.",
     "zh-Hant-TW": "於新聞列表中長按新聞，即可篩選新聞來源。點選即可移除篩選結果"
   },
   "news_filteredNewsSources": {
     "en": "Filtered News Sources",
     "fr": "Sources d\\'informations filtrées",
+    "tr": "Filtrelenmiş Haber Kaynakları",
     "zh-Hant-TW": "篩選新聞來源"
   },
   "news_help": {
     "en": "Which categories do you want to retrieve news for? To re-order, press-hold for two seconds and then drag up/down.",
     "fr": "Pour quels catégories voulez-vous recevoir les actualités? Pour ordonner la liste, maintenez appuyé durant deux secondes et déplacer vers le haut ou le bas."
+    "tr": "Hangi kategoriler için haber almak istiyorsunuz? Yeniden sıralamak için iki saniye basılı tutun ve ardından yukarı/aşağı sürükleyin.",
   },
   "news_imageAccessibility": {
     "en": "News Image",
     "fr": "Image de l\\'actualité",
+    "tr": "Haber Görüntüsü",
     "zh-Hant-TW": "影像"
   },
   "news_loading": {
     "en": "Loading News…",
     "fr": "Chargement des actualités…",
+    "tr": "Haberler Yükleniyor...",
     "zh-Hant-TW": "載入新聞中…"
   },
   "news_share": {
     "en": "Share",
     "fr": "Partager",
+    "tr": "Paylaş",
     "zh-Hant-TW": "分享"
   },
   "news_sharedViaFormatted": {
     "_formatted": false,
     "en": "shared via %s",
     "fr": "partagé via %s",
+    "tr": "%s ile paylaş",
     "zh-Hant-TW": "透過 %s 分享"
   },
   "news_sorryCouldNotOpenNewsArticle": {
     "en": "Sorry, we couldn\\'t open that news article.",
     "fr": "Désolé, nous ne pouvons pas ouvrir cet article.",
+    "tr": "Üzgünüz, o haberi açamadık.",
     "zh-Hant-TW": "抱歉～無法開啟此新聞"
   },
   "news_title": {
     "en": "News",
     "fr": "Actualités",
+    "tr": "Haberler",
     "zh-Hant-TW": "新聞"
   },
   "password_confirmPassword": {
     "en": "Confirm Password",
     "fr": "Confirmez le mot de passe",
+    "tr": "Şifreyi Onayla",
     "zh-Hant-TW": "確認密碼"
   },
   "password_enable": {
     "en": "Enable password protection",
     "fr": "Activer la protection par mot de passe",
+    "tr": "Parola korumasını etkinleştir",
     "zh-Hant-TW": "啟用密碼保護"
   },
   "password_enableHelp": {
@@ -1947,40 +1972,48 @@
   "password_enterPassword": {
     "en": "Enter Password",
     "fr": "Entrer le mot de passe",
+    "tr": "Şifreyi Girin",
     "zh-Hant-TW": "輸入密碼"
   },
   "password_enterPasswordPrompt": {
     "en": "Please enter a password",
     "fr": "Veuillez entrer un mot de passe",
+    "tr": "Lütfen bir şifre girin",
     "zh-Hant-TW": "請輸入密碼"
   },
   "password_enterPasswordTimeoutPrompt": {
     "en": "Please enter a valid password timeout (integer between 5 to 3600)",
     "fr": "Veuillez entrer un délai d\\'expiration de mot de passe valide (entier compris entre 5 et 3600)"
+    "tr": "Lütfen geçerli bir parola zaman aşımı girin (5 ila 3600 arasında tamsayı)",
   },
   "password_enterPasswordToContinue": {
     "en": "Enter password to continue",
     "fr": "Entrez le mot de passe pour continuer",
+    "tr": "Devam etmek için şifreyi girin",
     "zh-Hant-TW": "輸入密碼後繼續"
   },
   "password_incorrectConfirmationPassword": {
     "en": "Incorrect confirmation password",
     "fr": "Mot de passe de confirmation incorrect",
+    "tr": "Hatalı onay şifresi",
     "zh-Hant-TW": "再次確認的密碼不正確"
   },
   "password_incorrectPassword": {
     "en": "Incorrect password",
     "fr": "Mot de passe incorrect",
+    "tr": "Yanlış şifre",
     "zh-Hant-TW": "密碼不正確"
   },
   "password_pleaseConfirmYourPassword": {
     "en": "Please confirm your password",
     "fr": "S\\'il vous plaît confirmez votre mot de passe",
+    "tr": "Lütfen şifrenizi onaylayın",
     "zh-Hant-TW": "請確認你的密碼"
   },
   "password_showPortfolioInfoOnWidget": {
     "en": "Show portfolio information on widget",
     "fr": "Afficher les informations de portefeuille sur le widget",
+    "tr": "Widget'ta portföy bilgilerini göster",
     "zh-Hant-TW": "顯示投資組合資訊於小工具上"
   },
   "password_showQuotesListOnWidget": {
@@ -1991,10 +2024,12 @@
   "password_timeoutInSeconds": {
     "en": "Timeout in Seconds",
     "fr": "Délai d\\'attente en Secondes"
+    "tr": "Saniye cinsinden zaman aşımı",
   },
   "password_title": {
     "en": "Password Protection",
     "fr": "Protection par mot de passe",
+    "tr": "Parola Koruması",
     "zh-Hant-TW": "密碼保護"
   },
   "portfolio": {
