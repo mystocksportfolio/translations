@@ -530,7 +530,7 @@
   "chart_loading": {
     "en": "Loading Chart…",
     "fr": "Chargement du graphique…",
-    "tr": "Grafik Yükleniyor...",
+    "tr": "Grafik Yükleniyor…",
     "zh-Hant-TW": "載入圖表中…"
   },
   "chart_logarithmic": {
@@ -738,7 +738,7 @@
     "zh-Hant-TW": "匯出並取代既有檔案"
   },
   "csvExport_externalStorageHelp": {
-    "tr": "Dışa aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\n SDCard'a veya yerel depolama alanına (dosya seçicideki yan menüyü açın) ya da Google Drive'a dışa aktarmayı seçebilirsiniz. Google Drive'a dışa aktarırsanız, dosyanıza bilgisayarınızdan https://drive.google.com adresinden erişilebilir.",
+    "tr": "Dışa aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\n SDCard\\'a veya yerel depolama alanına (dosya seçicideki yan menüyü açın) ya da Google Drive\\'a dışa aktarmayı seçebilirsiniz. Google Drive\\'a dışa aktarırsanız, dosyanıza bilgisayarınızdan https://drive.google.com adresinden erişilebilir.",
     "en": "To export, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nYou can choose to export to SDCard or local storage (open the side menu in the file picker), or Google Drive. If you export to Google Drive, your file will be accessible from your computer at https://drive.google.com."
   },
   "csvExport_externalStorageUploaded": {
@@ -755,7 +755,7 @@
   "csvImport_copyPasteHelp": {
     "en": "Copy and paste the text containing the CSV data into the text field below. Make sure to copy and paste the headers as well. Each line of the CSV should be on a separate line.",
     "fr": "Copiez et collez le texte contenant les données CSV dans le champ de texte ci-dessous. Assurez-vous de copier et coller les en-têtes également. Chaque ligne du fichier CSV doit être sur une ligne distincte.",
-    "tr": "CSV verilerini içeren metni kopyalayıp aşağıdaki metin alanına yapıştırın. Başlıkları da kopyalayıp yapıştırdığınızdan emin olun. CSV'nin her satırı ayrı bir satırda olmalıdır.",
+    "tr": "CSV verilerini içeren metni kopyalayıp aşağıdaki metin alanına yapıştırın. Başlıkları da kopyalayıp yapıştırdığınızdan emin olun. CSV\\'nin her satırı ayrı bir satırda olmalıdır.",
     "zh-Hant-TW": "複製貼上CSV資料內容文字至文字輸入框內。請確認是否也有複製貼上標題，每一個CSV欄位應該要分開成不同的欄位。"
   },
   "csvImport_couldNotFindData": {
@@ -772,7 +772,7 @@
   },
   "csvImport_externalStorageHelp": {
     "en": "To import, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nTo view your Google Drive files from your computer, you can visit https://drive.google.com. You can also import from your SDCard or any other external storage (open the side menu in the file picker).",
-    "tr": "İçe aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\nGoogle Drive dosyalarınızı bilgisayarınızdan görüntülemek için https://drive.google.com adresini ziyaret edebilirsiniz. SDCard'ınızdan veya başka bir harici depolama alanından da içe aktarabilirsiniz (dosya seçicideki yan menüyü açın)."
+    "tr": "İçe aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\nGoogle Drive dosyalarınızı bilgisayarınızdan görüntülemek için https://drive.google.com adresini ziyaret edebilirsiniz. SDCard\\'ınızdan veya başka bir harici depolama alanından da içe aktarabilirsiniz (dosya seçicideki yan menüyü açın)."
   },
   "csvImport_importAndOverwrite": {
     "en": "Delete local data after importing",
@@ -795,7 +795,7 @@
   "csvImport_importing": {
     "en": "Importing…",
     "fr": "Importation…",
-    "tr": "İçe aktarılıyor...",
+    "tr": "İçe aktarılıyor…",
     "zh-Hant-TW": "匯入中…"
   },
   "csvImport_pasteDataHere": {
@@ -812,7 +812,7 @@
   },
   "csvImport_sizeRestriction": {
     "en": "Use File option if you have a lot of data, since Android has a 1 MB size restriction for Clipboard/Email.",
-    "tr": "Android'de Pano/E-posta için 1 MB boyut sınırlaması olduğundan, çok fazla veriniz varsa dosya seçeneğini kullanın.",
+    "tr": "Android\\'de Pano/E-posta için 1 MB boyut sınırlaması olduğundan, çok fazla veriniz varsa dosya seçeneğini kullanın.",
     "zh-Hant-TW": "由於安卓系統只提供 1 MB 給剪貼簿/Email，如果你有很多的資料，請使用檔案選項。"
   },
   "csvImport_recognizedHeadersHelp": {
@@ -981,7 +981,7 @@
   },
   "generic_checkOutThisAppLong": {
     "en": "Check out My Stocks Portfolio, an app for monitoring your stocks and portfolios!",
-    "tr": "Hisse senetlerinizi ve portföylerinizi izlemek için bir uygulama olan My Stocks Portfolio'ya göz atın!"
+    "tr": "Hisse senetlerinizi ve portföylerinizi izlemek için bir uygulama olan My Stocks Portfolio\\'ya göz atın!"
   },
   "generic_clientOutOfDate": {
     "en": "It looks like your app version is out of date, so this type is unrecognized. Please update to the latest version of the app.",
@@ -1077,7 +1077,7 @@
   },
   "generic_enableFaceOrTouchID": {
     "en": "Enable Face ID/Touch ID",
-    "tr": "Face ID/Touch ID'yi etkinleştirin"
+    "tr": "Face ID/Touch ID\\'yi etkinleştirin"
   },
   "generic_enableWidgetLock": {
     "en": "Enable Widget Lock",
@@ -1096,7 +1096,7 @@
   "generic_enterValueBetween0And100": {
     "en": "Enter a value between 0-100",
     "fr": "Entrer une valeur entre 0 et 100",
-    "tr": "0-100 arasında bir değer girin",
+    "tr": "0–100 arasında bir değer girin",
     "zh-Hant-TW": "輸入0-100之間數值"
   },
   "generic_enterYourAnswer": {
@@ -1137,7 +1137,7 @@
   },
   "generic_export": {
     "en": "Export…",
-    "tr": "Dışa aktar...?",
+    "tr": "Dışa aktar…?",
     "zh-Hant-TW": "匯出中…"
   },
   "generic_exportData": {
@@ -1208,7 +1208,7 @@
   },
   "generic_import": {
     "en": "Import…",
-    "tr": "İçe aktar...",
+    "tr": "İçe aktar…",
     "zh-Hant-TW": "匯入中…"
   },
   "generic_importData": {
@@ -1232,7 +1232,7 @@
   },
   "generic_loading": {
     "en": "Loading…",
-    "tr": "Yükleniyor..."
+    "tr": "Yükleniyor…"
   },
   "generic_manageAlerts": {
     "en": "Manage Alerts",
@@ -1421,7 +1421,7 @@
   "generic_questionsViewFAQ": {
     "en": "View FAQ",
     "fr": "Voir FAQ",
-    "tr": "SSS'ları görüntüle",
+    "tr": "SSS\\'ları görüntüle",
     "zh-Hant-TW": "查看常見問題"
   },
   "generic_rangeTwoYearsCompact": {
@@ -1520,7 +1520,7 @@
   },
   "generic_shareUsing": {
     "en": "Share using…",
-    "tr": "...Kullanarak paylaş"
+    "tr": "…Kullanarak paylaş"
   },
   "generic_show": {
     "en": "Show",
