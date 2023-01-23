@@ -592,6 +592,7 @@
     "_formatted": false,
     "en": "%s chart range not available",
     "fr": "Intervalle %s du graphique non disponible"
+    "tr": "%s grafik aralığı mevcut değil",
   },
   "chart_rangeOneDay": {
     "en": "1 Day",
@@ -921,6 +922,7 @@
   },
   "generic_appLockHelp": {
     "en": "Enabling App Lock will prompt for a Passcode or Face ID/Touch ID when the app is launched. If you lose your Passcode, you will need to re-install the app."
+    "tr": "Uygulama Kilidi etkinleştirildiğinde, uygulama başlatıldığında Parola veya Face ID/Touch ID istenecektir. Parolanızı kaybederseniz, uygulamayı yeniden yüklemeniz gerekecektir."
   },
   "generic_apply": {
     "en": "Apply",
@@ -1001,7 +1003,7 @@
   "generic_closeDrawerAccessibility": {
     "en": "Close navigation drawer",
     "fr": "Fermer le tiroir de navigation",
-    "tr": "Gezinme çekmecesini kapatın",
+    "tr": "Gezinme bölmesini kapatın",
     "zh-Hant-TW": "關閉側選單"
   },
   "generic_connectionIssue": {
@@ -1052,6 +1054,7 @@
   "generic_dismiss": {
     "en": "Dismiss",
     "fr": "Fermer",
+    "tr": "Reddet",
     "zh-Hant-TW": "關閉"
   },
   "generic_displayLanguage": {
@@ -1102,7 +1105,7 @@
   },
   "generic_enterPasscode": {
     "en": "Enter Passcode",
-    "tr": "Parolayı girin"
+    "tr": "Parolayı girin",
   },
   "generic_enterValueBetween0And100": {
     "en": "Enter a value between 0-100",
@@ -1153,6 +1156,7 @@
   },
   "generic_exportCSV": {
     "en": "Export CSV"
+    "tr": "CSV dışa aktar"
   },
   "generic_exportData": {
     "en": "Export Data",
@@ -1227,6 +1231,7 @@
   },
   "generic_importCSV": {
     "en": "Import CSV"
+    "tr": "CSV içe aktar"
   },
   "generic_importData": {
     "en": "Import Data",
@@ -1503,15 +1508,17 @@
     "_formatted": false,
     "en": "Save %s",
     "fr": "Economisez %s",
+    "tr": "Tasarruf %s",
     "zh-Hant-TW": "省下 %s"
+    
   },
   "generic_security": {
     "en": "Security",
-    "tr": "Güvenlik"
+    "tr": "Güvenlik",
   },
   "generic_selected": {
     "en": "Selected",
-    "tr": "Seçildi"
+    "tr": "Seçildi",
   },
   "generic_selectFile": {
     "en": "Select File",
@@ -1570,13 +1577,16 @@
   },
   "generic_sincePlaceholder": {
     "en": "Since %s"
+    "tr": "%s'den beri"
   },
   "generic_smaller": {
     "en": "Smaller",
     "fr": "Plus petit"
+    "tr": "Daha küçük",
   },
   "generic_sort": {
     "en": "Sort",
+    "tr": "Sırala",
     "zh-Hant-TW": "排序"
   },
   "generic_subscribed": {
@@ -1585,191 +1595,231 @@
   },
   "generic_suggestTranslations": {
     "en": "Suggest Translations",
+    "tr": "Sırala",
     "zh-Hant-TW": "翻譯建議"
   },
   "generic_suggestTranslationsHelp": {
     "en": "If you\\'d like to make suggested fixes or changes with translations",
+    "tr": "İsterseniz\\ çevirilerle ilgili düzeltme veya değişiklik önerilerinde bulunabilirsiniz",
     "zh-Hant-TW": "如果你有翻譯建議"
   },
   "generic_sure": {
     "en": "Sure",
     "fr": "Bien sûr",
+    "tr": "Tabiki",
     "zh-Hant-TW": "確定"
   },
   "generic_sync": {
     "en": "Sync",
+    "tr": "Senkronizasyon",
     "zh-Hant-TW": "同步"
   },
   "generic_tapToEdit": {
     "en": "Tap to edit",
+    "tr": "Değiştirmek için dokunun",
     "zh-Hant-TW": "點選編輯"
   },
   "generic_termsOfUse": {
     "en": "Terms of Use",
     "fr": "Conditions d\\'utilisation",
+    "tr": "Kullanım Koşulları",
     "zh-Hant-TW": "使用規範"
   },
   "generic_time_justNow": {
     "en": "Just now",
+    "tr": "Şimdi",
     "zh-Hant-TW": "現在"
   },
   "generic_time_1MinAgo": {
     "en": "1 minute ago",
+    "tr": "1 dakika önce",
     "zh-Hant-TW": "一分鐘前"
   },
   "generic_time_XMinsAgo": {
     "_formatted": false,
     "en": "%s minutes ago",
+    "tr": "%s dakika önce",
     "zh-Hant-TW": "%s分鐘前"
   },
   "generic_time_1HourAgo": {
     "en": "1 hour ago",
+    "tr": "1 saat önce",
     "zh-Hant-TW": "一小時前"
   },
   "generic_time_XHoursAgo": {
     "_formatted": false,
     "en": "%s hours ago",
+    "tr": "%s saat önce",
     "zh-Hant-TW": "%s小時前"
   },
   "generic_time_1DayAgo": {
     "en": "1 day ago",
+    "tr": "1 gün önce",
     "zh-Hant-TW": "一天前"
   },
   "generic_time_XDaysAgo": {
     "_formatted": false,
     "en": "%s days ago",
+    "tr": "%s gün önce",
     "zh-Hant-TW": "%s天前"
   },
   "generic_time_1WeekAgo": {
     "en": "1 week ago",
+    "tr": "1 hafta önce",
     "zh-Hant-TW": "一星期前"
   },
   "generic_time_XWeeksAgo": {
     "_formatted": false,
     "en": "%s weeks ago",
+    "tr": "%s hafta önce",
     "zh-Hant-TW": "%s星期前"
   },
   "generic_time_1MonthAgo": {
     "en": "1 month ago",
+    "tr": "1 ay önce",
     "zh-Hant-TW": "一月前"
   },
   "generic_time_XMonthsAgo": {
     "_formatted": false,
     "en": "%s months ago",
+    "tr": "%s ay önce",
     "zh-Hant-TW": "%s月前"
   },
   "generic_to_colon": {
     "en": "To:",
     "de": "Nach:",
     "fr": "À :",
+    "tr": "Kime:",
     "zh": "至：",
     "zh-Hant-TW": "到："
   },
   "generic_today": {
     "en": "Today",
     "fr": "Aujourd\\'hui",
+    "tr": "Bugün",
     "zh-Hant-TW": "今天"
   },
   "generic_tooltipImageAccessibility": {
     "en": "Tooltip Image",
     "fr": "Image",
+    "tr": "Araç İpucu Görüntüsü",
     "zh-Hant-TW": "工具提示"
   },
   "generic_twitter": {
     "en": "Twitter",
     "fr": "Twitter",
+    "tr": "Twitter",
     "zh-Hant-TW": "Twitter"
   },
   "generic_twitterHelp": {
     "en": "Reach out to us on Twitter",
     "fr": "Nous joindre sur Twitter",
+    "tr": "Bize Twitter'dan ulaşın",
     "zh-Hant-TW": "在 Twitter 聯繫我們"
   },
   "generic_type": {
     "en": "Type",
+    "tr": "Tür",
     "zh-Hant-TW": "類別"
   },
   "generic_updating": {
     "en": "Updating",
     "fr": "Mise à jour",
+    "tr": "Güncelleniyor",
     "zh-Hant-TW": "更新中"
   },
   "generic_year": {
     "en": "Year",
+    "tr": "Yıl",
     "zh-Hant-TW": "年"
   },
   "generic_yes": {
     "en": "Yes",
     "fr": "Oui",
+    "tr": "Evet",
     "zh-Hant-TW": "是"
   },
   "help_announcements": {
     "en": "Announcements",
     "fr": "Annonces",
+    "tr": "Duyurular",
     "zh-Hant-TW": "公告"
   },
   "help_couldNotConnect": {
     "en": "Could not connect to the Help server. Email the developer with your question?",
     "fr": "Impossible de se connecter au serveur d\\'aide. Envoyez un email au développeur avec votre question ?"
+    "tr": "Yardım sunucusuna bağlanılamadı. Geliştiriciye sorunuzla ilgili e-posta mı gönderiyorsunuz?",
   },
   "help_dontSeeMyAnswer": {
     "en": "I don\\'t see my answer…",
     "fr": "Je ne vois pas ma réponse…",
+    "tr": "Cevabımı göremiyorum.",
     "zh-Hant-TW": "我沒有找到答案…"
   },
   "help_howCanWeHelp": {
     "en": "How can we help?",
     "fr": "Comment pouvons-nous vous aider ?",
+    "tr": "Nasıl yardımcı olabiliriz?",
     "zh-Hant-TW": "我們可以怎麼協助你呢?"
   },
   "help_needMoreHelp": {
     "en": "Need more help?",
     "fr": "Besoin d\\'aide ?",
+    "tr": "Daha fazla yardıma mı ihtiyacınız var?",
     "zh-Hant-TW": "需要幫助?"
   },
   "help_noAnswer": {
     "en": "Sorry, we could not find an answer to your question.",
     "fr": "Désolé, nous n\\'avons pas trouvé de réponse à votre question.",
+    "tr": "Üzgünüz, sorunuza bir cevap bulamadık.",
     "zh-Hant-TW": "抱歉～我們沒有找到你問題的答案"
   },
   "help_popularTopics": {
     "en": "Popular topics",
     "fr": "Sujets populaires",
+    "tr": "Popüler konular",
     "zh-Hant-TW": "熱門話題"
   },
   "help_question": {
     "en": "Question",
     "fr": "Question",
+    "tr": "Soru",
     "zh-Hant-TW": "問題"
   },
   "help_reportBug": {
     "en": "Report a Bug",
     "fr": "Signaler un bug",
+    "tr": "Hata bildir",
     "zh-Hant-TW": "異常回報"
   },
   "help_suggestions": {
     "en": "Suggestions",
     "fr": "Suggestions",
+    "tr": "Öneriler",
     "zh-Hant-TW": "建議"
   },
   "logInOut_couldNotConnectToGoogle": {
     "en": "Could not connect to Google. Please try again later.",
     "fr": "Impossible de se connecter à Google. Veuillez réessayer plus tard.",
+    "tr": "Google'a bağlanılamadı. Lütfen daha sonra tekrar deneyin.",
     "zh-Hant-TW": "無法連結至Google,請稍候再試"
   },
   "logInOut_googleSignInFailed": {
     "en": "Google sign-in failed. Please try again later.",
     "fr": "La connexion à Google a échoué. Veuillez réessayer plus tard.",
+    "tr": "Google oturum açma başarısız oldu. Lütfen daha sonra tekrar deneyin.",
     "zh-Hant-TW": "無法登入Google，請稍候再試"
   },
   "logInOut_googleSignOutError": {
     "en": "Error signing out of Google",
     "fr": "Erreur lors de la déconnexion de Google",
+    "tr": "Google'dan çıkış yaparken hata oluştu",
     "zh-Hant-TW": "Google帳戶登出錯誤"
   },
   "logInOut_signInWithYourGoogleAccount": {
     "en": "Please sign in with your Google account to continue",
     "fr": "Veuillez vous connecter avec votre compte Google pour continuer",
+    "tr": "Devam etmek için lütfen Google hesabınızla oturum açın",
     "zh-Hant-TW": "如要繼續，請登入Google帳戶"
   },
   "logInOut_signInToPurchase": {
