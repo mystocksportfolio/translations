@@ -51,7 +51,7 @@
     "en": "No lots found"
   },
   "accounting_noLotsFoundHelp": {
-    "en": "Couldn't find any valid lots (transactions) to select before this transaction's date"
+    "en": "Couldn\\'t find any valid lots (transactions) to select before this transaction\\'s date"
   },
   "accounting_selectLots": {
     "en": "Select Lots"
@@ -1371,7 +1371,7 @@
   "generic_time_XDaysAgo": {
     "_formatted": false,
     "en": "%s days ago",
-    "zh-Hant-TW": "%天前"
+    "zh-Hant-TW": "%s天前"
   },
   "generic_time_1WeekAgo": {
     "en": "1 week ago",
