@@ -1140,6 +1140,9 @@
     "tr": "Dışa aktar…?",
     "zh-Hant-TW": "匯出中…"
   },
+  "generic_exportCSV": {
+    "en": "Export CSV"
+  },
   "generic_exportData": {
     "en": "Export Data",
     "tr": "Verileri dışa aktar"
@@ -1210,6 +1213,9 @@
     "en": "Import…",
     "tr": "İçe aktar…",
     "zh-Hant-TW": "匯入中…"
+  },
+  "generic_importCSV": {
+    "en": "Import CSV"
   },
   "generic_importData": {
     "en": "Import Data",
@@ -3300,13 +3306,11 @@
     "fr": "CSV",
     "zh-Hant-TW": "CSV"
   },
-  "settings_import": {
-    "en": "Import",
-    "zh-Hant-TW": "匯入"
+  "settings_csvExport": {
+    "en": "Export as CSV"
   },
-  "settings_importExport": {
-    "en": "Import / Export",
-    "zh-Hant-TW": "匯入 / 匯出"
+  "settings_csvExportCustomPrices": {
+    "en": "Export Custom Prices as CSV"
   },
   "settings_csvExportPortfolios": {
     "en": "Export Portfolios as CSV",
@@ -3316,6 +3320,15 @@
     "en": "Export to Google Drive / SDCard / External Storage / Email / Clipboard",
     "zh-Hant-TW": "匯出至Google雲端硬碟 / SD卡 / 外接儲存裝置 / Email / 備忘錄"
   },
+  "settings_csvExportPriceAlerts": {
+    "en": "Export Price Alerts as CSV"
+  },
+  "settings_csvImport": {
+    "en": "Import from CSV"
+  },
+  "settings_csvImportCustomPrices": {
+    "en": "Import Custom Prices from CSV"
+  },
   "settings_csvImportPortfolios": {
     "en": "Import Portfolios from CSV",
     "zh-Hant-TW": "從CSV匯入投資組合"
@@ -3323,6 +3336,9 @@
   "settings_csvImportPortfoliosHelp": {
     "en": "Import from Google Drive / SDCard / External Storage / Email / Clipboard",
     "zh-Hant-TW": "從 Google Drive / SD卡 / 外部儲存空間 / Email / 剪貼簿 匯入"
+  },
+  "settings_csvImportPriceAlerts": {
+    "en": "Import Price Alerts from CSV"
   },
   "settings_general": {
     "en": "General",
@@ -3350,9 +3366,26 @@
     "fr": "Positions, si disponible",
     "zh-Hant-TW": "持股（如果有的話）"
   },
+  "settings_import": {
+    "en": "Import",
+    "zh-Hant-TW": "匯入"
+  },
+  "settings_importExport": {
+    "en": "Import / Export",
+    "zh-Hant-TW": "匯入 / 匯出"
+  },
   "settings_importExportAndSync": {
     "en": "Import/Export and Sync Data",
     "fr": "Importer/Exporter and synchronizer les données"
+  },
+  "settings_importExportCustomPrices": {
+    "en": "Import / Export Custom Prices"
+  },
+  "settings_importExportPortfolioData": {
+    "en": "Import / Export Portfolio Data"
+  },
+  "settings_importExportPriceAlerts": {
+    "en": "Import / Export Price Alerts"
   },
   "settings_lastSelectedPortfolio": {
     "en": "Last Selected Portfolio",
@@ -3480,6 +3513,9 @@
     "en": "Server Sync",
     "fr": "Synchronisation avec le serveur",
     "zh-Hant-TW": "伺服器同步"
+  },
+  "settings_syncPortfolioHelp": {
+    "en": "Synchronize portfolio data to the server and between devices"
   },
   "settings_syncHelp": {
     "en": "Synchronize data to the server and between devices",
