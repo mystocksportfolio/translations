@@ -59,6 +59,7 @@
   },
   "accounting_noLotsFound": {
     "en": "No lots found"
+    "tr": "Lotlar bulunamadı"
   },
   "accounting_noLotsFoundHelp": {
     "en": "Couldn\\'t find any valid lots (transactions) to select before this transaction\\'s date"
@@ -197,6 +198,7 @@
   "addQuoteTransaction_couldNotDetectCurrency": {
     "en": "Could not detect currency for this quote, so cannot use cash conversion method. Please uncheck the cash conversion checkbox.",
     "fr": "Impossible de détecter la devise pour ce cours, impossible de convertir en espèces. Veuillez décocher la case de conversion en espèces."
+    "tr": "Bu fiyat teklifi için para birimi tespit edilemedi, bu nedenle nakit dönüştürme yöntemi kullanılamıyor. Lütfen nakit dönüştürme onay kutusundaki işareti kaldırın.",
   },
   "addQuoteTransaction_costBasisEntryMethod": {
     "en": "Entry Method",
@@ -222,24 +224,29 @@
   "addQuoteTransaction_date": {
     "en": "Transaction Date",
     "fr": "Date de la transaction",
+    "tr": "İşlem Tarihi",
     "zh-Hant-TW": "成交日期"
   },
   "addQuoteTransaction_depositCashToPortfolioFromDividends": {
     "en": "Deposit cash to portfolio from dividends",
     "fr": "Dépôt d\\'espèces au portefeuille lors des dividendes",
+    "tr": "Temettülerden portföye nakit yatırma",
     "zh-Hant-TW": "股息入金至投資組合"
   },
   "addQuoteTransaction_depositCashToPortfolioFromSale": {
     "en": "Deposit cash to portfolio from sale",
     "fr": "Dépôt d\\'espèces au portefeuille lors de la vente"
+    "tr": "Satıştan elde edilen nakdin portföye yatırılması",
   },
   "addQuoteTransaction_enterSharesPrompt": {
     "en": "Please enter the number of shares",
     "fr": "S\\'il vous plaît entrez le nombre d\\'actions",
+    "tr": "Lütfen hisse adedini girin",
     "zh-Hant-TW": "請輸入股數"
   },
   "addQuoteTransaction_enterValidDate": {
     "en": "Please enter a valid transaction date",
+    "tr": "Lütfen geçerli bir işlem tarihi girin",
     "zh-Hant-TW": "請輸入成交日期"
   },
   "addQuoteTransaction_enterValidSymbol": {
@@ -311,11 +318,12 @@
   },
   "addQuoteTransaction_typeCloseShortPositions": {
     "en": "Close Short Positions",
-    "tr": "Açığa Satış Pozisyonlarını Kapat"
+    "tr": "Açığa Satış Pozisyonlarını Kapat",
   },
   "addQuoteTransaction_typeDRIP": {
     "en": "Dividends + Reinvestment (DRIP)",
     "fr": "Dividendes + réinvestissement (RRD)",
+    "tr": "Temettü + Yeniden Yatırım (DRIP)",
     "zh-Hant-TW": "股票股利/股息再投入"
   },
   "addQuoteTransaction_typeReverseSplit": {
@@ -348,11 +356,13 @@
   },
   "addQuoteTransaction_useCommissions": {
     "en": "Use Commissions",
+    "tr": "Kullanım Komisyonları",
     "zh-Hant-TW": "手續費"
   },
   "addQuoteTransaction_usePercentCommission": {
     "en": "Use % Commission?",
     "fr": "Utiliser un pourcentage de commission ?",
+    "tr": "% olarak mı kullanıyorsun?",
     "zh-Hant-TW": "用 % 手續費？"
   },
   "addQuoteTransaction_withdrawCashFromPortfolioToPurchase": {
@@ -363,6 +373,7 @@
   "addQuote_addUnlistedSymbolHelp": {
     "en": "Unlisted symbols can be used for equity such as shares that do not trade on the open market. To add price data, go to the quote details page after adding the symbol, open the menu, and click \\'Add Custom Prices\\'.",
     "fr": "Les symboles non listés peuvent être utilisés pour les fonds tels que ceux qui ne peuvent être échangés dans le marché ouvert. Pour ajouter des données de prix, allez dans la page des détails de la cotation après avoir ajouter le symbole, ouvrez le menu et cliquez \\'Ajouter des prix personnalisés\\'."
+    "tr": "Listelenmemiş semboller açık piyasada işlem görmeyen hisseler gibi özkaynaklar için kullanılabilir. Fiyat verisi eklemek için sembolü ekledikten sonra teklif ayrıntıları sayfasına gidin, menüyü açın ve \\'Özel Fiyatlar Ekle\\' seçeneğine tıklayın.",
   },
   "addQuote_enterSymbolPrompt": {
     "en": "Please enter a symbol",
