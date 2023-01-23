@@ -7,11 +7,11 @@
     "ja": "例",
     "ko": "예시",
     "zh": "例子",
-    "zh-Hant-TW": "例子"
+    "zh-Hant-TW": "例子",
     "tr": "Örnek",
   },
   "accounting_addLots": {
-    "en": "Add Lot(s)"
+    "en": "Add Lot(s)",
     "tr": "Lot(ları) Ekle"
   },
   "accounting_execution": {
@@ -19,42 +19,42 @@
   },
   "accounting_fifo": {
     "en": "FIFO",
-    "zh-Hant-TW": "先買先賣"
+    "zh-Hant-TW": "先買先賣",
     "tr": "FİFO",
   },
   "accounting_fifoDescription": {
     "en": "First In, First Out",
-    "zh-Hant-TW": "先買先賣"
+    "zh-Hant-TW": "先買先賣",
     "tr": "İlk giren, İlk Çıkar",
   },
   "accounting_lifo": {
     "en": "LIFO",
-    "zh-Hant-TW": "後買先賣"
+    "zh-Hant-TW": "後買先賣",
     "tr": "LİFO",
   },
   "accounting_lifoDescription": {
     "en": "Last In, First Out",
-    "zh-Hant-TW": "後買先賣"
+    "zh-Hant-TW": "後買先賣",
     "tr": "Son Giren, İlke Çıkar",
   },
   "accounting_highCost": {
     "en": "High Cost",
-    "zh-Hant-TW": "成本高"
-    "tr": "Yükssek Maliyetli",
+    "zh-Hant-TW": "成本高",
+    "tr": "Yüksek Maliyetli"
   },
   "accounting_highCostDescription": {
     "en": "Shares that were most expensive are sold first",
-    "zh-Hant-TW": "成本最高的先賣"
-     "tr": "Önce en pahalı hisseler satılır",
+    "zh-Hant-TW": "成本最高的先賣",
+    "tr": "Önce en pahalı hisseler satılır"
   },
   "accounting_lowCost": {
     "en": "Low Cost",
-    "zh-Hant-TW": "成本低"
+    "zh-Hant-TW": "成本低",
     "tr": "Düşük Maliyetli",
   },
   "accounting_lowCostDescription": {
     "en": "Shares that were the least expensive are sold first",
-    "zh-Hant-TW": "成本最低的先賣"
+    "zh-Hant-TW": "成本最低的先賣",
     "tr": "Önce en ucuz olan hisseler satılır",
   },
   "accounting_noLotsFound": {
@@ -64,11 +64,11 @@
     "en": "Couldn\\'t find any valid lots (transactions) to select before this transaction\\'s date"
   },
   "accounting_selectLots": {
-    "en": "Select Lots"
+    "en": "Select Lots",
     "tr": "Lotları Seç"
   },
   "accounting_weightedAverage": {
-    "en": "Weighted Average"
+    "en": "Weighted Average",
     "tr": "Ağırlıklı Ortalama"
   },
   "accounting_weightedAverageDescription": {
@@ -77,7 +77,7 @@
     "tr": "Maliyet esası, hisse başına cari gerçekleşmemiş maliyet kullanılarak hesaplanır"
   },
   "accounting_specificLots": {
-    "en": "Specific Lots"
+    "en": "Specific Lots",
     "tr": "Belirli Lotlar"
   },
   "accounting_specificLotsHelp": {
@@ -85,10 +85,11 @@
   },
   "accounting_specificLotsDescription": {
     "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction."
+    "tr": "Öncelik sırasına göre yürütülecek lotları seçin.\\n\\nYeniden sıralamak için: Basılı tutun ve yukarı/aşağı sürükleyin. Listenin en üstündeki işlemler önce kullanılacaktır.\\n\\nKaldırmak için: Lotun/işlemin üzerine dokunun."
   },
   "account_deleted": {
     "en": "Account Deleted",
-    "zh-Hant-TW": "已刪除帳戶"
+    "zh-Hant-TW": "已刪除帳戶",
     "tr": "Hesap Silindi",
   },
   "adBanner_placeHolder": {
@@ -100,18 +101,20 @@
   "addCustomPrices_help": {
     "en": "Add custom end of day prices for equity not listed on the market, to override prices, or to fill missing data. To delete a price data point, click on it in the list.",
     "fr": "Ajouter des prix personnalisés pour les fonds non listés par le marché, pour écraser des prix, ou pour renseigner des données manquantes. Pour effacer un prix, cliquez-le dans la liste."
+    "tr": "Piyasada listelenmeyen hisse senetleri için, fiyatları geçersiz kılmak için veya eksik verileri doldurmak için özel gün sonu fiyatları ekleyin. Bir fiyat veri noktasını silmek için listede üzerine tıklayın.",
   },
   "addPortfolio_enterNamePrompt": {
     "en": "Please enter a name",
     "fr": "Veuillez entrer un nom",
     "zh-Hant-TW": "請輸入投資組合名稱"
+    "tr": "Lütfen bir ad giriniz",
   },
   "addPortfolio_nameOfPortfolio": {
     "en": "Name of Portfolio",
     "de": "Name des Portfolios",
     "fr": "Nom du portefeuille",
-    "zh-Hant-TW": "投資組合名稱"
-    "tr": "Portföy Adı",
+    "zh-Hant-TW": "投資組合名稱",
+    "tr": "Portföyün Adı",
   },
   "addQuoteCash": {
     "en": "Cash",
@@ -126,48 +129,57 @@
     "de": "Betrag",
     "fr": "Montant",
     "zh-Hant-TW": "金額"
+    "tr": "Tutar",
   },
   "addQuoteCash_deposit": {
     "en": "Deposit",
     "fr": "Déposer",
     "zh": "加值",
     "zh-Hant-TW": "入金"
+    "tr": "Mevduat",
   },
   "addQuoteCash_enterCashAmount": {
     "en": "Please enter a cash amount",
     "fr": "Veuillez entrer un montant d\\'espèces",
     "zh-Hant-TW": "請輸入金額"
+    "tr": "Lütfen nakit tutarı girin",
   },
   "addQuoteCash_selectCurrency": {
     "en": "Select Currency",
     "de": "Wähle eine Währung",
     "fr": "Sélectionnez la devise",
     "zh-Hant-TW": "幣別"
+    "tr": "Para Birimini Seçin",
   },
   "addQuoteCash_withdraw": {
     "en": "Withdraw",
     "fr": "Retirer",
     "zh": "提领",
     "zh-Hant-TW": "出金"
+    "tr": "Çekme"
   },
   "addQuoteCrypto_enterCryptoPair": {
     "en": "Please enter a crypto pair, i.e. BTC-USD",
     "fr": "Veuillez entrer une parité crypto, ex. BTC-USD",
     "zh-Hant-TW": "請輸入加密貨幣交易對, 例如：BTC-USD"
+    "tr": "Lütfen bir kripto çifti girin, Örn. BTC-USD",
   },
   "addQuoteCrypto_help": {
     "en": "Prices are aggregated across exchanges (Source: CoinGecko). If you cannot find a coin, you may contact us via support@peeksoft.co to get it registered.",
     "fr": "Les prix sont agrégés entre les bourses (Source : CoinGecko). Si vous ne trouvez pas une pièce, vous pouvez nous contacter via support@peeksoft.co pour l\\'enregistrer."
+    "tr": "Fiyatlar borsalar arasında toplanmıştır (Kaynak: CoinGecko). Bir coin bulamazsanız, kaydettirmek için support@peeksoft.co üzerinden bizimle iletişime geçebilirsiniz.",
   },
   "addQuoteCrypto_pairHint": {
     "en": "Crypto Pair (i.e. BTC-USD)",
     "fr": "Parité Crypto (ex. BTC-USD)",
     "zh-Hant-TW": "加密貨幣交易對（例如：BTC-USD）"
+    "tr": "Kripto Çifti (Örn. BTC-USD))",
   },
   "addQuoteForex_targetCurrencyShouldBeDifferentThanSource": {
     "en": "Target currency should be different than source currency",
     "fr": "La devise cible doit être différente de la devise source",
     "zh-Hant-TW": "目標幣別不能與來源幣別相同"
+    "tr": "Hedef para birimi kaynak para biriminden farklı olmalıdır",
   },
   "addQuoteTransaction_calendar": {
     "en": "Calendar",
@@ -188,10 +200,12 @@
   },
   "addQuoteTransaction_costBasisEntryMethod": {
     "en": "Entry Method"
+    "tr": "Giriş Yöntemi"
   },
   "addQuoteTransaction_costBasisTotalAmount": {
     "en": "Total Amount",
     "zh-Hant-TW": "總金額"
+    "tr": "Toplam Tutar"
   },
   "addQuoteTransaction_currencyToCurrencyFormatted": {
     "_formatted": false,
@@ -231,26 +245,31 @@
   "addQuoteTransaction_enterValidSymbol": {
     "en": "Please enter a valid symbol",
     "zh-Hant-TW": "請輸入代碼"
+    "tr": "Lütfen geçerli bir sembol girin",
   },
   "addQuoteTransaction_exchangeRate": {
     "en": "Exchange Rate",
     "fr": "Taux de change",
     "zh-Hant-TW": "匯率"
+    "tr": "Döviz Kuru",
   },
   "addQuoteTransaction_percentCommission": {
     "en": "% Commission",
     "fr": "% Commission",
     "zh-Hant-TW": "% 手續費"
+    "tr": "% Komisyon",
   },
   "addQuoteTransaction_pricePerShare": {
     "en": "Price Per Share",
     "fr": "Prix par action",
     "zh-Hant-TW": "每股價格"
+    "tr": "Hisse Başı Fiyat",
   },
   "addQuoteTransaction_purchaseDate": {
     "en": "Purchase Date",
     "fr": "Date d\\'achat",
     "zh-Hant-TW": "日期"
+    "tr": "Satın Alma Tarihi",
   },
   "addQuoteTransaction_purchaseExchangeRateHelp": {
     "en": "Exchange Rate at time of Transaction (Stock\\'s Currency to Home Currency). For example, 1.5 means $1 of the stock\\'s currency exchanges to $1.5 of your home currency. You can change the Home Currency by tapping Currency on the holdings screen. Leave blank to use today\\'s exchange rate.",
@@ -259,22 +278,26 @@
   "addQuoteTransaction_time": {
     "en": "Transaction Time",
     "zh-Hant-TW": "成交時間"
+    "tr": "İşlem Zamanı",
   },
   "addQuoteTransaction_transaction_notes": {
     "en": "Transaction Notes",
     "fr": "Notes de transaction",
     "zh-Hant-TW": "交易備註"
+    "tr": "İşlem Notları",
   },
   "addQuoteTransaction_type": {
     "en": "Transaction Type",
     "fr": "Type de transaction",
     "zh-Hant-TW": "交易別"
+    "tr": "İşlem Türü",
   },
   "addQuoteTransaction_typeBuy": {
     "en": "Buy",
     "fr": "Acheter",
     "zh": "买",
     "zh-Hant-TW": "買"
+    "tr": "Alış",
   },
   "addQuoteTransaction_typeBuyToCover": {
     "en": "Buy to Cover",
@@ -284,10 +307,11 @@
   "addQuoteTransaction_typeClosePositions": {
     "en": "Close Positions",
     "zh-Hant-TW": "平倉"
+    "tr": "Pozisyonları Kapat",
   },
   "addQuoteTransaction_typeCloseShortPositions": {
-    "en": "Close Short Positions"
-    "tr": "Short Pozisyonları Kapat"
+    "en": "Close Short Positions",
+    "tr": "Açığa Satış Pozisyonlarını Kapat"
   },
   "addQuoteTransaction_typeDRIP": {
     "en": "Dividends + Reinvestment (DRIP)",
@@ -297,25 +321,30 @@
   "addQuoteTransaction_typeReverseSplit": {
     "en": "Reverse Split",
     "zh-Hant-TW": "反向分割"
+    "tr": "Ters Bölünme",
   },
   "addQuoteTransaction_typeSell": {
     "en": "Sell",
     "fr": "Vendre",
     "zh": "卖",
     "zh-Hant-TW": "賣"
+    "tr": "Satış",
   },
   "addQuoteTransaction_typeSellShort": {
     "en": "Sell Short",
     "fr": "Vente à découvert",
     "zh-Hant-TW": "賣空"
+    "tr": "Açığa Sat",
   },
   "addQuoteTransaction_typeSplit": {
     "en": "Split",
     "zh-Hant-TW": "股票分割"
+    "tr": "Bölünme",
   },
   "addQuoteTransaction_typeUnknown": {
     "en": "Unknown",
     "zh-Hant-TW": "未知"
+    "tr": "Biinmeyen",
   },
   "addQuoteTransaction_useCommissions": {
     "en": "Use Commissions",
@@ -329,6 +358,7 @@
   "addQuoteTransaction_withdrawCashFromPortfolioToPurchase": {
     "en": "Withdraw cash from portfolio to purchase",
     "fr": "Retirer de l\\'argent du portefeuille à l\\'achat"
+    "tr": "Portföyden nakit çekerek satın alma",
   },
   "addQuote_addUnlistedSymbolHelp": {
     "en": "Unlisted symbols can be used for equity such as shares that do not trade on the open market. To add price data, go to the quote details page after adding the symbol, open the menu, and click \\'Add Custom Prices\\'.",
@@ -338,6 +368,7 @@
     "en": "Please enter a symbol",
     "fr": "Veuillez entrer un symbole",
     "zh-Hant-TW": "請輸入名稱／代碼"
+    "tr": "Lütfen bir sembol girin",
   },
   "addQuote_howToPreview": {
     "en": "How To: Preview quote without adding to watchlist",
@@ -359,6 +390,7 @@
     "en": "Symbol",
     "fr": "Symbole",
     "zh-Hant-TW": "代碼"
+    "tr": "Sembol",
   },
   "addQuote_symbolDisplayOverride": {
     "en": "Symbol display override (Optional)",
@@ -370,30 +402,36 @@
     "de": "Symbol (z.B. GOOG)",
     "fr": "Symbole (par ex. GOOG)",
     "zh-Hant-TW": "代碼（例如：GOOG）"
+    "tr": "Sembol (Örn. GOOG)",
   },
   "addQuote_trackTransaction": {
     "en": "Track a Transaction",
     "fr": "Suivre transaction",
     "zh-Hant-TW": "追蹤交易"
+    "tr": "İşlemi Takip et",
   },
   "addQuote_typeCrypto": {
     "en": "Crypto",
     "fr": "Crypto",
     "zh-Hant-TW": "加密貨幣"
+    "tr": "Kripto",
   },
   "addQuote_typeForex": {
     "en": "Forex",
     "fr": "Devises",
     "zh-Hant-TW": "外匯"
+    "tr": "Forex",
   },
   "addQuote_typeMarket": {
     "en": "Market",
     "fr": "Marché",
     "zh-Hant-TW": "市場"
+    "tr": "Piyasa",
   },
   "addQuote_typeUnlisted": {
     "en": "Unlisted",
     "fr": "Non listé"
+    "tr": "Listelenmeyen",
   },
   "alert_alertPageEmptyHelp": {
     "en": "Add an alert by tapping Add Alert (Alert icon) in the menu, or by tapping here.",
@@ -402,115 +440,139 @@
   "alert_lessThan": {
     "en": "less than",
     "zh-Hant-TW": "低於"
+    "tr": "Daha az",
   },
   "alert_moreThan": {
     "en": "more than",
     "zh-Hant-TW": "高於"
+    "tr": "Daha çok",
   },
   "alert_trailingStopLoss": {
     "en": "trailing stop loss"
+    "tr": "Takip eden stoploss",
   },
   "alert_reverseTrailingStopLoss": {
     "en": "reverse trailing stop loss"
+    "tr": "Tersine takip eden stoploss",
   },
   "alert_priceAlert": {
     "en": "Price Alert",
     "zh-Hant-TW": "到價通知"
+    "tr": "Fiyat Uyarıları",
   },
   "alert_viewExistingAlerts": {
     "en": "View existing alerts",
     "zh-Hant-TW": "查看既有到價通知"
+    "tr": "Mevcut uyarıları görüntüle",
   },
   "chart_couldNotFetchChart": {
     "en": "Could not fetch chart\\n\\nPlease check your internet connection and try a different interval (1 Day, 5 Days, etc.)",
     "fr": "Impossible de récupérer le graphique\\n\\nVérifiez votre connexion internet et essayez un interval différent (1 jour, 5 jours, etc.)"
+    "tr": "Grafik alınamadı\\n\\nLütfen internet bağlantınızı kontrol edin ve farklı bir aralık deneyin (1 Gün, 5 Gün, vb.)",
   },
   "chart_enableVolumeColors": {
     "en": "Volume: Enable Colors",
     "fr": "Volume : Activer les couleurs",
     "zh-Hant-TW": "量：顏色"
+    "tr": "Hacim: Renkleri Etkinleştir",
   },
   "chart_gridlines": {
     "en": "Gridlines",
     "zh-Hant-TW": "網格線"
+    "tr": "Klavuz Çizgileri",
+    
   },
   "chart_indicators": {
     "en": "Indicators",
     "fr": "Indicateurs",
     "zh-Hant-TW": "指標"
+    "tr": "İndikatörler",
   },
   "chart_intervalFiveMinutes": {
     "en": "5 Minutes",
     "de": "5 Minuten",
     "fr": "5 minutes",
     "zh-Hant-TW": "五分"
+    "tr": "5 Dakika",
   },
   "chart_intervalOneHour": {
     "en": "1 Hour",
     "zh-Hant-TW": "一時"
+    "tr": "1 Saat",
   },
   "chart_intervalOneDay": {
     "en": "1 Day",
     "de": "1 Tag",
     "fr": "1 jour",
     "zh-Hant-TW": "一天"
+    "tr": "1 Gün",
   },
   "chart_intervalOneMinute": {
     "en": "1 Minute",
     "de": "1 Minute",
     "fr": "1 minute",
     "zh-Hant-TW": "一分"
+    "tr": "1 Dakika",
   },
   "chart_intervalOneMonth": {
     "en": "1 Month",
     "de": "1 Monat",
     "fr": "1 mois",
     "zh-Hant-TW": "一月"
+    "tr": "1 Ay",
   },
   "chart_intervalOneWeek": {
     "en": "1 Week",
     "de": "1 Woche",
     "fr": "1 semaine",
     "zh-Hant-TW": "一週"
+    "tr": "1 Hafta",
   },
   "chart_loading": {
     "en": "Loading Chart…",
     "fr": "Chargement du graphique…",
     "zh-Hant-TW": "載入圖表中…"
+    "tr": "Grafik Yükleniyor...",
   },
   "chart_logarithmic": {
     "en": "Log",
     "de": "Log",
     "fr": "Log",
     "zh-Hant-TW": "對數"
+    "tr": "Log",
   },
   "chart_price": {
     "en": "Price",
     "fr": "Prix",
     "zh-Hant-TW": "價格"
+    "tr": "Fiyat",
   },
   "chart_rangeFiveDays": {
     "en": "5 Days",
     "de": "5 Tage",
     "fr": "5 jours",
     "zh-Hant-TW": "五天"
+    "tr": " Gün",
   },
   "chart_rangeFiveDaysCompact": {
     "en": "5D",
     "de": "5T",
     "fr": "5j",
     "zh-Hant-TW": "五天"
+    "tr": "5G",
   },
   "chart_rangeFiveYears": {
     "en": "5 Years",
     "de": "5 Jahre",
     "fr": "5 années",
     "zh-Hant-TW": "五年"
+    "tr": "5 Yıl",
   },
   "chart_rangeMax": {
     "en": "Max",
     "fr": "Max",
     "zh-Hant-TW": "全部"
+    "tr": "Max",
   },
   "chart_rangeMonthToDateCompact": {
     "en": "MTD",
@@ -526,70 +588,82 @@
     "de": "1 Tag",
     "fr": "1 jour",
     "zh-Hant-TW": "一天"
+    "tr": "1 Gün",
   },
   "chart_rangeOneDayCompact": {
     "en": "1D",
     "de": "1T",
     "fr": "1j",
     "zh-Hant-TW": "一天"
+    "tr": "1G",
   },
   "chart_rangeOneMonth": {
     "en": "1 Month",
     "de": "1 Monat",
     "fr": "1 mois",
     "zh-Hant-TW": "一月"
+    "tr": "1 Ay",
   },
   "chart_rangeOneMonthCompact": {
     "en": "1M",
     "de": "1M",
     "fr": "1m",
     "zh-Hant-TW": "一月"
+    "tr": "1A",
   },
   "chart_rangeOneWeekCompact": {
     "en": "1W",
     "zh-Hant-TW": "一週"
+    "tr": "1H",
   },
   "chart_rangeOneYear": {
     "en": "1 Year",
     "de": "1 Jahr",
     "fr": "1 année",
     "zh-Hant-TW": "一年"
+    "tr": "1 Yıl",
   },
   "chart_rangeOneYearCompact": {
     "en": "1Y",
     "de": "1J",
     "fr": "1a",
     "zh-Hant-TW": "一年"
+    "tr": "1Y",
   },
   "chart_rangeSixMonths": {
     "en": "6 Months",
     "de": "6 Monate",
     "fr": "6 mois",
     "zh-Hant-TW": "六月"
+    "tr": "6 Ay",
   },
   "chart_rangeSixMonthsCompact": {
     "en": "6M",
     "de": "6M",
     "fr": "6m",
     "zh-Hant-TW": "六月"
+    "tr": "6A",
   },
   "chart_rangeThreeMonths": {
     "en": "3 Months",
     "de": "3 Monate",
     "fr": "3 mois",
     "zh-Hant-TW": "三月"
+    "tr": "3 Ay",
   },
   "chart_rangeThreeMonthsCompact": {
     "en": "3M",
     "de": "3M",
     "fr": "3m",
     "zh-Hant-TW": "三月"
+    "tr": "3A",
   },
   "chart_rangeTwoYears": {
     "en": "2 Years",
     "de": "2 Jahre",
     "fr": "2 années",
     "zh-Hant-TW": "二年"
+    "tr": "2 Yıl",
   },
   "chart_rangeYearToDateCompact": {
     "en": "YTD",
@@ -600,97 +674,118 @@
     "en": "Chart Settings",
     "fr": "Paramètres du graphique",
     "zh-Hant-TW": "圖表設定"
+    "tr": "Grafik Ayarları",
   },
   "chart_title": {
     "en": "View Chart",
     "fr": "Voir le graphique",
     "zh-Hant-TW": "檢視圖表"
+    "tr": "Grafiği Görüntüle",
   },
   "chart_transactionAnnotations": {
     "en": "Transaction Annotations"
+    "tr": "İşlem Açıklamaları",
   },
   "chart_typeArea": {
     "en": "Area",
     "fr": "Aire",
     "zh-Hant-TW": "面積圖"
+    "tr": "Bölge",
   },
   "chart_typeCandle": {
     "en": "Candle",
     "fr": "Bougie",
     "zh-Hant-TW": "K線"
+    "tr": "Mum",
   },
   "chart_typeHollowCandle": {
     "en": "Hollow Candle",
     "fr": "Bougie creuse",
     "zh-Hant-TW": "空心K線"
+    "tr": "İçi Boş Mum",
   },
   "chart_typeLine": {
     "en": "Line",
     "fr": "Ligne",
     "zh-Hant-TW": "線形圖"
+    "tr": "Çizgi",
   },
   "chart_typeOHLC": {
     "en": "OHLC",
     "fr": "OHLC",
     "zh-Hant-TW": "美國線"
+    "tr": "OHLC",
   },
   "chart_volume": {
     "en": "Volume",
     "fr": "Volume",
     "zh-Hant-TW": "交易量"
+    "tr": "Hacim",
   },
   "csv_fileEmpty": {
     "en": "File is empty",
     "zh-Hant-TW": "空白檔案"
+    "tr": "Dosya boş",
   },
   "csv_unableToOpen": {
     "en": "Unable to open file",
     "zh-Hant-TW": "無法開啟檔案"
+    "tr": "Dosya açılamadı",
   },
   "csvExport_exportAndOverwrite": {
     "en": "Export and overwrite existing file",
     "fr": "Exporter et écraser le fichier existant",
     "zh-Hant-TW": "匯出並取代既有檔案"
+    "tr": "Dışa aktar ve mevcut dosya üzerine yaz",
   },
   "csvExport_externalStorageHelp": {
     "en": "To export, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nYou can choose to export to SDCard or local storage (open the side menu in the file picker), or Google Drive. If you export to Google Drive, your file will be accessible from your computer at https://drive.google.com."
+    "tr": "Dışa aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\n SDCard'a veya yerel depolama alanına (dosya seçicideki yan menüyü açın) ya da Google Drive'a dışa aktarmayı seçebilirsiniz. Google Drive'a dışa aktarırsanız, dosyanıza bilgisayarınızdan https://drive.google.com adresinden erişilebilir.",
   },
   "csvExport_externalStorageUploaded": {
     "en": "CSV saved to External Storage",
     "zh-Hant-TW": "儲存CSV檔案至外部儲存裝置"
+    "tr": "CSV Harici Depolamaya kaydedildi",
   },
   "csvExport_unableToUpload": {
     "en": "Unable to upload CSV file",
     "fr": "Impossible de charger le fichier CSV",
     "zh-Hant-TW": "無法上傳CSV檔案"
+    "tr": "CSV dosyası yüklenemedi",
   },
   "csvImport_copyPasteHelp": {
     "en": "Copy and paste the text containing the CSV data into the text field below. Make sure to copy and paste the headers as well. Each line of the CSV should be on a separate line.",
     "fr": "Copiez et collez le texte contenant les données CSV dans le champ de texte ci-dessous. Assurez-vous de copier et coller les en-têtes également. Chaque ligne du fichier CSV doit être sur une ligne distincte.",
     "zh-Hant-TW": "複製貼上CSV資料內容文字至文字輸入框內。請確認是否也有複製貼上標題，每一個CSV欄位應該要分開成不同的欄位。"
+    "tr": "CSV verilerini içeren metni kopyalayıp aşağıdaki metin alanına yapıştırın. Başlıkları da kopyalayıp yapıştırdığınızdan emin olun. CSV'nin her satırı ayrı bir satırda olmalıdır.",
   },
   "csvImport_couldNotFindData": {
     "en": "Could not find data to import",
     "fr": "Impossible de trouver les données à importer",
     "zh-Hant-TW": "找不到可匯入數據"
+    "tr": "İçe aktarılacak veri bulunamadı",
   },
   "csvImport_fileWasEmpty": {
     "en": "CSV file was empty",
     "fr": "Le fichier CSV était vide",
     "zh-Hant-TW": "空白CSV檔案"
+    "tr": "CSV dosyası boş",
   },
   "csvImport_externalStorageHelp": {
     "en": "To import, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nTo view your Google Drive files from your computer, you can visit https://drive.google.com. You can also import from your SDCard or any other external storage (open the side menu in the file picker)."
+    "tr": "İçe aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\nGoogle Drive dosyalarınızı bilgisayarınızdan görüntülemek için https://drive.google.com adresini ziyaret edebilirsiniz. SDCard'ınızdan veya başka bir harici depolama alanından da içe aktarabilirsiniz (dosya seçicideki yan menüyü açın).",
   },
   "csvImport_importAndOverwrite": {
     "en": "Delete local data after importing",
     "fr": "Supprimer les données locales après avoir importé",
     "zh-Hant-TW": "匯入後刪除原本數據"
+    "tr": "İçe aktardıktan sonra yerel verileri sil",
   },
   "csvImport_imported": {
     "en": "Imported",
     "fr": "Importé",
     "zh-Hant-TW": "匯入"
+    "tr": "İçe aktarıldı",
   },
   "csvImport_importedQuotesAndHoldingsFormatted": {
     "_formatted": false,
@@ -702,51 +797,61 @@
     "en": "Importing…",
     "fr": "Importation…",
     "zh-Hant-TW": "匯入中…"
+    "tr": "İçe aktarılıyor...",
   },
   "csvImport_pasteDataHere": {
     "en": "Paste data here",
     "fr": "Coller les données ici",
     "zh-Hant-TW": "黏貼數據於此"
+    "tr": "Verileri buraya yapıştırın",
   },
   "csvImport_pleaseCopyPasteData": {
     "en": "Please copy and paste the CSV data",
     "fr": "Veuillez copier et coller les données CSV",
     "zh-Hant-TW": "請複製並貼上CSV數據"
+    "tr": "Lütfen CSV verilerini kopyalayıp yapıştırın",
   },
   "csvImport_sizeRestriction": {
     "en": "Use File option if you have a lot of data, since Android has a 1 MB size restriction for Clipboard/Email.",
     "zh-Hant-TW": "由於安卓系統只提供 1 MB 給剪貼簿/Email，如果你有很多的資料，請使用檔案選項。"
+    "tr": "Android'de Pano/E-posta için 1 MB boyut sınırlaması olduğundan, çok fazla veriniz varsa dosya seçeneğini kullanın.",
   },
   "csvImport_recognizedHeadersHelp": {
     "en": "Recognized CSV Headers:\\n\\nSymbol: Symbol name (i.e. BB)\\nPortfolio: Portfolio the quote belongs to\\nShares: Shares owned\\nType: Buy, Sell, Buy to Cover, Sell Short\\nPrice: Cost per share\\nCommission: Total commissions\\nDate: Date of transaction (YYYY-MM-DD GMT+HH:MM), i.e. 2017–05–25 GMT+01:00\\nNotes: Additional notes\\n\\nTo see a sample CSV, you can export a CSV from the app.\\n\\nThe Date format must be correct or the date will not be imported. If you are using Excel, you can customize the format of the generated dates. 2016–11–25 GMT-08:00 is a valid date, 11–25–2017 is not.",
     "zh-Hant-TW": "確認 CSV 標題:\\n\\n代碼: 代碼名稱 (例. BB)\\n組合: 股票屬於組合\\n股數: 擁有股數\\n類別: 買, 賣, 空單補回, 賣空\\n價格: 每股均價\\n手續費: 總手續費\\n日期: 成交日期 (YYYY-MM-DD GMT+HH:MM), 例. 2017–05–25 GMT+01:00\\n備註: 附註\\n\\n不知道CSV格式的話,你可以從app匯出CSV.\\n\\n日期格式一定要正確,否則該日期將不會被匯入.如果是使用Excel的話,可以客製化日期格式 2016–11–25 GMT-08:00 這個日期格式是可以的, 11–25–2017 則不行."
-  },
+     },
   "csvImport_unableToDownload": {
     "en": "Unable to download CSV file",
     "fr": "Impossible de télécharger le fichier CSV",
     "zh-Hant-TW": "無法下載CSV檔案"
+    "tr": "CSV dosyası indirilemiyor",
   },
   "customizeFont_preview": {
     "en": "Preview:",
     "fr": "Aperçu :",
     "zh-Hant-TW": "預覽"
+    "tr": "Önizleme",
   },
   "customizeFont_title": {
     "en": "Customize Font Size",
     "fr": "Personnaliser la taille de la police",
     "zh-Hant-TW": "字體大小"
+    "tr": "Yazı boyutu özelleştirme",
   },
   "faq_canIHaveTrial": {
     "en": "Can I have a free trial?",
     "zh-Hant-TW": "有免費試用嗎?"
+    "tr": "Ücretsiz deneme alabilir miyim?",
   },
   "faq_canIHaveTrialAnswer": {
     "en": "First time subscribers have 1 week free trial. You can cancel anytime by clicking manage subscriptions. On the purchase confirmation dialog, Google Play will confirm the trial time if you are eligible for a trial.",
     "zh-Hant-TW": "第一次訂閱享有1週免費體驗.點選管理訂閱,你隨時可以取消訂閱."
+    "tr": "İlk kez abone olanların 1 haftalık ücretsiz deneme süresi vardır. Abonelikleri yönet seçeneğine tıklayarak istediğiniz zaman iptal edebilirsiniz. Satın alma onayı iletişim kutusunda, deneme için uygunsanız Google Play deneme süresini onaylayacaktır.",
   },
   "faq_paidAlready": {
     "en": "I paid for the app already, but the app does not remember or recognize my purchase",
     "zh-Hant-TW": "我已經付款過了，但 app 不記得或不認得我有訂閱過"
+    "tr": "Uygulama için zaten ödeme yaptım, ancak uygulama satın alma işlemimi hatırlamıyor veya tanımıyor",
   },
   "faq_paidAlreadyAnswer": {
     "en": "Please make sure you are logged into the account used to make the purchase and click \\'Restore Purchases\\'. If you can\\'t restore the purchase, please reach out to us via support."
@@ -754,24 +859,29 @@
   "faq_whySubscriptionFee": {
     "en": "Why is there a subscription fee?",
     "zh-Hant-TW": "為什麼需要訂閱費用?"
+    "tr": "Neden bir abonelik ücreti var?",
   },
   "faq_whySubscriptionFeeP1": {
     "en": "We are an online service and must pay for our servers, data feeds, news sources, respond to customer support, maintain our servers and regularly ship new features. These are expensive and ongoing monthly costs, unlike offline software.",
     "zh-Hant-TW": "MSP為線上軟體服務,須支付伺服器、數據、新聞、人事成本等開支,以維持產品的穩定與提供更多元的產品服務."
+    "tr": "Biz çevrimiçi bir hizmetiz ve sunucularımız, veri akışlarımız, haber kaynaklarımız için ödeme yapmak, müşteri desteğine yanıt vermek, sunucularımızın bakımını yapmak ve düzenli olarak yeni özellikler göndermek zorundayız. Bunlar, çevrimdışı yazılımların aksine pahalı ve devam eden aylık maliyetlerdir.",
   },
   "faq_whySubscriptionFeeP2": {
     "en": "Advertising help pay some of our costs. Customers who want a premium ad-free experience and want to support the development of the app can subscribe to the premium plan. Thank you for your support!",
     "zh-Hant-TW": "MSP盡可能提供使用者優良的使用體驗,將廣告干擾降至最低.有限的廣告收入並無法足夠負擔維護與提供更加體驗.如果喜歡我們的產品,並且享受無廣告干擾的Premium體驗,並且支持我們提供更優良的服務與體驗,請訂閱MSP Premium.MSP開發團隊感謝您的支持與愛戴!"
+    "tr": "Reklamlar maliyetlerimizin bir kısmının karşılanmasına yardımcı oluyor. Premium reklamsız bir deneyim isteyen ve uygulamanın gelişimini desteklemek isteyen müşterilerimiz premium plana abone olabilirler. Desteğiniz için teşekkür ederiz!",
   },
   "generic_accountX": {
     "_formatted": false,
     "en": "Account: %s",
     "fr": "Compte : %s",
     "zh-Hant-TW": "帳戶: %s"
+    "tr": "Hesap: %s",
   },
   "generic_active": {
     "en": "Active",
     "zh-Hant-TW": "啟用"
+    "tr": "Aktif",
   },
   "generic_ad": {
     "en": "Ad",
@@ -791,11 +901,13 @@
   "generic_additionalOptions": {
     "en": "Additional Options",
     "zh-Hant-TW": "額外的選項"
+    "tr": "İlave seçenekler",
   },
   "generic_agreePrivacyPolicyAndTermsOfUse": {
     "en": "By continuing, you agree to the\\nPrivacy Policy and Terms of Use",
     "fr": "En continuant, vous acceptez les\\nConditions d\\'utilisation et Politique de confidentialité",
     "zh-Hant-TW": "如要繼續，您需要同意隱私權政策與使用規範"
+    "tr": "Devam ederek Gizlilik Politikasını ve Kullanım Koşullarını\\nkabul etmiş olursunuz",
   },
   "generic_appLockHelp": {
     "en": "Enabling App Lock will prompt for a Passcode or Face ID/Touch ID when the app is launched. If you lose your Passcode, you will need to re-install the app."
@@ -803,104 +915,130 @@
   "generic_apply": {
     "en": "Apply",
     "zh-Hant-TW": "套用"
+    "tr": "Uygula",
+    
   },
   "generic_autoRefresh": {
     "en": "Auto-refresh",
     "fr": "Mise à jour automatique",
     "zh-Hant-TW": "自動重新整理"
+    "tr": "Otomatik yenile",
   },
   "generic_autoRefreshOnWeekends": {
     "en": "Auto-refresh on weekends",
     "fr": "Mise à jour automatique les week-ends",
     "zh-Hant-TW": "週末自動重新整理"
+    "tr": "Haftasonları otomatik yenile",
   },
   "generic_autoRefreshEndTime": {
     "en": "Auto-refresh end time",
     "fr": "Heure de fin de la mise à jour automatique",
     "zh-Hant-TW": "自動重新整理結束時間"
+    "tr": "Otomatik yenileme bitiş zamanı",
   },
   "generic_autoRefreshStartTime": {
     "en": "Auto-refresh start time",
     "fr": "Heure de début de la mise à jour automatique",
     "zh-Hant-TW": "自動重新整理開始時間"
+    "tr": "Otomatik yenileme bbaşlangıç zamanı",
   },
   "generic_backup": {
     "en": "Backup",
     "zh-Hant-TW": "備份"
+    "tr": "Yedekleme",
   },
   "generic_beginImport": {
     "en": "Begin Import",
     "zh-Hant-TW": "開始匯入"
+    "tr": "İçe aktaryamaya başla",
   },
   "generic_calculate": {
     "en": "Calculate",
     "zh-Hant-TW": "金額統計"
+    "tr": "Hesapla",
   },
   "generic_calculating": {
     "en": "Calculating…"
+    "tr": "Hesaplanıyor",
   },
   "generic_cancel": {
     "en": "Cancel",
     "fr": "Annuler",
     "zh": "取消",
-    "zh-Hant-TW": "取消"
+    "zh-Hant-TW": "取消",
+    "tr": "İptal",
   },
   "generic_cant_send_email_error": {
     "en": "Can\\'t send email. Please check that email has been set up properly on your device."
+    "tr": "E-posta gönderilemiyor. Lütfen cihazınızda e-postanın doğru şekilde kurulup kurulmadığını kontrol edin.",
   },
   "generic_changePasscode": {
     "en": "Change Passcode"
+    "tr": "Parolayı Değiştir",
   },
   "generic_checkOutThisApp": {
     "en": "Check out this app!",
     "zh-Hant-TW": "查看這個 app"
+    "tr": "Bu uygulamaya bir göz atın!",
   },
   "generic_checkOutThisAppLong": {
     "en": "Check out My Stocks Portfolio, an app for monitoring your stocks and portfolios!"
+    "tr": "Hisse senetlerinizi ve portföylerinizi izlemek için bir uygulama olan My Stocks Portfolio'ya göz atın!",
   },
   "generic_clientOutOfDate": {
     "en": "It looks like your app version is out of date, so this type is unrecognized. Please update to the latest version of the app."
+    "tr": "Uygulama sürümünüz güncel değil gibi görünüyor, bu nedenle bu tür tanınmıyor. Lütfen uygulamanın en son sürümüne güncelleyin.",
   },
   "generic_closeDrawerAccessibility": {
     "en": "Close navigation drawer",
     "fr": "Fermer le tiroir de navigation",
     "zh-Hant-TW": "關閉側選單"
+    "tr": "Gezinme çekmecesini kapatın",
   },
   "generic_connectionIssue": {
     "en": "Could not reach servers. Please check your connection and try again.",
     "zh-Hant-TW": "無法連結到伺服器，請檢查網路連線並再試一次"
+    "tr": "Sunuculara ulaşılamadı. Lütfen bağlantınızı kontrol edin ve tekrar deneyin.",
   },
   "generic_confirmPasscode": {
     "en": "Confirm Passcode"
+    "tr": "Parolayı Onayla",
   },
   "generic_contactUs": {
     "en": "Contact Us",
     "fr": "Contactez-nous",
     "zh": "联络我们",
     "zh-Hant-TW": "聯繫我們"
+    "tr": "Bize Ulaşın",
   },
   "generic_continue": {
     "en": "Continue",
     "fr": "Continuer",
     "zh-Hant-TW": "繼續"
+    "tr": "Devam",
   },
   "generic_copiedToClipboard": {
     "en": "Copied to Clipboard"
+    "tr": "Panoya Kopyalandı",
   },
   "generic_copyToClipboard": {
     "en": "Copy to Clipboard"
+    "tr": "Panoya Kopyala",
   },
   "generic_date": {
     "en": "Date",
     "zh-Hant-TW": "日期"
+    "tr": "Tarih",
   },
   "generic_delete": {
     "en": "Delete",
     "fr": "Effacer",
     "zh-Hant-TW": "刪除"
+    "tr": "Sil",
   },
   "generic_disableWarningInSettings": {
     "en": "You can disable this warning in the settings section in the app, general settings"
+    "tr": "Bu uyarıyı uygulamadaki ayarlar bölümünden, genel ayarlardan devre dışı bırakabilirsiniz",
   },
   "generic_dismiss": {
     "en": "Dismiss",
@@ -910,108 +1048,134 @@
   "generic_displayLanguage": {
     "en": "Display Language",
     "zh-Hant-TW": "顯示語言"
+    "tr": "Görüntüleme Dili",
   },
   "generic_done": {
     "en": "Done",
     "fr": "Terminé",
     "zh": "完成",
-    "zh-Hant-TW": "完成"
+    "zh-Hant-TW": "完成",
+    "tr": "Bitti",
   },
   "generic_edit": {
     "en": "Edit",
     "fr": "Modifier",
     "zh-Hant-TW": "編輯"
+    "tr": "Düzenle",
   },
   "generic_email": {
     "en": "Email",
     "zh-Hant-TW": "Email"
+    "tr": "Eposta",
   },
   "generic_emailOrCopyPaste": {
     "en": "Email / Copy & Paste",
     "zh-Hant-TW": "Email / 複製 & 貼上"
+    "tr": "Eposta / Kopyala & Yapıştır",
   },
   "generic_enableAppLock": {
     "en": "Enable App Lock"
+    "tr": "Uygulama Kilidini Etkinleştir",
   },
   "generic_enableFaceOrTouchID": {
     "en": "Enable Face ID/Touch ID"
+    "tr": "Face ID/Touch ID'yi etkinleştirin",
   },
   "generic_enableWidgetLock": {
     "en": "Enable Widget Lock"
+    "tr": "Widget Kilidini Etkinleştir",
   },
   "generic_enterNotes": {
     "en": "Enter notes",
     "fr": "Entrer des notes",
     "zh-Hant-TW": "輸入備註"
+    "tr": "Notları girin",
   },
   "generic_enterPasscode": {
     "en": "Enter Passcode"
+    "tr": "Parolayı girin",
   },
   "generic_enterValueBetween0And100": {
     "en": "Enter a value between 0-100",
     "fr": "Entrer une valeur entre 0 et 100",
     "zh-Hant-TW": "輸入0-100之間數值"
+    "tr": "0-100 arasında bir değer girin",
   },
   "generic_enterYourAnswer": {
     "en": "Enter your answer",
     "fr": "Entrez votre réponse",
     "zh-Hant-TW": "輸入答案"
+    "tr": "Cevabınızı girin",
   },
   "generic_enterYourQuestion": {
     "en": "Enter your question",
     "fr": "Entrez votre question",
     "zh-Hant-TW": "輸入問題"
+    "tr": "Sorunuzu girin",
   },
   "generic_error": {
     "en": "Error"
+    "tr": "Hata",
   },
   "generic_errorImageAccessibility": {
     "en": "Error Image",
     "fr": "Image d\\'erreur",
     "zh-Hant-TW": "影像錯誤"
+    "tr": "Hata Görüntüsü",
   },
   "generic_errorFetchingResults": {
     "en": "Error fetching results. Please try again later."
+    "tr": "Sonuçlar alınırken hata oluştu. Lütfen daha sonra tekrar deneyin",
   },
   "generic_exitApplication_question": {
     "en": "Exit Application?",
     "zh-Hant-TW": "離開應用程式"
+    "tr": "Uygulamadan çıkılsın mı?",
   },
   "generic_exitAreYouSure": {
     "en": "Are you sure you want to exit?",
     "zh-Hant-TW": "確定要離開嗎?"
+    "tr": "Çıkmak istediğinizden emin misiniz?",
   },
   "generic_export": {
     "en": "Export…",
     "zh-Hant-TW": "匯出中…"
+    "tr": "Dışa aktar...?",
   },
   "generic_exportData": {
     "en": "Export Data"
+    "tr": "Verileri dışa aktar"
   },
   "generic_exportToEmail": {
     "en": "Export to Email"
+    "tr": "Epostaya aktar"
   },
   "generic_exportToFile": {
     "en": "Export to File"
+    "tr": "Dosyaya aktar"
   },
   "generic_faq": {
     "en": "Frequently Asked Questions",
     "fr": "Questions fréquentes",
     "zh": "常见问题",
     "zh-Hant-TW": "常見問題"
+    "tr": "Sıkça Sorulan Sorular",
   },
   "generic_failedToOpenBrowser": {
     "en": "Could not open your web browser. Please check that you have one installed."
+    "tr": "Web tarayıcınız açılamadı. Lütfen yüklü bir tarayıcınız olup olmadığını kontrol edin."
   },
   "generic_filter": {
     "en": "Filter",
     "fr": "Filtre",
     "zh-Hant-TW": "篩選"
+    "tr": "Filtre",
   },
   "generic_fontSize": {
     "en": "Font Size",
     "fr": "Taille de police",
     "zh-Hant-TW": "字體大小"
+    "tr": "Yazı Tipi Boyutu",
   },
   "generic_from_colon": {
     "en": "From:",
@@ -1019,137 +1183,168 @@
     "fr": "De :",
     "zh": "从：",
     "zh-Hant-TW": "從："
+    "tr": "Kimden:",
   },
   "generic_help": {
     "en": "Help",
     "fr": "Aide",
     "zh-Hant-TW": "幫助"
+    "tr": "Yardım",
   },
   "generic_hide": {
     "en": "Hide",
     "zh-Hant-TW": "隱藏"
+    "tr": "Gizle",
   },
   "generic_hideAdvertisingAccessibility": {
     "en": "Hide Advertising",
     "fr": "Cacher la publicité",
     "zh-Hant-TW": "隱藏廣告"
+    "tr": "Reklamları Gizle",
   },
   "generic_iconAccessibility": {
     "en": "Icon",
     "fr": "Icône",
     "zh-Hant-TW": "圖示"
+    "tr": "İkon",
   },
   "generic_import": {
     "en": "Import…",
     "zh-Hant-TW": "匯入中…"
+    "tr": "İçe aktar...",
   },
   "generic_importData": {
     "en": "Import Data"
+    "tr": "veriyi içe aktar",
   },
   "generic_language": {
     "en": "Language",
     "zh-Hant-TW": "語言"
+    "tr": "Dil",
   },
   "generic_larger": {
     "en": "Larger",
     "fr": "Plein écran"
+    "tr": "Daha büyük",
   },
   "generic_later": {
     "en": "Later",
     "fr": "Plus tard"
+    "tr": "Sonra",
   },
   "generic_loading": {
     "en": "Loading…"
+    "tr": "Yükleniyor...",
   },
   "generic_manageAlerts": {
     "en": "Manage Alerts",
     "fr": "Gérer les alertes",
     "zh-Hant-TW": "管理到價通知"
+    "tr": "Uyarıları Yönet",
   },
   "generic_manageExistingAlerts": {
     "en": "Manage existing alerts",
     "zh-Hant-TW": "管理到價通知列表"
+    "tr": "Mevcut uyarıları yönet",
   },
   "generic_manualSort": {
     "en": "Manual Sort",
     "zh-Hant-TW": "手動分類"
+    "tr": "Manuel Sıralama",
   },
   "generic_month": {
     "en": "Month",
     "zh-Hant-TW": "月"
+    "tr": "Ay",
   },
   "generic_name": {
     "en": "Name",
     "fr": "Nom",
     "zh-Hant-TW": "名稱"
+    "tr": "Ad",
   },
   "generic_nameOptional": {
     "en": "Name (Optional)",
     "fr": "Nom (Optionel)",
     "zh-Hant-TW": "名稱（選填）"
+    "tr": "Ad ( İsteğe bağlı)",
   },
   "generic_navigateUpAccessibility": {
     "en": "Navigate up",
     "fr": "Naviguer vers le haut"
+    "tr": "Yukarı git",
   },
   "generic_navigationAppBarAccessibility": {
     "en": "Navigation Application Bar"
+    "tr": "Uygulama Gezinme Barı",
   },
   "generic_navigationAccessibility": {
     "en": "Navigation",
     "fr": "Navigation",
     "zh-Hant-TW": "導覽"
+    "tr": "Gezinme",
   },
   "generic_navigationTabsAccessibility": {
     "en": "Navigation Tabs",
     "zh-Hant-TW": "導覽頁籤"
+    "tr": "Gezinme Sekmeleri",
   },
   "generic_navigationToolbarAccessibility": {
     "en": "Navigation Toolbar",
     "zh-Hant-TW": "導覽工具列"
+    "tr": "Gezinme Araç Çubuğu",
   },
   "generic_networkNotAvailable": {
     "en": "Network not available. Please connect to the internet and try again.",
     "fr": "Réseau non disponible Veuillez vous connecter à Internet et réessayer.",
     "zh-Hant-TW": "網路不給力，稍後請再重新連結網路"
+    "tr": "Ağ mevcut değil. Lütfen internete bağlanın ve tekrar deneyin.",
   },
   "generic_newVersionAvailable": {
     "en": "New version available",
     "fr": "Nouvelle version disponible",
     "zh-Hant-TW": "新版本"
+    "tr": "Yeni sürüm mevcut",
   },
   "generic_newVersionAvailableHardUpgradeHelp": {
     "en": "Please upgrade to the newest version of the app for important bug fixes.",
     "fr": "Veuillez mettre à jour vers la dernière version de l\\'application pour bénéficier de correctifs importants.",
     "zh-Hant-TW": "修復重大程式錯誤，請更新至最新版本"
+    "tr": "Önemli hata düzeltmeleri için lütfen uygulamanın en yeni sürümüne yükseltin.",
   },
   "generic_newVersionAvailableHelp": {
     "en": "There is a new version of the app available and it is recommended to update. Download the update?",
     "fr": "Il existe une nouvelle version de l\\'application disponible et il est recommandé de la mettre à jour. Télécharger la mise à jour?",
     "zh-Hant-TW": "新版本已釋出，建議更新至最新版本。要下載最新版本嗎?"
+    "tr": "Uygulamanın yeni bir sürümü mevcut ve güncellemeniz önerilir. Güncelleme indirilsin mi?",
   },
   "generic_no": {
     "en": "No",
     "fr": "Non",
     "zh-Hant-TW": "不"
+    "tr": "Hayır",
   },
   "generic_noResults": {
     "en": "No Results",
     "fr": "Aucun résultat",
     "zh-Hant-TW": "沒有結果"
+    "tr": "Sonuç Yok",
   },
   "generic_notesOptional": {
     "en": "Notes (Optional)",
     "zh-Hant-TW": "備註（選填）"
+    "tr": "Notlar (İsteğe bağlı)",
   },
   "generic_notificationTestInProgress": {
     "en": "You should receive a test notification in a few seconds",
     "zh-Hant-TW": "您將會在幾秒內收到測試通知"
+    "tr": "Birkaç saniye içinde bir test bildirimi almalısınız",
   },
   "generic_noThanks": {
     "en": "No Thanks",
     "fr": "Non merci",
     "zh-Hant-TW": "不,謝謝"
+    "tr": "Hayır Teşekkürler",
   },
   "generic_none": {
     "en": "None",
@@ -1160,110 +1355,134 @@
     "en": "N/A",
     "fr": "N/A",
     "zh-Hant-TW": "N/A"
+    "tr": "N/A",
   },
   "generic_notes": {
     "en": "Notes",
     "fr": "Notes",
     "zh-Hant-TW": "備註"
+    "tr": "Notlar",
   },
   "generic_ok": {
     "en": "OK",
     "fr": "OK",
     "zh-Hant-TW": "OK"
+    "tr": "Tamam",
   },
   "generic_openDrawerAccessibility": {
     "en": "Open navigation drawer",
     "fr": "Ouvrir le tiroir de navigation",
     "zh-Hant-TW": "開啟側選單"
+    "tr": "Gezinti bölmesini açın",
   },
   "generic_passcode": {
     "en": "Passcode"
+    "tr": "Parola",
   },
   "generic_pasteFromClipboard": {
     "en": "Paste from Clipboard",
     "zh-Hant-TW": "從備忘錄貼上"
+    "tr": "Panodan Yapıştır",
   },
   "generic_perMonthShort": {
     "en": "/month",
     "fr": "/mois",
     "zh-Hant-TW": "/月"
+    "tr": "/Ay",
   },
   "generic_perYearShort": {
     "en": "/year",
     "zh-Hant-TW": "/年"
+    "tr": "/Yıl",
   },
   "generic_pickAFile": {
     "en": "Pick a File"
+    "tr": "Bir dosya seçin"
   },
   "generic_pleaseAgreeToPrivacyPolicyAndTerms": {
     "en": "Please agree to the Privacy Policy and Terms of Use before continuing",
     "fr": "Veuillez accepter la Politique de confidentialité et les conditions d\\'utilisation avant de continuer",
     "zh-Hant-TW": "若要繼續，請同意隱私權政策與使用規範"
+    "tr": "Lütfen devam etmeden önce Gizlilik Politikası ve Kullanım Koşullarını kabul edin",
   },
   "generic_preview": {
     "en": "Preview",
     "zh-Hant-TW": "預覽"
+    "tr": "Görünüm",
   },
   "generic_privacyPolicy": {
     "en": "Privacy Policy",
     "fr": "Politique de confidentialité",
     "zh-Hant-TW": "隱私權政策"
+    "tr": "Gizlilik Politikası",
   },
   "generic_proceedOffline": {
     "en": "Proceed Offline"
+    "tr": "Çevirimdışı devam edin",
   },
   "generic_questionsViewFAQ": {
     "en": "View FAQ",
     "fr": "Voir FAQ",
     "zh-Hant-TW": "查看常見問題"
+    "tr": "SSS'ları görüntüle",
   },
   "generic_rangeTwoYearsCompact": {
     "en": "2Y",
     "de": "2J",
     "fr": "2a",
     "zh-Hant-TW": "二年"
+    "tr": "2Y",
   },
   "generic_rangeFiveYearsCompact": {
     "en": "5Y",
     "de": "5J",
     "fr": "5a",
     "zh-Hant-TW": "五年"
+    "tr": "5Y",
   },
   "generic_rangeTenYearsCompact": {
     "en": "10Y",
     "de": "10J",
     "fr": "10a",
     "zh-Hant-TW": "十年"
+    "tr": "10Y",
   },
   "generic_reactivate": {
     "en": "Re-activate"
+    "tr": "Yeniden etkinleştir"
   },
   "generic_refresh": {
     "en": "Refresh",
     "fr": "Rafraîchir",
     "zh-Hant-TW": "重新載入"
+    "tr": "Yenile",
   },
   "generic_refreshAccessibility": {
     "en": "Refresh",
     "fr": "Actualiser",
     "zh-Hant-TW": "重新載入"
+    "tr": "Yenile",
   },
   "generic_required": {
     "en": "Required"
+    "tr": "Gerekli"
   },
   "generic_retry": {
     "en": "Retry",
     "fr": "Réessayer",
     "zh-Hant-TW": "再試一次"
+    "tr": "Yeniden dene",
   },
   "generic_rotateScreen": {
     "en": "Rotate Screen",
     "fr": "Rotation de l\\'écran",
     "zh-Hant-TW": "旋轉螢幕"
+    "tr": "Ekranı Döndür",
   },
   "generic_save": {
     "en": "Save",
     "zh-Hant-TW": "省下"
+    "tr": "Kaydet",
   },
   "generic_saveXMoney": {
     "_formatted": false,
@@ -1273,54 +1492,66 @@
   },
   "generic_security": {
     "en": "Security"
+    "tr": "Güvenlik"
   },
   "generic_selected": {
     "en": "Selected"
+    "tr": "Seçildi"
   },
   "generic_selectFile": {
     "en": "Select File",
     "fr": "Sélectionner un fichier",
     "zh-Hant-TW": "選取檔案"
+    "tr": "Dosya seçin",
   },
   "generic_set": {
     "en": "Set",
     "fr": "Régler",
     "zh-Hant-TW": "設定"
+    "tr": "Ayarla",
   },
   "generic_setPasscode": {
     "en": "Set Passcode"
+    "tr": "Parola ayarla"
   },
   "generic_settings": {
     "en": "Settings",
     "fr": "Paramètres",
     "zh-Hant-TW": "設定"
+    "tr": "Ayarlar",
   },
   "generic_shareUsing": {
     "en": "Share using…"
+    "tr": "...Kullanarak paylaş"
   },
   "generic_show": {
     "en": "Show",
     "zh-Hant-TW": "顯示"
+    "tr": "Göster",
   },
   "generic_signInGoogleDrive": {
     "en": "Enable Google Drive account",
     "zh-Hant-TW": "使用 Google 雲端雲端硬碟帳戶"
+    "tr": "Google Drive hesabını etkinleştirin",
   },
   "generic_signOut": {
     "en": "Sign Out",
     "fr": "Déconnexion",
     "zh": "登出",
     "zh-Hant-TW": "登出"
+    "tr": "Çıkış Yap",
   },
   "generic_sign_in": {
     "en": "Sign In",
     "fr": "Se connecter",
     "zh": "登入",
     "zh-Hant-TW": "登入"
+    "tr": "Giriş Yap",
   },
   "generic_signInToSyncAcrossDevices": {
     "en": "Sign in to sync across devices",
     "zh-Hant-TW": "登入帳戶即可跨裝置備份"
+    "tr": "Cihazlar arasında senkronizasyon için oturum açın",
   },
   "generic_sincePlaceholder": {
     "en": "Since %s"
@@ -3618,66 +3849,82 @@
     "_formatted": false,
     "en": "More news about %s ➔",
     "fr": "Plus d\\'actualités à propos de %s ➔"
+    "tr": "Hakkında daha fazla heber için %s ➔",
   },
   "viewQuote_newTickerChange": {
     "_formatted": false,
     "en": "Ticker has changed %s\\nTap here to change to the new one"
+    "tr": "Kodu değişti %s\\nYenisine geçmek için buraya dokunun",
   },
   "viewQuote_noData": {
     "en": "No Data",
     "fr": "Pas de données"
+    "tr": "Veri Yok",
   },
   "viewQuote_price": {
     "en": "Price",
     "fr": "Prix"
+    "tr": "Fiyat",
   },
   "viewQuote_basedOnPortfolioTab": {
     "en": "Based on portfolio tab"
+    "tr": "Portföy sekmesine dayalı",
   },
   "viewQuote_profile": {
     "en": "Profile",
     "zh-Hant-TW": "簡介"
+    "tr": "Profil",
   },
   "viewQuote_shareQuote": {
     "en": "Share Quote",
     "fr": "Partager un cours"
+    "tr": "Teklifi Paylaş",
   },
   "viewQuote_summary": {
     "en": "Summary",
     "fr": "Sommaire"
+    "tr": "Özet",
   },
   "viewQuote_tapToEnterNotes": {
     "en": "Tap to enter notes",
     "fr": "Appuyez pour entrer des notes"
+    "tr": "Teklifi Görüntüle",
   },
   "viewQuote_title": {
     "en": "View Quote",
     "fr": "Voir le cours"
+    "tr": "Teklifi Görüntüle",
   },
   "viewQuote_transactions": {
     "en": "Transactions",
     "fr": "Transactions"
+    "tr": "İşlemler",
   },
   "viewQuote_warningDeleteTransaction": {
     "en": "Are you sure you want to delete this transaction?",
     "fr": "Êtes-vous sûr de vouloir supprimer cette transaction ?"
+    "tr": "Bu işlemi silmek istediğinizden emin misiniz?",
   },
   "welcome_welcomeMessage": {
     "en": "Thank you for downloading My Stocks Portfolio (MSP)!\\n\\nA sample portfolio has been created. Please visit the help section for questions.",
     "fr": "Merci d\\'avoir téléchargé cette application !\\n\\nUn exemple de portefeuille a été créé."
+    "tr": "My Stocks Portfolio (MSP) indirdiğiniz için teşekkür ederiz! Örnek bir portföy oluşturulmuştur. Sorularınız için lütfen yardım bölümünü ziyaret edin.",
   },
   "widgetOverview_configure": {
     "en": "Configure Overview Widget",
     "fr": "Configurer le widget de synthèse"
+    "tr": "Genel Bakış Widgetini yapılandır",
   },
   "widgetOverview_title": {
     "en": "Overview",
     "fr": "Synthèse",
     "zh-Hant-TW": "總覽"
+    "tr": "Genel Bakış",
   },
   "widgetPortfolio_changeView": {
     "en": "Change View",
     "fr": "Changement de vue"
+    "tr": "Görünümü Değiştir",
   },
   "widgetPortfolio_configure": {
     "en": "Configure Quotes Widget",
@@ -3686,29 +3933,35 @@
   "widgetPortfolio_title": {
     "en": "Single Portfolio",
     "fr": "Portefeuille unique"
+    "tr": "Tek Portföy.",
   },
   "widgetPortfolio_youDoNotHaveAnyPortfolios": {
     "en": "You do not have any portfolios",
     "fr": "Vous n\\'avez aucun portefeuille"
+    "tr": "Herhangi bir portföyünüz yok",
   },
   "widget_configureHelp": {
     "en": "To configure widget settings (such as auto-refresh and font size), open the app, Settings, and go to the Widget section. If you resize the widget to be very small, be sure to visit widget settings to reduce the UI size so everything fits.\\n\\nPlease note that there are two types of widgets - overview and single portfolio. If you do not see your quotes, you may have meant to pin the single portfolio widget but pinned the overview widget.",
     "fr": "Pour effectuer le réglage du widget (tels que la mise à jour automatique and la taille de la police), ouvrez l\\'application, Réglages and allez dans la rubrique Widget. Si vous redimensionnez le widget pour qu\\'il soit très petit, veillez à réduire la taille dans les réglages du widget pour que tout s\\'affiche correctement."
-  },
+     },
   "widget_refreshing": {
     "en": "Refreshing Widget",
     "fr": "Rafraîchir le widget"
+    "tr": "Widget Yenineliyor.",
   },
   "widget_sharesAndPrice": {
     "en": "Shares/Price",
     "fr": "Action/Prix"
+    "tr": "Hisseler/Fiyat.",
   },
   "widget_syncAlreadyInProgress": {
     "en": "Sync already in progress.",
     "fr": "Synchronisation déjà en cours."
+    "tr": "Senkronizasyon zaten devam ediyor.",
   },
   "widget_transparency": {
     "en": "Widget Transparency",
     "fr": "Transparence des widgets"
+    "tr": "Widget saydamlığı",
   }
 }
