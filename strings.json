@@ -3913,92 +3913,108 @@
   "viewQuoteStats_prevCloseHelp": {
     "en": "Close price in the previous trading day",
     "fr": "Prix de clôture la veille"
+    "tr": "Bir önceki işlem günündeki kapanış fiyatı",
   },
   "viewQuoteStats_priceBookRatio": {
     "en": "Price/Book"
+    "tr": "Fiyat/DD"
   },
   "viewQuoteStats_priceBookRatioHelp": {
     "en": "Calculated by taking price per share divided by book value per share. Measures market valuation relative to book value."
+    "tr": "Hisse başına fiyatın hisse başına defter değerine bölünmesiyle hesaplanır. Defter değerine göre piyasa değerini ölçer."
   },
   "viewQuoteStats_priceSalesRatio": {
     "en": "Price/Sales"
+    "tr": "Fiyat/Satışlar"
   },
   "viewQuoteStats_priceSalesRatioHelp": {
     "en": "Calculated by taking market capitilization divided by total revenue over the last year. A low value may mean the stock is undervalued. Does not account for debt on balance sheet."
+    "tr": "Piyasa değerinin geçen yılki toplam gelire bölünmesiyle hesaplanır. Düşük bir değer, hisse senedinin değerinin düşük olduğu anlamına gelebilir. Bilançodaki borcu hesaba katmaz.",
   },
   "viewQuoteStats_volumeHelp": {
     "en": "Number of shares trading in latest trading day",
     "fr": "Nombre d\\'actions négociées la veille"
+    "tr": "Son işlem gününde işlem yapılan hisse sayısı",
   },
   "viewQuoteTransaction_purchasedAmountFormatted": {
     "_formatted": false,
     "en": "Purchased %s",
     "fr": "%s acheté"
+    "tr": "%s Satın alındı",
   },
   "viewQuoteTransactions_dividendsFromHoldingFormatted": {
     "_formatted": false,
     "en": "Dividends from %s",
     "fr": "Dividendes de %s"
+    "tr": "%s 'den Temettüler",
   },
   "viewQuoteTransactions_soldAmountFormatted": {
     "_formatted": false,
     "en": "Sold %s",
     "fr": "Vendu %s"
+    "tr": "%s Satıldı",
   },
   "viewQuoteTransactions_unknownDate": {
     "en": "Unknown Date",
     "fr": "Date inconnue"
+    "tr": "Bilinmeyen Tarih",
   },
   "viewQuoteTransactions_unrecognizedTransaction": {
     "en": "Unrecognized Transaction",
     "fr": "Transaction non reconnue"
+    "tr": "Tanımlanmayan İşlem",
   },
   "viewQuote_addCustomPrices": {
     "en": "Add Custom Prices",
     "fr": "Ajouter des prix personnalisés"
+    "tr": "Özel Fiyat Ekleyin",
   },
   "viewQuote_delete": {
     "en": "Delete Quote",
     "fr": "Supprimer le cours"
+    "tr": "Öneriyi Sil",
   },
   "viewQuote_editQuote": {
     "en": "Edit Quote",
     "fr": "Modifier le cours"
+    "tr": "Öneriyi Değiştir",
   },
   "viewQuote_extendedHours": {
     "en": "Extended",
     "fr": "Après clôture",
+    "tr": "Genişletilmiş",
     "zh-Hant-TW": "盤後"
   },
   "viewQuote_lastTradeFormatted": {
     "_formatted": false,
     "en": "Last Trade: %s",
     "fr": "Dernier échange : %s"
+    "tr": "Son işlem: %s",
   },
   "viewQuote_moreNewsAboutXFormatted": {
     "_formatted": false,
     "en": "More news about %s ➔",
     "fr": "Plus d\\'actualités à propos de %s ➔",
-    "tr": "Hakkında daha fazla heber için %s ➔"
+    "tr": " %s hakkında daha fazla heber için ➔",
   },
   "viewQuote_newTickerChange": {
     "_formatted": false,
     "en": "Ticker has changed %s\\nTap here to change to the new one",
-    "tr": "Kodu değişti %s\\nYenisine geçmek için buraya dokunun"
+    "tr": "%s Kodu değişti \\nYenisine geçmek için buraya dokunun",
   },
   "viewQuote_noData": {
     "en": "No Data",
     "fr": "Pas de données",
-    "tr": "Veri Yok"
+    "tr": "Veri Yok",
   },
   "viewQuote_price": {
     "en": "Price",
     "fr": "Prix",
-    "tr": "Fiyat"
+    "tr": "Fiyat",
   },
   "viewQuote_basedOnPortfolioTab": {
     "en": "Based on portfolio tab",
-    "tr": "Portföy sekmesine dayalı"
+    "tr": "Portföy sekmesine dayalı",
   },
   "viewQuote_profile": {
     "en": "Profile",
@@ -4008,57 +4024,58 @@
   "viewQuote_shareQuote": {
     "en": "Share Quote",
     "fr": "Partager un cours",
-    "tr": "Teklifi Paylaş"
+    "tr": "Önerileri Paylaş",
   },
   "viewQuote_summary": {
     "en": "Summary",
     "fr": "Sommaire",
-    "tr": "Özet"
+    "tr": "Özet",
   },
   "viewQuote_tapToEnterNotes": {
     "en": "Tap to enter notes",
     "fr": "Appuyez pour entrer des notes",
-    "tr": "Teklifi Görüntüle"
+    "tr": "Not girmek için dokunun",
   },
   "viewQuote_title": {
     "en": "View Quote",
     "fr": "Voir le cours",
-    "tr": "Teklifi Görüntüle"
+    "tr": "Öneriyi Görüntüle",
   },
   "viewQuote_transactions": {
     "en": "Transactions",
     "fr": "Transactions",
-    "tr": "İşlemler"
+    "tr": "İşlemler",
   },
   "viewQuote_warningDeleteTransaction": {
     "en": "Are you sure you want to delete this transaction?",
     "fr": "Êtes-vous sûr de vouloir supprimer cette transaction ?",
-    "tr": "Bu işlemi silmek istediğinizden emin misiniz?"
+    "tr": "Bu işlemi silmek istediğinizden emin misiniz?",
   },
   "welcome_welcomeMessage": {
     "en": "Thank you for downloading My Stocks Portfolio (MSP)!\\n\\nA sample portfolio has been created. Please visit the help section for questions.",
     "fr": "Merci d\\'avoir téléchargé cette application !\\n\\nUn exemple de portefeuille a été créé.",
-    "tr": "My Stocks Portfolio (MSP) indirdiğiniz için teşekkür ederiz! Örnek bir portföy oluşturulmuştur. Sorularınız için lütfen yardım bölümünü ziyaret edin."
+    "tr": "My Stocks Portfolio (MSP) indirdiğiniz için teşekkür ederiz! Örnek bir portföy oluşturulmuştur. Sorularınız için lütfen yardım bölümünü ziyaret edin.",
   },
   "widgetOverview_configure": {
     "en": "Configure Overview Widget",
     "fr": "Configurer le widget de synthèse",
-    "tr": "Genel Bakış Widgetini yapılandır"
+    "tr": "Genel Bakış Widgetini yapılandır",
   },
   "widgetOverview_title": {
     "en": "Overview",
     "fr": "Synthèse",
-    "tr": "Genel Bakış",
+    "tr": "Genel Görünüm",
     "zh-Hant-TW": "總覽"
   },
   "widgetPortfolio_changeView": {
     "en": "Change View",
     "fr": "Changement de vue",
-    "tr": "Görünümü Değiştir"
+    "tr": "Görünümü Değiştir",
   },
   "widgetPortfolio_configure": {
     "en": "Configure Quotes Widget",
     "fr": "Configurer le widget des cours"
+    "tr": "Öneriler Widget'ini yapılandır",
   },
   "widgetPortfolio_title": {
     "en": "Single Portfolio",
@@ -4068,7 +4085,7 @@
   "widgetPortfolio_youDoNotHaveAnyPortfolios": {
     "en": "You do not have any portfolios",
     "fr": "Vous n\\'avez aucun portefeuille",
-    "tr": "Herhangi bir portföyünüz yok"
+    "tr": "Herhangi bir portföyünüz yok",
   },
   "widget_configureHelp": {
     "en": "To configure widget settings (such as auto-refresh and font size), open the app, Settings, and go to the Widget section. If you resize the widget to be very small, be sure to visit widget settings to reduce the UI size so everything fits.\\n\\nPlease note that there are two types of widgets - overview and single portfolio. If you do not see your quotes, you may have meant to pin the single portfolio widget but pinned the overview widget.",
@@ -4077,21 +4094,21 @@
   "widget_refreshing": {
     "en": "Refreshing Widget",
     "fr": "Rafraîchir le widget",
-    "tr": "Widget Yenineliyor."
+    "tr": "Widget Yenineliyor.",
   },
   "widget_sharesAndPrice": {
     "en": "Shares/Price",
     "fr": "Action/Prix",
-    "tr": "Hisseler/Fiyat."
+    "tr": "Hisseler/Fiyat.",
   },
   "widget_syncAlreadyInProgress": {
     "en": "Sync already in progress.",
     "fr": "Synchronisation déjà en cours.",
-    "tr": "Senkronizasyon zaten devam ediyor."
+    "tr": "Senkronizasyon zaten devam ediyor.",
   },
   "widget_transparency": {
     "en": "Widget Transparency",
     "fr": "Transparence des widgets",
-    "tr": "Widget saydamlığı"
+    "tr": "Widget saydamlığı",
   }
 }
