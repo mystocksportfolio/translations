@@ -7,11 +7,11 @@
     "ja": "例",
     "ko": "예시",
     "zh": "例子",
-    "zh-Hant-TW": "例子"
+    "zh-Hant-TW": "例子",
     "tr": "Örnek",
   },
   "accounting_addLots": {
-    "en": "Add Lot(s)"
+    "en": "Add Lot(s)",
     "tr": "Lot(ları) Ekle"
   },
   "accounting_execution": {
@@ -19,42 +19,42 @@
   },
   "accounting_fifo": {
     "en": "FIFO",
-    "zh-Hant-TW": "先買先賣"
+    "zh-Hant-TW": "先買先賣",
     "tr": "FİFO",
   },
   "accounting_fifoDescription": {
     "en": "First In, First Out",
-    "zh-Hant-TW": "先買先賣"
+    "zh-Hant-TW": "先買先賣",
     "tr": "İlk giren, İlk Çıkar",
   },
   "accounting_lifo": {
     "en": "LIFO",
-    "zh-Hant-TW": "後買先賣"
+    "zh-Hant-TW": "後買先賣",
     "tr": "LİFO",
   },
   "accounting_lifoDescription": {
     "en": "Last In, First Out",
-    "zh-Hant-TW": "後買先賣"
+    "zh-Hant-TW": "後買先賣",
     "tr": "Son Giren, İlke Çıkar",
   },
   "accounting_highCost": {
     "en": "High Cost",
-    "zh-Hant-TW": "成本高"
-    "tr": "Yüksek Maliyetli",
+    "zh-Hant-TW": "成本高",
+    "tr": "Yüksek Maliyetli"
   },
   "accounting_highCostDescription": {
     "en": "Shares that were most expensive are sold first",
-    "zh-Hant-TW": "成本最高的先賣"
-    "tr": "Önce en pahalı hisseler satılır",
+    "zh-Hant-TW": "成本最高的先賣",
+    "tr": "Önce en pahalı hisseler satılır"
   },
   "accounting_lowCost": {
     "en": "Low Cost",
-    "zh-Hant-TW": "成本低"
+    "zh-Hant-TW": "成本低",
     "tr": "Düşük Maliyetli",
   },
   "accounting_lowCostDescription": {
     "en": "Shares that were the least expensive are sold first",
-    "zh-Hant-TW": "成本最低的先賣"
+    "zh-Hant-TW": "成本最低的先賣",
     "tr": "Önce en ucuz olan hisseler satılır",
   },
   "accounting_noLotsFound": {
@@ -64,11 +64,11 @@
     "en": "Couldn't find any valid lots (transactions) to select before this transaction's date"
   },
   "accounting_selectLots": {
-    "en": "Select Lots"
+    "en": "Select Lots",
     "tr": "Lotları Seç"
   },
   "accounting_weightedAverage": {
-    "en": "Weighted Average"
+    "en": "Weighted Average",
     "tr": "Ağırlıklı Ortalama"
   },
   "accounting_weightedAverageDescription": {
@@ -77,7 +77,7 @@
     "tr": "Maliyet esası, hisse başına cari gerçekleşmemiş maliyet kullanılarak hesaplanır"
   },
   "accounting_specificLots": {
-    "en": "Specific Lots"
+    "en": "Specific Lots",
     "tr": "Belirli Lotlar"
   },
   "accounting_specificLotsHelp": {
@@ -89,7 +89,7 @@
   },
   "account_deleted": {
     "en": "Account Deleted",
-    "zh-Hant-TW": "已刪除帳戶"
+    "zh-Hant-TW": "已刪除帳戶",
     "tr": "Hesap Silindi",
   },
   "adBanner_placeHolder": {
@@ -113,7 +113,7 @@
     "en": "Name of Portfolio",
     "de": "Name des Portfolios",
     "fr": "Nom du portefeuille",
-    "zh-Hant-TW": "投資組合名稱"
+    "zh-Hant-TW": "投資組合名稱",
     "tr": "Portföyün Adı",
   },
   "addQuoteCash": {
@@ -310,7 +310,7 @@
     "tr": "Pozisyonları Kapat",
   },
   "addQuoteTransaction_typeCloseShortPositions": {
-    "en": "Close Short Positions"
+    "en": "Close Short Positions",
     "tr": "Açığa Satış Pozisyonlarını Kapat"
   },
   "addQuoteTransaction_typeDRIP": {
