@@ -1969,6 +1969,7 @@
   "portfolio_addPortfolio": {
     "en": "Add Portfolio",
     "fr": "Ajouter un portefeuille",
+    "tr": "Portföy Ekle",
     "zh-Hant-TW": "添加新投資組合"
   },
   "portfolio_addToPortfolio": {
