@@ -2035,16 +2035,19 @@
   "portfolio": {
     "en": "Portfolio",
     "fr": "Portefeuille",
+    "tr": "Portföy",
     "zh-Hant-TW": "組合"
   },
   "portfolio_colon": {
     "en": "Portfolio:",
     "fr": "Portefeuille :",
+    "tr": "Portföy",
     "zh-Hant-TW": "組合："
   },
   "portfolio_commissions": {
     "en": "Commissions",
     "fr": "Commissions",
+    "tr": "Komisyonlar",
     "zh-Hant-TW": "手續費"
   },
   "portfolioAllocations_groupInOthers": {
@@ -2054,103 +2057,127 @@
   "portfolioAnalysis_changeSettings": {
     "en": "To change, open Settings, Calculations",
     "fr": "Pour modifier, ouvrer Réglages, Calculs",
+    "tr": "Değiştirmek için Ayarlar, Hesaplamalar'ı açın",
     "zh-Hant-TW": "欲改變,開啟設定,金額統計"
   },
   "portfolio_absoluteMagnitude": {
     "en": "Absolute / Magnitude"
+    "tr": "Mutlak / Büyüklük",
   },
   "portfolio_activity": {
     "en": "Activity"
+    "tr": "Aktivite",
   },
   "portfolio_addPortfolio": {
     "en": "Add Portfolio",
     "fr": "Ajouter un portefeuille",
+    "tr": "Portföy Ekle",
     "zh-Hant-TW": "添加新投資組合"
   },
   "portfolio_addToPortfolio": {
     "en": "Add to Portfolio",
+    "tr": "Portföye Ekle",
     "zh-Hant-TW": "新增至投資組合"
   },
   "portfolio_addingToPortfolio": {
     "en": "Adding to portfolio…",
+    "tr": "Portföye Ekleniyor...",
     "zh-Hant-TW": "新增至投資組合中…"
   },
   "portfolio_allocation_categoryTagHelp": {
     "en": "To assign category tags, click on the labels button (bottom right of an item). The allocation chart can be configured to show the symbol on the 1st level, and the category tag on the 2nd level."
+    "tr": "Kategori etiketleri atamak için etiketler düğmesine tıklayın (bir öğenin sağ alt köşesi). Tahsisat tablosu 1. seviyede sembolü ve 2. seviyede kategori etiketini gösterecek şekilde yapılandırılabilir.",
   },
   "portfolio_allocation_categoryTagPopupHelp": {
     "en": "To assign tags, click the pie chart and then on the labels button"
+    "tr": "Etiket atamak için pasta grafiğe ve ardından etiketler butonuna tıklayın."
   },
   "portfolio_allocation": {
     "en": "Allocation",
     "fr": "Allocation",
+    "tr": "Tahsis",
     "zh-Hant-TW": "分佈"
   },
   "portfolio_allocations": {
     "en": "Allocations",
     "fr": "Allocations",
+    "tr": "Tahsisatlar",
     "zh-Hant-TW": "分佈"
   },
   "portfolio_allPositions": {
     "en": "All Positions",
     "fr": "Toutes les positions",
+    "tr": "Tüm Pozisyonlar",
     "zh-Hant-TW": "所有倉位"
   },
   "portfolio_allTime": {
     "en": "All-Time",
     "fr": "Toujours",
+    "tr": "Tüm Zaman",
     "zh-Hant-TW": "所有時間"
   },
   "portfolio_allTimeChange": {
     "en": "All-Time Change",
+    "tr": "Tüm Zaman Değişimi",
     "zh-Hant-TW": "總損益"
   },
   "portfolio_allTimeChangePercent": {
     "en": "All-Time Change Percent",
+    "tr": "Tüm Zaman Değişim Yüzdesi",
     "zh-Hant-TW": "總損益比"
   },
   "portfolio_allTimeColon": {
     "en": "All-Time:",
+    "tr": "Tüm Zaman:",
     "zh-Hant-TW": "所有時間："
   },
   "portfolio_allTimeCommissions": {
     "en": "All-Time Commissions",
+    "tr": "Tüm Zaman Komisyonları",
     "zh-Hant-TW": "總手續費"
   },
   "portfolio_allTimeCostBasis": {
     "en": "All-Time Cost Basis",
+    "tr": "Tüm Zaman Maliyet Esaslı",
     "zh-Hant-TW": "總成本"
   },
   "portfolio_allTimeDividends": {
     "en": "All-Time Dividends",
+    "tr": "Tüm Zaman Temettüler",
     "zh-Hant-TW": "總股息"
   },
   "portfolio_allTimeValue": {
     "en": "All-Time Value",
+    "tr": "Tüm Zaman Değeri",
     "zh-Hant-TW": "總市值"
   },
   "portfolio_allValuesInPlaceholder": {
     "_formatted": false,
     "en": "All values in %s",
+    "tr": " %s içinde tüm değerler",
     "zh-Hant-TW": "總價值於 %s"
   },
   "portfolio_annualized": {
     "en": "Annualized:",
     "fr": "Annualisé :",
+    "tr": "Yıllıklandırılmış",
     "zh-Hant-TW": "年化"
   },
   "portfolio_annualizedXIRR": {
     "en": "Annualized XIRR",
     "fr": "Annualisé (XIRR)",
+    "tr": "Yıllıklandırılmış İGO",
     "zh-Hant-TW": "年化（XIRR）"
   },
   "portfolio_brokerSettings": {
     "en": "Broker Settings",
+    "tr": "Aracı K. Ayarları",
     "fr": "Paramètres de courtage"
   },
   "portfolio_cantManuallySortWhenAutoSortOn": {
     "en": "Can\\'t manually sort when a column header is locked to a sort. Please tap the locked column header and choose \"Manual Sort\".",
     "fr": "Impossible de trier manuellement lorsque qu\\'une colonne est utilisée pour trier. Tapez sur l\\'en-tête de colonne et choisissez \"Manual Sort\"."
+    "tr": "Bir sütun başlığı sıralamaya kilitlendiğinde manuel olarak sıralama yapılamaz. Lütfen kilitli sütun başlığına dokunun ve \"Manuel Sırala\" seçeneğini seçin.",
   },
   "portfolio_ceo": {
     "en": "CEO",
@@ -2159,71 +2186,85 @@
   "portfolio_change": {
     "en": "Change",
     "fr": "Variation",
+    "tr": "Değişimı",
     "zh-Hant-TW": "漲跌"
   },
   "portfolio_closedSoldPositions": {
     "en": "Closed / Sold Positions",
+    "tr": "Kapanan / Satılan Pozisyonlar",
     "fr": "Fermé / Positions vendues"
   },
   "portfolio_costBasis": {
     "en": "Cost Basis",
     "fr": "Cout de base",
+    "tr": "Maliyet esası",
     "zh-Hant-TW": "投資成本"
   },
   "portfolio_costPerShare": {
     "en": "Cost Per Share",
     "fr": "Cout par action",
+    "tr": "Hisse Başı Maliyet",
     "zh-Hant-TW": "每股均價"
   },
   "portfolio_couldNotAddToPortfolio": {
     "en": "Could not add to portfolio",
+    "tr": "Portföye eklenemedi",
     "zh-Hant-TW": "無法新增至投資組合"
   },
   "portfolio_couldNotMoveToPortfolio": {
     "en": "Could not move to portfolio",
     "fr": "Impossible de déplacer vers le portefeuille",
+    "tr": "Portföye taşınamadı",
     "zh-Hant-TW": "無法移動至投資組合"
   },
   "portfolio_currency": {
     "en": "Currency",
     "de": "Währung",
     "fr": "Devise",
+    "tr": "Para Birimi",
     "zh-Hant-TW": "幣別"
   },
   "portfolio_currency_colon": {
     "en": "Currency:",
     "de": "Währung:",
     "fr": "Devise :",
+    "tr": "Para Birimi",
     "zh-Hant-TW": "幣別："
   },
   "portfolio_currentPortfolio": {
     "en": "Current Portfolio",
     "fr": "Portefeuille actuel",
+    "tr": "Geçerli Portföy",
     "zh-Hant-TW": "目前組合"
   },
   "portfolio_daily": {
     "en": "Daily",
     "fr": "Jour",
+    "tr": "Günlük",
     "zh-Hant-TW": "每日漲跌"
   },
   "portfolio_dailyChangeCalculation": {
     "en": "Daily Change Calculation",
     "fr": "Calcul des modifications quotidiennes",
+    "tr": "Günlük Değişim Hesaplaması",
     "zh-Hant-TW": "每日漲跌統計"
   },
   "portfolio_dailyColumnSettings": {
     "en": "Daily Column Settings",
     "fr": "Paramètres de la colonne \"jour\"",
+    "tr": "Günlük Sütun Ayarları",
     "zh-Hant-TW": "每日漲跌欄位設定"
   },
   "portfolio_defaultCurrency": {
     "en": "Default",
     "fr": "Défaut",
+    "tr": "Varsayılan",
     "zh-Hant-TW": "預設"
   },
   "portfolio_defaultName": {
     "en": "My Portfolio",
     "fr": "Mon portefeuille",
+    "tr": "Portföyüm",
     "zh-Hant-TW": "我的投資組合"
   },
   "portfolio_deleteAccount": {
@@ -2231,9 +2272,11 @@
   },
   "portfolio_deleteAccountMessage": {
     "en": "Are you sure you want to delete your account and all portfolio data stored in the cloud? There is no way to undo this operation."
+    "tr": "Hesabınızı ve bulutta depolanan tüm portföy verilerini silmek istediğinizden emin misiniz? Bu işlemi geri almanın bir yolu yoktur."
   },
   "portfolio_deleteFromServerDisclaimer": {
     "en": "If you are signed in, this will delete it from the server and your other devices when they sync."
+    "tr": "Oturum açtıysanız, bu işlem senkronize edildiklerinde sunucudan ve diğer cihazlarınızdan silinecektir."
   },
   "portfolio_deleteHoldingsForQuoteFormatted": {
     "_formatted": false,
@@ -2265,10 +2308,12 @@
   "portfolio_details": {
     "en": "Details",
     "fr": "Détails",
+    "tr": "Detaylar",
     "zh-Hant-TW": "細節"
   },
   "portfolio_details_viewActivity": {
     "en": "View Activity"
+    "tr": "Aktiviteyi görüntüle",
   },
   "portfolio_displayLocalCurrency": {
     "en": "Display local currency instead of home currency for:",
@@ -2285,16 +2330,19 @@
   "portfolio_dividends": {
     "en": "Dividends",
     "fr": "Dividendes",
+    "tr": "Temettüler",
     "zh-Hant-TW": "現金股利"
   },
   "portfolio_dividendsColon": {
     "en": "Dividends:",
     "fr": "Dividendes:",
+    "tr": "Temettüler:",
     "zh-Hant-TW": "現金股利："
   },
   "portfolio_dividendsInTotals": {
     "en": "Dividends reflected in totals",
     "fr": "Dividendes reflétés dans les totaux",
+    "tr": "Toplamlara Yansıtılan Temettüler",
     "zh-Hant-TW": "總額含股利"
   },
   "portfolio_dividendsInTotalsHelp": {
@@ -2320,34 +2368,42 @@
   "portfolio_editOrDeletePortfolio": {
     "en": "Edit/Delete Portfolio",
     "fr": "Modifier / Supprimer le portefeuille",
+    "tr": "Portföyü Düzenle/Sil",
     "zh-Hant-TW": "編輯/刪除組合"
   },
   "portfolio_editNotes": {
     "en": "Edit Notes",
     "zh-Hant-TW": "編輯備註"
+    "tr": "Notları Değiştir",
   },
   "portfolio_editPortfolio": {
     "en": "Edit Portfolio",
     "fr": "Modifier le portefeuille",
+    "tr": "Portföyü Değiştir",
     "zh-Hant-TW": "編輯組合"
   },
   "portfolio_enterThresholdOneToHundred": {
     "en": "Enter a threshold between 0–100"
+    "tr": "0-100 arasında bir eşik değeri girin"
   },
   "portfolio_excludedFromTotals": {
     "en": "Excluded from totals"
+    "tr": "Toplamlardan hariç tutulanlar"
   },
   "portfolio_filterNews": {
     "en": "Filter News",
     "zh-Hant-TW": "篩選新聞"
+    "tr": "Filtre Haberler",
   },
   "portfolio_fullTimeEmployees": {
     "en": "Full-Time Employees",
+    "tr": "Tam Zamanlı Çalışanlar",
     "zh-Hant-TW": "員工人數"
   },
   "portfolio_futures": {
     "en": "Futures",
     "zh-Hant-TW": "期貨"
+    "tr": "Vadeli İşlemler",
   },
   "portfolio_generatedByMSPApp": {
     "en": "Generated by MSP app"
