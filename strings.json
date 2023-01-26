@@ -1576,7 +1576,7 @@
   },
   "generic_sincePlaceholder": {
     "en": "Since %s",
-    "tr": "%s'den beri"
+    "tr": "%s\\'den beri"
   },
   "generic_smaller": {
     "en": "Smaller",
@@ -1713,7 +1713,7 @@
   "generic_twitterHelp": {
     "en": "Reach out to us on Twitter",
     "fr": "Nous joindre sur Twitter",
-    "tr": "Bize Twitter'dan ulaşın",
+    "tr": "Bize Twitter\\'dan ulaşın",
     "zh-Hant-TW": "在 Twitter 聯繫我們"
   },
   "generic_type": {
@@ -1800,7 +1800,7 @@
   "logInOut_couldNotConnectToGoogle": {
     "en": "Could not connect to Google. Please try again later.",
     "fr": "Impossible de se connecter à Google. Veuillez réessayer plus tard.",
-    "tr": "Google'a bağlanılamadı. Lütfen daha sonra tekrar deneyin.",
+    "tr": "Google\\'a bağlanılamadı. Lütfen daha sonra tekrar deneyin.",
     "zh-Hant-TW": "無法連結至Google,請稍候再試"
   },
   "logInOut_googleSignInFailed": {
@@ -1812,7 +1812,7 @@
   "logInOut_googleSignOutError": {
     "en": "Error signing out of Google",
     "fr": "Erreur lors de la déconnexion de Google",
-    "tr": "Google'dan çıkış yaparken hata oluştu",
+    "tr": "Google\\'dan çıkış yaparken hata oluştu",
     "zh-Hant-TW": "Google帳戶登出錯誤"
   },
   "logInOut_signInWithYourGoogleAccount": {
@@ -1827,12 +1827,12 @@
   },
   "logInOut_signInToRestorePurchases": {
     "en": "Sign in to share purchases on the cloud? Click No if you want to use your local Google Play account. (If you have multiple accounts on your phone, Google Play sometimes restores it from the incorrect account. You should sign in to the correct account to workaround that issue.).\\n\\nNote: If your purchases are shared on the cloud and you are not signed in, they will be transferred from the cloud to your local account, and other signed in devices using purchases from the cloud will lose access to that purchase. To share purchases on the cloud, sign in, and then click restore, to transfer purchases from your local device to the cloud.",
-    "tr": "Satın alımları bulutta paylaşmak için oturum açın. Yerel Google Play hesabınızı kullanmak istiyorsanız Hayır'a tıklayın. (Telefonunuzda birden fazla hesabınız varsa, Google Play bazen yanlış hesaptan geri yükler. Bu sorunu çözmek için doğru hesapta oturum açmalısınız).\\n\\nNot: Satın alımlarınız bulutta paylaşılıyorsa ve oturum açmadıysanız, buluttan yerel hesabınıza aktarılır ve buluttan satın alımları kullanan diğer oturum açmış cihazlar bu satın alımlara erişimini kaybeder. Satın alımları bulutta paylaşmak için oturum açın ve ardından satın alımları yerel cihazınızdan buluta aktarmak için geri yükle'ye tıklayın."
+    "tr": "Satın alımları bulutta paylaşmak için oturum açın. Yerel Google Play hesabınızı kullanmak istiyorsanız Hayır\\'a tıklayın. (Telefonunuzda birden fazla hesabınız varsa, Google Play bazen yanlış hesaptan geri yükler. Bu sorunu çözmek için doğru hesapta oturum açmalısınız).\\n\\nNot: Satın alımlarınız bulutta paylaşılıyorsa ve oturum açmadıysanız, buluttan yerel hesabınıza aktarılır ve buluttan satın alımları kullanan diğer oturum açmış cihazlar bu satın alımlara erişimini kaybeder. Satın alımları bulutta paylaşmak için oturum açın ve ardından satın alımları yerel cihazınızdan buluta aktarmak için geri yükle\\'ye tıklayın."
   },
   "logInOut_signOutOfGoogle": {
     "en": "Sign Out of Google",
     "fr": "Se déconnecter de Google",
-    "tr": "Google'dan Çıkış Yapın",
+    "tr": "Google\\'dan Çıkış Yapın",
     "zh-Hant-TW": "登出Google帳戶"
   },
   "logInOut_signOutOrSwitchAccount": {
@@ -1844,13 +1844,13 @@
   "logInOut_signingInToGoogle": {
     "en": "Signing in to Google…",
     "fr": "Connexion à Google…",
-    "tr": "Google'da oturum açıyorum...",
+    "tr": "Google\\'da oturum açıyorum…",
     "zh-Hant-TW": "透過Google帳戶登入…"
   },
   "logInOut_signingOutOfGoogle": {
     "en": "Signing out of Google…",
     "fr": "Déconnexion de Google…",
-    "tr": "Google'dan çıkış yapıyorum...",
+    "tr": "Google\\'dan çıkış yapıyorum…",
     "zh-Hant-TW": "登出Google帳戶…"
   },
   "logInOut_switchAccount": {
@@ -1895,7 +1895,7 @@
     "_formatted": false,
     "en": "Filter news from %s?",
     "fr": "Filtrer les nouvelles de %s ?",
-    "tr": "%s 'dan gelen haberleri filtreleyelim mi?",
+    "tr": "%s \\'dan gelen haberleri filtreleyelim mi?",
     "zh-Hant-TW": "從 %s 篩選新聞?"
   },
   "news_filterNewsSourcesHelp": {
@@ -1924,7 +1924,7 @@
   "news_loading": {
     "en": "Loading News…",
     "fr": "Chargement des actualités…",
-    "tr": "Haberler Yükleniyor...",
+    "tr": "Haberler Yükleniyor…",
     "zh-Hant-TW": "載入新聞中…"
   },
   "news_share": {
@@ -2012,7 +2012,7 @@
   "password_showPortfolioInfoOnWidget": {
     "en": "Show portfolio information on widget",
     "fr": "Afficher les informations de portefeuille sur le widget",
-    "tr": "Widget'ta portföy bilgilerini göster",
+    "tr": "Widget\\'ta portföy bilgilerini göster",
     "zh-Hant-TW": "顯示投資組合資訊於小工具上"
   },
   "password_showQuotesListOnWidget": {
@@ -2056,7 +2056,7 @@
   "portfolioAnalysis_changeSettings": {
     "en": "To change, open Settings, Calculations",
     "fr": "Pour modifier, ouvrer Réglages, Calculs",
-    "tr": "Değiştirmek için Ayarlar, Hesaplamalar'ı açın",
+    "tr": "Değiştirmek için Ayarlar, Hesaplamalar\\'ı açın",
     "zh-Hant-TW": "欲改變,開啟設定,金額統計"
   },
   "portfolio_absoluteMagnitude": {
@@ -2080,7 +2080,7 @@
   },
   "portfolio_addingToPortfolio": {
     "en": "Adding to portfolio…",
-    "tr": "Portföye Ekleniyor...",
+    "tr": "Portföye Ekleniyor…",
     "zh-Hant-TW": "新增至投資組合中…"
   },
   "portfolio_allocation_categoryTagHelp": {
@@ -2383,7 +2383,7 @@
   },
   "portfolio_enterThresholdOneToHundred": {
     "en": "Enter a threshold between 0–100",
-    "tr": "0-100 arasında bir eşik değeri girin"
+    "tr": "0–100 arasında bir eşik değeri girin"
   },
   "portfolio_excludedFromTotals": {
     "en": "Excluded from totals",
@@ -4001,7 +4001,7 @@
     "_formatted": false,
     "en": "Dividends from %s",
     "fr": "Dividendes de %s",
-    "tr": "%s 'den Temettüler"
+    "tr": "%s \\'den Temettüler"
   },
   "viewQuoteTransactions_soldAmountFormatted": {
     "_formatted": false,
@@ -4130,7 +4130,7 @@
   "widgetPortfolio_configure": {
     "en": "Configure Quotes Widget",
     "fr": "Configurer le widget des cours",
-    "tr": "Öneriler Widget'ini yapılandır"
+    "tr": "Öneriler Widget\\'ini yapılandır"
   },
   "widgetPortfolio_title": {
     "en": "Single Portfolio",
