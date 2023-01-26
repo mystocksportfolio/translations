@@ -2507,9 +2507,9 @@
     "zh-Hant-TW": "市場新聞"
   },
   "portfolio_moveToPortfolio": {
-    "en": "Portföye Taşı/Kopyala",
+    "en": "Move/Copy to Portfolio",
     "fr": "Déplacer/Copie vers le portefeuille",
-    "tr": "Henüz işlem eklenmedi",
+    "tr": "Portföye Taşı/Kopyala",
     "zh-Hant-TW": "移動/拷貝至投資組合"
   },
   "portfolio_movingToPortfolio": {
