@@ -2604,10 +2604,12 @@
   "portfolio_portfolioMultipleCurrenciesNoHomeCurrency": {
     "en": "This portfolio has different currencies but a home currency is not set, so totals can\\'t be calculated. Please tap here to set currency settings.",
     "fr": "Ce portefeuille a différentes devises mais aucune devise préférée n\\'est définie. Les totaux ne peuvent donc pas être calculés. S\\'il vous plaît appuyez ici pour définir les paramètres de devise."
+    "tr": "Bu portföyün farklı para birimleri vardır, ancak bir ana para birimi ayarlanmamıştır, bu nedenle toplamlar hesaplanamaz. Para birimi ayarlarını yapmak için lütfen buraya dokunun.",
   },
   "portfolio_portfolios": {
     "en": "Portfolios",
     "fr": "Portefeuilles",
+    "tr": "Portföyler",
     "zh-Hant-TW": "所有組合"
   },
   "portfolio_portfoliosOverview": {
