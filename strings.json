@@ -2630,7 +2630,6 @@
   "portfolio_realized": {
     "en": "Realized",
     "fr": "Réalisé",
-    "tr": "Portföy Değeri",
     "zh-Hant-TW": "已實現"
   },
   "portfolio_realizedChange": {
