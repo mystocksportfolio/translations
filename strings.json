@@ -3023,13 +3023,13 @@
   },
   "purchases_alreadyPurchased": {
     "en": "Already purchased",
-    "fr": "Déjà acheté"
-    "tr": "Zaten satın alınmış",
+    "fr": "Déjà acheté",
+    "tr": "Zaten satın alınmış"
   },
   "purchases_couldNotFetchPurchases": {
     "en": "Could not fetch in-app purchases. Please try again later.",
-    "fr": "Impossible de récupérer les achats. Veuillez réessayer plus tard."
-    "tr": "Uygulama içi satın alımlar getirilemedi. Lütfen daha sonra tekrar deneyin.",
+    "fr": "Impossible de récupérer les achats. Veuillez réessayer plus tard.",
+    "tr": "Uygulama içi satın alımlar getirilemedi. Lütfen daha sonra tekrar deneyin."
   },
   "purchases_errorPurchasing": {
     "en": "Error purchasing",
@@ -3080,12 +3080,12 @@
     "zh-Hant-TW": "匯出更多數據（例如：報價）"
   },
   "purchases_promoChartAnnotations": {
-    "en": "Chart annotations for transactions"
-    "tr": "İşlemler için grafik ek açıklamalar",
+    "en": "Chart annotations for transactions",
+    "tr": "İşlemler için grafik ek açıklamalar"
   },
   "purchases_promoExportPortfolioReportAsPDF": {
-    "en": "Export portfolio report as PDF"
-    "tr": "Portföy raporunu PDF olarak dışa aktarma",
+    "en": "Export portfolio report as PDF",
+    "tr": "Portföy raporunu PDF olarak dışa aktarma"
   },
   "purchases_promoNoAdvertisements": {
     "en": "No advertisements",
@@ -3106,12 +3106,12 @@
   "purchases_restoreFailedPleaseCheckConnection": {
     "en": "Restore Failed. Please check your internet connection and try again later.",
     "fr": "Echec de la restoration. Veuillez vérifier votre connexion internet et essayer à nouveau plus tard."
-    "tr": "Geri Yükleme Başarısız. Lütfen internet bağlantınızı kontrol edin ve daha sonra tekrar deneyin.",
+    "tr": "Geri Yükleme Başarısız. Lütfen internet bağlantınızı kontrol edin ve daha sonra tekrar deneyin."
   },
   "purchases_restorePurchases": {
     "en": "Restore Purchases",
     "fr": "Restorer les achats"
-    "tr": "Satın Almaları Geri Yükle",
+    "tr": "Satın Almaları Geri Yükle"
   },
   "purchases_restoringPurchases": {
     "en": "Restoring Purchases…",
@@ -3122,22 +3122,22 @@
   "purchases_restorePurchasesHelp": {
     "en": "Restores previous purchases made using your currently signed in Google account",
     "fr": "Restore les achats précédents réalisés en utilisant votre compte Google actuellement connecté"
-    "tr": "Şu anda oturum açmış olduğunuz Google hesabınız kullanılarak yapılan önceki satın alma işlemlerini geri yükler",
+    "tr": "Şu anda oturum açmış olduğunuz Google hesabınız kullanılarak yapılan önceki satın alma işlemlerini geri yükler"
   },
   "purchases_restored": {
     "en": "Purchases Restored",
     "fr": "Achats restorés"
-    "tr": "Satın almalar geri yüklendi",
+    "tr": "Satın almalar geri yüklendi"
   },
   "purchases_signInToSyncPurchases": {
     "en": "Please sign in with your Google account so we can remember your purchases and make them available on your other Android devices.",
     "fr": "Veuillez vous connecter avec votre compte Google pour pouvoir synchroniser vos achats entre vos appareils."
-    "tr": "Satın aldıklarınızı hatırlayabilmemiz ve diğer Android cihazlarınızda da kullanabilmeniz için lütfen Google hesabınızla oturum açın.",
+    "tr": "Satın aldıklarınızı hatırlayabilmemiz ve diğer Android cihazlarınızda da kullanabilmeniz için lütfen Google hesabınızla oturum açın."
   },
   "purchases_subscriptionActive": {
     "en": "Subscription is active\\n\\nThanks for subscribing!",
     "fr": "La souscription est active\\n\\nMerci d\\'avoir souscrit !"
-    "tr": "Abonelik aktif\\n\\Abone olduğunuz için teşekkürler!",
+    "tr": "Abonelik aktif\\n\\Abone olduğunuz için teşekkürler!"
   },
   "purchases_subscriptionIssue": {
     "en": "Something\\'s wrong with your subscription, but you\\'ve still got access during a temporary grace period. Tap here to fix the problem.",
@@ -4148,7 +4148,7 @@
   },
   "viewQuote_basedOnPortfolioTab": {
     "en": "Based on portfolio tab",
-    "tr": "Portföy sekmesine dayalı",
+    "tr": "Portföy sekmesine dayalı"
   },
   "viewQuote_profile": {
     "en": "Profile",
