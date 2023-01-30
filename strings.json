@@ -3828,19 +3828,23 @@
   "sync_errorPleaseTrySignOut": {
     "en": "Sync error. If the problem persists, try signing out of Google and signing back in.",
     "fr": "Erreur de synchronisation. Si le problème persiste, essayez de vous déconnecter de Google et de vous reconnecter."
+    "tr": "Senkronizasyon hatası. Sorun devam ederse Google hesabından çıkış yapmayı ve tekrar giriş yapmayı deneyin.",
   },
   "sync_help": {
     "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.\\n\\nTo see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export.",
     "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d\\'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\\n\\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.\\n\\nVous pouvez aussi utiliser l\\'approche d\\'import/export dans les réglages de l\\'application, sauvegarder, import/export."
+    "tr": "Portföyler sunucu ile senkronize ediliyor...",
   },
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
     "fr": "Synchronisation des portefeuilles…"
+    "tr": "Portföyler sunucu ile senkronize ediliyor...",
   },
   "sync_lastSynchronizedTimeFormatted": {
     "_formatted": false,
     "en": "Last Synchronized: %s",
     "fr": "Dernière synchronisation : %s"
+    "tr": "Son Senkronizasyon: %s",
   },
   "sync_lastChangeTimeFormatted": {
     "_formatted": false,
@@ -3993,11 +3997,13 @@
   },
   "viewQuoteStats_forwardPERatio": {
     "en": "Fwd P/E",
+    "tr": "F/K Beklentisi",
     "fr": "PER prévu"
   },
   "viewQuoteStats_forwardPERatioHelp": {
     "en": "Share price divided by predicted earnings per share",
     "fr": "Le cours de l\\'action divisé par le bénéfice prévu par action"
+    "tr": "Hisse fiyatının tahmini hisse başı kazanca bölünmesidir",
   },
   "viewQuoteStats_high": {
     "en": "High",
@@ -4088,19 +4094,23 @@
   },
   "viewQuoteStats_pegRatio": {
     "en": "PEG Ratio",
+    "tr": "PEG Oranı",
     "zh-Hant-TW": "股價與成長比率"
   },
   "viewQuoteStats_pegRatioHelp": {
     "en": "Price/Earnings-to-Growth ratio is the P/E ratio divided by growth rate. Similar to P/E ratio, but factors in growth. A low value may mean the stock is undervalued."
+    "tr": "Fiyat/Kazanç-Büyüme oranı, F/K oranının büyüme oranına bölünmesiyle elde edilir. F/K oranına benzer ancak büyümeyi hesaba katar. Düşük bir değer hisse senedinin değerinin düşük olduğu anlamına gelebilir.",
   },
   "viewQuoteStats_peRatio": {
     "en": "P/E",
     "fr": "Rapport P/E",
+    "tr": "F/K",
     "zh-Hant-TW": "本益比"
   },
   "viewQuoteStats_peRatioHelp": {
     "en": "Share price divided by earnings per share",
     "fr": "Prix de l\\'action divisé par le bénéfice par action"
+    "tr": "Hisse fiyatının hisse başı kazanca bölünmesidir",
   },
   "viewQuoteStats_prevClose": {
     "en": "Prev Close",
