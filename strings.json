@@ -3670,81 +3670,98 @@
   },
   "settings_termsOfUse": {
     "en": "Terms of Use",
+    "tr": "Kullanım Koşulları",
     "zh-Hant-TW": "使用條款"
   },
   "settings_refreshInterval": {
     "en": "Auto-refresh (when app is open)",
     "fr": "Rafraîchissement automatique (quand l\\'application est ouverte)"
+    "tr": "Otomatik yenileme (uygulama açıkken)",
   },
   "settings_refreshIntervalManual": {
     "en": "Manual",
     "fr": "Manuellement"
+    "tr": "Manuel",
   },
   "settings_refreshIntervalMinutes1": {
     "en": "1 minute",
     "fr": "1 minute",
+    "tr": "1 dakika",
     "zh-Hant-TW": "一分鐘"
   },
   "settings_refreshIntervalMinutes2": {
     "en": "2 minutes",
     "fr": "2 minutes",
+    "tr": "2 dakika",
     "zh-Hant-TW": "2分鐘"
   },
   "settings_refreshIntervalMinutes5": {
     "en": "5 minutes",
     "fr": "5 minutes",
+    "tr": "5 dakika",
     "zh-Hant-TW": "5分鐘"
   },
   "settings_refreshIntervalSeconds10": {
     "en": "10 seconds",
     "fr": "10 secondes",
+    "tr": "10 saniye",
     "zh-Hant-TW": "10秒"
   },
   "settings_refreshIntervalSeconds30": {
     "en": "30 seconds",
     "fr": "30 secondes",
+    "tr": "30 saniye",
     "zh-Hant-TW": "30秒"
   },
   "settings_refreshIntervalSeconds5": {
     "en": "5 seconds",
     "fr": "5 secondes",
+    "tr": "5 saniye",
     "zh-Hant-TW": "5秒"
   },
   "settings_reviewApp": {
     "en": "Review",
     "fr": "Revue"
+    "tr": "Değerlendir",
   },
   "settings_reviewAppHelp": {
     "en": "Write a review for the app",
     "fr": "Rédiger un avis pour l\\'application"
+    "tr": "Uygulama için değerlendirmede bulunun",
   },
   "settings_sendEmailDialog": {
     "en": "Send email…",
     "fr": "Envoyer un courriel…"
+    "tr": "Eposta gönder...",
   },
   "settings_sendFeedback": {
     "en": "Send Feedback",
     "fr": "Envoyer des commentaires",
+    "tr": "Geri Bildirim Gönder",
     "zh": "发送意见回馈",
     "zh-Hant-TW": "發送意見回饋"
   },
   "settings_sendFeedbackSubject": {
     "en": "MSP Feedback",
+    "tr": "MSP Geri Bildirimi",
     "zh": "MSP 意见回馈",
     "zh-Hant-TW": "MSP 意見回饋"
   },
   "settings_shareAppWithFriends": {
     "en": "Share the App with friends",
     "fr": "Partagez l\\'application avec des amis"
+    "tr": "Uygulamayı arkadaşlarınızla paylaşın",
   },
   "settings_shareTheApp": {
     "en": "Share the App",
     "fr": "Partagez l\\'application",
+    "tr": "Uygulamayı paylaş",
     "zh-Hant-TW": "分享 App"
   },
   "settings_showCurrencySymbol": {
     "en": "Show currency symbol",
     "fr": "Afficher le symbole monétaire"
+    "tr": "Para birimi sembolünü göster",
   },
   "settings_showCurrencySymbolHelp": {
     "en": "For example, $10. If off, then 10 (without currency symbol) will be shown. This option is only used when a home currency is set.",
