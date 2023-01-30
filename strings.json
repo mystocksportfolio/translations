@@ -3820,10 +3820,12 @@
   "settings_widgetHideTitleBarDescription": {
     "en": "Hide the top title bar containing total numbers",
     "fr": "Masquer la barre de titre contenant le nombre total"
+    "tr": "Toplam sayıları içeren üst başlık çubuğunu gizle",
   },
   "sync_completed": {
     "en": "Sync completed",
     "fr": "Synchronisation terminée"
+    "tr": "Senkronizasyon tamamlandı",
   },
   "sync_errorPleaseTrySignOut": {
     "en": "Sync error. If the problem persists, try signing out of Google and signing back in.",
@@ -3833,7 +3835,7 @@
   "sync_help": {
     "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.\\n\\nTo see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export.",
     "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d\\'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\\n\\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.\\n\\nVous pouvez aussi utiliser l\\'approche d\\'import/export dans les réglages de l\\'application, sauvegarder, import/export."
-    "tr": "Portföyler sunucu ile senkronize ediliyor...",
+    "tr": "Senkronizasyon, telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.\\n\\nGoogle Drive, e-posta veya harici depolama gibi daha fazla yedekleme seçeneği görmek için uygulama ayarları, içe/dışa aktarma bölümünü ziyaret edebilirsiniz.",
   },
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
@@ -3859,7 +3861,7 @@
   "sync_startSync": {
     "en": "Synchronize with Server",
     "fr": "Synchroniser avec le serveur"
-    "tr": "Sunucu ile Senkronize Et",
+    "tr": "Sunucu ile senkronize et",
   },
   "tab_more": {
     "en": "More",
@@ -3880,20 +3882,24 @@
   "viewQuoteStats_52WeekHigh": {
     "en": "52wk High",
     "fr": "+Haut 52sem",
+    "tr": "52H Yükseği"
     "zh-Hant-TW": "52 週高點"
   },
   "viewQuoteStats_52WeekHighHelp": {
     "en": "Highest price in 52 weeks",
     "fr": "Prix le plus élevé en 52 semaines"
+    "tr": "52 haftanın en yüksek fiyatı",
   },
   "viewQuoteStats_52WeekLow": {
     "en": "52wk Low",
     "fr": "+Bas 52sem",
+    "tr": "52H Düşüğü"
     "zh-Hant-TW": "52 週低點"
   },
   "viewQuoteStats_52WeekLowHelp": {
     "en": "Lowest price in 52 weeks",
     "fr": "Prix le plus bas en 52 semaines"
+    "tr": "52 haftanın en düşük fiyatı",
   },
   "viewQuoteStats_ask": {
     "en": "Ask",
