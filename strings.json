@@ -468,7 +468,7 @@
   },
   "alert_priceAlert": {
     "en": "Price Alert",
-    "tr": "Fiyat Uyarıları",
+    "tr": "Fiyat Uyarısı",
     "zh-Hant-TW": "到價通知"
   },
   "alert_viewExistingAlerts": {
@@ -592,7 +592,7 @@
     "_formatted": false,
     "en": "%s chart range not available",
     "fr": "Intervalle %s du graphique non disponible",
-    "tr": "%s grafik aralığı mevcut değil"
+    "tr": "%s grafik aralığı mevcut değil",
   },
   "chart_rangeOneDay": {
     "en": "1 Day",
@@ -3163,11 +3163,13 @@
   "reviewPrompt_areYouEnjoyingApp": {
     "en": "Are you enjoying this app?",
     "fr": "Appréciez-vous cette application ?",
+    "tr": "Bu uygulamayı beğeniyor musunuz?",
     "zh-Hant-TW": "喜歡App的體驗嗎?"
   },
   "reviewPrompt_couldBeBetter": {
     "en": "Could be better",
     "fr": "Pourrait être mieux",
+    "tr": "Daha iyi olabilir",
     "zh-Hant-TW": "還可以再更好"
   },
   "reviewPrompt_emailFeedbackOnHowToImprove": {
@@ -3183,10 +3185,12 @@
   "reviewPrompt_iLoveIt": {
     "en": "I love it!",
     "fr": "J\\'adore ça!"
+    "tr": "Beğendim!",
   },
   "reviewPrompt_rateApp": {
     "en": "Rate app",
     "fr": "Evaluer l\\'application",
+    "tr": "Uygualamayı Değerlendir",
     "zh-Hant-TW": "替App評分"
   },
   "reviewPrompt_rateFiveStars": {
@@ -3204,6 +3208,7 @@
   "reviewPrompt_whatDoYouThinkAboutApp": {
     "en": "What do you think about the app?",
     "fr": "Que pensez-vous de l\\'application ?",
+    "tr": "Uygulama hakkında düşünceleriniz nelerdir?",
     "zh-Hant-TW": "對於這個App有什麼想法呢?"
   },
   "settingsCalculations_askPriceIfAvailable": {
@@ -3334,6 +3339,7 @@
   },
   "settingsDisplay_lastTradedPrice": {
     "en": "Last Open Market Price"
+    "tr": "Son Piyasa Açılış Fİyatı",
   },
   "settingsDisplay_line1": {
     "en": "1st Line",
@@ -3454,34 +3460,41 @@
   "settingsDisplay_theme": {
     "en": "Theme",
     "fr": "Thème",
+    "tr": "Tema",
     "zh-Hant-TW": "主題"
   },
   "settingsDisplay_themeBlack": {
     "en": "Black",
     "fr": "Noir",
+    "tr": "Siyah",
     "zh-Hant-TW": "黑色"
   },
   "settingsDisplay_themeDark": {
     "en": "Dark",
     "fr": "Sombre",
+    "tr": "Koyu",
     "zh-Hant-TW": "深色"
   },
   "settingsDisplay_themeLight": {
     "en": "Light",
     "fr": "Clair",
+    "tr": "Açık",
     "zh-Hant-TW": "亮色"
   },
   "settingsDisplay_themeSystem": {
     "en": "System",
+    "tr": "Sistem",
     "zh-Hant-TW": "系統"
   },
   "settingsDisplay_title": {
     "en": "Display",
     "fr": "Afficher",
+    "tr": "Ekran",
     "zh-Hant-TW": "顯示"
   },
   "settingsGeneral_keepScreenAlive": {
     "en": "Keep screen alive",
+    "tr": "Ekranı açık tut",
     "zh-Hant-TW": "永不鎖定螢幕"
   },
   "settingsGeneral_keepScreenAliveHelp": {
@@ -3493,6 +3506,7 @@
   },
   "settingsGeneral_showExitPrompt": {
     "en": "Confirm when exiting"
+    "tr": "Uygulamadan çıkarken onay iste",
   },
   "settingsGeneral_showExitPromptHelp": {
     "en": "Show a confirmation message before exiting the app while on the home screen"
@@ -3505,6 +3519,7 @@
   "settingsWidget_size": {
     "en": "Widget UI size",
     "fr": "Taille de l\\'IHM du widget",
+    "tr": "Widget Arayüz boyutu",
     "zh-Hant-TW": "小工具尺寸大小"
   },
   "settingsWidget_sizeHelp": {
@@ -3515,16 +3530,19 @@
   "settings_about": {
     "en": "About App (MSP - My Stocks Portfolio)",
     "fr": "À propos l\\'application (MSP - My Stocks Portfolio)",
+    "tr": "Uygulama Hakkında (MSP - My Stocks Portfolio)",
     "zh-Hant-TW": "關於App (MSP - My Stocks Portfolio)"
   },
   "settings_appVersion": {
     "en": "App version",
     "fr": "Version de l\\'application",
+    "tr": "Uygulama versiyonu",
     "zh-Hant-TW": "App版本"
   },
   "settings_calculations": {
     "en": "Calculations",
     "fr": "Calculs",
+    "tr": "Hesaplamalar",
     "zh-Hant-TW": "金額統計"
   },
   "settings_couldNotStartEmailApp": {
@@ -3534,6 +3552,7 @@
   "settings_csv": {
     "en": "CSV",
     "fr": "CSV",
+    "tr": "CSV",
     "zh-Hant-TW": "CSV"
   },
   "settings_csvExport": {
@@ -3573,16 +3592,19 @@
   "settings_general": {
     "en": "General",
     "fr": "Général",
+    "tr": "Genel",
     "zh-Hant-TW": "一般"
   },
   "settings_helpAndFeedback": {
     "en": "Help & Feedback",
     "fr": "Aide et commentaires",
+    "tr": "Yardım ve Geri Bildirim",
     "zh-Hant-TW": "幫助與回饋"
   },
   "settings_hideClosedPositions": {
     "en": "Hide closed positions",
     "fr": "Masquer les positions fermées"
+    "tr": "Kapatılmış posizyonları gizle",
   },
   "settings_hideClosedPositionsSummary": {
     "en": "Holdings with 0 shares remaining will be hidden on the Holdings view",
@@ -3625,6 +3647,7 @@
   "settings_openPlayStore": {
     "en": "Open Play Store",
     "fr": "Ouvrir Google Play Store"
+    "tr": "Play Store\\'yi aç",
   },
   "settings_preferredPrecision": {
     "en": "Min precision (Auto increases)"
@@ -3636,10 +3659,12 @@
   "settings_premium": {
     "en": "Premium",
     "fr": "Premium"
+    "fr": "Premium"
   },
   "settings_privacyPolicy": {
     "en": "Privacy Policy",
     "fr": "Politique de confidentialité",
+    "tr": "Gizlilik Politikası",
     "zh": "隐私政策",
     "zh-Hant-TW": "隱私政策"
   },
