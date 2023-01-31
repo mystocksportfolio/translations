@@ -3184,8 +3184,8 @@
   },
   "reviewPrompt_iLoveIt": {
     "en": "I love it!",
-    "fr": "J\\'adore ça!"
-    "tr": "Beğendim!",
+    "fr": "J\\'adore ça!",
+    "tr": "Beğendim!"
   },
   "reviewPrompt_rateApp": {
     "en": "Rate app",
@@ -3338,8 +3338,8 @@
     "zh-Hant-TW": "對調下降/上升顏色。漲會顯示紅色，跌會顯示綠色"
   },
   "settingsDisplay_lastTradedPrice": {
-    "en": "Last Open Market Price"
-    "tr": "Son Piyasa Açılış Fİyatı",
+    "en": "Last Open Market Price",
+    "tr": "Son Piyasa Açılış Fİyatı"
   },
   "settingsDisplay_line1": {
     "en": "1st Line",
@@ -3505,8 +3505,8 @@
     "zh-Hant-TW": "開啟新聞於外部瀏覽器"
   },
   "settingsGeneral_showExitPrompt": {
-    "en": "Confirm when exiting"
-    "tr": "Uygulamadan çıkarken onay iste",
+    "en": "Confirm when exiting",
+    "tr": "Uygulamadan çıkarken onay iste"
   },
   "settingsGeneral_showExitPromptHelp": {
     "en": "Show a confirmation message before exiting the app while on the home screen"
@@ -3603,8 +3603,8 @@
   },
   "settings_hideClosedPositions": {
     "en": "Hide closed positions",
-    "fr": "Masquer les positions fermées"
-    "tr": "Kapatılmış posizyonları gizle",
+    "fr": "Masquer les positions fermées",
+    "tr": "Kapatılmış posizyonları gizle"
   },
   "settings_hideClosedPositionsSummary": {
     "en": "Holdings with 0 shares remaining will be hidden on the Holdings view",
@@ -3646,8 +3646,8 @@
   },
   "settings_openPlayStore": {
     "en": "Open Play Store",
-    "fr": "Ouvrir Google Play Store"
-    "tr": "Play Store\\'yi aç",
+    "fr": "Ouvrir Google Play Store",
+    "tr": "Play Store\\'yi aç"
   },
   "settings_preferredPrecision": {
     "en": "Min precision (Auto increases)"
@@ -3658,7 +3658,6 @@
   },
   "settings_premium": {
     "en": "Premium",
-    "fr": "Premium"
     "fr": "Premium"
   },
   "settings_privacyPolicy": {
@@ -3675,13 +3674,13 @@
   },
   "settings_refreshInterval": {
     "en": "Auto-refresh (when app is open)",
-    "fr": "Rafraîchissement automatique (quand l\\'application est ouverte)"
-    "tr": "Otomatik yenileme (uygulama açıkken)",
+    "fr": "Rafraîchissement automatique (quand l\\'application est ouverte)",
+    "tr": "Otomatik yenileme (uygulama açıkken)"
   },
   "settings_refreshIntervalManual": {
     "en": "Manual",
-    "fr": "Manuellement"
-    "tr": "Manuel",
+    "fr": "Manuellement",
+    "tr": "Manuel"
   },
   "settings_refreshIntervalMinutes1": {
     "en": "1 minute",
@@ -3721,18 +3720,18 @@
   },
   "settings_reviewApp": {
     "en": "Review",
-    "fr": "Revue"
-    "tr": "Değerlendir",
+    "fr": "Revue",
+    "tr": "Değerlendir"
   },
   "settings_reviewAppHelp": {
     "en": "Write a review for the app",
-    "fr": "Rédiger un avis pour l\\'application"
-    "tr": "Uygulama için değerlendirmede bulunun",
+    "fr": "Rédiger un avis pour l\\'application",
+    "tr": "Uygulama için değerlendirmede bulunun"
   },
   "settings_sendEmailDialog": {
     "en": "Send email…",
-    "fr": "Envoyer un courriel…"
-    "tr": "Eposta gönder...",
+    "fr": "Envoyer un courriel…",
+    "tr": "Eposta gönder..."
   },
   "settings_sendFeedback": {
     "en": "Send Feedback",
@@ -3749,8 +3748,8 @@
   },
   "settings_shareAppWithFriends": {
     "en": "Share the App with friends",
-    "fr": "Partagez l\\'application avec des amis"
-    "tr": "Uygulamayı arkadaşlarınızla paylaşın",
+    "fr": "Partagez l\\'application avec des amis",
+    "tr": "Uygulamayı arkadaşlarınızla paylaşın"
   },
   "settings_shareTheApp": {
     "en": "Share the App",
@@ -3760,8 +3759,8 @@
   },
   "settings_showCurrencySymbol": {
     "en": "Show currency symbol",
-    "fr": "Afficher le symbole monétaire"
-    "tr": "Para birimi sembolünü göster",
+    "fr": "Afficher le symbole monétaire",
+    "tr": "Para birimi sembolünü göster"
   },
   "settings_showCurrencySymbolHelp": {
     "en": "For example, $10. If off, then 10 (without currency symbol) will be shown. This option is only used when a home currency is set.",
@@ -3819,49 +3818,49 @@
   },
   "settings_widgetHideTitleBarDescription": {
     "en": "Hide the top title bar containing total numbers",
-    "fr": "Masquer la barre de titre contenant le nombre total"
-    "tr": "Toplam sayıları içeren üst başlık çubuğunu gizle",
+    "fr": "Masquer la barre de titre contenant le nombre total",
+    "tr": "Toplam sayıları içeren üst başlık çubuğunu gizle"
   },
   "sync_completed": {
     "en": "Sync completed",
-    "fr": "Synchronisation terminée"
-    "tr": "Senkronizasyon tamamlandı",
+    "fr": "Synchronisation terminée",
+    "tr": "Senkronizasyon tamamlandı"
   },
   "sync_errorPleaseTrySignOut": {
     "en": "Sync error. If the problem persists, try signing out of Google and signing back in.",
-    "fr": "Erreur de synchronisation. Si le problème persiste, essayez de vous déconnecter de Google et de vous reconnecter."
-    "tr": "Senkronizasyon hatası. Sorun devam ederse Google hesabından çıkış yapmayı ve tekrar giriş yapmayı deneyin.",
+    "fr": "Erreur de synchronisation. Si le problème persiste, essayez de vous déconnecter de Google et de vous reconnecter.",
+    "tr": "Senkronizasyon hatası. Sorun devam ederse Google hesabından çıkış yapmayı ve tekrar giriş yapmayı deneyin."
   },
   "sync_help": {
     "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.\\n\\nTo see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export.",
-    "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d\\'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\\n\\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.\\n\\nVous pouvez aussi utiliser l\\'approche d\\'import/export dans les réglages de l\\'application, sauvegarder, import/export."
-    "tr": "Senkronizasyon, telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.\\n\\nGoogle Drive, e-posta veya harici depolama gibi daha fazla yedekleme seçeneği görmek için uygulama ayarları, içe/dışa aktarma bölümünü ziyaret edebilirsiniz.",
+    "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d\\'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\\n\\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.\\n\\nVous pouvez aussi utiliser l\\'approche d\\'import/export dans les réglages de l\\'application, sauvegarder, import/export.",
+    "tr": "Senkronizasyon, telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.\\n\\nGoogle Drive, e-posta veya harici depolama gibi daha fazla yedekleme seçeneği görmek için uygulama ayarları, içe/dışa aktarma bölümünü ziyaret edebilirsiniz."
   },
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
-    "fr": "Synchronisation des portefeuilles…"
-    "tr": "Portföyler sunucu ile senkronize ediliyor...",
+    "fr": "Synchronisation des portefeuilles…",
+    "tr": "Portföyler sunucu ile senkronize ediliyor..."
   },
   "sync_lastSynchronizedTimeFormatted": {
     "_formatted": false,
     "en": "Last Synchronized: %s",
-    "fr": "Dernière synchronisation : %s"
-    "tr": "Son Senkronizasyon: %s",
+    "fr": "Dernière synchronisation : %s",
+    "tr": "Son Senkronizasyon: %s"
   },
   "sync_lastChangeTimeFormatted": {
     "_formatted": false,
-    "en": "Last Change: %s%s"
-    "tr": "Son değişiklik: %s%s",
+    "en": "Last Change: %s%s",
+    "tr": "Son değişiklik: %s%s"
   },
   "sync_signInToBackupAndSynchronize": {
     "en": "Sign in to backup and synchronize Portfolio data between devices.",
-    "fr": "Connectez-vous pour sauvegarder et synchroniser les données de Portfolio entre les appareils."
-    "tr": "Portföy verilerini yedeklemek ve cihazlar arasında senkronize etmek için oturum açın.",
+    "fr": "Connectez-vous pour sauvegarder et synchroniser les données de Portfolio entre les appareils.",
+    "tr": "Portföy verilerini yedeklemek ve cihazlar arasında senkronize etmek için oturum açın."
   },
   "sync_startSync": {
     "en": "Synchronize with Server",
-    "fr": "Synchroniser avec le serveur"
-    "tr": "Sunucu ile senkronize et",
+    "fr": "Synchroniser avec le serveur",
+    "tr": "Sunucu ile senkronize et"
   },
   "tab_more": {
     "en": "More",
@@ -3882,24 +3881,24 @@
   "viewQuoteStats_52WeekHigh": {
     "en": "52wk High",
     "fr": "+Haut 52sem",
-    "tr": "52H Yükseği"
+    "tr": "52H Yükseği",
     "zh-Hant-TW": "52 週高點"
   },
   "viewQuoteStats_52WeekHighHelp": {
     "en": "Highest price in 52 weeks",
-    "fr": "Prix le plus élevé en 52 semaines"
-    "tr": "52 haftanın en yüksek fiyatı",
+    "fr": "Prix le plus élevé en 52 semaines",
+    "tr": "52 haftanın en yüksek fiyatı"
   },
   "viewQuoteStats_52WeekLow": {
     "en": "52wk Low",
     "fr": "+Bas 52sem",
-    "tr": "52H Düşüğü"
+    "tr": "52H Düşüğü",
     "zh-Hant-TW": "52 週低點"
   },
   "viewQuoteStats_52WeekLowHelp": {
     "en": "Lowest price in 52 weeks",
-    "fr": "Prix le plus bas en 52 semaines"
-    "tr": "52 haftanın en düşük fiyatı",
+    "fr": "Prix le plus bas en 52 semaines",
+    "tr": "52 haftanın en düşük fiyatı"
   },
   "viewQuoteStats_ask": {
     "en": "Ask",
@@ -3925,18 +3924,18 @@
   },
   "viewQuoteStats_averageVolumeHelp": {
     "en": "The average daily volume",
-    "fr": "Le volume quotidien moyen"
-    "tr": "Ortalama günlük hacim",
+    "fr": "Le volume quotidien moyen",
+    "tr": "Ortalama günlük hacim"
   },
   "viewQuoteStats_beta": {
     "en": "Beta",
-    "fr": "Bêta"
-    "tr": "Beta",
+    "fr": "Bêta",
+    "tr": "Beta"
   },
   "viewQuoteStats_betaHelp": {
     "en": "Measure of the risk of a stock",
-    "fr": "Mesure du risque d\\'un titre"
-    "tr": "Bir hisse senedinin risk ölçüsüdür",
+    "fr": "Mesure du risque d\\'un titre",
+    "tr": "Bir hisse senedinin risk ölçüsüdür"
   },
   "viewQuoteStats_bid": {
     "en": "Bid",
@@ -4104,8 +4103,8 @@
     "zh-Hant-TW": "股價與成長比率"
   },
   "viewQuoteStats_pegRatioHelp": {
-    "en": "Price/Earnings-to-Growth ratio is the P/E ratio divided by growth rate. Similar to P/E ratio, but factors in growth. A low value may mean the stock is undervalued."
-    "tr": "Fiyat/Kazanç-Büyüme oranı, F/K oranının büyüme oranına bölünmesiyle elde edilir. F/K oranına benzer ancak büyümeyi hesaba katar. Düşük bir değer hisse senedinin değerinin düşük olduğu anlamına gelebilir.",
+    "en": "Price/Earnings-to-Growth ratio is the P/E ratio divided by growth rate. Similar to P/E ratio, but factors in growth. A low value may mean the stock is undervalued.",
+    "tr": "Fiyat/Kazanç-Büyüme oranı, F/K oranının büyüme oranına bölünmesiyle elde edilir. F/K oranına benzer ancak büyümeyi hesaba katar. Düşük bir değer hisse senedinin değerinin düşük olduğu anlamına gelebilir."
   },
   "viewQuoteStats_peRatio": {
     "en": "P/E",
