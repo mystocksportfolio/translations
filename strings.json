@@ -468,7 +468,7 @@
   },
   "alert_priceAlert": {
     "en": "Price Alert",
-    "tr": "Fiyat Uyarıları",
+    "tr": "Fiyat Uyarısı",
     "zh-Hant-TW": "到價通知"
   },
   "alert_viewExistingAlerts": {
@@ -1594,7 +1594,7 @@
   },
   "generic_suggestTranslations": {
     "en": "Suggest Translations",
-    "tr": "Sırala",
+    "tr": "Çeviri Önerileri",
     "zh-Hant-TW": "翻譯建議"
   },
   "generic_suggestTranslationsHelp": {
@@ -1688,7 +1688,7 @@
     "en": "To:",
     "de": "Nach:",
     "fr": "À :",
-    "tr": "Kime:",
+    "tr": "Şuna:",
     "zh": "至：",
     "zh-Hant-TW": "到："
   },
@@ -3163,11 +3163,13 @@
   "reviewPrompt_areYouEnjoyingApp": {
     "en": "Are you enjoying this app?",
     "fr": "Appréciez-vous cette application ?",
+    "tr": "Bu uygulamayı beğeniyor musunuz?",
     "zh-Hant-TW": "喜歡App的體驗嗎?"
   },
   "reviewPrompt_couldBeBetter": {
     "en": "Could be better",
     "fr": "Pourrait être mieux",
+    "tr": "Daha iyi olabilir",
     "zh-Hant-TW": "還可以再更好"
   },
   "reviewPrompt_emailFeedbackOnHowToImprove": {
@@ -3183,10 +3185,12 @@
   "reviewPrompt_iLoveIt": {
     "en": "I love it!",
     "fr": "J\\'adore ça!"
+    "tr": "Beğendim!",
   },
   "reviewPrompt_rateApp": {
     "en": "Rate app",
     "fr": "Evaluer l\\'application",
+    "tr": "Uygualamayı Değerlendir",
     "zh-Hant-TW": "替App評分"
   },
   "reviewPrompt_rateFiveStars": {
@@ -3204,6 +3208,7 @@
   "reviewPrompt_whatDoYouThinkAboutApp": {
     "en": "What do you think about the app?",
     "fr": "Que pensez-vous de l\\'application ?",
+    "tr": "Uygulama hakkında düşünceleriniz nelerdir?",
     "zh-Hant-TW": "對於這個App有什麼想法呢?"
   },
   "settingsCalculations_askPriceIfAvailable": {
@@ -3334,6 +3339,7 @@
   },
   "settingsDisplay_lastTradedPrice": {
     "en": "Last Open Market Price"
+    "tr": "Son Piyasa Açılış Fİyatı",
   },
   "settingsDisplay_line1": {
     "en": "1st Line",
@@ -3454,34 +3460,41 @@
   "settingsDisplay_theme": {
     "en": "Theme",
     "fr": "Thème",
+    "tr": "Tema",
     "zh-Hant-TW": "主題"
   },
   "settingsDisplay_themeBlack": {
     "en": "Black",
     "fr": "Noir",
+    "tr": "Siyah",
     "zh-Hant-TW": "黑色"
   },
   "settingsDisplay_themeDark": {
     "en": "Dark",
     "fr": "Sombre",
+    "tr": "Koyu",
     "zh-Hant-TW": "深色"
   },
   "settingsDisplay_themeLight": {
     "en": "Light",
     "fr": "Clair",
+    "tr": "Açık",
     "zh-Hant-TW": "亮色"
   },
   "settingsDisplay_themeSystem": {
     "en": "System",
+    "tr": "Sistem",
     "zh-Hant-TW": "系統"
   },
   "settingsDisplay_title": {
     "en": "Display",
     "fr": "Afficher",
+    "tr": "Ekran",
     "zh-Hant-TW": "顯示"
   },
   "settingsGeneral_keepScreenAlive": {
     "en": "Keep screen alive",
+    "tr": "Ekranı açık tut",
     "zh-Hant-TW": "永不鎖定螢幕"
   },
   "settingsGeneral_keepScreenAliveHelp": {
@@ -3493,6 +3506,7 @@
   },
   "settingsGeneral_showExitPrompt": {
     "en": "Confirm when exiting"
+    "tr": "Uygulamadan çıkarken onay iste",
   },
   "settingsGeneral_showExitPromptHelp": {
     "en": "Show a confirmation message before exiting the app while on the home screen"
@@ -3505,6 +3519,7 @@
   "settingsWidget_size": {
     "en": "Widget UI size",
     "fr": "Taille de l\\'IHM du widget",
+    "tr": "Widget Arayüz boyutu",
     "zh-Hant-TW": "小工具尺寸大小"
   },
   "settingsWidget_sizeHelp": {
@@ -3515,16 +3530,19 @@
   "settings_about": {
     "en": "About App (MSP - My Stocks Portfolio)",
     "fr": "À propos l\\'application (MSP - My Stocks Portfolio)",
+    "tr": "Uygulama Hakkında (MSP - My Stocks Portfolio)",
     "zh-Hant-TW": "關於App (MSP - My Stocks Portfolio)"
   },
   "settings_appVersion": {
     "en": "App version",
     "fr": "Version de l\\'application",
+    "tr": "Uygulama versiyonu",
     "zh-Hant-TW": "App版本"
   },
   "settings_calculations": {
     "en": "Calculations",
     "fr": "Calculs",
+    "tr": "Hesaplamalar",
     "zh-Hant-TW": "金額統計"
   },
   "settings_couldNotStartEmailApp": {
@@ -3534,6 +3552,7 @@
   "settings_csv": {
     "en": "CSV",
     "fr": "CSV",
+    "tr": "CSV",
     "zh-Hant-TW": "CSV"
   },
   "settings_csvExport": {
@@ -3573,16 +3592,19 @@
   "settings_general": {
     "en": "General",
     "fr": "Général",
+    "tr": "Genel",
     "zh-Hant-TW": "一般"
   },
   "settings_helpAndFeedback": {
     "en": "Help & Feedback",
     "fr": "Aide et commentaires",
+    "tr": "Yardım ve Geri Bildirim",
     "zh-Hant-TW": "幫助與回饋"
   },
   "settings_hideClosedPositions": {
     "en": "Hide closed positions",
     "fr": "Masquer les positions fermées"
+    "tr": "Kapatılmış posizyonları gizle",
   },
   "settings_hideClosedPositionsSummary": {
     "en": "Holdings with 0 shares remaining will be hidden on the Holdings view",
@@ -3625,6 +3647,7 @@
   "settings_openPlayStore": {
     "en": "Open Play Store",
     "fr": "Ouvrir Google Play Store"
+    "tr": "Play Store\\'yi aç",
   },
   "settings_preferredPrecision": {
     "en": "Min precision (Auto increases)"
@@ -3636,90 +3659,109 @@
   "settings_premium": {
     "en": "Premium",
     "fr": "Premium"
+    "fr": "Premium"
   },
   "settings_privacyPolicy": {
     "en": "Privacy Policy",
     "fr": "Politique de confidentialité",
+    "tr": "Gizlilik Politikası",
     "zh": "隐私政策",
     "zh-Hant-TW": "隱私政策"
   },
   "settings_termsOfUse": {
     "en": "Terms of Use",
+    "tr": "Kullanım Koşulları",
     "zh-Hant-TW": "使用條款"
   },
   "settings_refreshInterval": {
     "en": "Auto-refresh (when app is open)",
     "fr": "Rafraîchissement automatique (quand l\\'application est ouverte)"
+    "tr": "Otomatik yenileme (uygulama açıkken)",
   },
   "settings_refreshIntervalManual": {
     "en": "Manual",
     "fr": "Manuellement"
+    "tr": "Manuel",
   },
   "settings_refreshIntervalMinutes1": {
     "en": "1 minute",
     "fr": "1 minute",
+    "tr": "1 dakika",
     "zh-Hant-TW": "一分鐘"
   },
   "settings_refreshIntervalMinutes2": {
     "en": "2 minutes",
     "fr": "2 minutes",
+    "tr": "2 dakika",
     "zh-Hant-TW": "2分鐘"
   },
   "settings_refreshIntervalMinutes5": {
     "en": "5 minutes",
     "fr": "5 minutes",
+    "tr": "5 dakika",
     "zh-Hant-TW": "5分鐘"
   },
   "settings_refreshIntervalSeconds10": {
     "en": "10 seconds",
     "fr": "10 secondes",
+    "tr": "10 saniye",
     "zh-Hant-TW": "10秒"
   },
   "settings_refreshIntervalSeconds30": {
     "en": "30 seconds",
     "fr": "30 secondes",
+    "tr": "30 saniye",
     "zh-Hant-TW": "30秒"
   },
   "settings_refreshIntervalSeconds5": {
     "en": "5 seconds",
     "fr": "5 secondes",
+    "tr": "5 saniye",
     "zh-Hant-TW": "5秒"
   },
   "settings_reviewApp": {
     "en": "Review",
     "fr": "Revue"
+    "tr": "Değerlendir",
   },
   "settings_reviewAppHelp": {
     "en": "Write a review for the app",
     "fr": "Rédiger un avis pour l\\'application"
+    "tr": "Uygulama için değerlendirmede bulunun",
   },
   "settings_sendEmailDialog": {
     "en": "Send email…",
     "fr": "Envoyer un courriel…"
+    "tr": "Eposta gönder...",
   },
   "settings_sendFeedback": {
     "en": "Send Feedback",
     "fr": "Envoyer des commentaires",
+    "tr": "Geri Bildirim Gönder",
     "zh": "发送意见回馈",
     "zh-Hant-TW": "發送意見回饋"
   },
   "settings_sendFeedbackSubject": {
     "en": "MSP Feedback",
+    "tr": "MSP Geri Bildirimi",
     "zh": "MSP 意见回馈",
     "zh-Hant-TW": "MSP 意見回饋"
   },
   "settings_shareAppWithFriends": {
     "en": "Share the App with friends",
     "fr": "Partagez l\\'application avec des amis"
+    "tr": "Uygulamayı arkadaşlarınızla paylaşın",
   },
   "settings_shareTheApp": {
     "en": "Share the App",
     "fr": "Partagez l\\'application",
+    "tr": "Uygulamayı paylaş",
     "zh-Hant-TW": "分享 App"
   },
   "settings_showCurrencySymbol": {
     "en": "Show currency symbol",
     "fr": "Afficher le symbole monétaire"
+    "tr": "Para birimi sembolünü göster",
   },
   "settings_showCurrencySymbolHelp": {
     "en": "For example, $10. If off, then 10 (without currency symbol) will be shown. This option is only used when a home currency is set.",
@@ -3778,70 +3820,86 @@
   "settings_widgetHideTitleBarDescription": {
     "en": "Hide the top title bar containing total numbers",
     "fr": "Masquer la barre de titre contenant le nombre total"
+    "tr": "Toplam sayıları içeren üst başlık çubuğunu gizle",
   },
   "sync_completed": {
     "en": "Sync completed",
     "fr": "Synchronisation terminée"
+    "tr": "Senkronizasyon tamamlandı",
   },
   "sync_errorPleaseTrySignOut": {
     "en": "Sync error. If the problem persists, try signing out of Google and signing back in.",
     "fr": "Erreur de synchronisation. Si le problème persiste, essayez de vous déconnecter de Google et de vous reconnecter."
+    "tr": "Senkronizasyon hatası. Sorun devam ederse Google hesabından çıkış yapmayı ve tekrar giriş yapmayı deneyin.",
   },
   "sync_help": {
     "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.\\n\\nTo see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export.",
     "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d\\'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\\n\\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.\\n\\nVous pouvez aussi utiliser l\\'approche d\\'import/export dans les réglages de l\\'application, sauvegarder, import/export."
+    "tr": "Senkronizasyon, telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.\\n\\nGoogle Drive, e-posta veya harici depolama gibi daha fazla yedekleme seçeneği görmek için uygulama ayarları, içe/dışa aktarma bölümünü ziyaret edebilirsiniz.",
   },
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
     "fr": "Synchronisation des portefeuilles…"
+    "tr": "Portföyler sunucu ile senkronize ediliyor...",
   },
   "sync_lastSynchronizedTimeFormatted": {
     "_formatted": false,
     "en": "Last Synchronized: %s",
     "fr": "Dernière synchronisation : %s"
+    "tr": "Son Senkronizasyon: %s",
   },
   "sync_lastChangeTimeFormatted": {
     "_formatted": false,
     "en": "Last Change: %s%s"
+    "tr": "Son değişiklik: %s%s",
   },
   "sync_signInToBackupAndSynchronize": {
     "en": "Sign in to backup and synchronize Portfolio data between devices.",
     "fr": "Connectez-vous pour sauvegarder et synchroniser les données de Portfolio entre les appareils."
+    "tr": "Portföy verilerini yedeklemek ve cihazlar arasında senkronize etmek için oturum açın.",
   },
   "sync_startSync": {
     "en": "Synchronize with Server",
     "fr": "Synchroniser avec le serveur"
+    "tr": "Sunucu ile senkronize et",
   },
   "tab_more": {
     "en": "More",
+    "tr": "Daha fazla",
     "zh-Hant-TW": "更多"
   },
   "tab_news": {
     "en": "News",
     "fr": "Actualités",
+    "tr": "Haberler",
     "zh-Hant-TW": "新聞"
   },
   "tab_portfolio": {
     "en": "Portfolio",
+    "tr": "Portföy",
     "zh-Hant-TW": "組合"
   },
   "viewQuoteStats_52WeekHigh": {
     "en": "52wk High",
     "fr": "+Haut 52sem",
+    "tr": "52H Yükseği"
     "zh-Hant-TW": "52 週高點"
   },
   "viewQuoteStats_52WeekHighHelp": {
     "en": "Highest price in 52 weeks",
     "fr": "Prix le plus élevé en 52 semaines"
+    "tr": "52 haftanın en yüksek fiyatı",
   },
   "viewQuoteStats_52WeekLow": {
     "en": "52wk Low",
     "fr": "+Bas 52sem",
+    "tr": "52H Düşüğü"
     "zh-Hant-TW": "52 週低點"
   },
   "viewQuoteStats_52WeekLowHelp": {
     "en": "Lowest price in 52 weeks",
     "fr": "Prix le plus bas en 52 semaines"
+    "tr": "52 haftanın en düşük fiyatı",
   },
   "viewQuoteStats_ask": {
     "en": "Ask",
@@ -3868,14 +3926,17 @@
   "viewQuoteStats_averageVolumeHelp": {
     "en": "The average daily volume",
     "fr": "Le volume quotidien moyen"
+    "tr": "Ortalama günlük hacim",
   },
   "viewQuoteStats_beta": {
     "en": "Beta",
     "fr": "Bêta"
+    "tr": "Beta",
   },
   "viewQuoteStats_betaHelp": {
     "en": "Measure of the risk of a stock",
     "fr": "Mesure du risque d\\'un titre"
+    "tr": "Bir hisse senedinin risk ölçüsüdür",
   },
   "viewQuoteStats_bid": {
     "en": "Bid",
@@ -3892,10 +3953,12 @@
   },
   "viewQuoteStats_bid_price": {
     "en": "Bid price",
+    "tr": "Öneri Fiyatı",
     "fr": "Prix de la demande"
   },
   "viewQuoteStats_bookValue": {
     "en": "Book Value",
+    "tr": "Defter Değeri",
     "zh-Hant-TW": "賬面價值"
   },
   "viewQuoteStats_bookValueHelp": {
@@ -3940,55 +4003,67 @@
   },
   "viewQuoteStats_forwardPERatio": {
     "en": "Fwd P/E",
+    "tr": "F/K Beklentisi",
     "fr": "PER prévu"
   },
   "viewQuoteStats_forwardPERatioHelp": {
     "en": "Share price divided by predicted earnings per share",
-    "fr": "Le cours de l\\'action divisé par le bénéfice prévu par action"
+    "fr": "Le cours de l\\'action divisé par le bénéfice prévu par action",
+    "tr": "Hisse fiyatının tahmini hisse başı kazanca bölünmesidir"
   },
   "viewQuoteStats_high": {
     "en": "High",
     "fr": "+Haut",
+    "tr": "Yüksek",
     "zh-Hant-TW": "最高"
   },
   "viewQuoteStats_highHelp": {
     "en": "High price of the day",
-    "fr": "Plus haut du jour"
+    "fr": "Plus haut du jour",
+    "tr": "Günün en yüksek fiyatı"
   },
   "viewQuoteStats_low": {
     "en": "Low",
     "fr": "+Bas",
+    "tr": "Düşük",
     "zh-Hant-TW": "最低"
   },
   "viewQuoteStats_lowHelp": {
     "en": "Low price of the day",
-    "fr": "Prix bas du jour"
+    "fr": "Prix bas du jour",
+    "tr": "Günün en düşük fiyatı"
   },
   "viewQuoteStats_marketCap": {
     "en": "Mkt Cap",
     "fr": "Cap. boursière",
+    "tr": "Piyasa Değeri",
     "zh-Hant-TW": "總市值"
   },
   "viewQuoteStats_marketCapHelp": {
     "en": "Total value of the company. Calculated by multiplying current share price by total outstanding shares.",
-    "fr": "Valeur totale de l\\'entreprise calculée en multipliant le cours actuel de l\\'action par le nombre total d\\'actions en circulation."
+    "fr": "Valeur totale de l\\'entreprise calculée en multipliant le cours actuel de l\\'action par le nombre total d\\'actions en circulation.",
+    "tr": "Şirketin toplam değeri. Mevcut hisse fiyatı ile tedavüldeki toplam hisselerin çarpılmasıyla hesaplanır."
   },
   "viewQuoteStats_oneYearTarget": {
     "en": "1y Target",
-    "fr": "Objectif à 1 an"
+    "fr": "Objectif à 1 an",
+    "tr": "1 Yıllık Hedef"
   },
   "viewQuoteStats_oneYearTargetHelp": {
     "en": "Price of stock that analysts predicted the stock will be one year from now.",
-    "fr": "Cours du titre prévu par les analystes à un an."
+    "fr": "Cours du titre prévu par les analystes à un an.",
+    "tr": "Analistlerin bir yıl sonra olacağını tahmin ettikleri hisse senedi fiyatı."
   },
   "viewQuoteStats_open": {
     "en": "Open",
     "fr": "Ouverture",
+    "tr": "Açılış",
     "zh-Hant-TW": "開盤"
   },
   "viewQuoteStats_openHelp": {
     "en": "Open price in the latest trading day",
-    "fr": "Prix d\\'ouverture la veille"
+    "fr": "Prix d\\'ouverture la veille",
+    "tr": "Son işlem günündeki açılış fiyatı"
   },
   "viewQuoteStats_sharesHelp": {
     "en": "Shares outstanding - the number of shares held by all shareholders, including institutional investors and restricted shares owned by the company."
@@ -4025,23 +4100,28 @@
   },
   "viewQuoteStats_pegRatio": {
     "en": "PEG Ratio",
+    "tr": "PEG Oranı",
     "zh-Hant-TW": "股價與成長比率"
   },
   "viewQuoteStats_pegRatioHelp": {
     "en": "Price/Earnings-to-Growth ratio is the P/E ratio divided by growth rate. Similar to P/E ratio, but factors in growth. A low value may mean the stock is undervalued."
+    "tr": "Fiyat/Kazanç-Büyüme oranı, F/K oranının büyüme oranına bölünmesiyle elde edilir. F/K oranına benzer ancak büyümeyi hesaba katar. Düşük bir değer hisse senedinin değerinin düşük olduğu anlamına gelebilir.",
   },
   "viewQuoteStats_peRatio": {
     "en": "P/E",
     "fr": "Rapport P/E",
+    "tr": "F/K",
     "zh-Hant-TW": "本益比"
   },
   "viewQuoteStats_peRatioHelp": {
     "en": "Share price divided by earnings per share",
-    "fr": "Prix de l\\'action divisé par le bénéfice par action"
+    "fr": "Prix de l\\'action divisé par le bénéfice par action",
+    "tr": "Hisse fiyatının hisse başı kazanca bölünmesidir"
   },
   "viewQuoteStats_prevClose": {
     "en": "Prev Close",
     "fr": "Clôture précédente",
+    "tr": "Önceki Kapanış",
     "zh-Hant-TW": "昨收"
   },
   "viewQuoteStats_prevCloseHelp": {
@@ -4158,7 +4238,7 @@
   "viewQuote_shareQuote": {
     "en": "Share Quote",
     "fr": "Partager un cours",
-    "tr": "Önerileri Paylaş"
+    "tr": "Öneriyi Paylaş"
   },
   "viewQuote_summary": {
     "en": "Summary",
@@ -4193,7 +4273,7 @@
   "widgetOverview_configure": {
     "en": "Configure Overview Widget",
     "fr": "Configurer le widget de synthèse",
-    "tr": "Genel Bakış Widgetini yapılandır"
+    "tr": "Genel Görünüm Widgetini yapılandır"
   },
   "widgetOverview_title": {
     "en": "Overview",
@@ -4228,7 +4308,7 @@
   "widget_refreshing": {
     "en": "Refreshing Widget",
     "fr": "Rafraîchir le widget",
-    "tr": "Widget Yenineliyor."
+    "tr": "Widget Yenileniyor."
   },
   "widget_sharesAndPrice": {
     "en": "Shares/Price",
@@ -4243,6 +4323,6 @@
   "widget_transparency": {
     "en": "Widget Transparency",
     "fr": "Transparence des widgets",
-    "tr": "Widget saydamlığı"
+    "tr": "Widget Şeffaflığı"
   }
 }
