@@ -2480,13 +2480,13 @@
   },
   "portfolio_homeCurrencyHelp": {
     "en": "Your holdings will be converted to display in this currency. Note: historical performance chart data will be cleared.",
-    "fr": "Vos avoirs seront convertis et affichés dans cette devise"
-    "tr": "Varlıklarınız bu para biriminde görüntülenecek şekilde dönüştürülecektir. Not: geçmiş performans grafiği verileri silinecektir.",
+    "fr": "Vos avoirs seront convertis et affichés dans cette devise",
+    "tr": "Varlıklarınız bu para biriminde görüntülenecek şekilde dönüştürülecektir. Not: geçmiş performans grafiği verileri silinecektir."
   },
   "portfolio_lastKnownDailyChange": {
     "en": "Last Known Daily Change",
-    "fr": "Dernier cours connu"
-    "tr": "Bilinen Son Günlük Değişim",
+    "fr": "Dernier cours connu",
+    "tr": "Bilinen Son Günlük Değişim"
   },
   "portfolio_lastPrice": {
     "en": "Last Price",
@@ -2496,8 +2496,8 @@
     "zh-Hant-TW": "最後成交價"
   },
   "portfolio_ledgerNoTransactions": {
-    "en": "No transactions added yet"
-    "tr": "Henüz işlem eklenmedi",
+    "en": "No transactions added yet",
+    "tr": "Henüz işlem eklenmedi"
   },
   "portfolio_marketNews": {
     "en": "Market News",
@@ -2519,13 +2519,13 @@
   },
   "portfolio_multipleCurrenciesNoHomeCurrency": {
     "en": "Multiple currencies detected but a home currency is not set, so totals can\\'t be calculated. Please tap here to set a home currency.",
-    "fr": "Plusieurs monnaies sont détectées mais aucune devise préférée n\\'est définie. Les totaux ne peuvent donc pas être calculés. S\\'il vous plaît appuyez ici pour définir une devise préférée."
-    "tr": "Birden fazla para birimi algılandı ancak bir ana para birimi ayarlanmadı, bu nedenle toplamlar hesaplanamıyor. Ana para birimini ayarlamak için lütfen buraya dokunun.",
+    "fr": "Plusieurs monnaies sont détectées mais aucune devise préférée n\\'est définie. Les totaux ne peuvent donc pas être calculés. S\\'il vous plaît appuyez ici pour définir une devise préférée.",
+    "tr": "Birden fazla para birimi algılandı ancak bir ana para birimi ayarlanmadı, bu nedenle toplamlar hesaplanamıyor. Ana para birimini ayarlamak için lütfen buraya dokunun."
   },
   "portfolio_multipleCurrenciesUseLocalTotals": {
     "en": "This portfolio has different currencies but is set to display aggregate totals in its local currency. This option only works if the portfolio has holdings of one local currency. Tap here to edit currency settings.",
-    "fr": "Ce portefeuille a différentes devises mais est configuré pour afficher les totaux globaux dans sa devise. Cette option ne fonctionne que si le portefeuille possède des positions dans une seule devise. Appuyez ici pour modifier les paramètres de devise."
-    "tr": "Bu portföyün farklı para birimleri vardır ancak toplamları kendi yerel para biriminde gösterecek şekilde ayarlanmıştır. Bu seçenek yalnızca portföyde tek bir yerel para birimi varsa çalışır. Para birimi ayarlarını düzenlemek için buraya dokunun.",
+    "fr": "Ce portefeuille a différentes devises mais est configuré pour afficher les totaux globaux dans sa devise. Cette option ne fonctionne que si le portefeuille possède des positions dans une seule devise. Appuyez ici pour modifier les paramètres de devise.",
+    "tr": "Bu portföyün farklı para birimleri vardır ancak toplamları kendi yerel para biriminde gösterecek şekilde ayarlanmıştır. Bu seçenek yalnızca portföyde tek bir yerel para birimi varsa çalışır. Para birimi ayarlarını düzenlemek için buraya dokunun."
   },
   "portfolio_name": {
     "en": "Name",
@@ -2548,8 +2548,8 @@
     "zh-Hant-TW": "點擊選單中新增按鈕，追蹤新交易"
   },
   "portfolio_omitCashFromPercentages": {
-    "en": "Omit Cash from Percentage Returns"
-    "tr": "Yüzdelik Getirilerden Nakiti Çıkart",
+    "en": "Omit Cash from Percentage Returns",
+    "tr": "Yüzdelik Getirilerden Nakiti Çıkart"
   },
   "portfolio_omitCashFromTotals": {
     "en": "Omit cash from totals",
@@ -2559,21 +2559,21 @@
   },
   "portfolio_omitCashFromTotalsHelp": {
     "en": "Your cash will not be reflected in your total portfolio value",
-    "fr": "Vos liquidités ne seront pas prises en compte dans la valeur totale du portefeuille."
-    "tr": "Nakit paranız toplam portföy değerinize yansıtılmayacaktır",
+    "fr": "Vos liquidités ne seront pas prises en compte dans la valeur totale du portefeuille.",
+    "tr": "Nakit paranız toplam portföy değerinize yansıtılmayacaktır"
   },
   "portfolio_openAndClosedPositions": {
-    "en": "Open & Closed Positions"
-    "tr": "Açık & Kapalı Pozisyonlar",
+    "en": "Open & Closed Positions",
+    "tr": "Açık & Kapalı Pozisyonlar"
   },
   "portfolio_openPositions": {
-    "en": "Open Positions"
-    "tr": "Açık Pozisyonlar",
+    "en": "Open Positions",
+    "tr": "Açık Pozisyonlar"
   },
   "portfolio_openUnsoldPositions": {
     "en": "Open / Unsold Positions",
-    "fr": "Ouvert / Positions non vendues"
-    "tr": "Açık / Satılmamış Pozisyonlar",
+    "fr": "Ouvert / Positions non vendues",
+    "tr": "Açık / Satılmamış Pozisyonlar"
   },
   "portfolio_overview": {
     "en": "Overview",
@@ -2581,12 +2581,12 @@
     "zh-Hant-TW": "總覽"
   },
   "portfolio_outOfBounds": {
-    "en": "Out of bounds"
-    "tr": "Sınırların dışında",
+    "en": "Out of bounds",
+    "tr": "Sınırların dışında"
   },
   "portfolio_performanceReport": {
-    "en": "Performance Report"
-    "tr": "Performans Raporu",
+    "en": "Performance Report",
+    "tr": "Performans Raporu"
   },
   "portfolio_portfolioCurrency": {
     "en": "Portfolio Currency",
@@ -2602,8 +2602,8 @@
   },
   "portfolio_portfolioMultipleCurrenciesNoHomeCurrency": {
     "en": "This portfolio has different currencies but a home currency is not set, so totals can\\'t be calculated. Please tap here to set currency settings.",
-    "fr": "Ce portefeuille a différentes devises mais aucune devise préférée n\\'est définie. Les totaux ne peuvent donc pas être calculés. S\\'il vous plaît appuyez ici pour définir les paramètres de devise."
-    "tr": "Bu portföyün farklı para birimleri vardır, ancak bir ana para birimi ayarlanmamıştır, bu nedenle toplamlar hesaplanamaz. Para birimi ayarlarını yapmak için lütfen buraya dokunun.",
+    "fr": "Ce portefeuille a différentes devises mais aucune devise préférée n\\'est définie. Les totaux ne peuvent donc pas être calculés. S\\'il vous plaît appuyez ici pour définir les paramètres de devise.",
+    "tr": "Bu portföyün farklı para birimleri vardır, ancak bir ana para birimi ayarlanmamıştır, bu nedenle toplamlar hesaplanamaz. Para birimi ayarlarını yapmak için lütfen buraya dokunun."
   },
   "portfolio_portfolios": {
     "en": "Portfolios",
@@ -2618,8 +2618,8 @@
     "zh-Hant-TW": "投資組合總覽"
   },
   "portfolio_portfolioValue": {
-    "en": "Portfolio Value"
-    "tr": "Portföy Değeri",
+    "en": "Portfolio Value",
+    "tr": "Portföy Değeri"
   },
   "portfolio_quotes": {
     "en": "Quotes",
@@ -2841,8 +2841,8 @@
   },
   "portfolio_sortSymbols": {
     "en": "Symbols",
-    "fr": "Symbole"
-    "tr": "Semboller",
+    "fr": "Symbole",
+    "tr": "Semboller"
   },
   "portfolio_sortSymbolsReverse": {
     "en": "Symbols (Descending)",
@@ -2850,8 +2850,8 @@
   },
   "portfolio_sortTotalChange": {
     "en": "Total Change",
-    "fr": "Variation totale"
-    "tr": "Toplam Değişim",
+    "fr": "Variation totale",
+    "tr": "Toplam Değişim"
   },
   "portfolio_sortAbsTotalChange": {
     "en": "Total Change (Absolute)"
@@ -3033,18 +3033,18 @@
   },
   "purchases_errorPurchasing": {
     "en": "Error purchasing",
-    "fr": "Erreur lors de l\\'achat"
-    "tr": "Satın alma hatası",
+    "fr": "Erreur lors de l\\'achat",
+    "tr": "Satın alma hatası"
   },
   "purchases_freeLifetime": {
     "en": "You have the lifetime premium upgrade, so you have free subscription benefits for life. You can still support the app by subscribing.",
-    "fr": "Vous avez une mise à jour Premium à vie, donc vous avez les bénéfices d\\'une souscription à vie. Vous pouvez encore supporter l\\'application en souscrivant."
-    "tr": "Ömür boyu premium üyeliğe sahipsiniz, bu nedenle ömür boyu ücretsiz abonelik avantajlarına sahipsiniz. Yine de abone olarak uygulamayı destekleyebilirsiniz.",
+    "fr": "Vous avez une mise à jour Premium à vie, donc vous avez les bénéfices d\\'une souscription à vie. Vous pouvez encore supporter l\\'application en souscrivant.",
+    "tr": "Ömür boyu premium üyeliğe sahipsiniz, bu nedenle ömür boyu ücretsiz abonelik avantajlarına sahipsiniz. Yine de abone olarak uygulamayı destekleyebilirsiniz."
   },
   "purchases_help": {
     "en": "Purchases are lifetime, linked to your google account and other devices using the same google account. Please contact us if you are having issues with any purchase such as transferring to a new device.",
-    "fr": "Les achats sont à vie, liés à votre compte Google et à d\\'autres appareils utilisant le même compte Google. Contactez-nous si vous rencontrez des problèmes avec un achat tel que le transfert vers un nouvel appareil."
-    "tr": "Satın alımlar ömür boyu geçerlidir, google hesabınızla ve aynı google hesabını kullanan diğer cihazlarla bağlantılıdır. Yeni bir cihaza aktarma gibi herhangi bir satın alma işlemiyle ilgili sorun yaşıyorsanız lütfen bizimle iletişime geçin.",
+    "fr": "Les achats sont à vie, liés à votre compte Google et à d\\'autres appareils utilisant le même compte Google. Contactez-nous si vous rencontrez des problèmes avec un achat tel que le transfert vers un nouvel appareil.",
+    "tr": "Satın alımlar ömür boyu geçerlidir, google hesabınızla ve aynı google hesabını kullanan diğer cihazlarla bağlantılıdır. Yeni bir cihaza aktarma gibi herhangi bir satın alma işlemiyle ilgili sorun yaşıyorsanız lütfen bizimle iletişime geçin."
   },
   "purchases_manageSubscriptions": {
     "en": "Manage Subscriptions",
@@ -3105,12 +3105,12 @@
   },
   "purchases_restoreFailedPleaseCheckConnection": {
     "en": "Restore Failed. Please check your internet connection and try again later.",
-    "fr": "Echec de la restoration. Veuillez vérifier votre connexion internet et essayer à nouveau plus tard."
+    "fr": "Echec de la restoration. Veuillez vérifier votre connexion internet et essayer à nouveau plus tard.",
     "tr": "Geri Yükleme Başarısız. Lütfen internet bağlantınızı kontrol edin ve daha sonra tekrar deneyin."
   },
   "purchases_restorePurchases": {
     "en": "Restore Purchases",
-    "fr": "Restorer les achats"
+    "fr": "Restorer les achats",
     "tr": "Satın Almaları Geri Yükle"
   },
   "purchases_restoringPurchases": {
@@ -3121,22 +3121,22 @@
   },
   "purchases_restorePurchasesHelp": {
     "en": "Restores previous purchases made using your currently signed in Google account",
-    "fr": "Restore les achats précédents réalisés en utilisant votre compte Google actuellement connecté"
+    "fr": "Restore les achats précédents réalisés en utilisant votre compte Google actuellement connecté",
     "tr": "Şu anda oturum açmış olduğunuz Google hesabınız kullanılarak yapılan önceki satın alma işlemlerini geri yükler"
   },
   "purchases_restored": {
     "en": "Purchases Restored",
-    "fr": "Achats restorés"
+    "fr": "Achats restorés",
     "tr": "Satın almalar geri yüklendi"
   },
   "purchases_signInToSyncPurchases": {
     "en": "Please sign in with your Google account so we can remember your purchases and make them available on your other Android devices.",
-    "fr": "Veuillez vous connecter avec votre compte Google pour pouvoir synchroniser vos achats entre vos appareils."
+    "fr": "Veuillez vous connecter avec votre compte Google pour pouvoir synchroniser vos achats entre vos appareils.",
     "tr": "Satın aldıklarınızı hatırlayabilmemiz ve diğer Android cihazlarınızda da kullanabilmeniz için lütfen Google hesabınızla oturum açın."
   },
   "purchases_subscriptionActive": {
     "en": "Subscription is active\\n\\nThanks for subscribing!",
-    "fr": "La souscription est active\\n\\nMerci d\\'avoir souscrit !"
+    "fr": "La souscription est active\\n\\nMerci d\\'avoir souscrit !",
     "tr": "Abonelik aktif\\n\\Abone olduğunuz için teşekkürler!"
   },
   "purchases_subscriptionIssue": {
