@@ -3638,23 +3638,27 @@
   },
   "settings_importExportPriceAlerts": {
     "en": "Import / Export Price Alerts"
+    "tr": "Son Seçilen Portföy",
   },
   "settings_lastSelectedPortfolio": {
     "en": "Last Selected Portfolio",
     "fr": "Dernier portefeuille sélectionné",
+    "tr": "Son Seçilen Portföy",
     "zh-Hant-TW": "上次使用的投資組合"
   },
   "settings_openPlayStore": {
     "en": "Open Play Store",
     "fr": "Ouvrir Google Play Store",
-    "tr": "Play Store\\'yi aç"
+    "tr": "Play Store\\'yi aç",
   },
   "settings_preferredPrecision": {
     "en": "Min precision (Auto increases)"
+    "tr": "Min Hassasiyet ( Otomatik)",
   },
   "settings_precision": {
     "en": "Precision",
     "fr": "Précision"
+    "tr": "Hassasiyet",    
   },
   "settings_premium": {
     "en": "Premium",
@@ -3765,102 +3769,115 @@
   "settings_showCurrencySymbolHelp": {
     "en": "For example, $10. If off, then 10 (without currency symbol) will be shown. This option is only used when a home currency is set.",
     "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché. Cette option n\\'est utilisée que lorsqu\\'une devise préférée est définie."
+    "tr": "Örneğin, 10 $. Kapalı ise 10 (para birimi sembolü olmadan) gösterilecektir. Bu seçenek yalnızca bir ana para birimi ayarlandığında kullanılır.",
   },
   "settings_startingPortfolioScreenTab": {
     "en": "Starting portfolio screen tab",
     "fr": "Afficher un portefeuille au démarrage",
+    "tr": "Portföy ekranı sekmesini başlat",
     "zh-Hant-TW": "預設投資組合畫面頁籤"
   },
   "settings_startingQuoteDetailsScreenTab": {
     "en": "Starting quote details tab",
+    "tr": "Öneri detayları sekmesini başlat",
     "zh-Hant-TW": "預設報價細節頁籤"
   },
   "settings_startingScreen": {
     "en": "Starting screen",
     "fr": "Écran de démarrage",
+    "tr": "Başlangıç ekranı",
     "zh-Hant-TW": "預設畫面"
   },
   "settings_sync": {
     "en": "Server Sync",
     "fr": "Synchronisation avec le serveur",
+    "tr": "Sunucu Senkronizasyonu",
     "zh-Hant-TW": "伺服器同步"
   },
   "settings_syncPortfolioHelp": {
     "en": "Synchronize portfolio data to the server and between devices"
+    "tr": "Portföy verilerini sunucuya ve cihazlar arasında senkronize edin",
   },
   "settings_syncHelp": {
     "en": "Synchronize data to the server and between devices",
     "fr": "Synchronisation entre appareils"
+    "tr": "Verileri sunucuya ve cihazlar arasında senkronize edin",
   },
   "settings_transparentTitleBar": {
     "en": "Transparent title bar",
     "fr": "Barre de titre transparente"
+    "tr": "Şeffaf başlık çubuğu",
   },
   "settings_transparentTitleBarDescription": {
     "en": "Make the title bar transparent",
     "fr": "Rendre la barre de titre transparente"
+    "tr": "Başlık çubuğunu şeffaflaştırır",
   },
   "settings_widget": {
     "en": "Widget",
     "fr": "Widget"
+    "tr": "Widget",
   },
   "settings_widgetHideColumnHeaders": {
     "en": "Hide column headers",
     "fr": "Masquer les en-têtes des colonnes"
+    "tr": "Sütun başlıklarını gizle",
   },
   "settings_widgetHideColumnHeadersDescription": {
     "en": "Hide the tappable column headers for switching display type (i.e. daily/total).",
     "fr": "Masquer les en-têtes cliquables des colonnes pour changer le type d\\'affichage (p.e. jour/total)"
+    "tr": "Görüntüleme türünü değiştirmek için dokunulabilir sütun başlıklarını gizleyin (örn. günlük/toplam).",
   },
   "settings_widgetHideTitleBar": {
     "en": "Hide title bar",
     "fr": "Masquer la barre de titre"
+    "tr": "Başlık çubuğunu gizle",
   },
   "settings_widgetHideTitleBarDescription": {
     "en": "Hide the top title bar containing total numbers",
     "fr": "Masquer la barre de titre contenant le nombre total",
-    "tr": "Toplam sayıları içeren üst başlık çubuğunu gizle"
+    "tr": "Toplam sayıları içeren üst başlık çubuğunu gizle",
   },
   "sync_completed": {
     "en": "Sync completed",
     "fr": "Synchronisation terminée",
-    "tr": "Senkronizasyon tamamlandı"
+    "tr": "Senkronizasyon tamamlandı",
   },
   "sync_errorPleaseTrySignOut": {
     "en": "Sync error. If the problem persists, try signing out of Google and signing back in.",
     "fr": "Erreur de synchronisation. Si le problème persiste, essayez de vous déconnecter de Google et de vous reconnecter.",
-    "tr": "Senkronizasyon hatası. Sorun devam ederse Google hesabından çıkış yapmayı ve tekrar giriş yapmayı deneyin."
+    "tr": "Senkronizasyon hatası. Sorun devam ederse Google hesabından çıkış yapmayı ve tekrar giriş yapmayı deneyin.",
   },
   "sync_help": {
     "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.\\n\\nTo see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export.",
     "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d\\'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\\n\\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.\\n\\nVous pouvez aussi utiliser l\\'approche d\\'import/export dans les réglages de l\\'application, sauvegarder, import/export.",
-    "tr": "Senkronizasyon, telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.\\n\\nGoogle Drive, e-posta veya harici depolama gibi daha fazla yedekleme seçeneği görmek için uygulama ayarları, içe/dışa aktarma bölümünü ziyaret edebilirsiniz."
+    "tr": "Senkronizasyon telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.\\n\\nGoogle Drive, e-posta veya harici depolama gibi daha fazla yedekleme seçeneği görmek için uygulama ayarları, içe/dışa aktarma bölümünü ziyaret edebilirsiniz.",
   },
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
     "fr": "Synchronisation des portefeuilles…",
-    "tr": "Portföyler sunucu ile senkronize ediliyor..."
+    "tr": "Portföyler sunucu ile senkronize ediliyor...",
   },
   "sync_lastSynchronizedTimeFormatted": {
     "_formatted": false,
     "en": "Last Synchronized: %s",
     "fr": "Dernière synchronisation : %s",
-    "tr": "Son Senkronizasyon: %s"
+    "tr": "Son Senkronizasyon: %s",
   },
   "sync_lastChangeTimeFormatted": {
     "_formatted": false,
     "en": "Last Change: %s%s",
-    "tr": "Son değişiklik: %s%s"
+    "tr": "Son değişiklik: %s%s",
   },
   "sync_signInToBackupAndSynchronize": {
     "en": "Sign in to backup and synchronize Portfolio data between devices.",
     "fr": "Connectez-vous pour sauvegarder et synchroniser les données de Portfolio entre les appareils.",
-    "tr": "Portföy verilerini yedeklemek ve cihazlar arasında senkronize etmek için oturum açın."
+    "tr": "Portföy verilerini yedeklemek ve cihazlar arasında senkronize etmek için oturum açın.",
   },
   "sync_startSync": {
     "en": "Synchronize with Server",
     "fr": "Synchroniser avec le serveur",
-    "tr": "Sunucu ile senkronize et"
+    "tr": "Sunucu ile senkronize et",
   },
   "tab_more": {
     "en": "More",
@@ -3903,23 +3920,28 @@
   "viewQuoteStats_ask": {
     "en": "Ask",
     "fr": "Offre",
+    "tr": "Alış",
     "zh-Hant-TW": "賣出"
   },
   "viewQuoteStats_askHelp": {
     "en": "Ask price",
     "fr": "Prix de l\\'offre"
+    "tr": "Alış Fiyatı",
   },
   "viewQuoteStats_askSize": {
     "en": "Ask Size",
     "fr": "Qté offre"
+    "tr": "Alış Miktarı",
   },
   "viewQuoteStats_askSizeHelp": {
     "en": "Ask lot size",
     "fr": "Nombre d\\'actions à ce prix (offre)"
+    "tr": "Satış lot sayısı",
   },
   "viewQuoteStats_averageVolume": {
     "en": "Avg Vol (3m)",
     "fr": "Vol. moy.",
+    "tr": "Ort Hacim(3A)",
     "zh-Hant-TW": "平均交易量 (3月)"
   },
   "viewQuoteStats_averageVolumeHelp": {
@@ -3940,20 +3962,23 @@
   "viewQuoteStats_bid": {
     "en": "Bid",
     "fr": "Demande",
+    "tr": "Alış",
     "zh-Hant-TW": "買進"
   },
   "viewQuoteStats_bidSize": {
     "en": "Bid Size",
     "fr": "Qté demande"
+    "tr": "Alış Miktarı",
   },
   "viewQuoteStats_bidSizeHelp": {
     "en": "Bid lot size",
     "fr": "Nombre d\\'actions à ce prix (demande)"
+    "tr": "Alış Lot sayısı",
   },
   "viewQuoteStats_bid_price": {
     "en": "Bid price",
-    "tr": "Öneri Fiyatı",
     "fr": "Prix de la demande"
+    "tr": "Alış Fiyatı",
   },
   "viewQuoteStats_bookValue": {
     "en": "Book Value",
@@ -3962,48 +3987,59 @@
   },
   "viewQuoteStats_bookValueHelp": {
     "en": "Total assets minus total liabilities. Reflects value shareholders would receive if company were to be liquidated."
+    "tr": "Toplam varlıklar - Toplam yükümlülükler. Şirketin tasfiye edilmesi durumunda hissedarların alacağı değeri yansıtır",
   },
   "viewQuoteStats_dividendAndYield": {
     "en": "Div/Yld",
     "fr": "Div/Rdt"
+    "tr": "YT/YTV",
   },
   "viewQuoteStats_dividendAndYieldHelp": {
     "en": "Div = annual dividend. Yld = percent yield of annual dividend.",
     "fr": "Dividende annuel et pourcentage de rendement"
+    "tr": "YT= Yıllık temettü. YTV= Yıllık Temettü Verimi",
   },
   "viewQuoteStats_dividendDate": {
     "en": "Div Date"
+    "tr": "Temettü Tarihi",
   },
   "viewQuoteStats_dividendDateHelp": {
     "en": "Date on which the scheduled dividend will be paid to investors."
+    "tr": "Planlanan temettünün yatırımcılara ödeneceği tarih.",
   },
   "viewQuoteStats_eps": {
     "en": "EPS",
     "fr": "BPA",
+    "tr": "HBK",
     "zh-Hant-TW": "每股營利"
   },
   "viewQuoteStats_epsHelp": {
     "en": "Net income over last 4 quarters divided by total outstanding shares",
     "fr": "Résultat net sur les 4 derniers trimestres divisé par le nombre total d\\'actions en circulation"
+    "tr": "Son 4 çeyrekteki net gelirin toplam tedavüldeki hisselere bölünmesi",
   },
   "viewQuoteStats_exDividendDate": {
     "en": "Ex Div"
+    "tr": "Önceki Temettü",
   },
   "viewQuoteStats_exDividendDateHelp": {
     "en": "Date before which investors must own the stock in order to receive the next upcoming dividend. Typically stocks decline on the ex dividend date by the amount of dividend issued."
+    "tr": "Yatırımcıların bir sonraki temettüyü alabilmeleri için hisse senedine sahip olmaları gereken tarih. Tipik olarak hisse senetleri eski temettü tarihinde verilen temettü miktarı kadar düşer.",
   },
   "viewQuoteStats_forwardEPS": {
     "en": "Fwd EPS",
     "fr": "BPA prévu"
+    "tr": "HBK beklentisi",
   },
   "viewQuoteStats_forwardEPSHelp": {
     "en": "Predicted net income over upcoming 4 quarters divided by total outstanding shares",
     "fr": "Revenu net prévu au cours des 4 prochains trimestres divisé par le nombre total d\\'actions en circulation"
+    "tr": "Önümüzdeki 4 çeyrek için öngörülen net gelirin toplam tedavüldeki hisselere bölünmesidir",
   },
   "viewQuoteStats_forwardPERatio": {
     "en": "Fwd P/E",
-    "tr": "F/K Beklentisi",
     "fr": "PER prévu"
+    "tr": "F/K Beklentisi",
   },
   "viewQuoteStats_forwardPERatioHelp": {
     "en": "Share price divided by predicted earnings per share",
@@ -4066,36 +4102,47 @@
   },
   "viewQuoteStats_sharesHelp": {
     "en": "Shares outstanding - the number of shares held by all shareholders, including institutional investors and restricted shares owned by the company."
+    "tr": "Tedavüldeki hisseler - kurumsal yatırımcılar ve şirketin sahip olduğu kısıtlı hisseler dahil olmak üzere tüm hissedarların sahip olduğu hisse sayısı.",
   },
   "viewQuoteStats_shortPercentFloat": {
     "en": "Short% Float"
+    "tr": "Açığa satış halka açıklık %\\'si",
   },
   "viewQuoteStats_shortPercentFloatHelp": {
     "en": "Short % of float. Data is delayed."
+    "tr": "Açığa satışların halka açıklık %\\'si. Veriler gecikmelidir.",
   },
   "viewQuoteStats_shortPercentShares": {
     "en": "Short% Shares"
+    "tr": "Açığa satılan hisselerinin %\\'si.",
   },
   "viewQuoteStats_shortPercentSharesHelp": {
     "en": "Short % of outstanding shares. Data is delayed."
+    "tr": "Tedavüldeki hisselerin açığa satış %\\'si. Veriler gecikmelidir.",
   },
   "viewQuoteStats_shortRatio": {
     "en": "Short Ratio"
+    "tr": "Açığa Satış Oranı",
   },
   "viewQuoteStats_shortRatioHelp": {
     "en": "Short interest ratio, calculated by dividing number of shares short by average daily trading volume."
+    "tr": "Açığa Satış Oranı, açığa satılan hisse sayısının ortalama günlük işlem hacmine bölünmesiyle hesaplanır.",
   },
   "viewQuoteStats_shortShares": {
     "en": "Shares Short"
+    "tr": "Açığa satılan hisseler",
   },
   "viewQuoteStats_shortSharesHelp": {
     "en": "Shares short. Data is delayed."
+    "tr": "Açığa satılan hisseler. Veriler gecikmelidir.",
   },
   "viewQuoteStats_shortSharesPrevMonth": {
     "en": "Prior Month"
+    "tr": "Önceki Ay",
   },
   "viewQuoteStats_shortSharesPrevMonthHelp": {
     "en": "Shares short (prior month). Data is delayed."
+    "tr": "Açığa satılan hisseller(Önceki ay).Veriler gecikmelidir.",
   },
   "viewQuoteStats_pegRatio": {
     "en": "PEG Ratio",
@@ -4213,7 +4260,7 @@
   "viewQuote_newTickerChange": {
     "_formatted": false,
     "en": "Ticker has changed %s\\nTap here to change to the new one",
-    "tr": "%s Kodu değişti \\nYenisine geçmek için buraya dokunun"
+    "tr": "%s sembolu değişti \\nYenisine geçmek için buraya dokunun"
   },
   "viewQuote_noData": {
     "en": "No Data",
