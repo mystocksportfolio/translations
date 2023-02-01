@@ -3567,27 +3567,34 @@
   },
   "settings_csvExportPortfoliosHelp": {
     "en": "Export to Google Drive / SDCard / External Storage / Email / Clipboard",
+    "tr": "Google Drive / SDCard / Harici Depolama / E-posta / Panoya Aktar",
     "zh-Hant-TW": "匯出至Google雲端硬碟 / SD卡 / 外接儲存裝置 / Email / 備忘錄"
   },
   "settings_csvExportPriceAlerts": {
     "en": "Export Price Alerts as CSV"
+    "tr": "Fiyat Uyarılarını CSV olarak dışa aktar",
   },
   "settings_csvImport": {
     "en": "Import from CSV"
+    "tr": "CSV\\'den içe aktar",
   },
   "settings_csvImportCustomPrices": {
     "en": "Import Custom Prices from CSV"
+    "tr": "Özel Fiyatları CSV\\'den içe aktar",
   },
   "settings_csvImportPortfolios": {
     "en": "Import Portfolios from CSV",
+    "tr": "Portföyleri CSV\\'den içe aktar",
     "zh-Hant-TW": "從CSV匯入投資組合"
   },
   "settings_csvImportPortfoliosHelp": {
     "en": "Import from Google Drive / SDCard / External Storage / Email / Clipboard",
+    "tr": "Google Drive / SDCard / Harici Depolama / E-posta / Pano\\'dan içe aktar",
     "zh-Hant-TW": "從 Google Drive / SD卡 / 外部儲存空間 / Email / 剪貼簿 匯入"
   },
   "settings_csvImportPriceAlerts": {
     "en": "Import Price Alerts from CSV"
+    "tr": "Fiyat Uyarılarını CSV\\'den içe aktar",
   },
   "settings_general": {
     "en": "General",
@@ -3604,41 +3611,49 @@
   "settings_hideClosedPositions": {
     "en": "Hide closed positions",
     "fr": "Masquer les positions fermées",
-    "tr": "Kapatılmış posizyonları gizle"
+    "tr": "Kapatılmış posizyonları gizle",
   },
   "settings_hideClosedPositionsSummary": {
     "en": "Holdings with 0 shares remaining will be hidden on the Holdings view",
     "fr": "Les positions avec 0 actions restantes seront masquées dans la vue des positions"
+    "tr": "Hisse sayısı 0 olursa varlıklar bölümünde gizlenecektir",
   },
   "settings_hideClosedQuotes": {
     "en": "Hide closed quotes"
+    "tr": "Kapatılmış önerileri gizle",
   },
   "settings_holdingsIfAny": {
     "en": "Holdings (if any)",
     "fr": "Positions, si disponible",
+    "tr": "Varlıklar (Mevcutsa)",
     "zh-Hant-TW": "持股（如果有的話）"
   },
   "settings_import": {
     "en": "Import",
+    "tr": "İçe aktar",
     "zh-Hant-TW": "匯入"
   },
   "settings_importExport": {
     "en": "Import / Export",
+    "tr": "İçe / Dışa aktar",
     "zh-Hant-TW": "匯入 / 匯出"
   },
   "settings_importExportAndSync": {
     "en": "Import/Export and Sync Data",
+    "tr": "Verileri İçe/Dışa Aktar ve Senkronize Et",
     "fr": "Importer/Exporter and synchronizer les données"
   },
   "settings_importExportCustomPrices": {
     "en": "Import / Export Custom Prices"
+    "tr": "Özel fiyatları İçe/Dışa Aktar",
   },
   "settings_importExportPortfolioData": {
     "en": "Import / Export Portfolio Data"
+    "tr": "Portföy verisini İçe/Dışa Aktar",
   },
   "settings_importExportPriceAlerts": {
     "en": "Import / Export Price Alerts"
-    "tr": "Son Seçilen Portföy",
+    "tr": "Fiyat uyarılarını İçe/Dışa Aktar",
   },
   "settings_lastSelectedPortfolio": {
     "en": "Last Selected Portfolio",
@@ -3663,6 +3678,7 @@
   "settings_premium": {
     "en": "Premium",
     "fr": "Premium"
+    "tr": "Premium",
   },
   "settings_privacyPolicy": {
     "en": "Privacy Policy",
@@ -3679,12 +3695,12 @@
   "settings_refreshInterval": {
     "en": "Auto-refresh (when app is open)",
     "fr": "Rafraîchissement automatique (quand l\\'application est ouverte)",
-    "tr": "Otomatik yenileme (uygulama açıkken)"
+    "tr": "Otomatik yenileme (uygulama açıkken)",
   },
   "settings_refreshIntervalManual": {
     "en": "Manual",
     "fr": "Manuellement",
-    "tr": "Manuel"
+    "tr": "Manuel",
   },
   "settings_refreshIntervalMinutes1": {
     "en": "1 minute",
@@ -3769,17 +3785,17 @@
   "settings_showCurrencySymbolHelp": {
     "en": "For example, $10. If off, then 10 (without currency symbol) will be shown. This option is only used when a home currency is set.",
     "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché. Cette option n\\'est utilisée que lorsqu\\'une devise préférée est définie."
-    "tr": "Örneğin, 10 $. Kapalı ise 10 (para birimi sembolü olmadan) gösterilecektir. Bu seçenek yalnızca bir ana para birimi ayarlandığında kullanılır.",
+    "tr": "Örneğin, 10$. Kapalı ise 10 şeklinde (para birimi sembolü olmadan) gösterilecektir. Bu seçenek yalnızca bir ana para birimi ayarlandığında kullanılır.",
   },
   "settings_startingPortfolioScreenTab": {
     "en": "Starting portfolio screen tab",
     "fr": "Afficher un portefeuille au démarrage",
-    "tr": "Portföy ekranı sekmesini başlat",
+    "tr": "Portföy başlangıç ekranı sekmesi",
     "zh-Hant-TW": "預設投資組合畫面頁籤"
   },
   "settings_startingQuoteDetailsScreenTab": {
     "en": "Starting quote details tab",
-    "tr": "Öneri detayları sekmesini başlat",
+    "tr": "Öneri detayları başlangıç ekranı sekmesi",
     "zh-Hant-TW": "預設報價細節頁籤"
   },
   "settings_startingScreen": {
