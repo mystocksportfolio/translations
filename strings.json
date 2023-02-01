@@ -16,6 +16,7 @@
   },
   "accounting_execution": {
     "en": "Execution"
+    "tr": "Yürütme"
   },
   "accounting_fifo": {
     "en": "FIFO",
@@ -24,7 +25,7 @@
   },
   "accounting_fifoDescription": {
     "en": "First In, First Out",
-    "tr": "İlk giren, İlk Çıkar",
+    "tr": "İlk Giren, İlk Çıkar",
     "zh-Hant-TW": "先買先賣"
   },
   "accounting_lifo": {
@@ -39,7 +40,7 @@
   },
   "accounting_highCost": {
     "en": "High Cost",
-    "tr": "Yüksek Maliyetli",
+    "tr": "Yüksek Maliyet",
     "zh-Hant-TW": "成本高"
   },
   "accounting_highCostDescription": {
@@ -49,7 +50,7 @@
   },
   "accounting_lowCost": {
     "en": "Low Cost",
-    "tr": "Düşük Maliyetli",
+    "tr": "Düşük Maliyet",
     "zh-Hant-TW": "成本低"
   },
   "accounting_lowCostDescription": {
@@ -59,10 +60,11 @@
   },
   "accounting_noLotsFound": {
     "en": "No lots found",
-    "tr": "Lotlar bulunamadı"
+    "tr": "Lotlar bulunamadı",
   },
   "accounting_noLotsFoundHelp": {
     "en": "Couldn\\'t find any valid lots (transactions) to select before this transaction\\'s date"
+    "tr": "Bu işlemin tarihinden önce seçilecek geçerli lotlar (işlemler) bulunamadı"
   },
   "accounting_selectLots": {
     "en": "Select Lots",
@@ -83,6 +85,7 @@
   },
   "accounting_specificLotsHelp": {
     "en": "To use the \\'Specific Lots\\' execution type, please add the quote first and then go to the quote details page, transactions tab, and add the transaction from there so the app knows which lots can be used."
+    "tr": "'\\Belirli Lotlar\\' uygulama türünü kullanmak için lütfen önce önerilere ekleyin ve ardından öneriler ayrıntıları sayfasına, işlemler sekmesine gidin ve işlemi buradan ekleyin, böylece uygulama hangi lotların kullanılabileceğini bilir."
   },
   "accounting_specificLotsDescription": {
     "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction.",
@@ -155,14 +158,14 @@
   "addQuoteCash_withdraw": {
     "en": "Withdraw",
     "fr": "Retirer",
-    "tr": "Çekme",
+    "tr": "Nakit Çekim",
     "zh": "提领",
     "zh-Hant-TW": "出金"
   },
   "addQuoteCrypto_enterCryptoPair": {
     "en": "Please enter a crypto pair, i.e. BTC-USD",
     "fr": "Veuillez entrer une parité crypto, ex. BTC-USD",
-    "tr": "Lütfen bir kripto çifti girin, Örn. BTC-USD",
+    "tr": "Lütfen bir kripto eşleşmesi girin, Örn. BTC-USD",
     "zh-Hant-TW": "請輸入加密貨幣交易對, 例如：BTC-USD"
   },
   "addQuoteCrypto_help": {
@@ -173,7 +176,7 @@
   "addQuoteCrypto_pairHint": {
     "en": "Crypto Pair (i.e. BTC-USD)",
     "fr": "Parité Crypto (ex. BTC-USD)",
-    "tr": "Kripto Çifti (Örn. BTC-USD))",
+    "tr": "Kripto Eşleşmesi (Örn. BTC-USD))",
     "zh-Hant-TW": "加密貨幣交易對（例如：BTC-USD）"
   },
   "addQuoteForex_targetCurrencyShouldBeDifferentThanSource": {
@@ -213,12 +216,14 @@
     "_formatted": false,
     "en": "%s to %s",
     "fr": "%s à %s",
+    "tr": "%s\\'dan %s\\ye",
     "zh-Hant-TW": "%s 至 %s"
   },
   "addQuoteTransaction_currencyToHomeCurrencyFormatted": {
     "_formatted": false,
     "en": "%s to Home Currency",
     "fr": "%s à la devise préférée",
+    "tr": "%s\\'dan Ana Para Birimine",
     "zh-Hant-TW": "%s 至 預設幣別"
   },
   "addQuoteTransaction_date": {
