@@ -930,24 +930,28 @@
     "zh-Hant-TW": "套用"
   },
   "generic_autoRefresh": {
+    "de": "Automatische Aktualisierung",
     "en": "Auto-refresh",
     "fr": "Mise à jour automatique",
     "tr": "Otomatik yenile",
     "zh-Hant-TW": "自動重新整理"
   },
   "generic_autoRefreshOnWeekends": {
+    "de": "Automatische Aktualisierung an Wochenenden",
     "en": "Auto-refresh on weekends",
     "fr": "Mise à jour automatique les week-ends",
     "tr": "Haftasonları otomatik yenile",
     "zh-Hant-TW": "週末自動重新整理"
   },
   "generic_autoRefreshEndTime": {
+    "de": "Endezeit der automatischen Aktualisierung",
     "en": "Auto-refresh end time",
     "fr": "Heure de fin de la mise à jour automatique",
     "tr": "Otomatik yenileme bitiş zamanı",
     "zh-Hant-TW": "自動重新整理結束時間"
   },
   "generic_autoRefreshStartTime": {
+    "de": "Startzeit der automatischen Aktualisierung",
     "en": "Auto-refresh start time",
     "fr": "Heure de début de la mise à jour automatique",
     "tr": "Otomatik yenileme başlangıç zamanı",
@@ -1016,6 +1020,7 @@
     "tr": "Parolayı Onayla"
   },
   "generic_contactUs": {
+    "de": "Kontaktieren Sie uns",
     "en": "Contact Us",
     "fr": "Contactez-nous",
     "zh": "联络我们",
@@ -1619,6 +1624,7 @@
     "zh-Hant-TW": "點選編輯"
   },
   "generic_termsOfUse": {
+    "de": "Nutzungsbedingungen",
     "en": "Terms of Use",
     "fr": "Conditions d\\'utilisation",
     "tr": "Kullanım Koşulları",
@@ -1693,6 +1699,7 @@
     "zh-Hant-TW": "到："
   },
   "generic_today": {
+    "de": "Heute",
     "en": "Today",
     "fr": "Aujourd\\'hui",
     "tr": "Bugün",
@@ -1705,12 +1712,14 @@
     "zh-Hant-TW": "工具提示"
   },
   "generic_twitter": {
+    "de": "Twitter",
     "en": "Twitter",
     "fr": "Twitter",
     "tr": "Twitter",
     "zh-Hant-TW": "Twitter"
   },
   "generic_twitterHelp": {
+    "de": "Erreichen Sie uns auf Twitter",
     "en": "Reach out to us on Twitter",
     "fr": "Nous joindre sur Twitter",
     "tr": "Bize Twitter\\'dan ulaşın",
@@ -1739,6 +1748,7 @@
     "zh-Hant-TW": "是"
   },
   "help_announcements": {
+    "de": "Mitteilungen",
     "en": "Announcements",
     "fr": "Annonces",
     "tr": "Duyurular",
@@ -1762,6 +1772,7 @@
     "zh-Hant-TW": "我們可以怎麼協助你呢?"
   },
   "help_needMoreHelp": {
+    "de": "Benötigen Sie weitere Hilfe?",
     "en": "Need more help?",
     "fr": "Besoin d\\'aide ?",
     "tr": "Daha fazla yardıma mı ihtiyacınız var?",
@@ -1774,6 +1785,7 @@
     "zh-Hant-TW": "抱歉～我們沒有找到你問題的答案"
   },
   "help_popularTopics": {
+    "de": "beliebte Hilfethemen",
     "en": "Popular topics",
     "fr": "Sujets populaires",
     "tr": "Popüler konular",
@@ -1786,6 +1798,7 @@
     "zh-Hant-TW": "問題"
   },
   "help_reportBug": {
+    "de": "Fehler melden",
     "en": "Report a Bug",
     "fr": "Signaler un bug",
     "tr": "Hata bildir",
@@ -1872,6 +1885,7 @@
     "zh-Hant-TW": "瀏覽器"
   },
   "news_configureMarketNews": {
+    "de": "Börsennachrichten konfigurieren",
     "en": "Configure Market News",
     "tr": "Piyasa Haberlerini Yapılandır"
   },
@@ -2467,12 +2481,14 @@
     "zh-Hant-TW": "收起"
   },
   "portfolio_holdings": {
+    "de": "Bestände",
     "en": "Holdings",
     "fr": "Positions",
     "tr": "Varlıklar",
     "zh-Hant-TW": "投資組合"
   },
   "portfolio_homeCurrency": {
+    "de": "Heimatwährung",
     "en": "Home Currency",
     "fr": "Devise préférée",
     "tr": "Ana Para Birimi",
@@ -2500,6 +2516,7 @@
     "tr": "Henüz işlem eklenmedi"
   },
   "portfolio_marketNews": {
+    "de": "Börsennachrichten",
     "en": "Market News",
     "fr": "Actualités du marché",
     "tr": "Piyasa Haberleri",
@@ -2840,11 +2857,13 @@
     "fr": "%d quotations selectionnés"
   },
   "portfolio_sortSymbols": {
+    "de": "Symbole",
     "en": "Symbols",
     "fr": "Symbole",
     "tr": "Semboller"
   },
   "portfolio_sortSymbolsReverse": {
+    "de": "Symbole (absteigend)",
     "en": "Symbols (Descending)",
     "fr": "Symbole (Décroissant)"
   },
@@ -2989,6 +3008,7 @@
     "zh-Hant-TW": "市值"
   },
   "portfolio_valueAndCost": {
+    "de": "Wert/Kosten",
     "en": "Value/Cost",
     "fr": "Valeur/Coût",
     "tr": "Değer/Maliyet",
@@ -3188,6 +3208,7 @@
     "tr": "Beğendim!"
   },
   "reviewPrompt_rateApp": {
+    "de": "App bewerten",
     "en": "Rate app",
     "fr": "Evaluer l\\'application",
     "tr": "Uygualamayı Değerlendir",
@@ -3253,6 +3274,7 @@
     "zh-Hant-TW": "均價"
   },
   "settingsDisplay_averagePricePerSharePrecision": {
+    "de": "Durchschnittspreis pro Aktie min. Genauigkeit",
     "en": "Avg price per share min precision",
     "fr": "Précision du prix moyen par action"
   },
@@ -3311,6 +3333,7 @@
     "zh-Hant-TW": "調整應用程式字體大小"
   },
   "settingsDisplay_inlineAllTimeAndRealized": {
+    "de": "Inline Allzeithoch und realisierte Renditen",
     "en": "Inline all-time and realized returns",
     "fr": "Affichier les gains depuis toujours et réalisés"
   },
@@ -3319,12 +3342,14 @@
     "fr": "Afficher les gains depuis toujours et réalisés sous chaque portefeuille et position"
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtd": {
+    "de": "Inline realisierte YTD-Renditen",
     "en": "Inline YTD realized returns"
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtdHelp": {
     "en": "Shows YTD returns (for tax loss harvesting). Requires \\'Inline all-time and realized gains\\' to be enabled."
   },
   "settingsDisplay_inlineSharesAndAveragePricePerShare": {
+    "de": "Inline Aktien und Durchschnittspreis pro Aktie",
     "en": "Inline shares and average price per share"
   },
   "settingsDisplay_invertFontColor": {
@@ -3342,11 +3367,13 @@
     "tr": "Son Piyasa Açılış Fİyatı"
   },
   "settingsDisplay_line1": {
+    "de": "1. Zeile",
     "en": "1st Line",
     "fr": "1ère ligne",
     "zh-Hant-TW": "第一行"
   },
   "settingsDisplay_line2": {
+    "de": "2. Zeile",
     "en": "2nd Line",
     "fr": "2ème ligne",
     "zh-Hant-TW": "第二行"
@@ -3381,6 +3408,7 @@
     "zh-Hant-TW": "股數"
   },
   "settingsDisplay_numberOfSharesPrecision": {
+    "de": "Anzahl der Aktien min. Genauigkeit",
     "en": "Number of shares min precision",
     "fr": "Précision du nombre d\\'actions"
   },
@@ -3407,6 +3435,7 @@
     "zh-Hant-TW": "報價名稱"
   },
   "settingsDisplay_quoteSymbol": {
+    "de": "Kürzel der Notierung",
     "en": "Quote Symbol",
     "fr": "Symbole du titre",
     "zh-Hant-TW": "報價代碼"
@@ -3428,6 +3457,7 @@
     "zh-Hant-TW": "在新清單中顯示預覽縮圖"
   },
   "settingsDisplay_showNotesHoldingsTab": {
+    "de": "Unterhalb der Bestände Notizen anzeigen",
     "en": "Show Quote notes below Holding",
     "zh-Hant-TW": "在持股下方顯示備註"
   },
@@ -3446,6 +3476,7 @@
     "zh-Hant-TW": "在報價頁籤上，最多顯示五行備註"
   },
   "settingsDisplay_showNotesTransactionsTab": {
+    "de": "Transaktionsnotizen unter der Transaktion anzeigen",
     "en": "Show Transaction notes below Transaction",
     "zh-Hant-TW": "在交易明細下方顯示交易備註"
   },
@@ -3512,6 +3543,7 @@
     "en": "Show a confirmation message before exiting the app while on the home screen"
   },
   "settingsWidget_singleLineMode": {
+    "de": "Einzeilenmodus",
     "en": "Single-line mode",
     "fr": "Mode ligne unique",
     "zh-Hant-TW": "單行模式"
@@ -3596,6 +3628,7 @@
     "zh-Hant-TW": "一般"
   },
   "settings_helpAndFeedback": {
+    "de": "Hilfe & Rückmeldung",
     "en": "Help & Feedback",
     "fr": "Aide et commentaires",
     "tr": "Yardım ve Geri Bildirim",
@@ -3653,6 +3686,7 @@
     "en": "Min precision (Auto increases)"
   },
   "settings_precision": {
+    "de": "Genauigkeit",
     "en": "Precision",
     "fr": "Précision"
   },
@@ -3661,6 +3695,7 @@
     "fr": "Premium"
   },
   "settings_privacyPolicy": {
+    "de": "Datenschutz",
     "en": "Privacy Policy",
     "fr": "Politique de confidentialité",
     "tr": "Gizlilik Politikası",
@@ -3724,6 +3759,7 @@
     "tr": "Değerlendir"
   },
   "settings_reviewAppHelp": {
+    "de": "Eine Bewertung für die App schreiben",
     "en": "Write a review for the app",
     "fr": "Rédiger un avis pour l\\'application",
     "tr": "Uygulama için değerlendirmede bulunun"
@@ -3734,6 +3770,7 @@
     "tr": "Eposta gönder..."
   },
   "settings_sendFeedback": {
+    "de": "Rückmeldung senden",
     "en": "Send Feedback",
     "fr": "Envoyer des commentaires",
     "tr": "Geri Bildirim Gönder",
@@ -3747,11 +3784,13 @@
     "zh-Hant-TW": "MSP 意見回饋"
   },
   "settings_shareAppWithFriends": {
+    "de": "Die App mit Freunden teilen",
     "en": "Share the App with friends",
     "fr": "Partagez l\\'application avec des amis",
     "tr": "Uygulamayı arkadaşlarınızla paylaşın"
   },
   "settings_shareTheApp": {
+    "de": "App teilen",
     "en": "Share the App",
     "fr": "Partagez l\\'application",
     "tr": "Uygulamayı paylaş",
@@ -3767,15 +3806,18 @@
     "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché. Cette option n\\'est utilisée que lorsqu\\'une devise préférée est définie."
   },
   "settings_startingPortfolioScreenTab": {
+    "de": "Startbildschirm für Registerkarte \"Portfolio\"",
     "en": "Starting portfolio screen tab",
     "fr": "Afficher un portefeuille au démarrage",
     "zh-Hant-TW": "預設投資組合畫面頁籤"
   },
   "settings_startingQuoteDetailsScreenTab": {
+    "de": "Startbildschirm für Registerkarte \"Kursedetails\"",
     "en": "Starting quote details tab",
     "zh-Hant-TW": "預設報價細節頁籤"
   },
   "settings_startingScreen": {
+    "de": "Startbildschirm für App-Start",
     "en": "Starting screen",
     "fr": "Écran de démarrage",
     "zh-Hant-TW": "預設畫面"
