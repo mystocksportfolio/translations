@@ -35,7 +35,7 @@
   },
   "accounting_lifoDescription": {
     "en": "Last In, First Out",
-    "tr": "Son Giren, İlke Çıkar",
+    "tr": "Son Giren, İlk Çıkar",
     "zh-Hant-TW": "後買先賣"
   },
   "accounting_highCost": {
@@ -171,7 +171,7 @@
   "addQuoteCrypto_help": {
     "en": "Prices are aggregated across exchanges (Source: CoinGecko). If you cannot find a coin, you may contact us via support@peeksoft.co to get it registered.",
     "fr": "Les prix sont agrégés entre les bourses (Source : CoinGecko). Si vous ne trouvez pas une pièce, vous pouvez nous contacter via support@peeksoft.co pour l\\'enregistrer.",
-    "tr": "Fiyatlar borsalar arasında toplanmıştır (Kaynak: CoinGecko). Bir coin bulamazsanız, kaydettirmek için support@peeksoft.co üzerinden bizimle iletişime geçebilirsiniz."
+    "tr": "Fiyatlar borsalar arasında toplanmıştır (Kaynak: CoinGecko). Bir coin bulamazsanız kaydettirmek için support@peeksoft.co üzerinden bizimle iletişime geçebilirsiniz."
   },
   "addQuoteCrypto_pairHint": {
     "en": "Crypto Pair (i.e. BTC-USD)",
@@ -235,7 +235,7 @@
   "addQuoteTransaction_depositCashToPortfolioFromDividends": {
     "en": "Deposit cash to portfolio from dividends",
     "fr": "Dépôt d\\'espèces au portefeuille lors des dividendes",
-    "tr": "Temettülerden portföye nakit yatırma",
+    "tr": "Temettülerden portföye yatan nakit",
     "zh-Hant-TW": "股息入金至投資組合"
   },
   "addQuoteTransaction_depositCashToPortfolioFromSale": {
@@ -286,6 +286,7 @@
   "addQuoteTransaction_purchaseExchangeRateHelp": {
     "en": "Exchange Rate at time of Transaction (Stock\\'s Currency to Home Currency). For example, 1.5 means $1 of the stock\\'s currency exchanges to $1.5 of your home currency. You can change the Home Currency by tapping Currency on the holdings screen. Leave blank to use today\\'s exchange rate.",
     "fr": "Taux de change au moment de la transaction (Devise du titre à la devise préférée). Par exemple, 1.5 signifie qu\\'1 dans la devises du titre vaut 1.5 dans la devise préférée. Vous pouvez changer la Devise préférée en appuyant sur Devise sur l\\'écran des positions. Laissez vide pour utiliser le taux de change du jour."
+    "tr": "İşlem sırasındaki Döviz Kuru (Hisse Senedi Para Birimi - Ana Para Birimi). Örneğin 1.5, 1 $\\'lık hisse senedi para biriminin 1,5 $\\'lık ana para biriminize dönüştüğü anlamına gelir. Ana Para Birimini varlıklar ekranında Para Birimi öğesine dokunarak değiştirebilirsiniz. Güncel döviz kurunu kullanmak için boş bırakın.",
   },
   "addQuoteTransaction_time": {
     "en": "Transaction Time",
@@ -314,6 +315,7 @@
   "addQuoteTransaction_typeBuyToCover": {
     "en": "Buy to Cover",
     "fr": "Acheter pour couvrir",
+    "tr": "Açığa Satış Alımı"
     "zh-Hant-TW": "空單補回 (Buy to Cover)"
   },
   "addQuoteTransaction_typeClosePositions": {
@@ -346,7 +348,7 @@
   "addQuoteTransaction_typeSellShort": {
     "en": "Sell Short",
     "fr": "Vente à découvert",
-    "tr": "Açığa Sat",
+    "tr": "Açığa Satış",
     "zh-Hant-TW": "賣空"
   },
   "addQuoteTransaction_typeSplit": {
@@ -373,7 +375,7 @@
   "addQuoteTransaction_withdrawCashFromPortfolioToPurchase": {
     "en": "Withdraw cash from portfolio to purchase",
     "fr": "Retirer de l\\'argent du portefeuille à l\\'achat",
-    "tr": "Portföyden nakit çekerek satın alma"
+    "tr": "Portföyden nakit çekerek satın al"
   },
   "addQuote_addUnlistedSymbolHelp": {
     "en": "Unlisted symbols can be used for equity such as shares that do not trade on the open market. To add price data, go to the quote details page after adding the symbol, open the menu, and click \\'Add Custom Prices\\'.",
