@@ -15,7 +15,7 @@
     "tr": "Lot(ları) Ekle"
   },
   "accounting_execution": {
-    "en": "Execution"
+    "en": "Execution",
     "tr": "Yürütme"
   },
   "accounting_fifo": {
@@ -60,10 +60,10 @@
   },
   "accounting_noLotsFound": {
     "en": "No lots found",
-    "tr": "Lotlar bulunamadı",
+    "tr": "Lotlar bulunamadı"
   },
   "accounting_noLotsFoundHelp": {
-    "en": "Couldn\\'t find any valid lots (transactions) to select before this transaction\\'s date"
+    "en": "Couldn\\'t find any valid lots (transactions) to select before this transaction\\'s date",
     "tr": "Bu işlemin tarihinden önce seçilecek geçerli lotlar (işlemler) bulunamadı"
   },
   "accounting_selectLots": {
@@ -84,7 +84,7 @@
     "tr": "Belirli Lotlar"
   },
   "accounting_specificLotsHelp": {
-    "en": "To use the \\'Specific Lots\\' execution type, please add the quote first and then go to the quote details page, transactions tab, and add the transaction from there so the app knows which lots can be used."
+    "en": "To use the \\'Specific Lots\\' execution type, please add the quote first and then go to the quote details page, transactions tab, and add the transaction from there so the app knows which lots can be used.",
     "tr": "'\\Belirli Lotlar\\' uygulama türünü kullanmak için lütfen önce önerilere ekleyin ve ardından öneriler ayrıntıları sayfasına, işlemler sekmesine gidin ve işlemi buradan ekleyin, böylece uygulama hangi lotların kullanılabileceğini bilir."
   },
   "accounting_specificLotsDescription": {
@@ -285,8 +285,8 @@
   },
   "addQuoteTransaction_purchaseExchangeRateHelp": {
     "en": "Exchange Rate at time of Transaction (Stock\\'s Currency to Home Currency). For example, 1.5 means $1 of the stock\\'s currency exchanges to $1.5 of your home currency. You can change the Home Currency by tapping Currency on the holdings screen. Leave blank to use today\\'s exchange rate.",
-    "fr": "Taux de change au moment de la transaction (Devise du titre à la devise préférée). Par exemple, 1.5 signifie qu\\'1 dans la devises du titre vaut 1.5 dans la devise préférée. Vous pouvez changer la Devise préférée en appuyant sur Devise sur l\\'écran des positions. Laissez vide pour utiliser le taux de change du jour."
-    "tr": "İşlem sırasındaki Döviz Kuru (Hisse Senedi Para Birimi - Ana Para Birimi). Örneğin 1.5, 1 $\\'lık hisse senedi para biriminin 1,5 $\\'lık ana para biriminize dönüştüğü anlamına gelir. Ana Para Birimini varlıklar ekranında Para Birimi öğesine dokunarak değiştirebilirsiniz. Güncel döviz kurunu kullanmak için boş bırakın.",
+    "fr": "Taux de change au moment de la transaction (Devise du titre à la devise préférée). Par exemple, 1.5 signifie qu\\'1 dans la devises du titre vaut 1.5 dans la devise préférée. Vous pouvez changer la Devise préférée en appuyant sur Devise sur l\\'écran des positions. Laissez vide pour utiliser le taux de change du jour.",
+    "tr": "İşlem sırasındaki Döviz Kuru (Hisse Senedi Para Birimi - Ana Para Birimi). Örneğin 1.5, 1 $\\'lık hisse senedi para biriminin 1,5 $\\'lık ana para biriminize dönüştüğü anlamına gelir. Ana Para Birimini varlıklar ekranında Para Birimi öğesine dokunarak değiştirebilirsiniz. Güncel döviz kurunu kullanmak için boş bırakın."
   },
   "addQuoteTransaction_time": {
     "en": "Transaction Time",
@@ -315,7 +315,7 @@
   "addQuoteTransaction_typeBuyToCover": {
     "en": "Buy to Cover",
     "fr": "Acheter pour couvrir",
-    "tr": "Açığa Satış Alımı"
+    "tr": "Açığa Satış Alımı",
     "zh-Hant-TW": "空單補回 (Buy to Cover)"
   },
   "addQuoteTransaction_typeClosePositions": {
@@ -760,8 +760,8 @@
     "zh-Hant-TW": "匯出並取代既有檔案"
   },
   "csvExport_externalStorageHelp": {
-       "en": "To export, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nYou can choose to export to SDCard or local storage (open the side menu in the file picker), or Google Drive. If you export to Google Drive, your file will be accessible from your computer at https://drive.google.com."
-     "tr": "Dışa aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\n SDCard\\'a veya yerel depolama alanına (dosya seçicideki yan menüyü açın) ya da Google Drive\\'a aktarmayı seçebilirsiniz. Google Drive\\'a aktarırsanız, dosyanıza bilgisayarınızdan https://drive.google.com adresinden erişilebilir.",
+    "en": "To export, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nYou can choose to export to SDCard or local storage (open the side menu in the file picker), or Google Drive. If you export to Google Drive, your file will be accessible from your computer at https://drive.google.com.",
+    "tr": "Dışa aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\n SDCard\\'a veya yerel depolama alanına (dosya seçicideki yan menüyü açın) ya da Google Drive\\'a aktarmayı seçebilirsiniz. Google Drive\\'a aktarırsanız, dosyanıza bilgisayarınızdan https://drive.google.com adresinden erişilebilir."
   },
   "csvExport_externalStorageUploaded": {
     "en": "CSV saved to External Storage",
@@ -876,8 +876,8 @@
     "zh-Hant-TW": "我已經付款過了，但 app 不記得或不認得我有訂閱過"
   },
   "faq_paidAlreadyAnswer": {
-    "en": "Please make sure you are logged into the account used to make the purchase and click \\'Restore Purchases\\'. If you can\\'t restore the purchase, please reach out to us via support."
-    "tr": "Lütfen satın alma işleminde kullanılan hesapta oturum açtığınızdan emin olun ve \\'Satın Almaları Geri Yükle\\' seçeneğine tıklayın. Satın alma işlemini geri yükleyemiyorsanız lütfen destek aracılığıyla bize ulaşın.?",
+    "en": "Please make sure you are logged into the account used to make the purchase and click \\'Restore Purchases\\'. If you can\\'t restore the purchase, please reach out to us via support.",
+    "tr": "Lütfen satın alma işleminde kullanılan hesapta oturum açtığınızdan emin olun ve \\'Satın Almaları Geri Yükle\\' seçeneğine tıklayın. Satın alma işlemini geri yükleyemiyorsanız lütfen destek aracılığıyla bize ulaşın.?"
   },
   "faq_whySubscriptionFee": {
     "en": "Why is there a subscription fee?",
@@ -1204,8 +1204,8 @@
   "generic_filter": {
     "en": "Filter",
     "fr": "Filtre",
-    "tr": "Filtre"
-    "zh-Hant-TW": "篩選",
+    "tr": "Filtre",
+    "zh-Hant-TW": "篩選"
   },
   "generic_fontSize": {
     "en": "Font Size",
@@ -1996,8 +1996,8 @@
   },
   "password_enableHelp": {
     "en": "Enabling password protection will prompt for a password when the app is launched. If you lose your password, you will need to re-install the app.\\n\\nSetting a password does not protect your data if your device is stolen. Google provides ways to remotely wipe your device: https://www.google.com/#q=android+remotely+wipe+phone",
-    "fr": "L\\'activation de la protection par mot de passe nécessitera la saisie d\\'un mot de passe au lancement de l\\'application. Si vous perdez votre mot de passe, vous devrez réinstaller l\\'application.\\n\\nLa définition d\\'un mot de passe ne protège pas vos données si votre appareil est volé. Google propose des moyens d\\'effacer à distance votre appareil : https://www.google.com/#q=android+remotely+wipe+phone"
-    "tr": "Parola korumasını etkinleştirirseniz uygulama başlatıldığında bir parola isteyecektir. Şifrenizi kaybederseniz uygulamayı yeniden yüklemeniz gerekecektir.\\n\\nŞifre belirlemek, cihazınızın çalınması durumunda verilerinizi korumaz. Google, cihazınızı uzaktan silmenin yollarını sunar: https://www.google.com/#q=android+remotely+wipe+phone",
+    "fr": "L\\'activation de la protection par mot de passe nécessitera la saisie d\\'un mot de passe au lancement de l\\'application. Si vous perdez votre mot de passe, vous devrez réinstaller l\\'application.\\n\\nLa définition d\\'un mot de passe ne protège pas vos données si votre appareil est volé. Google propose des moyens d\\'effacer à distance votre appareil : https://www.google.com/#q=android+remotely+wipe+phone",
+    "tr": "Parola korumasını etkinleştirirseniz uygulama başlatıldığında bir parola isteyecektir. Şifrenizi kaybederseniz uygulamayı yeniden yüklemeniz gerekecektir.\\n\\nŞifre belirlemek, cihazınızın çalınması durumunda verilerinizi korumaz. Google, cihazınızı uzaktan silmenin yollarını sunar: https://www.google.com/#q=android+remotely+wipe+phone"
   },
   "password_enterPassword": {
     "en": "Enter Password",
@@ -2299,22 +2299,22 @@
     "zh-Hant-TW": "我的投資組合"
   },
   "portfolio_deleteAccount": {
-    "en": "Delete Account"
-    "tr": "Hesabı Sil",
+    "en": "Delete Account",
+    "tr": "Hesabı Sil"
   },
   "portfolio_deleteAccountMessage": {
     "en": "Are you sure you want to delete your account and all portfolio data stored in the cloud? There is no way to undo this operation.",
-    "tr": "Hesabınızı ve bulutta depolanan tüm portföy verilerini silmek istediğinizden emin misiniz? Bu işlemi geri almanın bir yolu yoktur.",
+    "tr": "Hesabınızı ve bulutta depolanan tüm portföy verilerini silmek istediğinizden emin misiniz? Bu işlemi geri almanın bir yolu yoktur."
   },
   "portfolio_deleteFromServerDisclaimer": {
     "en": "If you are signed in, this will delete it from the server and your other devices when they sync.",
-    "tr": "Oturum açtıysanız, bu işlem senkronize edildiklerinde sunucudan ve diğer cihazlarınızdan silinecektir.",
+    "tr": "Oturum açtıysanız, bu işlem senkronize edildiklerinde sunucudan ve diğer cihazlarınızdan silinecektir."
   },
   "portfolio_deleteHoldingsForQuoteFormatted": {
     "_formatted": false,
     "en": "Delete all Holdings for this Quote (%s)?",
-    "fr": "Supprimer toutes les positions pour ce cours (%s) ?"
-    "tr": "Bu öneri (%s) için tüm varlıklar silinsin mi ?",
+    "fr": "Supprimer toutes les positions pour ce cours (%s) ?",
+    "tr": "Bu öneri (%s) için tüm varlıklar silinsin mi ?"
   },
   "portfolio_deleteQuoteWarningFormatted": {
     "_formatted": false,
@@ -2325,8 +2325,8 @@
   "portfolio_deleteQuoteWarningWithTransactionsFormatted": {
     "_formatted": false,
     "en": "Are you sure you want to delete this Quote (%s) and all its Holdings in this portfolio?",
-    "fr": "Supprimer un cours (%s) supprimera également toutes les positions associées dans le portefeuille. Continuer ?"
-    "tr": "Bu öneriyi (%s) ve bu portföye ait tüm varlıkları silmek istediğinize emin misiniz?",
+    "fr": "Supprimer un cours (%s) supprimera également toutes les positions associées dans le portefeuille. Continuer ?",
+    "tr": "Bu öneriyi (%s) ve bu portföye ait tüm varlıkları silmek istediğinize emin misiniz?"
   },
   "portfolio_deleteSelectedPortfoliosWarning": {
     "en": "Are you sure you want to delete these Portfolios and all Quotes in them?",
@@ -2355,18 +2355,18 @@
   },
   "portfolio_displayLocalCurrency": {
     "en": "Display local currency instead of home currency for:",
-    "fr": "Afficher la devise du titre au lieu de la devise préférée pour :"
-    "tr": "Ana para birimi yerine yerel para birimini görüntüle:",
+    "fr": "Afficher la devise du titre au lieu de la devise préférée pour :",
+    "tr": "Ana para birimi yerine yerel para birimini görüntüle:"
   },
   "portfolio_displayLocalCurrencyForHoldings": {
     "en": "Individual holdings in this portfolio: For example, GOOG holdings will be shown in USD and BNS.TO holdings will be shown in CAD.",
-    "fr": "Positions individuelles dans ce portefeuille : Par exemple, les positions GOOG seront indiquées en USD et celles de BNS.TO seront indiquées en dollars canadiens."
-    "tr": "Bu portföydeki bireysel varlıklar: Örneğin, GOOG varlıkları USD cinsinden ve BNS.TO varlıkları CAD cinsinden gösterilecektir.",
+    "fr": "Positions individuelles dans ce portefeuille : Par exemple, les positions GOOG seront indiquées en USD et celles de BNS.TO seront indiquées en dollars canadiens.",
+    "tr": "Bu portföydeki bireysel varlıklar: Örneğin, GOOG varlıkları USD cinsinden ve BNS.TO varlıkları CAD cinsinden gösterilecektir."
   },
   "portfolio_displayLocalCurrencyForTotals": {
     "en": "Aggregate totals in this portfolio: All quotes in this portfolio must be the same currency. Aggregate totals refers to the totals at top and bottom of screen.",
-    "fr": "Totaux agrégés dans ce portefeuille : Tous les cours dans ce portefeuille doivent avoir la même devise. Les totaux agrégés font référence aux totaux en haut et en bas de l\\'écran."
-    "tr": "Bu portföydeki toplamlar: Bu portföydeki tüm öneriler-varlıklar aynı para biriminde olmalıdır. Toplamlar, ekranın üst ve altındaki toplamları ifade eder.",
+    "fr": "Totaux agrégés dans ce portefeuille : Tous les cours dans ce portefeuille doivent avoir la même devise. Les totaux agrégés font référence aux totaux en haut et en bas de l\\'écran.",
+    "tr": "Bu portföydeki toplamlar: Bu portföydeki tüm öneriler-varlıklar aynı para biriminde olmalıdır. Toplamlar, ekranın üst ve altındaki toplamları ifade eder."
   },
   "portfolio_dividends": {
     "en": "Dividends",
@@ -2399,8 +2399,8 @@
     "fr": "Dividendes faisant partie d\\'un régime de réinvestissement des dividendes (RRD). Vous n\\'avez pas besoin d\\'ajouter une transaction séparée pour la conversion des dividendes en espèces. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs."
   },
   "portfolio_doNotAddToTotals": {
-    "en": "Don\\'t add to totals on Portfolios Overview screen"
-    "tr": "Portföy genel görünümünde toplamlar eklenmesin",
+    "en": "Don\\'t add to totals on Portfolios Overview screen",
+    "tr": "Portföy genel görünümünde toplamlar eklenmesin"
   },
   "portfolio_editHolding": {
     "en": "Edit Holding",
@@ -3633,16 +3633,16 @@
     "zh-Hant-TW": "匯出至Google雲端硬碟 / SD卡 / 外接儲存裝置 / Email / 備忘錄"
   },
   "settings_csvExportPriceAlerts": {
-    "en": "Export Price Alerts as CSV"
-    "tr": "Fiyat Uyarılarını CSV olarak dışa aktar",
+    "en": "Export Price Alerts as CSV",
+    "tr": "Fiyat Uyarılarını CSV olarak dışa aktar"
   },
   "settings_csvImport": {
-    "en": "Import from CSV"
-    "tr": "CSV\\'den içe aktar",
+    "en": "Import from CSV",
+    "tr": "CSV\\'den içe aktar"
   },
   "settings_csvImportCustomPrices": {
-    "en": "Import Custom Prices from CSV"
-    "tr": "Özel Fiyatları CSV\\'den içe aktar",
+    "en": "Import Custom Prices from CSV",
+    "tr": "Özel Fiyatları CSV\\'den içe aktar"
   },
   "settings_csvImportPortfolios": {
     "en": "Import Portfolios from CSV",
@@ -3655,8 +3655,8 @@
     "zh-Hant-TW": "從 Google Drive / SD卡 / 外部儲存空間 / Email / 剪貼簿 匯入"
   },
   "settings_csvImportPriceAlerts": {
-    "en": "Import Price Alerts from CSV"
-    "tr": "Fiyat Uyarılarını CSV\\'den içe aktar",
+    "en": "Import Price Alerts from CSV",
+    "tr": "Fiyat Uyarılarını CSV\\'den içe aktar"
   },
   "settings_general": {
     "en": "General",
@@ -3674,16 +3674,16 @@
   "settings_hideClosedPositions": {
     "en": "Hide closed positions",
     "fr": "Masquer les positions fermées",
-    "tr": "Kapatılmış posizyonları gizle",
+    "tr": "Kapatılmış posizyonları gizle"
   },
   "settings_hideClosedPositionsSummary": {
     "en": "Holdings with 0 shares remaining will be hidden on the Holdings view",
-    "fr": "Les positions avec 0 actions restantes seront masquées dans la vue des positions"
-    "tr": "Hisse sayısı 0 olursa varlıklar bölümünde gizlenecektir",
+    "fr": "Les positions avec 0 actions restantes seront masquées dans la vue des positions",
+    "tr": "Hisse sayısı 0 olursa varlıklar bölümünde gizlenecektir"
   },
   "settings_hideClosedQuotes": {
-    "en": "Hide closed quotes"
-    "tr": "Kapatılmış önerileri gizle",
+    "en": "Hide closed quotes",
+    "tr": "Kapatılmış önerileri gizle"
   },
   "settings_holdingsIfAny": {
     "en": "Holdings (if any)",
@@ -3707,16 +3707,16 @@
     "fr": "Importer/Exporter and synchronizer les données"
   },
   "settings_importExportCustomPrices": {
-    "en": "Import / Export Custom Prices"
-    "tr": "Özel fiyatları İçe/Dışa Aktar",
+    "en": "Import / Export Custom Prices",
+    "tr": "Özel fiyatları İçe/Dışa Aktar"
   },
   "settings_importExportPortfolioData": {
-    "en": "Import / Export Portfolio Data"
-    "tr": "Portföy verisini İçe/Dışa Aktar",
+    "en": "Import / Export Portfolio Data",
+    "tr": "Portföy verisini İçe/Dışa Aktar"
   },
   "settings_importExportPriceAlerts": {
-    "en": "Import / Export Price Alerts"
-    "tr": "Fiyat uyarılarını İçe/Dışa Aktar",
+    "en": "Import / Export Price Alerts",
+    "tr": "Fiyat uyarılarını İçe/Dışa Aktar"
   },
   "settings_lastSelectedPortfolio": {
     "en": "Last Selected Portfolio",
@@ -3727,22 +3727,22 @@
   "settings_openPlayStore": {
     "en": "Open Play Store",
     "fr": "Ouvrir Google Play Store",
-    "tr": "Play Store\\'yi aç",
+    "tr": "Play Store\\'yi aç"
   },
   "settings_preferredPrecision": {
-    "en": "Min precision (Auto increases)"
-    "tr": "Min Hassasiyet ( Otomatik)",
+    "en": "Min precision (Auto increases)",
+    "tr": "Min Hassasiyet ( Otomatik)"
   },
   "settings_precision": {
     "de": "Genauigkeit",
     "en": "Precision",
-    "fr": "Précision"
-    "tr": "Hassasiyet",    
+    "fr": "Précision",
+    "tr": "Hassasiyet"
   },
   "settings_premium": {
     "en": "Premium",
-    "fr": "Premium"
-    "tr": "Premium",
+    "fr": "Premium",
+    "tr": "Premium"
   },
   "settings_privacyPolicy": {
     "de": "Datenschutz",
@@ -3760,12 +3760,12 @@
   "settings_refreshInterval": {
     "en": "Auto-refresh (when app is open)",
     "fr": "Rafraîchissement automatique (quand l\\'application est ouverte)",
-    "tr": "Otomatik yenileme (uygulama açıkken)",
+    "tr": "Otomatik yenileme (uygulama açıkken)"
   },
   "settings_refreshIntervalManual": {
     "en": "Manual",
     "fr": "Manuellement",
-    "tr": "Manuel",
+    "tr": "Manuel"
   },
   "settings_refreshIntervalMinutes1": {
     "en": "1 minute",
@@ -3853,8 +3853,8 @@
   },
   "settings_showCurrencySymbolHelp": {
     "en": "For example, $10. If off, then 10 (without currency symbol) will be shown. This option is only used when a home currency is set.",
-    "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché. Cette option n\\'est utilisée que lorsqu\\'une devise préférée est définie."
-    "tr": "Örneğin, 10$. Kapalı ise 10 şeklinde (para birimi sembolü olmadan) gösterilecektir. Bu seçenek yalnızca bir ana para birimi ayarlandığında kullanılır.",
+    "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché. Cette option n\\'est utilisée que lorsqu\\'une devise préférée est définie.",
+    "tr": "Örneğin, 10$. Kapalı ise 10 şeklinde (para birimi sembolü olmadan) gösterilecektir. Bu seçenek yalnızca bir ana para birimi ayarlandığında kullanılır."
   },
   "settings_startingPortfolioScreenTab": {
     "de": "Startbildschirm für Registerkarte \"Portfolio\"",
@@ -3883,89 +3883,89 @@
     "zh-Hant-TW": "伺服器同步"
   },
   "settings_syncPortfolioHelp": {
-    "en": "Synchronize portfolio data to the server and between devices"
-    "tr": "Portföy verilerini sunucuya ve cihazlar arasında senkronize edin",
+    "en": "Synchronize portfolio data to the server and between devices",
+    "tr": "Portföy verilerini sunucuya ve cihazlar arasında senkronize edin"
   },
   "settings_syncHelp": {
     "en": "Synchronize data to the server and between devices",
-    "fr": "Synchronisation entre appareils"
-    "tr": "Verileri sunucuya ve cihazlar arasında senkronize edin",
+    "fr": "Synchronisation entre appareils",
+    "tr": "Verileri sunucuya ve cihazlar arasında senkronize edin"
   },
   "settings_transparentTitleBar": {
     "en": "Transparent title bar",
-    "fr": "Barre de titre transparente"
-    "tr": "Şeffaf başlık çubuğu",
+    "fr": "Barre de titre transparente",
+    "tr": "Şeffaf başlık çubuğu"
   },
   "settings_transparentTitleBarDescription": {
     "en": "Make the title bar transparent",
-    "fr": "Rendre la barre de titre transparente"
-    "tr": "Başlık çubuğunu şeffaflaştırır",
+    "fr": "Rendre la barre de titre transparente",
+    "tr": "Başlık çubuğunu şeffaflaştırır"
   },
   "settings_widget": {
     "en": "Widget",
-    "fr": "Widget"
-    "tr": "Widget",
+    "fr": "Widget",
+    "tr": "Widget"
   },
   "settings_widgetHideColumnHeaders": {
     "en": "Hide column headers",
-    "fr": "Masquer les en-têtes des colonnes"
-    "tr": "Sütun başlıklarını gizle",
+    "fr": "Masquer les en-têtes des colonnes",
+    "tr": "Sütun başlıklarını gizle"
   },
   "settings_widgetHideColumnHeadersDescription": {
     "en": "Hide the tappable column headers for switching display type (i.e. daily/total).",
-    "fr": "Masquer les en-têtes cliquables des colonnes pour changer le type d\\'affichage (p.e. jour/total)"
-    "tr": "Görüntüleme türünü değiştirmek için dokunulabilir sütun başlıklarını gizleyin (örn. günlük/toplam).",
+    "fr": "Masquer les en-têtes cliquables des colonnes pour changer le type d\\'affichage (p.e. jour/total)",
+    "tr": "Görüntüleme türünü değiştirmek için dokunulabilir sütun başlıklarını gizleyin (örn. günlük/toplam)."
   },
   "settings_widgetHideTitleBar": {
     "en": "Hide title bar",
-    "fr": "Masquer la barre de titre"
-    "tr": "Başlık çubuğunu gizle",
+    "fr": "Masquer la barre de titre",
+    "tr": "Başlık çubuğunu gizle"
   },
   "settings_widgetHideTitleBarDescription": {
     "en": "Hide the top title bar containing total numbers",
     "fr": "Masquer la barre de titre contenant le nombre total",
-    "tr": "Toplam sayıları içeren üst başlık çubuğunu gizle",
+    "tr": "Toplam sayıları içeren üst başlık çubuğunu gizle"
   },
   "sync_completed": {
     "en": "Sync completed",
     "fr": "Synchronisation terminée",
-    "tr": "Senkronizasyon tamamlandı",
+    "tr": "Senkronizasyon tamamlandı"
   },
   "sync_errorPleaseTrySignOut": {
     "en": "Sync error. If the problem persists, try signing out of Google and signing back in.",
     "fr": "Erreur de synchronisation. Si le problème persiste, essayez de vous déconnecter de Google et de vous reconnecter.",
-    "tr": "Senkronizasyon hatası. Sorun devam ederse Google hesabından çıkış yapmayı ve tekrar giriş yapmayı deneyin.",
+    "tr": "Senkronizasyon hatası. Sorun devam ederse Google hesabından çıkış yapmayı ve tekrar giriş yapmayı deneyin."
   },
   "sync_help": {
     "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.\\n\\nTo see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export.",
     "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d\\'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\\n\\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.\\n\\nVous pouvez aussi utiliser l\\'approche d\\'import/export dans les réglages de l\\'application, sauvegarder, import/export.",
-    "tr": "Senkronizasyon telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.\\n\\nGoogle Drive, e-posta veya harici depolama gibi daha fazla yedekleme seçeneği görmek için uygulama ayarları, içe/dışa aktarma bölümünü ziyaret edebilirsiniz.",
+    "tr": "Senkronizasyon telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.\\n\\nGoogle Drive, e-posta veya harici depolama gibi daha fazla yedekleme seçeneği görmek için uygulama ayarları, içe/dışa aktarma bölümünü ziyaret edebilirsiniz."
   },
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
     "fr": "Synchronisation des portefeuilles…",
-    "tr": "Portföyler sunucu ile senkronize ediliyor...",
+    "tr": "Portföyler sunucu ile senkronize ediliyor..."
   },
   "sync_lastSynchronizedTimeFormatted": {
     "_formatted": false,
     "en": "Last Synchronized: %s",
     "fr": "Dernière synchronisation : %s",
-    "tr": "Son Senkronizasyon: %s",
+    "tr": "Son Senkronizasyon: %s"
   },
   "sync_lastChangeTimeFormatted": {
     "_formatted": false,
     "en": "Last Change: %s%s",
-    "tr": "Son değişiklik: %s%s",
+    "tr": "Son değişiklik: %s%s"
   },
   "sync_signInToBackupAndSynchronize": {
     "en": "Sign in to backup and synchronize Portfolio data between devices.",
     "fr": "Connectez-vous pour sauvegarder et synchroniser les données de Portfolio entre les appareils.",
-    "tr": "Portföy verilerini yedeklemek ve cihazlar arasında senkronize etmek için oturum açın.",
+    "tr": "Portföy verilerini yedeklemek ve cihazlar arasında senkronize etmek için oturum açın."
   },
   "sync_startSync": {
     "en": "Synchronize with Server",
     "fr": "Synchroniser avec le serveur",
-    "tr": "Sunucu ile senkronize et",
+    "tr": "Sunucu ile senkronize et"
   },
   "tab_more": {
     "en": "More",
@@ -4013,18 +4013,18 @@
   },
   "viewQuoteStats_askHelp": {
     "en": "Ask price",
-    "fr": "Prix de l\\'offre"
-    "tr": "Alış Fiyatı",
+    "fr": "Prix de l\\'offre",
+    "tr": "Alış Fiyatı"
   },
   "viewQuoteStats_askSize": {
     "en": "Ask Size",
-    "fr": "Qté offre"
-    "tr": "Alış Miktarı",
+    "fr": "Qté offre",
+    "tr": "Alış Miktarı"
   },
   "viewQuoteStats_askSizeHelp": {
     "en": "Ask lot size",
-    "fr": "Nombre d\\'actions à ce prix (offre)"
-    "tr": "Satış lot sayısı",
+    "fr": "Nombre d\\'actions à ce prix (offre)",
+    "tr": "Satış lot sayısı"
   },
   "viewQuoteStats_averageVolume": {
     "en": "Avg Vol (3m)",
@@ -4055,18 +4055,18 @@
   },
   "viewQuoteStats_bidSize": {
     "en": "Bid Size",
-    "fr": "Qté demande"
-    "tr": "Alış Miktarı",
+    "fr": "Qté demande",
+    "tr": "Alış Miktarı"
   },
   "viewQuoteStats_bidSizeHelp": {
     "en": "Bid lot size",
-    "fr": "Nombre d\\'actions à ce prix (demande)"
-    "tr": "Alış Lot sayısı",
+    "fr": "Nombre d\\'actions à ce prix (demande)",
+    "tr": "Alış Lot sayısı"
   },
   "viewQuoteStats_bid_price": {
     "en": "Bid price",
-    "fr": "Prix de la demande"
-    "tr": "Alış Fiyatı",
+    "fr": "Prix de la demande",
+    "tr": "Alış Fiyatı"
   },
   "viewQuoteStats_bookValue": {
     "en": "Book Value",
@@ -4074,26 +4074,26 @@
     "zh-Hant-TW": "賬面價值"
   },
   "viewQuoteStats_bookValueHelp": {
-    "en": "Total assets minus total liabilities. Reflects value shareholders would receive if company were to be liquidated."
-    "tr": "Toplam varlıklar - Toplam yükümlülükler. Şirketin tasfiye edilmesi durumunda hissedarların alacağı değeri yansıtır",
+    "en": "Total assets minus total liabilities. Reflects value shareholders would receive if company were to be liquidated.",
+    "tr": "Toplam varlıklar - Toplam yükümlülükler. Şirketin tasfiye edilmesi durumunda hissedarların alacağı değeri yansıtır"
   },
   "viewQuoteStats_dividendAndYield": {
     "en": "Div/Yld",
-    "fr": "Div/Rdt"
-    "tr": "YT/YTV",
+    "fr": "Div/Rdt",
+    "tr": "YT/YTV"
   },
   "viewQuoteStats_dividendAndYieldHelp": {
     "en": "Div = annual dividend. Yld = percent yield of annual dividend.",
-    "fr": "Dividende annuel et pourcentage de rendement"
-    "tr": "YT= Yıllık temettü. YTV= Yıllık Temettü Verimi",
+    "fr": "Dividende annuel et pourcentage de rendement",
+    "tr": "YT= Yıllık temettü. YTV= Yıllık Temettü Verimi"
   },
   "viewQuoteStats_dividendDate": {
-    "en": "Div Date"
-    "tr": "Temettü Tarihi",
+    "en": "Div Date",
+    "tr": "Temettü Tarihi"
   },
   "viewQuoteStats_dividendDateHelp": {
-    "en": "Date on which the scheduled dividend will be paid to investors."
-    "tr": "Planlanan temettünün yatırımcılara ödeneceği tarih.",
+    "en": "Date on which the scheduled dividend will be paid to investors.",
+    "tr": "Planlanan temettünün yatırımcılara ödeneceği tarih."
   },
   "viewQuoteStats_eps": {
     "en": "EPS",
@@ -4103,31 +4103,31 @@
   },
   "viewQuoteStats_epsHelp": {
     "en": "Net income over last 4 quarters divided by total outstanding shares",
-    "fr": "Résultat net sur les 4 derniers trimestres divisé par le nombre total d\\'actions en circulation"
-    "tr": "Son 4 çeyrekteki net gelirin toplam tedavüldeki hisselere bölünmesi",
+    "fr": "Résultat net sur les 4 derniers trimestres divisé par le nombre total d\\'actions en circulation",
+    "tr": "Son 4 çeyrekteki net gelirin toplam tedavüldeki hisselere bölünmesi"
   },
   "viewQuoteStats_exDividendDate": {
-    "en": "Ex Div"
-    "tr": "Önceki Temettü",
+    "en": "Ex Div",
+    "tr": "Önceki Temettü"
   },
   "viewQuoteStats_exDividendDateHelp": {
-    "en": "Date before which investors must own the stock in order to receive the next upcoming dividend. Typically stocks decline on the ex dividend date by the amount of dividend issued."
-    "tr": "Yatırımcıların bir sonraki temettüyü alabilmeleri için hisse senedine sahip olmaları gereken tarih. Tipik olarak hisse senetleri eski temettü tarihinde verilen temettü miktarı kadar düşer.",
+    "en": "Date before which investors must own the stock in order to receive the next upcoming dividend. Typically stocks decline on the ex dividend date by the amount of dividend issued.",
+    "tr": "Yatırımcıların bir sonraki temettüyü alabilmeleri için hisse senedine sahip olmaları gereken tarih. Tipik olarak hisse senetleri eski temettü tarihinde verilen temettü miktarı kadar düşer."
   },
   "viewQuoteStats_forwardEPS": {
     "en": "Fwd EPS",
-    "fr": "BPA prévu"
-    "tr": "HBK beklentisi",
+    "fr": "BPA prévu",
+    "tr": "HBK beklentisi"
   },
   "viewQuoteStats_forwardEPSHelp": {
     "en": "Predicted net income over upcoming 4 quarters divided by total outstanding shares",
-    "fr": "Revenu net prévu au cours des 4 prochains trimestres divisé par le nombre total d\\'actions en circulation"
-    "tr": "Önümüzdeki 4 çeyrek için öngörülen net gelirin toplam tedavüldeki hisselere bölünmesidir",
+    "fr": "Revenu net prévu au cours des 4 prochains trimestres divisé par le nombre total d\\'actions en circulation",
+    "tr": "Önümüzdeki 4 çeyrek için öngörülen net gelirin toplam tedavüldeki hisselere bölünmesidir"
   },
   "viewQuoteStats_forwardPERatio": {
     "en": "Fwd P/E",
-    "fr": "PER prévu"
-    "tr": "F/K Beklentisi",
+    "fr": "PER prévu",
+    "tr": "F/K Beklentisi"
   },
   "viewQuoteStats_forwardPERatioHelp": {
     "en": "Share price divided by predicted earnings per share",
@@ -4189,48 +4189,48 @@
     "tr": "Son işlem günündeki açılış fiyatı"
   },
   "viewQuoteStats_sharesHelp": {
-    "en": "Shares outstanding - the number of shares held by all shareholders, including institutional investors and restricted shares owned by the company."
-    "tr": "Tedavüldeki hisseler - kurumsal yatırımcılar ve şirketin sahip olduğu kısıtlı hisseler dahil olmak üzere tüm hissedarların sahip olduğu hisse sayısı.",
+    "en": "Shares outstanding - the number of shares held by all shareholders, including institutional investors and restricted shares owned by the company.",
+    "tr": "Tedavüldeki hisseler - kurumsal yatırımcılar ve şirketin sahip olduğu kısıtlı hisseler dahil olmak üzere tüm hissedarların sahip olduğu hisse sayısı."
   },
   "viewQuoteStats_shortPercentFloat": {
-    "en": "Short% Float"
-    "tr": "Açığa satış halka açıklık %\\'si",
+    "en": "Short% Float",
+    "tr": "Açığa satış halka açıklık %\\'si"
   },
   "viewQuoteStats_shortPercentFloatHelp": {
-    "en": "Short % of float. Data is delayed."
-    "tr": "Açığa satışların halka açıklık %\\'si. Veriler gecikmelidir.",
+    "en": "Short % of float. Data is delayed.",
+    "tr": "Açığa satışların halka açıklık %\\'si. Veriler gecikmelidir."
   },
   "viewQuoteStats_shortPercentShares": {
-    "en": "Short% Shares"
-    "tr": "Açığa satılan hisselerinin %\\'si.",
+    "en": "Short% Shares",
+    "tr": "Açığa satılan hisselerinin %\\'si."
   },
   "viewQuoteStats_shortPercentSharesHelp": {
-    "en": "Short % of outstanding shares. Data is delayed."
-    "tr": "Tedavüldeki hisselerin açığa satış %\\'si. Veriler gecikmelidir.",
+    "en": "Short % of outstanding shares. Data is delayed.",
+    "tr": "Tedavüldeki hisselerin açığa satış %\\'si. Veriler gecikmelidir."
   },
   "viewQuoteStats_shortRatio": {
-    "en": "Short Ratio"
-    "tr": "Açığa Satış Oranı",
+    "en": "Short Ratio",
+    "tr": "Açığa Satış Oranı"
   },
   "viewQuoteStats_shortRatioHelp": {
-    "en": "Short interest ratio, calculated by dividing number of shares short by average daily trading volume."
-    "tr": "Açığa Satış Oranı, açığa satılan hisse sayısının ortalama günlük işlem hacmine bölünmesiyle hesaplanır.",
+    "en": "Short interest ratio, calculated by dividing number of shares short by average daily trading volume.",
+    "tr": "Açığa Satış Oranı, açığa satılan hisse sayısının ortalama günlük işlem hacmine bölünmesiyle hesaplanır."
   },
   "viewQuoteStats_shortShares": {
-    "en": "Shares Short"
-    "tr": "Açığa satılan hisseler",
+    "en": "Shares Short",
+    "tr": "Açığa satılan hisseler"
   },
   "viewQuoteStats_shortSharesHelp": {
-    "en": "Shares short. Data is delayed."
-    "tr": "Açığa satılan hisseler. Veriler gecikmelidir.",
+    "en": "Shares short. Data is delayed.",
+    "tr": "Açığa satılan hisseler. Veriler gecikmelidir."
   },
   "viewQuoteStats_shortSharesPrevMonth": {
-    "en": "Prior Month"
-    "tr": "Önceki Ay",
+    "en": "Prior Month",
+    "tr": "Önceki Ay"
   },
   "viewQuoteStats_shortSharesPrevMonthHelp": {
-    "en": "Shares short (prior month). Data is delayed."
-    "tr": "Açığa satılan hisseller(Önceki ay).Veriler gecikmelidir.",
+    "en": "Shares short (prior month). Data is delayed.",
+    "tr": "Açığa satılan hisseller(Önceki ay).Veriler gecikmelidir."
   },
   "viewQuoteStats_pegRatio": {
     "en": "PEG Ratio",
