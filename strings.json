@@ -457,11 +457,13 @@
     "zh-Hant-TW": "點擊選單中新增到價通知或點擊這裡新增"
   },
   "alert_lessThan": {
+    "de": "weniger als",
     "en": "less than",
     "tr": "Daha az",
     "zh-Hant-TW": "低於"
   },
   "alert_moreThan": {
+    "de": "mehr als",
     "en": "more than",
     "tr": "Daha çok",
     "zh-Hant-TW": "高於"
@@ -912,6 +914,7 @@
     "zh-Hant-TW": "廣告"
   },
   "generic_add": {
+    "de": "Hinzufügen",
     "en": "Add",
     "fr": "Ajouter",
     "tr": "Ekle",
@@ -919,12 +922,14 @@
     "zh-Hant-TW": "新增"
   },
   "generic_addAlert": {
+    "de": "Alarm hinzufügen",
     "en": "Add Alert",
     "fr": "Ajouter une alerte",
     "tr": "Uyarı Ekle",
     "zh-Hant-TW": "到價通知"
   },
   "generic_additionalOptions": {
+    "de": "Zusätzliche Optionen",
     "en": "Additional Options",
     "tr": "İlave seçenekler",
     "zh-Hant-TW": "額外的選項"
@@ -936,6 +941,7 @@
     "zh-Hant-TW": "如要繼續，您需要同意隱私權政策與使用規範"
   },
   "generic_appLockHelp": {
+    "de": "Wenn Sie die App-Sperre aktivieren, werden Sie beim Start der App zur Eingabe eines Codes, Gesichtserkennung oder Entsperrmuster aufgefordert. Wenn Sie Ihren Code vergessen, müssen Sie die App neu installieren.",
     "en": "Enabling App Lock will prompt for a Passcode or Face ID/Touch ID when the app is launched. If you lose your Passcode, you will need to re-install the app.",
     "tr": "Uygulama Kilidi etkinleştirildiğinde, uygulama başlatıldığında Parola veya Face ID/Touch ID istenecektir. Parolanızı kaybederseniz, uygulamayı yeniden yüklemeniz gerekecektir."
   },
@@ -992,6 +998,7 @@
     "tr": "Hesaplanıyor"
   },
   "generic_cancel": {
+    "de": "Abbrechen",
     "en": "Cancel",
     "fr": "Annuler",
     "tr": "İptal",
@@ -1079,6 +1086,7 @@
     "zh-Hant-TW": "關閉"
   },
   "generic_displayLanguage": {
+    "de": "Anzeige der Sprache",
     "en": "Display Language",
     "tr": "Görüntüleme Dili",
     "zh-Hant-TW": "顯示語言"
@@ -1179,6 +1187,7 @@
     "zh-Hant-TW": "匯出中…"
   },
   "generic_exportCSV": {
+    "de": "Export CSV",
     "en": "Export CSV",
     "tr": "CSV olarak dışa aktar"
   },
@@ -1212,6 +1221,7 @@
     "zh-Hant-TW": "篩選"
   },
   "generic_fontSize": {
+    "de": "Schriftgröße",
     "en": "Font Size",
     "fr": "Taille de police",
     "tr": "Yazı Tipi Boyutu",
@@ -1226,6 +1236,7 @@
     "zh-Hant-TW": "從："
   },
   "generic_help": {
+    "de": "Hilfe",
     "en": "Help",
     "fr": "Aide",
     "tr": "Yardım",
@@ -1254,6 +1265,7 @@
     "zh-Hant-TW": "匯入中…"
   },
   "generic_importCSV": {
+    "de": "Import CSV",
     "en": "Import CSV",
     "tr": "CSV içe aktar"
   },
@@ -1262,11 +1274,13 @@
     "tr": "veriyi içe aktar"
   },
   "generic_language": {
+    "de": "Sprache",
     "en": "Language",
     "tr": "Dil",
     "zh-Hant-TW": "語言"
   },
   "generic_larger": {
+    "de": "größer",
     "en": "Larger",
     "fr": "Plein écran",
     "tr": "Daha büyük"
@@ -1281,6 +1295,7 @@
     "tr": "Yükleniyor…"
   },
   "generic_manageAlerts": {
+    "de": "Alarme erstellen",
     "en": "Manage Alerts",
     "fr": "Gérer les alertes",
     "tr": "Uyarıları Yönet",
@@ -1302,6 +1317,7 @@
     "zh-Hant-TW": "月"
   },
   "generic_name": {
+    "de": "Name",
     "en": "Name",
     "fr": "Nom",
     "tr": "Ad",
@@ -1375,6 +1391,7 @@
     "zh-Hant-TW": "沒有結果"
   },
   "generic_notesOptional": {
+    "de": "Anmerkungen (Optional)",
     "en": "Notes (Optional)",
     "tr": "Notlar (İsteğe bağlı)",
     "zh-Hant-TW": "備註（選填）"
@@ -1536,6 +1553,7 @@
     "zh-Hant-TW": "省下 %s"
   },
   "generic_security": {
+    "de": "Sicherheit",
     "en": "Security",
     "tr": "Güvenlik"
   },
@@ -1560,6 +1578,7 @@
     "tr": "Parola ayarla"
   },
   "generic_settings": {
+    "de": "Einstellungen",
     "en": "Settings",
     "fr": "Paramètres",
     "tr": "Ayarlar",
@@ -1587,6 +1606,7 @@
     "zh-Hant-TW": "登出"
   },
   "generic_sign_in": {
+    "de": "Einloggen",
     "en": "Sign In",
     "fr": "Se connecter",
     "tr": "Giriş Yap",
@@ -1603,6 +1623,7 @@
     "tr": "%s\\'den beri"
   },
   "generic_smaller": {
+    "de": "kleiner",
     "en": "Smaller",
     "fr": "Plus petit",
     "tr": "Daha küçük"
@@ -1618,11 +1639,13 @@
     "zh-Hant-TW": "已訂閱"
   },
   "generic_suggestTranslations": {
+    "de": "Übersetzungen vorschlagen",
     "en": "Suggest Translations",
     "tr": "Çeviri Önerileri",
     "zh-Hant-TW": "翻譯建議"
   },
   "generic_suggestTranslationsHelp": {
+    "de": "Wenn Sie Korrekturvorschläge oder Änderungen an Übersetzungen vornehmen möchten",
     "en": "If you\\'d like to make suggested fixes or changes with translations",
     "tr": "İsterseniz çevirilerle ilgili düzeltme veya değişiklik önerilerinde bulunabilirsiniz",
     "zh-Hant-TW": "如果你有翻譯建議"
@@ -1634,11 +1657,13 @@
     "zh-Hant-TW": "確定"
   },
   "generic_sync": {
+    "de": "Synkronisation",
     "en": "Sync",
     "tr": "Senkronizasyon",
     "zh-Hant-TW": "同步"
   },
   "generic_tapToEdit": {
+    "de": "Tippen zum bearbeiten",
     "en": "Tap to edit",
     "tr": "Değiştirmek için dokunun",
     "zh-Hant-TW": "點選編輯"
@@ -1945,6 +1970,7 @@
     "zh-Hant-TW": "篩選新聞來源"
   },
   "news_help": {
+    "de": "Für welche Sprachen möchten Sie die Nachrichten abrufen? Um neu anzuordnen, zwei Sekunden gedrückt halten und dann nach oben/unten ziehen.",
     "en": "Which categories do you want to retrieve news for? To re-order, press-hold for two seconds and then drag up/down.",
     "fr": "Pour quels catégories voulez-vous recevoir les actualités? Pour ordonner la liste, maintenez appuyé durant deux secondes et déplacer vers le haut ou le bas.",
     "tr": "Hangi kategoriler için haber almak istiyorsunuz? Yeniden sıralamak için iki saniye basılı tutun ve ardından yukarı/aşağı sürükleyin."
@@ -2107,6 +2133,7 @@
     "tr": "Aktivite"
   },
   "portfolio_addPortfolio": {
+    "de": "Portfolio hinzufügen",
     "en": "Add Portfolio",
     "fr": "Ajouter un portefeuille",
     "tr": "Portföy Ekle",
@@ -2222,6 +2249,7 @@
     "zh-Hant-TW": "執行長"
   },
   "portfolio_change": {
+    "de": "Veränderung",
     "en": "Change",
     "fr": "Variation",
     "tr": "Değişim",
@@ -2351,6 +2379,7 @@
     "zh-Hant-TW": "確定要刪除這些持股與所有的交易明細嗎?"
   },
   "portfolio_details": {
+    "de": "Details",
     "en": "Details",
     "fr": "Détails",
     "tr": "Detaylar",
@@ -2361,16 +2390,19 @@
     "tr": "Aktiviteyi görüntüle"
   },
   "portfolio_displayLocalCurrency": {
+    "de": "Lokale Währung anstelle der Heimatwährung anzeigen für:",
     "en": "Display local currency instead of home currency for:",
     "fr": "Afficher la devise du titre au lieu de la devise préférée pour :",
     "tr": "Ana para birimi yerine yerel para birimini görüntüle:"
   },
   "portfolio_displayLocalCurrencyForHoldings": {
+    "de": "Einzelbestände in diesem Portfolio: Beispielsweise werden GOOG- Bestände in USD und BNS.TO- Bestände in CAD angezeigt.",
     "en": "Individual holdings in this portfolio: For example, GOOG holdings will be shown in USD and BNS.TO holdings will be shown in CAD.",
     "fr": "Positions individuelles dans ce portefeuille : Par exemple, les positions GOOG seront indiquées en USD et celles de BNS.TO seront indiquées en dollars canadiens.",
     "tr": "Bu portföydeki bireysel varlıklar: Örneğin, GOOG varlıkları USD cinsinden ve BNS.TO varlıkları CAD cinsinden gösterilecektir."
   },
   "portfolio_displayLocalCurrencyForTotals": {
+    "de": "Gesamtbeträge in diesem Portfolio: Alle Notierungen in diesem Portfolio müssen die selbe Währung aufweisen. Die Gesamtsumme bezieht sich auf die Summen am oberen und unteren Rand der Anzeige.",
     "en": "Aggregate totals in this portfolio: All quotes in this portfolio must be the same currency. Aggregate totals refers to the totals at top and bottom of screen.",
     "fr": "Totaux agrégés dans ce portefeuille : Tous les cours dans ce portefeuille doivent avoir la même devise. Les totaux agrégés font référence aux totaux en haut et en bas de l\\'écran.",
     "tr": "Bu portföydeki toplamlar: Bu portföydeki tüm öneriler-varlıklar aynı para biriminde olmalıdır. Toplamlar, ekranın üst ve altındaki toplamları ifade eder."
@@ -2460,10 +2492,12 @@
     "tr": "MSP uygulaması tarafından oluşturuldu"
   },
   "portfolio_generatePortfolioReport": {
+    "de": "Portfoliobericht erstellen",
     "en": "Generate Portfolio Report",
     "tr": "Portföy Raporu Oluşturma"
   },
   "portfolio_generateReport": {
+    "de": "Bericht erstellen",
     "en": "Generate Report",
     "tr": "Rapor Oluştur"
   },
@@ -2476,30 +2510,37 @@
     "tr": "Herhangi bir portföy varlığınız yok. Lütfen bir portföy raporu oluşturmadan önce bazı işlemleri kaydedin."
   },
   "portfolio_generateReport_exportReport": {
+    "de": "Bericht speichern",
     "en": "Export Report",
     "tr": "Raporu Dışa Aktar"
   },
   "portfolio_generateReport_reportProvides": {
+    "de": "Der Bericht enthält",
     "en": "Report provides",
     "tr": "Raporun sağladıkları"
   },
   "portfolio_generateReport_overviewOfPortfolioPL": {
+    "de": "Überblick über das Portfolio",
     "en": "Overview of portfolio P&L",
     "tr": "Portföyün K&Z Durumu"
   },
   "portfolio_generateReport_performanceChart": {
+    "de": "Performance als Diagramm",
     "en": "Performance chart",
     "tr": "Performans grafiği"
   },
   "portfolio_generateReport_allocationPieChart": {
+    "de": "Aufteilung als Tortendiagramm",
     "en": "Allocation pie chart",
     "tr": "Paylaştırma pasta grafiği"
   },
   "portfolio_generateReport_portfolioPerformanceMetrics": {
+    "de": "Performance des Portfolios",
     "en": "Portfolio performance metrics",
     "tr": "Portföy performans ölçütleri"
   },
   "portfolio_generateReport_openHoldings": {
+    "de": "Offene Bestände",
     "en": "Open holdings",
     "tr": "Açık varlıklar"
   },
@@ -2512,6 +2553,7 @@
     "tr": "Açık varlıklar"
   },
   "portfolio_hideDetails": {
+    "de": "Details",
     "en": "Hide Details",
     "fr": "Details",
     "tr": "Detayları Gizle",
@@ -2537,11 +2579,13 @@
     "tr": "Varlıklarınız bu para biriminde görüntülenecek şekilde dönüştürülecektir. Not: geçmiş performans grafiği verileri silinecektir."
   },
   "portfolio_lastKnownDailyChange": {
+    "de": "Letzte bekannte tägliche Änderung",
     "en": "Last Known Daily Change",
     "fr": "Dernier cours connu",
     "tr": "Bilinen Son Günlük Değişim"
   },
   "portfolio_lastPrice": {
+    "de": "Letzer Preis",
     "en": "Last Price",
     "fr": "Cours",
     "tr": "Son Fiyat",
@@ -2606,14 +2650,16 @@
     "tr": "Yüzdelik Getirilerden Nakiti Çıkart"
   },
   "portfolio_omitCashFromTotals": {
+    "de": "Bargeld aus den Gesamtwerten herausnehmen",
     "en": "Omit cash from totals",
     "fr": "Omettre les liquidités des totaux",
     "tr": "Toplamlardan nakiti çıkart",
     "zh-Hant-TW": "總額不含現金"
   },
   "portfolio_omitCashFromTotalsHelp": {
+    "de": "Ihr Bargeld wird nicht im Gesamtwert Ihres Portfolios berücksichtigt",
     "en": "Your cash will not be reflected in your total portfolio value",
-    "fr": "Vos liquidités ne seront pas prises en compte dans la valeur totale du portefeuille.",
+    "fr": "Vos liquidités ne seront pas prises en compte dans la valeur totale du portefeuille",
     "tr": "Nakit paranız toplam portföy değerinize yansıtılmayacaktır"
   },
   "portfolio_openAndClosedPositions": {
@@ -2660,6 +2706,7 @@
     "tr": "Bu portföyün farklı para birimleri vardır, ancak bir ana para birimi ayarlanmamıştır, bu nedenle toplamlar hesaplanamaz. Para birimi ayarlarını yapmak için lütfen buraya dokunun."
   },
   "portfolio_portfolios": {
+    "de": "Portfolios",
     "en": "Portfolios",
     "fr": "Portefeuilles",
     "tr": "Portföyler",
@@ -2676,6 +2723,7 @@
     "tr": "Portföy Değeri"
   },
   "portfolio_quotes": {
+    "de": "Notierungen",
     "en": "Quotes",
     "fr": "Cours",
     "zh-Hant-TW": "觀察清單"
@@ -2778,6 +2826,7 @@
     "zh-Hant-TW": "%s (%s) x %s 股數"
   },
   "portfolio_showDetails": {
+    "de": "Details",
     "en": "Show Details",
     "fr": "Details",
     "tr": "Detayları Göster",
@@ -2880,6 +2929,7 @@
     "fr": "%d portefeuilles selectionnés"
   },
   "portfolio_sortPriceReverse": {
+    "de": "Preis (aufsteigend)",
     "en": "Price (Ascending)",
     "fr": "Prix (Décroissant)"
   },
@@ -2938,19 +2988,24 @@
     "fr": "Valeur (Décroissant)"
   },
   "portfolio_sortCondition": {
+    "de": "Art",
     "en": "Type",
     "zh-Hant-TW": "類別"
   },
   "portfolio_sortConditionReverse": {
-    "en": "Type (Reverse)"
+    "en": "Type (Reverse)",
+    "de": "Art(umgekehrte Reihenfolge)"
   },
   "portfolio_sortState": {
-    "en": "Triggered State"
+    "en": "Triggered State",
+    "de": "Auslösestatus"
   },
   "portfolio_sortStateReverse": {
-    "en": "Triggered State (Reverse)"
+    "en": "Triggered State (Reverse)",
+    "de": "Auslösestatus (umgekehrte Reihenfolge)"
   },
   "portfolio_sort_by": {
+    "de": "Sortieren nach…",
     "en": "Sort By…",
     "fr": "Trier par…"
   },
@@ -2959,6 +3014,7 @@
     "fr": "Synchronisation du courtage"
   },
   "portfolio_ticker": {
+    "de": "Bezeichnung",
     "en": "Ticker",
     "fr": "Symbole",
     "zh-Hant-TW": "代碼"
@@ -2968,6 +3024,7 @@
     "zh-Hant-TW": "漲跌榜（美國）"
   },
   "portfolio_total": {
+    "de": "Gesamt",
     "en": "Total",
     "fr": "Total",
     "tr": "Toplam",
@@ -3286,23 +3343,29 @@
     "zh-Hant-TW": "盤後,如果有的話"
   },
   "settingsCalculations_holdingDailyChangeUses": {
+    "de": "Tägliche Kursänderung des Bestands verwendet…",
     "en": "Holdings daily change uses…",
     "fr": "Les variations du jour sur les positions utilisent…"
   },
   "settingsCalculations_holdingsCalculatedUsing": {
+    "de": "Bestände berechnet nach…",
     "en": "Holdings calculated using…",
     "fr": "Positions calculées avec…"
   },
   "settingsCalculations_yearToDateBegins": {
+    "de": "Jahr-zu-Tag (YTD) beginnt am…",
     "en": "Year-to-Date (YTD) begins on…"
   },
   "settingsCalculations_omitCashFromPercentages": {
+    "de": "Bargeld aus den %-Renditen weglassen",
     "en": "Omit cash from % returns"
   },
   "settingsCalculations_omitCashFromPercentagesHelp": {
+    "de": "Barmittel werden bei der Berechnung der prozentualen Portfoliorenditen, wie z.B. der unrealisierten prozentualen Veränderung, nicht berücksichtigt",
     "en": "Cash will be omitted when calculating portfolio percentage returns, such as unrealized change percent"
   },
   "settingsCalculations_todayResetsAt": {
+    "de": "neue Tageszeit bei Verwendung von Heute-Berechnungen",
     "en": "New day time when using Today calculations"
   },
   "settingsDisplay_averagePricePerShare": {
@@ -3316,6 +3379,7 @@
     "fr": "Précision du prix moyen par action"
   },
   "settingsDisplay_daylightFontColor": {
+    "de": "Schriftfarbe \"Daylight\" (gelb)",
     "en": "Daylight font color",
     "fr": "Couleur de police de jour"
   },
@@ -3365,6 +3429,7 @@
     "zh-Hant-TW": "小數點8位"
   },
   "settingsDisplay_fontSizeHelp": {
+    "de": "Schriftgröße der Anwendung anpassen",
     "en": "Adjust application font size",
     "fr": "Ajuste la taille de la police dans l\\'application",
     "zh-Hant-TW": "調整應用程式字體大小"
@@ -3390,11 +3455,13 @@
     "en": "Inline shares and average price per share"
   },
   "settingsDisplay_invertFontColor": {
+    "de": "Invertieren der Schriftfarbe",
     "en": "Invert font color",
     "fr": "Inverser la couleur de la police",
     "zh-Hant-TW": "對調字體顏色"
   },
   "settingsDisplay_invertFontColorHelp": {
+    "de": "Invertiert die Fall und Anstiegs- Farben. Dadurch wird ein Preisrückgang in grün und ein Preisanstieg in rot angezeigt",
     "en": "Invert fall/rise colors. This will make a decrease in price appear in green and a rise in price appear in red.",
     "fr": "Inverser les couleurs des baisses/hausses. Cela fera apparaître les baisses de prix en vert et les hausses en rouge.",
     "zh-Hant-TW": "對調下降/上升顏色。漲會顯示紅色，跌會顯示綠色"
@@ -3416,18 +3483,22 @@
     "zh-Hant-TW": "第二行"
   },
   "settingsDisplay_extendedHours": {
+    "de": "außerbörslicher Handel",
     "en": "Extended hours",
     "zh-Hant-TW": "盤後"
   },
   "settingsDisplay_extendedHoursHelp": {
+    "de": "Anzeige des erweiterten Handels (wird als 3. Zeile angezeigt, wenn der Einzeilenmodus ausgeschaltet ist, wird in derselben Zeile angezeigt, wenn der Einzeilenmodus eingeschaltet ist)",
     "en": "Display extended trading (shows as 3rd line if single-line mode is off, shows on same line if single-line mode is on)"
   },
   "settingsDisplay_miniMode": {
+    "de": "Einzeilenmodus",
     "en": "Single-line mode",
     "fr": "Mini-mode",
     "zh-Hant-TW": "單行模式"
   },
   "settingsDisplay_miniModeWidgetHelp": {
+    "de": "Zeige eine Zeile pro Element im Einzelportfolio -Widget. Tippen Sie auf die Zelle, um zwischen absolutem und prozentualem Wert zu wechseln.",
     "en": "Show one line per item on the single portfolio widget. Tap the cell to toggle between absolute and percentage.",
     "fr": "Afficher uniquement une ligne par élément dans la liste du porte-feuille du widget. Tapez la dernière colonne d\\'une cellule pour basculer l\\'affichage."
   },
@@ -3450,11 +3521,13 @@
     "fr": "Précision du nombre d\\'actions"
   },
   "settingsDisplay_percentagesOnTop": {
+    "de": "Prozentsatz oben anzeigen",
     "en": "Percentages on top",
     "fr": "Pourcentages en haut",
     "zh-Hant-TW": "％在上面"
   },
   "settingsDisplay_percentagesOnTopHelp": {
+    "de": "Zeigt die prozentuale Veränderungen in der 1. Zeile an. Tippen Sie im Einzeilenmodus auf das Dreieck, um die Werte zwischen Prozent und Absolut zu wechseln",
     "en": "Show percentage changes on 1st line. When in single-line mode, tap the cell to switch between percentages and absolutes.",
     "fr": "Afficher le taux de variation sur la 1ère ligne"
   },
@@ -3478,6 +3551,7 @@
     "zh-Hant-TW": "報價代碼"
   },
   "settingsDisplay_showCurrencyOnQuotesTab": {
+    "de": "Zeige Währungssymbol auf der Registerkarte \"Notierungen\"",
     "en": "Show currency symbol on Quotes tab",
     "fr": "Affiche le symbole monétaire dans l\\'onglet Cours"
   },
@@ -3486,10 +3560,12 @@
     "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché."
   },
   "settingsDisplay_showThumbnails": {
+    "de": "Vorschaubilder anzeigen",
     "en": "Show Thumbnails",
     "zh-Hant-TW": "顯示縮圖"
   },
   "settingsDisplay_showThumbnailsSummary": {
+    "de": "Vorschaubilder in der Nachrichtenliste zeigen",
     "en": "Show preview thumbnail on news list",
     "zh-Hant-TW": "在新清單中顯示預覽縮圖"
   },
@@ -3526,6 +3602,7 @@
     "fr": "Afficher Prix moyen par action et Nombre d\\'actions sous chaque position"
   },
   "settingsDisplay_theme": {
+    "de": "Theme",
     "en": "Theme",
     "fr": "Thème",
     "tr": "Tema",
@@ -3555,12 +3632,14 @@
     "zh-Hant-TW": "系統"
   },
   "settingsDisplay_title": {
+    "de": "Anzeigeeinstellungen",
     "en": "Display",
     "fr": "Afficher",
     "tr": "Ekran",
     "zh-Hant-TW": "顯示"
   },
   "settingsGeneral_keepScreenAlive": {
+    "de": "Bildschirm am \"Leben\" erhalten",
     "en": "Keep screen alive",
     "tr": "Ekranı açık tut",
     "zh-Hant-TW": "永不鎖定螢幕"
@@ -3569,14 +3648,17 @@
     "en": "Prevent phone screen from sleeping while app is visible"
   },
   "settingsGeneral_openNewsExternalBrowser": {
+    "de": "Öffnen der News in einem externen Browser",
     "en": "Open news in external browser",
     "zh-Hant-TW": "開啟新聞於外部瀏覽器"
   },
   "settingsGeneral_showExitPrompt": {
+    "de": "Beim Verlassen bestätigen",
     "en": "Confirm when exiting",
     "tr": "Uygulamadan çıkarken onay iste"
   },
   "settingsGeneral_showExitPromptHelp": {
+    "de": "Zeigt vor dem Beenden des Startbildschirms der App eine Bestätigungsmeldung an.",
     "en": "Show a confirmation message before exiting the app while on the home screen"
   },
   "settingsWidget_singleLineMode": {
@@ -3586,6 +3668,7 @@
     "zh-Hant-TW": "單行模式"
   },
   "settingsWidget_size": {
+    "de": "Größe der Widget-Oberfläche",
     "en": "Widget UI size",
     "fr": "Taille de l\\'IHM du widget",
     "tr": "Widget Arayüz boyutu",
@@ -3609,6 +3692,7 @@
     "zh-Hant-TW": "App版本"
   },
   "settings_calculations": {
+    "de": "Berechnungen",
     "en": "Calculations",
     "fr": "Calculs",
     "tr": "Hesaplamalar",
@@ -3666,6 +3750,7 @@
     "tr": "Fiyat Uyarılarını CSV\\'den içe aktar"
   },
   "settings_general": {
+    "de": "Allgemeines",
     "en": "General",
     "fr": "Général",
     "tr": "Genel",
@@ -3747,6 +3832,7 @@
     "tr": "Hassasiyet"
   },
   "settings_premium": {
+    "de": "Premium",
     "en": "Premium",
     "fr": "Premium",
     "tr": "Premium"
@@ -3765,46 +3851,54 @@
     "zh-Hant-TW": "使用條款"
   },
   "settings_refreshInterval": {
+    "de": "Auto-Aktualisierung (bei geöffneter App)",
     "en": "Auto-refresh (when app is open)",
     "fr": "Rafraîchissement automatique (quand l\\'application est ouverte)",
     "tr": "Otomatik yenileme (uygulama açıkken)"
   },
   "settings_refreshIntervalManual": {
+    "de": "Manuell",
     "en": "Manual",
     "fr": "Manuellement",
     "tr": "Manuel"
   },
   "settings_refreshIntervalMinutes1": {
+    "de": "1 Minuten",
     "en": "1 minute",
     "fr": "1 minute",
     "tr": "1 dakika",
     "zh-Hant-TW": "一分鐘"
   },
   "settings_refreshIntervalMinutes2": {
+    "de": "2 Minuten",
     "en": "2 minutes",
     "fr": "2 minutes",
     "tr": "2 dakika",
     "zh-Hant-TW": "2分鐘"
   },
   "settings_refreshIntervalMinutes5": {
+    "de": "5 Minuten",
     "en": "5 minutes",
     "fr": "5 minutes",
     "tr": "5 dakika",
     "zh-Hant-TW": "5分鐘"
   },
   "settings_refreshIntervalSeconds10": {
+    "de": "10 Sekunden",
     "en": "10 seconds",
     "fr": "10 secondes",
     "tr": "10 saniye",
     "zh-Hant-TW": "10秒"
   },
   "settings_refreshIntervalSeconds30": {
+    "de": "30 Sekunden",
     "en": "30 seconds",
     "fr": "30 secondes",
     "tr": "30 saniye",
     "zh-Hant-TW": "30秒"
   },
   "settings_refreshIntervalSeconds5": {
+    "de": "5 Sekunden",
     "en": "5 seconds",
     "fr": "5 secondes",
     "tr": "5 saniye",
@@ -3884,6 +3978,7 @@
     "zh-Hant-TW": "預設畫面"
   },
   "settings_sync": {
+    "de": "Serversynchronisation",
     "en": "Server Sync",
     "fr": "Synchronisation avec le serveur",
     "tr": "Sunucu Senkronizasyonu",
@@ -3899,36 +3994,43 @@
     "tr": "Verileri sunucuya ve cihazlar arasında senkronize edin"
   },
   "settings_transparentTitleBar": {
+    "de": "Transparente Titelleiste",
     "en": "Transparent title bar",
     "fr": "Barre de titre transparente",
     "tr": "Şeffaf başlık çubuğu"
   },
   "settings_transparentTitleBarDescription": {
+    "de": "Erstellt eine transparente Titelleiste",
     "en": "Make the title bar transparent",
     "fr": "Rendre la barre de titre transparente",
     "tr": "Başlık çubuğunu şeffaflaştırır"
   },
   "settings_widget": {
+    "de": "Widget",
     "en": "Widget",
     "fr": "Widget",
     "tr": "Widget"
   },
   "settings_widgetHideColumnHeaders": {
+    "de": "Spaltenüberschriften ausblenden",
     "en": "Hide column headers",
     "fr": "Masquer les en-têtes des colonnes",
     "tr": "Sütun başlıklarını gizle"
   },
   "settings_widgetHideColumnHeadersDescription": {
+    "de": "Blendet die antippbaren Spaltenüberschriften zum Umschalten der Anzeigeart aus (z.B. täglich/Summe)",
     "en": "Hide the tappable column headers for switching display type (i.e. daily/total).",
     "fr": "Masquer les en-têtes cliquables des colonnes pour changer le type d\\'affichage (p.e. jour/total)",
     "tr": "Görüntüleme türünü değiştirmek için dokunulabilir sütun başlıklarını gizleyin (örn. günlük/toplam)."
   },
   "settings_widgetHideTitleBar": {
+    "de": "Titelleiste ausblenden",
     "en": "Hide title bar",
     "fr": "Masquer la barre de titre",
     "tr": "Başlık çubuğunu gizle"
   },
   "settings_widgetHideTitleBarDescription": {
+    "de": "Blendet die obere Titelzeile mit den Gesamtwerten aus",
     "en": "Hide the top title bar containing total numbers",
     "fr": "Masquer la barre de titre contenant le nombre total",
     "tr": "Toplam sayıları içeren üst başlık çubuğunu gizle"
@@ -3980,6 +4082,7 @@
     "zh-Hant-TW": "更多"
   },
   "tab_news": {
+    "de": "Nachrichten",
     "en": "News",
     "fr": "Actualités",
     "tr": "Haberler",
@@ -4363,6 +4466,7 @@
     "tr": "Veri Yok"
   },
   "viewQuote_price": {
+    "de": "Preis",
     "en": "Price",
     "fr": "Prix",
     "tr": "Fiyat"

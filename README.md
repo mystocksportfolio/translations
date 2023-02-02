@@ -16,7 +16,7 @@ Progress (862 strings):
 
 ![Progress](https://progress-bar.dev/62?title=fr&width=120) 532/862
 
-![Progress](https://progress-bar.dev/9?title=de&width=120) 74/862
+![Progress](https://progress-bar.dev/22?title=de&width=120) 186/862
 
 ![Progress](https://progress-bar.dev/2?title=zh&width=120) 20/862
 
