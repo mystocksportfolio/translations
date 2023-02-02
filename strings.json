@@ -1031,6 +1031,7 @@
     "zh-Hant-TW": "無法連結到伺服器，請檢查網路連線並再試一次"
   },
   "generic_confirmPasscode": {
+    "de": "Passcode bestätigen",
     "en": "Confirm Passcode",
     "tr": "Parolayı Onayla"
   },
@@ -1106,10 +1107,12 @@
     "zh-Hant-TW": "Email / 複製 & 貼上"
   },
   "generic_enableAppLock": {
+    "de": "App-Sperre aktivieren",
     "en": "Enable App Lock",
     "tr": "Uygulama Kilidini Etkinleştir"
   },
   "generic_enableFaceOrTouchID": {
+    "de": "Aktiviere Gesichtserkennung / Berührungsidentifikation",
     "en": "Enable Face ID/Touch ID",
     "tr": "Face ID/Touch ID\\'yi etkinleştirin"
   },
@@ -1124,6 +1127,7 @@
     "zh-Hant-TW": "輸入備註"
   },
   "generic_enterPasscode": {
+    "de": "Passcode eingeben",
     "en": "Enter Passcode",
     "tr": "Parolayı girin"
   },
@@ -1989,6 +1993,7 @@
     "zh-Hant-TW": "確認密碼"
   },
   "password_enable": {
+    "de": "Passwortschutz",
     "en": "Enable password protection",
     "fr": "Activer la protection par mot de passe",
     "tr": "Parola korumasını etkinleştir",
@@ -2047,12 +2052,14 @@
     "zh-Hant-TW": "顯示投資組合資訊於小工具上"
   },
   "password_showQuotesListOnWidget": {
+    "de": "Zeige Liste der Notierungen im Widget",
     "en": "Show quotes list on widget",
     "fr": "Afficher la liste des cours sur le widget",
     "tr": "Widget\\'ta öneriler listesini göster",
     "zh-Hant-TW": "顯示報價清單於小工具上"
   },
   "password_timeoutInSeconds": {
+    "de": "Zeitüberschreitung in Sekunden",
     "en": "Timeout in Seconds",
     "fr": "Délai d\\'attente en Secondes",
     "tr": "Saniye cinsinden zaman aşımı"
@@ -4455,6 +4462,7 @@
     "tr": "Senkronizasyon zaten devam ediyor."
   },
   "widget_transparency": {
+    "de": "Transparenz des Widgets",
     "en": "Widget Transparency",
     "fr": "Transparence des widgets",
     "tr": "Widget Şeffaflığı"
