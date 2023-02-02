@@ -85,7 +85,7 @@
   },
   "accounting_specificLotsHelp": {
     "en": "To use the \\'Specific Lots\\' execution type, please add the quote first and then go to the quote details page, transactions tab, and add the transaction from there so the app knows which lots can be used.",
-    "tr": "'\\Belirli Lotlar\\' uygulama türünü kullanmak için lütfen önce önerilere ekleyin ve ardından öneriler ayrıntıları sayfasına, işlemler sekmesine gidin ve işlemi buradan ekleyin, böylece uygulama hangi lotların kullanılabileceğini bilir."
+    "tr": "\\'Belirli Lotlar\\' uygulama türünü kullanmak için lütfen önce önerilere ekleyin ve ardından öneriler ayrıntıları sayfasına, işlemler sekmesine gidin ve işlemi buradan ekleyin, böylece uygulama hangi lotların kullanılabileceğini bilir."
   },
   "accounting_specificLotsDescription": {
     "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction.",
@@ -2602,6 +2602,12 @@
     "fr": "Actualités du marché",
     "tr": "Piyasa Haberleri",
     "zh-Hant-TW": "市場新聞"
+  },
+  "portfolio_movers_gainers": {
+    "en": "Gainers"
+  },
+  "portfolio_movers_losers": {
+    "en": "Losers"
   },
   "portfolio_moveToPortfolio": {
     "en": "Move/Copy to Portfolio",
