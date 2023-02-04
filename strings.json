@@ -3293,46 +3293,55 @@
   "settingsDisplay_decimalPlaces0": {
     "en": "0 decimal places",
     "fr": "0 décimales",
+    "tr": "0 ondalık hane",
     "zh-Hant-TW": "小數點0位"
   },
   "settingsDisplay_decimalPlaces1": {
     "en": "1 decimal place",
     "fr": "1 décimale",
+    "tr": "1 ondalık hane",
     "zh-Hant-TW": "小數點1位"
   },
   "settingsDisplay_decimalPlaces2": {
     "en": "2 decimal places",
     "fr": "2 décimales",
+    "tr": "2 ondalık hane",
     "zh-Hant-TW": "小數點2位"
   },
   "settingsDisplay_decimalPlaces3": {
     "en": "3 decimal places",
     "fr": "3 décimales",
+    "tr": "3 ondalık hane",
     "zh-Hant-TW": "小數點3位"
   },
   "settingsDisplay_decimalPlaces4": {
     "en": "4 decimal places",
     "fr": "4 décimales",
+    "tr": "4 ondalık hane",
     "zh-Hant-TW": "小數點4位"
   },
   "settingsDisplay_decimalPlaces5": {
     "en": "5 decimal places",
     "fr": "5 décimales",
+    "tr": "5 ondalık hane",
     "zh-Hant-TW": "小數點5位"
   },
   "settingsDisplay_decimalPlaces6": {
     "en": "6 decimal places",
     "fr": "6 décimales",
+    "tr": "6 ondalık hane",
     "zh-Hant-TW": "小數點6位"
   },
   "settingsDisplay_decimalPlaces7": {
     "en": "7 decimal places",
     "fr": "7 décimales",
+    "tr": "7 ondalık hane",
     "zh-Hant-TW": "小數點7位"
   },
   "settingsDisplay_decimalPlaces8": {
     "en": "8 decimal places",
     "fr": "8 décimales",
+    "tr": "8 ondalık hane",
     "zh-Hant-TW": "小數點8位"
   },
   "settingsDisplay_fontSizeHelp": {
@@ -3343,10 +3352,12 @@
   "settingsDisplay_inlineAllTimeAndRealized": {
     "en": "Inline all-time and realized returns",
     "fr": "Affichier les gains depuis toujours et réalisés"
+    "tr": "Tüm zamanlar ve gerçekleşen getiriler",
   },
   "settingsDisplay_inlineAllTimeAndRealizedHelp": {
     "en": "Show all-time and realized gains below each portfolio and holding",
     "fr": "Afficher les gains depuis toujours et réalisés sous chaque portefeuille et position"
+    "tr": "Her portföyün ve varlığın altında tüm zamanları ve gerçekleşen kazançları gösterir",
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtd": {
     "en": "Inline YTD realized returns"
@@ -3356,58 +3367,70 @@
   },
   "settingsDisplay_inlineSharesAndAveragePricePerShare": {
     "en": "Inline shares and average price per share"
+    "tr": "Sıralı hisseler ve hisse başına ortalama fiyat"
   },
   "settingsDisplay_invertFontColor": {
     "en": "Invert font color",
     "fr": "Inverser la couleur de la police",
+    "tr": "Yazı tipi rengini ters çevir",
     "zh-Hant-TW": "對調字體顏色"
   },
   "settingsDisplay_invertFontColorHelp": {
     "en": "Invert fall/rise colors. This will make a decrease in price appear in green and a rise in price appear in red.",
     "fr": "Inverser les couleurs des baisses/hausses. Cela fera apparaître les baisses de prix en vert et les hausses en rouge.",
+    "tr": "Düşüş/yükseliş renklerini ters çevirir. Bu, fiyattaki bir düşüşün yeşil, fiyattaki bir artışın ise kırmızı görünmesini sağlayacaktır.",
     "zh-Hant-TW": "對調下降/上升顏色。漲會顯示紅色，跌會顯示綠色"
   },
   "settingsDisplay_lastTradedPrice": {
     "en": "Last Open Market Price",
-    "tr": "Son Piyasa Açılış Fİyatı"
+    "tr": "Son Piyasa Açılış Fİyatı",
   },
   "settingsDisplay_line1": {
     "en": "1st Line",
     "fr": "1ère ligne",
+    "tr": "1. Satır",
     "zh-Hant-TW": "第一行"
   },
   "settingsDisplay_line2": {
     "en": "2nd Line",
     "fr": "2ème ligne",
+    "tr": "2. Satır",
     "zh-Hant-TW": "第二行"
   },
   "settingsDisplay_extendedHours": {
     "en": "Extended hours",
+    "tr": "Piyasa dışı saatler",
     "zh-Hant-TW": "盤後"
   },
   "settingsDisplay_extendedHoursHelp": {
     "en": "Display extended trading (shows as 3rd line if single-line mode is off, shows on same line if single-line mode is on)"
+    "tr": "Piyasa dışı işlemler (tek satır modu kapalıysa 3. satır olarak gösterilir, tek satır modu açıksa aynı satırda gösterilir)"
   },
   "settingsDisplay_miniMode": {
     "en": "Single-line mode",
     "fr": "Mini-mode",
+    "tr": "Tek satır modu",
     "zh-Hant-TW": "單行模式"
   },
   "settingsDisplay_miniModeWidgetHelp": {
     "en": "Show one line per item on the single portfolio widget. Tap the cell to toggle between absolute and percentage.",
     "fr": "Afficher uniquement une ligne par élément dans la liste du porte-feuille du widget. Tapez la dernière colonne d\\'une cellule pour basculer l\\'affichage."
+    "tr": "Tek portföy widget\\'inde öğe başına bir satır gösterin. Mutlak ve yüzde arasında geçiş yapmak için hücreye dokunun.",
   },
   "settingsDisplay_miniModeHoldingsHelp": {
     "en": "Show one line per holding. Tap the cell to toggle between absolute and percentage.",
     "fr": "Affiche uniquement une line sur l\\'onglet Positions. Taper la valeur de la variation pour basculer entre valeur et pourcentage."
+    "tr": "Varlık başına bir satır gösterin. Mutlak ve yüzde arasında geçiş yapmak için hücreye dokunun.",
   },
   "settingsDisplay_miniModeQuotesHelp": {
     "en": "Show one line per quote. Tap the cell to toggle between absolute and percentage.",
     "fr": "Affiche uniquement une line sur l\\'onglet Cours. Taper la valeur de la variation (dernière colonne) pour basculer entre valeur et pourcentage."
+    "tr": "Öneri başına bir satır gösterin. Mutlak ve yüzde arasında geçiş yapmak için hücreye dokunun.",
   },
   "settingsDisplay_numberOfShares": {
     "en": "Number of Shares",
     "fr": "Nombre d\\'actions",
+    "tr": "Hisselerin sayısı",
     "zh-Hant-TW": "股數"
   },
   "settingsDisplay_numberOfSharesPrecision": {
@@ -3417,75 +3440,92 @@
   "settingsDisplay_percentagesOnTop": {
     "en": "Percentages on top",
     "fr": "Pourcentages en haut",
+    "tr": "Yüzdeler üstte",
     "zh-Hant-TW": "％在上面"
   },
   "settingsDisplay_percentagesOnTopHelp": {
     "en": "Show percentage changes on 1st line. When in single-line mode, tap the cell to switch between percentages and absolutes.",
     "fr": "Afficher le taux de variation sur la 1ère ligne"
+    "tr": "Yüzde değişikliklerini 1. satırda gösterin. Tek satır modundayken, yüzdeler ve mutlak değerler arasında geçiş yapmak için hücreye dokunun.",
   },
   "settingsDisplay_quoteExchange": {
     "en": "Quote Exchange",
     "fr": "Cours du titre"
+    "tr": "Öneri Kuru",
   },
   "settingsDisplay_quoteExchangeQuoteName": {
     "en": "Quote Exchange, Quote Name",
     "fr": "Cours du titre, Nom du titre"
+    "tr": "Öneri Kuru, Öneri Adı",
   },
   "settingsDisplay_quoteName": {
     "en": "Quote Name",
     "fr": "Nom du titre",
+    "tr": "Öneri Adı",
     "zh-Hant-TW": "報價名稱"
   },
   "settingsDisplay_quoteSymbol": {
     "en": "Quote Symbol",
     "fr": "Symbole du titre",
+    "tr": "Öneri Sembolü",
     "zh-Hant-TW": "報價代碼"
   },
   "settingsDisplay_showCurrencyOnQuotesTab": {
     "en": "Show currency symbol on Quotes tab",
     "fr": "Affiche le symbole monétaire dans l\\'onglet Cours"
+    "tr": "Öneri sekmesinde para birimi Sembolünü göster",
   },
   "settingsDisplay_showCurrencyOnQuotesTabHelp": {
     "en": "For example, $10. If off, then 10 (without currency symbol) will be shown.",
     "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché."
+    "tr": "Örneğin, 10$. Kapalı ise, \"10\" (para birimi sembolü olmadan) gösterilecektir.",
   },
   "settingsDisplay_showThumbnails": {
     "en": "Show Thumbnails",
+    "tr": "Küçük resimleri göster",
     "zh-Hant-TW": "顯示縮圖"
   },
   "settingsDisplay_showThumbnailsSummary": {
     "en": "Show preview thumbnail on news list",
+    "tr": "Haber listesinde küçük resimlerin önizlemesini göster",
     "zh-Hant-TW": "在新清單中顯示預覽縮圖"
   },
   "settingsDisplay_showNotesHoldingsTab": {
     "en": "Show Quote notes below Holding",
+    "tr": "Öneri notlarını Varlıkların altında göster",
     "zh-Hant-TW": "在持股下方顯示備註"
   },
   "settingsDisplay_showNotesHoldingsTabHelp": {
     "en": "Display up to 5 lines of notes on the Holdings tab",
+    "tr": "Varlıklar sekmesinde 5 satıra kadar not görüntülenir",
     "zh-Hant-TW": "在持股頁籤上，最多顯示五行備註"
   },
   "settingsDisplay_showNotesQuoteTab": {
     "en": "Show notes below Quote",
     "fr": "Afficher les notes sous le cours",
+    "tr": "Notları önerilerin altında göster",
     "zh-Hant-TW": "在報價下方顯示備註"
   },
   "settingsDisplay_showNotesQuoteTabHelp": {
     "en": "Display up to 5 lines of notes on Quotes tab",
     "fr": "Afficher jusqu\\'à 5 lignes de notes dans l\\'onglet des cours",
+    "tr": "Öneriler sekmesinde 5 satıra kadar not görüntülenir",
     "zh-Hant-TW": "在報價頁籤上，最多顯示五行備註"
   },
   "settingsDisplay_showNotesTransactionsTab": {
     "en": "Show Transaction notes below Transaction",
+    "tr": "İşlem notlarını İşlemin altında göster",
     "zh-Hant-TW": "在交易明細下方顯示交易備註"
   },
   "settingsDisplay_showNotesTransactionsTabHelp": {
     "en": "Display up to 5 lines of notes on the Transactions tab",
+    "tr": "İşlemler sekmesinde 5 satıra kadar not görüntülenir",
     "zh-Hant-TW": "在交易明細頁籤上，最多顯示五行備註"
   },
   "settingsDisplay_showSharesAtAveragePricePerShare": {
     "en": "Show Avg Price Per Share and Number of Shares below each holding",
     "fr": "Afficher Prix moyen par action et Nombre d\\'actions sous chaque position"
+    "tr": "Her bir varlığın altında Hisse Başına Ortalama Fiyatı ve Hisse Sayısını göster",
   },
   "settingsDisplay_theme": {
     "en": "Theme",
@@ -3529,21 +3569,25 @@
   },
   "settingsGeneral_keepScreenAliveHelp": {
     "en": "Prevent phone screen from sleeping while app is visible"
+    "tr": "Uygulama görünür durumdayken telefon ekranının uyumasını önler"
   },
   "settingsGeneral_openNewsExternalBrowser": {
     "en": "Open news in external browser",
+    "tr": "Haberleri harici bir tarayıcıdan aç",
     "zh-Hant-TW": "開啟新聞於外部瀏覽器"
   },
   "settingsGeneral_showExitPrompt": {
     "en": "Confirm when exiting",
-    "tr": "Uygulamadan çıkarken onay iste"
+    "tr": "Uygulamadan çıkarken onay iste",
   },
   "settingsGeneral_showExitPromptHelp": {
     "en": "Show a confirmation message before exiting the app while on the home screen"
+    "tr": "Uygulamadan çıkmadan önce ana ekran sayfasında bir onay mesajı gösterir"
   },
   "settingsWidget_singleLineMode": {
     "en": "Single-line mode",
     "fr": "Mode ligne unique",
+    "tr": "Tek satırlı mod",
     "zh-Hant-TW": "單行模式"
   },
   "settingsWidget_size": {
@@ -3555,6 +3599,7 @@
   "settingsWidget_sizeHelp": {
     "en": "Adjust widget font and button size",
     "fr": "Ajuster la taille des polices et boutons du widget",
+    "tr": "Widget yazı tipini ve düğme boyutunu ayarla",
     "zh-Hant-TW": "調整小工具字體大小與按鈕大小"
   },
   "settings_about": {
@@ -3578,6 +3623,7 @@
   "settings_couldNotStartEmailApp": {
     "en": "Could not start email app. Have you set up email on your device?",
     "fr": "Impossible de lancer l\\'application email. Avez-vous configuré votre email sur votre appareil ?"
+    "tr": "E-posta uygulaması başlatılamadı. Cihazınızda e-posta kurulumu yaptınız mı?",
   },
   "settings_csv": {
     "en": "CSV",
@@ -3587,12 +3633,15 @@
   },
   "settings_csvExport": {
     "en": "Export as CSV"
+    "tr": "CSV olarak dışa aktar",
   },
   "settings_csvExportCustomPrices": {
     "en": "Export Custom Prices as CSV"
+    "tr": "Özel Fiyatları CSV olarak dışa aktar",
   },
   "settings_csvExportPortfolios": {
     "en": "Export Portfolios as CSV",
+    "tr": "Portföyleri CSV olarak dışa aktar",
     "zh-Hant-TW": "將投資組合匯出成CSV"
   },
   "settings_csvExportPortfoliosHelp": {
