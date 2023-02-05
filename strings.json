@@ -391,18 +391,22 @@
   "addQuote_howToPreview": {
     "en": "How To: Preview quote without adding to watchlist",
     "fr": "Comment faire : Prévisualiser la cotation sans ajout à la list de surveillance",
+    "tr": "Nasıl Yapılır: İzleme listesine eklemeden Öneriyi görüntüle",
     "zh-Hant-TW": "如何預覽卻不用加到觀察清單"
   },
   "addQuote_howToPreviewHelp": {
     "en": "After entering the symbol/ticker, a price preview should show up.\\n\\nClick on the price preview to view the quote without adding it to your portfolio.",
     "fr": "Après avoir saisi le nom du symbole, cliquez sur le clavier ou sélectionnez un symbole depuis la liste d\\'auto-complétion.\\n\\nSi une prévisualisation du prix the la cotation surgit sous le champ du symbole, vous pouvez cliquer dessus pour prévisualiser la cotation et les actualités sans l\\'ajouter à votre portefeuille."
+    "tr": "Sembolü/etiketi girdikten sonra bir fiyat önizlemesi görünecektir.\\n\\nPortföyünüze eklemeden fiyatı görüntülemek için fiyat önizlemesine tıklayın.",
   },
   "addQuote_howToAddCrypto": {
     "en": "How To: Tracking crypto",
+    "tr": "Nasıl Yapılır: Kripto takibi",
     "zh-Hant-TW": "如何追蹤加密貨幣"
   },
   "addQuote_howToAddCryptoHelp": {
     "en": "To track a crypto, enter the pair (i.e. BTC-USD). If you cannot find a pair, you may contact us at support@peeksoft.co to get it registered. Prices are aggregated across exchanges (Source: CoinGecko)."
+    "tr": "Bir kriptoyu takip etmek için eşleşme girin (örneğin BTC-USD). Bir eşleşme bulamazsanız kaydettirmek için support@peeksoft.co adresinden bizimle iletişime geçebilirsiniz. Fiyatlar borsalar arasında toplanmıştır (Kaynak: CoinGecko)."
   },
   "addQuote_symbol": {
     "en": "Symbol",
@@ -450,10 +454,11 @@
   "addQuote_typeUnlisted": {
     "en": "Unlisted",
     "fr": "Non listé",
-    "tr": "Listelenmeyen"
+    "tr": "Listelenmeyen",
   },
   "alert_alertPageEmptyHelp": {
     "en": "Add an alert by tapping Add Alert (Alert icon) in the menu, or by tapping here.",
+    "tr": "Menüdeki Uyarı Ekle (Uyarı simgesi) öğesine veya buraya dokunarak bir uyarı ekleyebilirsiniz.",
     "zh-Hant-TW": "點擊選單中新增到價通知或點擊這裡新增"
   },
   "alert_lessThan": {
@@ -760,7 +765,7 @@
     "zh-Hant-TW": "匯出並取代既有檔案"
   },
   "csvExport_externalStorageHelp": {
-       "en": "To export, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nYou can choose to export to SDCard or local storage (open the side menu in the file picker), or Google Drive. If you export to Google Drive, your file will be accessible from your computer at https://drive.google.com."
+     "en": "To export, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nYou can choose to export to SDCard or local storage (open the side menu in the file picker), or Google Drive. If you export to Google Drive, your file will be accessible from your computer at https://drive.google.com."
      "tr": "Dışa aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\n SDCard\\'a veya yerel depolama alanına (dosya seçicideki yan menüyü açın) ya da Google Drive\\'a aktarmayı seçebilirsiniz. Google Drive\\'a aktarırsanız, dosyanıza bilgisayarınızdan https://drive.google.com adresinden erişilebilir.",
   },
   "csvExport_externalStorageUploaded": {
@@ -841,6 +846,7 @@
   "csvImport_recognizedHeadersHelp": {
     "en": "Recognized CSV Headers:\\n\\nSymbol: Symbol name (i.e. BB)\\nPortfolio: Portfolio the quote belongs to\\nShares: Shares owned\\nType: Buy, Sell, Buy to Cover, Sell Short\\nPrice: Cost per share\\nCommission: Total commissions\\nDate: Date of transaction (YYYY-MM-DD GMT+HH:MM), i.e. 2017–05–25 GMT+01:00\\nNotes: Additional notes\\n\\nTo see a sample CSV, you can export a CSV from the app.\\n\\nThe Date format must be correct or the date will not be imported. If you are using Excel, you can customize the format of the generated dates. 2016–11–25 GMT-08:00 is a valid date, 11–25–2017 is not.",
     "zh-Hant-TW": "確認 CSV 標題:\\n\\n代碼: 代碼名稱 (例. BB)\\n組合: 股票屬於組合\\n股數: 擁有股數\\n類別: 買, 賣, 空單補回, 賣空\\n價格: 每股均價\\n手續費: 總手續費\\n日期: 成交日期 (YYYY-MM-DD GMT+HH:MM), 例. 2017–05–25 GMT+01:00\\n備註: 附註\\n\\n不知道CSV格式的話,你可以從app匯出CSV.\\n\\n日期格式一定要正確,否則該日期將不會被匯入.如果是使用Excel的話,可以客製化日期格式 2016–11–25 GMT-08:00 這個日期格式是可以的, 11–25–2017 則不行."
+    "tr": "Tanınan CSV Başlıkları:\\n\\nSembol: Sembol adı (örneğin BB)\\nPortföy: Önerilerin ait olduğu portföy\\nHisseler: Sahip olunan hisseler\\nTür: Al, Sat, Kapatmak için Al, Açığa Sat\\nFiyat: Hisse başı maliyet\\nKomisyon: Toplam komisyon\\nTarih: İşlem tarihi (YYY-MM-DD GMT+H:MM), örneğin 2017-05-25 GMT+01:00\\nNotlar: Ek notlar\\n\\nÖrnek bir CSV görmek için uygulamadan bir CSV dışa aktarabilirsiniz.\\n\\nTarih biçimi doğru olmalıdır, aksi takdirde tarih içe aktarılmayacaktır. Excel kullanıyorsanız oluşturulan tarihlerin biçimini özelleştirebilirsiniz. 2016-11-25 GMT-08:00 geçerli bir tarihtir, 11-25-2017 geçerli değildir.",
   },
   "csvImport_unableToDownload": {
     "en": "Unable to download CSV file",
@@ -985,7 +991,7 @@
   },
   "generic_calculating": {
     "en": "Calculating…",
-    "tr": "Hesaplanıyor"
+    "tr": "Hesaplanıyor…"
   },
   "generic_cancel": {
     "en": "Cancel",
@@ -1064,7 +1070,7 @@
   },
   "generic_disableWarningInSettings": {
     "en": "You can disable this warning in the settings section in the app, general settings",
-    "tr": "Bu uyarıyı uygulamadaki ayarlar bölümünden, genel ayarlardan devre dışı bırakabilirsiniz"
+    "tr": "Bu uyarıyı uygulamadaki ayarlar bölümü genel ayarlardan devre dışı bırakabilirsiniz"
   },
   "generic_dismiss": {
     "en": "Dismiss",
@@ -2214,7 +2220,7 @@
   "portfolio_costBasis": {
     "en": "Cost Basis",
     "fr": "Cout de base",
-    "tr": "Maliyet göre",
+    "tr": "Maliyete göre",
     "zh-Hant-TW": "投資成本"
   },
   "portfolio_costPerShare": {
