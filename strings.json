@@ -2034,7 +2034,7 @@
   "password_enableHelp": {
     "en": "Enabling password protection will prompt for a password when the app is launched. If you lose your password, you will need to re-install the app.\\n\\nSetting a password does not protect your data if your device is stolen. Google provides ways to remotely wipe your device: https://www.google.com/#q=android+remotely+wipe+phone",
     "fr": "L\\'activation de la protection par mot de passe nécessitera la saisie d\\'un mot de passe au lancement de l\\'application. Si vous perdez votre mot de passe, vous devrez réinstaller l\\'application.\\n\\nLa définition d\\'un mot de passe ne protège pas vos données si votre appareil est volé. Google propose des moyens d\\'effacer à distance votre appareil : https://www.google.com/#q=android+remotely+wipe+phone",
-    "tr": "Parola korumasını etkinleştirirseniz uygulama başlatıldığında bir parola isteyecektir. Şifrenizi kaybederseniz uygulamayı yeniden yüklemeniz gerekecektir.\\n\\nŞifre belirlemek, cihazınızın çalınması durumunda verilerinizi korumaz. Google, cihazınızı uzaktan silmenin yollarını sunar: https://www.google.com/#q=android+remotely+wipe+phone",
+    "tr": "Parola korumasını etkinleştirirseniz uygulama başlatıldığında bir parola isteyecektir. Şifrenizi kaybederseniz uygulamayı yeniden yüklemeniz gerekecektir.\\n\\nŞifre belirlemek, cihazınızın çalınması durumunda verilerinizi korumaz. Google, cihazınızı uzaktan silmenin yollarını sunar: https://www.google.com/#q=android+remotely+wipe+phone"
   },
   "password_enterPassword": {
     "en": "Enter Password",
@@ -2354,8 +2354,8 @@
   "portfolio_deleteHoldingsForQuoteFormatted": {
     "_formatted": false,
     "en": "Delete all Holdings for this Quote (%s)?",
-    "fr": "Supprimer toutes les positions pour ce cours (%s) ?"
-    "tr": "Bu öneri (%s) için tüm varlıklar silinsin mi ?",
+    "fr": "Supprimer toutes les positions pour ce cours (%s) ?",
+    "tr": "Bu öneri (%s) için tüm varlıklar silinsin mi ?"
   },
   "portfolio_deleteQuoteWarningFormatted": {
     "_formatted": false,
@@ -3061,7 +3061,7 @@
   },
   "portfolio_sortStateReverse": {
     "de": "Auslösestatus (umgekehrte Reihenfolge)",
-    "en": "Triggered State (Reverse)"
+    "en": "Triggered State (Reverse)",
     "tr": "Tetiklenen Durum (Ters)"
   },
   "portfolio_sort_by": {
@@ -4448,48 +4448,48 @@
     "tr": "Son işlem günündeki açılış fiyatı"
   },
   "viewQuoteStats_sharesHelp": {
-    "en": "Shares outstanding - the number of shares held by all shareholders, including institutional investors and restricted shares owned by the company."
-    "tr": "Tedavüldeki hisseler - kurumsal yatırımcılar ve şirketin sahip olduğu kısıtlı hisseler dahil olmak üzere tüm hissedarların sahip olduğu hisse sayısı.",
+    "en": "Shares outstanding - the number of shares held by all shareholders, including institutional investors and restricted shares owned by the company.",
+    "tr": "Tedavüldeki hisseler - kurumsal yatırımcılar ve şirketin sahip olduğu kısıtlı hisseler dahil olmak üzere tüm hissedarların sahip olduğu hisse sayısı."
   },
   "viewQuoteStats_shortPercentFloat": {
-    "en": "Short% Float"
-    "tr": "Açığa satış halka açıklık %\\'si",
+    "en": "Short% Float",
+    "tr": "Açığa satış halka açıklık %\\'si"
   },
   "viewQuoteStats_shortPercentFloatHelp": {
-    "en": "Short % of float. Data is delayed."
-    "tr": "Açığa satışların halka açıklık %\\'si. Veriler gecikmelidir.",
+    "en": "Short % of float. Data is delayed.",
+    "tr": "Açığa satışların halka açıklık %\\'si. Veriler gecikmelidir."
   },
   "viewQuoteStats_shortPercentShares": {
-    "en": "Short% Shares"
-    "tr": "Açığa satılan hisselerinin %\\'si.",
+    "en": "Short% Shares",
+    "tr": "Açığa satılan hisselerinin %\\'si."
   },
   "viewQuoteStats_shortPercentSharesHelp": {
-    "en": "Short % of outstanding shares. Data is delayed."
-    "tr": "Tedavüldeki hisselerin açığa satış %\\'si. Veriler gecikmelidir.",
+    "en": "Short % of outstanding shares. Data is delayed.",
+    "tr": "Tedavüldeki hisselerin açığa satış %\\'si. Veriler gecikmelidir."
   },
   "viewQuoteStats_shortRatio": {
-    "en": "Short Ratio"
-    "tr": "Açığa Satış Oranı",
+    "en": "Short Ratio",
+    "tr": "Açığa Satış Oranı"
   },
   "viewQuoteStats_shortRatioHelp": {
-    "en": "Short interest ratio, calculated by dividing number of shares short by average daily trading volume."
-    "tr": "Açığa Satış Oranı, açığa satılan hisse sayısının ortalama günlük işlem hacmine bölünmesiyle hesaplanır.",
+    "en": "Short interest ratio, calculated by dividing number of shares short by average daily trading volume.",
+    "tr": "Açığa Satış Oranı, açığa satılan hisse sayısının ortalama günlük işlem hacmine bölünmesiyle hesaplanır."
   },
   "viewQuoteStats_shortShares": {
-    "en": "Shares Short"
-    "tr": "Açığa satılan hisseler",
+    "en": "Shares Short",
+    "tr": "Açığa satılan hisseler"
   },
   "viewQuoteStats_shortSharesHelp": {
-    "en": "Shares short. Data is delayed."
-    "tr": "Açığa satılan hisseler. Veriler gecikmelidir.",
+    "en": "Shares short. Data is delayed.",
+    "tr": "Açığa satılan hisseler. Veriler gecikmelidir."
   },
   "viewQuoteStats_shortSharesPrevMonth": {
-    "en": "Prior Month"
-    "tr": "Önceki Ay",
+    "en": "Prior Month",
+    "tr": "Önceki Ay"
   },
   "viewQuoteStats_shortSharesPrevMonthHelp": {
-    "en": "Shares short (prior month). Data is delayed."
-    "tr": "Açığa satılan hisseller(Önceki ay).Veriler gecikmelidir.",
+    "en": "Shares short (prior month). Data is delayed.",
+    "tr": "Açığa satılan hisseller(Önceki ay).Veriler gecikmelidir."
   },
   "viewQuoteStats_pegRatio": {
     "en": "PEG Ratio",
