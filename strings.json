@@ -4272,13 +4272,13 @@
   },
   "viewQuoteStats_askHelp": {
     "en": "Ask price",
-    "fr": "Prix de l\\'offre"
-    "tr": "Alış Fiyatı",
+    "fr": "Prix de l\\'offre",
+    "tr": "Alış Fiyatı"
   },
   "viewQuoteStats_askSize": {
     "en": "Ask Size",
-    "fr": "Qté offre"
-    "tr": "Alış Miktarı",
+    "fr": "Qté offre",
+    "tr": "Alış Miktarı"
   },
   "viewQuoteStats_askSizeHelp": {
     "en": "Ask lot size",
@@ -4314,18 +4314,18 @@
   },
   "viewQuoteStats_bidSize": {
     "en": "Bid Size",
-    "fr": "Qté demande"
-    "tr": "Alış Miktarı",
+    "fr": "Qté demande",
+    "tr": "Alış Miktarı"
   },
   "viewQuoteStats_bidSizeHelp": {
     "en": "Bid lot size",
-    "fr": "Nombre d\\'actions à ce prix (demande)"
-    "tr": "Alış Lot sayısı",
+    "fr": "Nombre d\\'actions à ce prix (demande)",
+    "tr": "Alış Lot sayısı"
   },
   "viewQuoteStats_bid_price": {
     "en": "Bid price",
-    "fr": "Prix de la demande"
-    "tr": "Alış Fiyatı",
+    "fr": "Prix de la demande",
+    "tr": "Alış Fiyatı"
   },
   "viewQuoteStats_bookValue": {
     "en": "Book Value",
@@ -4333,26 +4333,26 @@
     "zh-Hant-TW": "賬面價值"
   },
   "viewQuoteStats_bookValueHelp": {
-    "en": "Total assets minus total liabilities. Reflects value shareholders would receive if company were to be liquidated."
-    "tr": "Toplam varlıklar - Toplam yükümlülükler. Şirketin tasfiye edilmesi durumunda hissedarların alacağı değeri yansıtır",
+    "en": "Total assets minus total liabilities. Reflects value shareholders would receive if company were to be liquidated.",
+    "tr": "Toplam varlıklar - Toplam yükümlülükler. Şirketin tasfiye edilmesi durumunda hissedarların alacağı değeri yansıtır"
   },
   "viewQuoteStats_dividendAndYield": {
     "en": "Div/Yld",
-    "fr": "Div/Rdt"
-    "tr": "YT/YTV",
+    "fr": "Div/Rdt",
+    "tr": "YT/YTV"
   },
   "viewQuoteStats_dividendAndYieldHelp": {
     "en": "Div = annual dividend. Yld = percent yield of annual dividend.",
-    "fr": "Dividende annuel et pourcentage de rendement"
-    "tr": "YT= Yıllık temettü. YTV= Yıllık Temettü Verimi",
+    "fr": "Dividende annuel et pourcentage de rendement",
+    "tr": "YT= Yıllık temettü. YTV= Yıllık Temettü Verimi"
   },
   "viewQuoteStats_dividendDate": {
     "en": "Div Date"
     "tr": "Temettü Tarihi",
   },
   "viewQuoteStats_dividendDateHelp": {
-    "en": "Date on which the scheduled dividend will be paid to investors."
-    "tr": "Planlanan temettünün yatırımcılara ödeneceği tarih.",
+    "en": "Date on which the scheduled dividend will be paid to investors.",
+    "tr": "Planlanan temettünün yatırımcılara ödeneceği tarih."
   },
   "viewQuoteStats_eps": {
     "en": "EPS",
@@ -4362,31 +4362,31 @@
   },
   "viewQuoteStats_epsHelp": {
     "en": "Net income over last 4 quarters divided by total outstanding shares",
-    "fr": "Résultat net sur les 4 derniers trimestres divisé par le nombre total d\\'actions en circulation"
-    "tr": "Son 4 çeyrekteki net gelirin toplam tedavüldeki hisselere bölünmesi",
+    "fr": "Résultat net sur les 4 derniers trimestres divisé par le nombre total d\\'actions en circulation",
+    "tr": "Son 4 çeyrekteki net gelirin toplam tedavüldeki hisselere bölünmesi"
   },
   "viewQuoteStats_exDividendDate": {
-    "en": "Ex Div"
-    "tr": "Önceki Temettü",
+    "en": "Ex Div",
+    "tr": "Önceki Temettü"
   },
   "viewQuoteStats_exDividendDateHelp": {
-    "en": "Date before which investors must own the stock in order to receive the next upcoming dividend. Typically stocks decline on the ex dividend date by the amount of dividend issued."
-    "tr": "Yatırımcıların bir sonraki temettüyü alabilmeleri için hisse senedine sahip olmaları gereken tarih. Tipik olarak hisse senetleri eski temettü tarihinde verilen temettü miktarı kadar düşer.",
+    "en": "Date before which investors must own the stock in order to receive the next upcoming dividend. Typically stocks decline on the ex dividend date by the amount of dividend issued.",
+    "tr": "Yatırımcıların bir sonraki temettüyü alabilmeleri için hisse senedine sahip olmaları gereken tarih. Tipik olarak hisse senetleri eski temettü tarihinde verilen temettü miktarı kadar düşer."
   },
   "viewQuoteStats_forwardEPS": {
     "en": "Fwd EPS",
-    "fr": "BPA prévu"
-    "tr": "HBK beklentisi",
+    "fr": "BPA prévu",
+    "tr": "HBK beklentisi"
   },
   "viewQuoteStats_forwardEPSHelp": {
     "en": "Predicted net income over upcoming 4 quarters divided by total outstanding shares",
-    "fr": "Revenu net prévu au cours des 4 prochains trimestres divisé par le nombre total d\\'actions en circulation"
-    "tr": "Önümüzdeki 4 çeyrek için öngörülen net gelirin toplam tedavüldeki hisselere bölünmesidir",
+    "fr": "Revenu net prévu au cours des 4 prochains trimestres divisé par le nombre total d\\'actions en circulation",
+    "tr": "Önümüzdeki 4 çeyrek için öngörülen net gelirin toplam tedavüldeki hisselere bölünmesidir"
   },
   "viewQuoteStats_forwardPERatio": {
     "en": "Fwd P/E",
-    "fr": "PER prévu"
-    "tr": "F/K Beklentisi",
+    "fr": "PER prévu",
+    "tr": "F/K Beklentisi"
   },
   "viewQuoteStats_forwardPERatioHelp": {
     "en": "Share price divided by predicted earnings per share",
