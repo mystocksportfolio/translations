@@ -4067,7 +4067,7 @@
   "settings_sendEmailDialog": {
     "en": "Send email…",
     "fr": "Envoyer un courriel…",
-    "tr": "E-posta gönder..."
+    "tr": "E-posta gönder…"
   },
   "settings_sendFeedback": {
     "de": "Rückmeldung senden",
@@ -4103,8 +4103,8 @@
   },
   "settings_showCurrencySymbolHelp": {
     "en": "For example, $10. If off, then 10 (without currency symbol) will be shown. This option is only used when a home currency is set.",
-    "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché. Cette option n\\'est utilisée que lorsqu\\'une devise préférée est définie."
-    "tr": "Örneğin, 10$. Kapalı ise 10 şeklinde (para birimi sembolü olmadan) gösterilecektir. Bu seçenek yalnızca bir ana para birimi ayarlandığında kullanılır.",
+    "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché. Cette option n\\'est utilisée que lorsqu\\'une devise préférée est définie.",
+    "tr": "Örneğin, 10$. Kapalı ise 10 şeklinde (para birimi sembolü olmadan) gösterilecektir. Bu seçenek yalnızca bir ana para birimi ayarlandığında kullanılır."
   },
   "settings_startingPortfolioScreenTab": {
     "de": "Startbildschirm für Registerkarte \"Portfolio\"",
@@ -4135,30 +4135,30 @@
   },
   "settings_syncPortfolioHelp": {
     "en": "Synchronize portfolio data to the server and between devices"
-    "tr": "Portföy verilerini sunucuya ve cihazlar arasında senkronize edin",
+    "tr": "Portföy verilerini sunucuya ve cihazlar arasında senkronize edin"
   },
   "settings_syncHelp": {
     "en": "Synchronize data to the server and between devices",
     "fr": "Synchronisation entre appareils"
-    "tr": "Verileri sunucuya ve cihazlar arasında senkronize edin",
+    "tr": "Verileri sunucuya ve cihazlar arasında senkronize edin"
   },
   "settings_transparentTitleBar": {
     "de": "Transparente Titelleiste",
     "en": "Transparent title bar",
     "fr": "Barre de titre transparente",
-    "tr": "Şeffaf başlık çubuğu",
+    "tr": "Şeffaf başlık çubuğu"
   },
   "settings_transparentTitleBarDescription": {
     "de": "Erstellt eine transparente Titelleiste",
     "en": "Make the title bar transparent",
     "fr": "Rendre la barre de titre transparente",
-    "tr": "Başlık çubuğunu şeffaflaştırır",
+    "tr": "Başlık çubuğunu şeffaflaştırır"
   },
   "settings_widget": {
     "de": "Widget",
     "en": "Widget",
     "fr": "Widget",
-    "tr": "Widget",
+    "tr": "Widget"
   },
   "settings_widgetHideColumnHeaders": {
     "de": "Spaltenüberschriften ausblenden",
@@ -4182,48 +4182,48 @@
     "de": "Blendet die obere Titelzeile mit den Gesamtwerten aus",
     "en": "Hide the top title bar containing total numbers",
     "fr": "Masquer la barre de titre contenant le nombre total",
-    "tr": "Toplam sayıları içeren üst başlık çubuğunu gizle",
+    "tr": "Toplam sayıları içeren üst başlık çubuğunu gizle"
   },
   "sync_completed": {
     "en": "Sync completed",
     "fr": "Synchronisation terminée",
-    "tr": "Senkronizasyon tamamlandı",
+    "tr": "Senkronizasyon tamamlandı"
   },
   "sync_errorPleaseTrySignOut": {
     "en": "Sync error. If the problem persists, try signing out of Google and signing back in.",
     "fr": "Erreur de synchronisation. Si le problème persiste, essayez de vous déconnecter de Google et de vous reconnecter.",
-    "tr": "Senkronizasyon hatası. Sorun devam ederse Google hesabından çıkış yapmayı ve tekrar giriş yapmayı deneyin.",
+    "tr": "Senkronizasyon hatası. Sorun devam ederse Google hesabından çıkış yapmayı ve tekrar giriş yapmayı deneyin."
   },
   "sync_help": {
     "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.\\n\\nTo see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export.",
     "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d\\'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\\n\\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.\\n\\nVous pouvez aussi utiliser l\\'approche d\\'import/export dans les réglages de l\\'application, sauvegarder, import/export.",
-    "tr": "Senkronizasyon telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.\\n\\nGoogle Drive, e-posta veya harici depolama gibi daha fazla yedekleme seçeneği görmek için uygulama ayarları, içe/dışa aktarma bölümünü ziyaret edebilirsiniz.",
+    "tr": "Senkronizasyon telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.\\n\\nGoogle Drive, e-posta veya harici depolama gibi daha fazla yedekleme seçeneği görmek için uygulama ayarları, içe/dışa aktarma bölümünü ziyaret edebilirsiniz."
   },
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
     "fr": "Synchronisation des portefeuilles…",
-    "tr": "Portföyler sunucu ile senkronize ediliyor...",
+    "tr": "Portföyler sunucu ile senkronize ediliyor..."
   },
   "sync_lastSynchronizedTimeFormatted": {
     "_formatted": false,
     "en": "Last Synchronized: %s",
     "fr": "Dernière synchronisation : %s",
-    "tr": "Son Senkronizasyon: %s",
+    "tr": "Son Senkronizasyon: %s"
   },
   "sync_lastChangeTimeFormatted": {
     "_formatted": false,
     "en": "Last Change: %s%s",
-    "tr": "Son değişiklik: %s%s",
+    "tr": "Son değişiklik: %s%s"
   },
   "sync_signInToBackupAndSynchronize": {
     "en": "Sign in to backup and synchronize Portfolio data between devices.",
     "fr": "Connectez-vous pour sauvegarder et synchroniser les données de Portfolio entre les appareils.",
-    "tr": "Portföy verilerini yedeklemek ve cihazlar arasında senkronize etmek için oturum açın.",
+    "tr": "Portföy verilerini yedeklemek ve cihazlar arasında senkronize etmek için oturum açın."
   },
   "sync_startSync": {
     "en": "Synchronize with Server",
     "fr": "Synchroniser avec le serveur",
-    "tr": "Sunucu ile senkronize et",
+    "tr": "Sunucu ile senkronize et"
   },
   "tab_more": {
     "en": "More",
@@ -4282,8 +4282,8 @@
   },
   "viewQuoteStats_askSizeHelp": {
     "en": "Ask lot size",
-    "fr": "Nombre d\\'actions à ce prix (offre)"
-    "tr": "Satış lot sayısı",
+    "fr": "Nombre d\\'actions à ce prix (offre)",
+    "tr": "Satış lot sayısı"
   },
   "viewQuoteStats_averageVolume": {
     "en": "Avg Vol (3m)",
@@ -4347,8 +4347,8 @@
     "tr": "YT= Yıllık temettü. YTV= Yıllık Temettü Verimi"
   },
   "viewQuoteStats_dividendDate": {
-    "en": "Div Date"
-    "tr": "Temettü Tarihi",
+    "en": "Div Date",
+    "tr": "Temettü Tarihi"
   },
   "viewQuoteStats_dividendDateHelp": {
     "en": "Date on which the scheduled dividend will be paid to investors.",
