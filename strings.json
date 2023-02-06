@@ -847,8 +847,8 @@
   },
   "csvImport_recognizedHeadersHelp": {
     "en": "Recognized CSV Headers:\\n\\nSymbol: Symbol name (i.e. BB)\\nPortfolio: Portfolio the quote belongs to\\nShares: Shares owned\\nType: Buy, Sell, Buy to Cover, Sell Short\\nPrice: Cost per share\\nCommission: Total commissions\\nDate: Date of transaction (YYYY-MM-DD GMT+HH:MM), i.e. 2017–05–25 GMT+01:00\\nNotes: Additional notes\\n\\nTo see a sample CSV, you can export a CSV from the app.\\n\\nThe Date format must be correct or the date will not be imported. If you are using Excel, you can customize the format of the generated dates. 2016–11–25 GMT-08:00 is a valid date, 11–25–2017 is not.",
-    "zh-Hant-TW": "確認 CSV 標題:\\n\\n代碼: 代碼名稱 (例. BB)\\n組合: 股票屬於組合\\n股數: 擁有股數\\n類別: 買, 賣, 空單補回, 賣空\\n價格: 每股均價\\n手續費: 總手續費\\n日期: 成交日期 (YYYY-MM-DD GMT+HH:MM), 例. 2017–05–25 GMT+01:00\\n備註: 附註\\n\\n不知道CSV格式的話,你可以從app匯出CSV.\\n\\n日期格式一定要正確,否則該日期將不會被匯入.如果是使用Excel的話,可以客製化日期格式 2016–11–25 GMT-08:00 這個日期格式是可以的, 11–25–2017 則不行.",
-    "tr": "Tanınan CSV Başlıkları:\\n\\nSembol: Sembol adı (örneğin BB)\\nPortföy: Önerilerin ait olduğu portföy\\nHisseler: Sahip olunan hisseler\\nTür: Al, Sat, Kapatmak için Al, Açığa Sat\\nFiyat: Hisse başı maliyet\\nKomisyon: Toplam komisyon\\nTarih: İşlem tarihi (YYY-MM-DD GMT+H:MM), örneğin 2017-05-25 GMT+01:00\\nNotlar: Ek notlar\\n\\nÖrnek bir CSV görmek için uygulamadan bir CSV dışa aktarabilirsiniz.\\n\\nTarih biçimi doğru olmalıdır, aksi takdirde tarih içe aktarılmayacaktır. Excel kullanıyorsanız oluşturulan tarihlerin biçimini özelleştirebilirsiniz. 2016-11-25 GMT-08:00 geçerli bir tarihtir, 11-25-2017 geçerli değildir."
+    "tr": "Tanınan CSV Başlıkları:\\n\\nSembol: Sembol adı (örneğin BB)\\nPortföy: Önerilerin ait olduğu portföy\\nHisseler: Sahip olunan hisseler\\nTür: Al, Sat, Kapatmak için Al, Açığa Sat\\nFiyat: Hisse başı maliyet\\nKomisyon: Toplam komisyon\\nTarih: İşlem tarihi (YYY–MM–DD GMT+H:MM), örneğin 2017–05–25 GMT+01:00\\nNotlar: Ek notlar\\n\\nÖrnek bir CSV görmek için uygulamadan bir CSV dışa aktarabilirsiniz.\\n\\nTarih biçimi doğru olmalıdır, aksi takdirde tarih içe aktarılmayacaktır. Excel kullanıyorsanız oluşturulan tarihlerin biçimini özelleştirebilirsiniz. 2016–11–25 GMT–08:00 geçerli bir tarihtir, 11–25–2017 geçerli değildir.",
+    "zh-Hant-TW": "確認 CSV 標題:\\n\\n代碼: 代碼名稱 (例. BB)\\n組合: 股票屬於組合\\n股數: 擁有股數\\n類別: 買, 賣, 空單補回, 賣空\\n價格: 每股均價\\n手續費: 總手續費\\n日期: 成交日期 (YYYY-MM-DD GMT+HH:MM), 例. 2017–05–25 GMT+01:00\\n備註: 附註\\n\\n不知道CSV格式的話,你可以從app匯出CSV.\\n\\n日期格式一定要正確,否則該日期將不會被匯入.如果是使用Excel的話,可以客製化日期格式 2016–11–25 GMT-08:00 這個日期格式是可以的, 11–25–2017 則不行."
   },
   "csvImport_unableToDownload": {
     "en": "Unable to download CSV file",
@@ -1813,7 +1813,7 @@
   "help_dontSeeMyAnswer": {
     "en": "I don\\'t see my answer…",
     "fr": "Je ne vois pas ma réponse…",
-    "tr": "Cevabımı göremiyorum...",
+    "tr": "Cevabımı göremiyorum…",
     "zh-Hant-TW": "我沒有找到答案…"
   },
   "help_howCanWeHelp": {
@@ -2624,7 +2624,7 @@
   "portfolio_movingToPortfolio": {
     "en": "Moving to portfolio…",
     "fr": "Déplacement vers le portefeuille…",
-    "tr": "Portföye taşınıyor...",
+    "tr": "Portföye taşınıyor…",
     "zh-Hant-TW": "移動至投資組合中…"
   },
   "portfolio_multipleCurrenciesNoHomeCurrency": {
@@ -3307,7 +3307,7 @@
   "purchases_restoringPurchases": {
     "en": "Restoring Purchases…",
     "fr": "Restoration des achats…",
-    "tr": "Satın Almalar Geri Yükleniyor...",
+    "tr": "Satın Almalar Geri Yükleniyor…",
     "zh-Hant-TW": "重新安裝中…"
   },
   "purchases_restorePurchasesHelp": {
@@ -3437,7 +3437,7 @@
     "de": "Tägliche Kursänderung des Bestands verwendet…",
     "en": "Holdings daily change uses…",
     "fr": "Les variations du jour sur les positions utilisent…",
-    "tr": "Varlıkların günlük değişimlerini kullan..."
+    "tr": "Varlıkların günlük değişimlerini kullan…"
   },
   "settingsCalculations_holdingsCalculatedUsing": {
     "de": "Bestände berechnet nach…",
@@ -4202,7 +4202,7 @@
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
     "fr": "Synchronisation des portefeuilles…",
-    "tr": "Portföyler sunucu ile senkronize ediliyor..."
+    "tr": "Portföyler sunucu ile senkronize ediliyor…"
   },
   "sync_lastSynchronizedTimeFormatted": {
     "_formatted": false,
