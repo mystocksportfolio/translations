@@ -3915,16 +3915,16 @@
   "settings_hideClosedPositions": {
     "en": "Hide closed positions",
     "fr": "Masquer les positions fermées",
-    "tr": "Kapatılmış posizyonları gizle",
+    "tr": "Kapatılmış posizyonları gizle"
   },
   "settings_hideClosedPositionsSummary": {
     "en": "Holdings with 0 shares remaining will be hidden on the Holdings view",
-    "fr": "Les positions avec 0 actions restantes seront masquées dans la vue des positions"
-    "tr": "Hisse sayısı 0 olursa varlıklar bölümünde gizlenecektir",
+    "fr": "Les positions avec 0 actions restantes seront masquées dans la vue des positions",
+    "tr": "Hisse sayısı 0 olursa varlıklar bölümünde gizlenecektir"
   },
   "settings_hideClosedQuotes": {
-    "en": "Hide closed quotes"
-    "tr": "Kapatılmış önerileri gizle",
+    "en": "Hide closed quotes",
+    "tr": "Kapatılmış önerileri gizle"
   },
   "settings_holdingsIfAny": {
     "en": "Holdings (if any)",
@@ -3948,16 +3948,16 @@
     "fr": "Importer/Exporter and synchronizer les données"
   },
   "settings_importExportCustomPrices": {
-    "en": "Import / Export Custom Prices"
-    "tr": "Özel fiyatları İçe/Dışa Aktar",
+    "en": "Import / Export Custom Prices",
+    "tr": "Özel fiyatları İçe/Dışa Aktar"
   },
   "settings_importExportPortfolioData": {
-    "en": "Import / Export Portfolio Data"
-    "tr": "Portföy verisini İçe/Dışa Aktar",
+    "en": "Import / Export Portfolio Data",
+    "tr": "Portföy verisini İçe/Dışa Aktar"
   },
   "settings_importExportPriceAlerts": {
-    "en": "Import / Export Price Alerts"
-    "tr": "Fiyat uyarılarını İçe/Dışa Aktar",
+    "en": "Import / Export Price Alerts",
+    "tr": "Fiyat uyarılarını İçe/Dışa Aktar"
   },
   "settings_lastSelectedPortfolio": {
     "en": "Last Selected Portfolio",
@@ -3968,23 +3968,23 @@
   "settings_openPlayStore": {
     "en": "Open Play Store",
     "fr": "Ouvrir Google Play Store",
-    "tr": "Play Store\\'yi aç",
+    "tr": "Play Store\\'yi aç"
   },
   "settings_preferredPrecision": {
-    "en": "Min precision (Auto increases)"
-    "tr": "Min Hassasiyet ( Otomatik)",
+    "en": "Min precision (Auto increases)",
+    "tr": "Min Hassasiyet ( Otomatik)"
   },
   "settings_precision": {
     "de": "Genauigkeit",
     "en": "Precision",
     "fr": "Précision",
-    "tr": "Hassasiyet",    
+    "tr": "Hassasiyet"
   },
   "settings_premium": {
     "de": "Premium",
     "en": "Premium",
     "fr": "Premium",
-    "tr": "Premium",
+    "tr": "Premium"
   },
   "settings_privacyPolicy": {
     "de": "Datenschutz",
@@ -4003,13 +4003,13 @@
     "de": "Auto-Aktualisierung (bei geöffneter App)",
     "en": "Auto-refresh (when app is open)",
     "fr": "Rafraîchissement automatique (quand l\\'application est ouverte)",
-    "tr": "Otomatik yenileme (uygulama açıkken)",
+    "tr": "Otomatik yenileme (uygulama açıkken)"
   },
   "settings_refreshIntervalManual": {
     "de": "Manuell",
     "en": "Manual",
     "fr": "Manuellement",
-    "tr": "Manuel",
+    "tr": "Manuel"
   },
   "settings_refreshIntervalMinutes1": {
     "de": "1 Minuten",
@@ -4134,12 +4134,12 @@
     "zh-Hant-TW": "伺服器同步"
   },
   "settings_syncPortfolioHelp": {
-    "en": "Synchronize portfolio data to the server and between devices"
+    "en": "Synchronize portfolio data to the server and between devices",
     "tr": "Portföy verilerini sunucuya ve cihazlar arasında senkronize edin"
   },
   "settings_syncHelp": {
     "en": "Synchronize data to the server and between devices",
-    "fr": "Synchronisation entre appareils"
+    "fr": "Synchronisation entre appareils",
     "tr": "Verileri sunucuya ve cihazlar arasında senkronize edin"
   },
   "settings_transparentTitleBar": {
