@@ -885,7 +885,7 @@
   },
   "faq_paidAlreadyAnswer": {
     "en": "Please make sure you are logged into the account used to make the purchase and click \\'Restore Purchases\\'. If you can\\'t restore the purchase, please reach out to us via support.",
-    "tr": "Lütfen satın alma işleminde kullanılan hesapta oturum açtığınızdan emin olun ve \\'Satın Almaları Geri Yükle\\' seçeneğine tıklayın. Satın alma işlemini geri yükleyemiyorsanız lütfen destek aracılığıyla bize ulaşın.?",
+    "tr": "Lütfen satın alma işleminde kullanılan hesapta oturum açtığınızdan emin olun ve \\'Satın Almaları Geri Yükle\\' seçeneğine tıklayın. Satın alma işlemini geri yükleyemiyorsanız lütfen destek aracılığıyla bize ulaşın.?"
   },
   "faq_whySubscriptionFee": {
     "en": "Why is there a subscription fee?",
@@ -2033,7 +2033,7 @@
   },
   "password_enableHelp": {
     "en": "Enabling password protection will prompt for a password when the app is launched. If you lose your password, you will need to re-install the app.\\n\\nSetting a password does not protect your data if your device is stolen. Google provides ways to remotely wipe your device: https://www.google.com/#q=android+remotely+wipe+phone",
-    "fr": "L\\'activation de la protection par mot de passe nécessitera la saisie d\\'un mot de passe au lancement de l\\'application. Si vous perdez votre mot de passe, vous devrez réinstaller l\\'application.\\n\\nLa définition d\\'un mot de passe ne protège pas vos données si votre appareil est volé. Google propose des moyens d\\'effacer à distance votre appareil : https://www.google.com/#q=android+remotely+wipe+phone"
+    "fr": "L\\'activation de la protection par mot de passe nécessitera la saisie d\\'un mot de passe au lancement de l\\'application. Si vous perdez votre mot de passe, vous devrez réinstaller l\\'application.\\n\\nLa définition d\\'un mot de passe ne protège pas vos données si votre appareil est volé. Google propose des moyens d\\'effacer à distance votre appareil : https://www.google.com/#q=android+remotely+wipe+phone",
     "tr": "Parola korumasını etkinleştirirseniz uygulama başlatıldığında bir parola isteyecektir. Şifrenizi kaybederseniz uygulamayı yeniden yüklemeniz gerekecektir.\\n\\nŞifre belirlemek, cihazınızın çalınması durumunda verilerinizi korumaz. Google, cihazınızı uzaktan silmenin yollarını sunar: https://www.google.com/#q=android+remotely+wipe+phone",
   },
   "password_enterPassword": {
@@ -2345,11 +2345,11 @@
   },
   "portfolio_deleteAccountMessage": {
     "en": "Are you sure you want to delete your account and all portfolio data stored in the cloud? There is no way to undo this operation.",
-    "tr": "Hesabınızı ve bulutta depolanan tüm portföy verilerini silmek istediğinizden emin misiniz? Bu işlemi geri almanın bir yolu yoktur.",
+    "tr": "Hesabınızı ve bulutta depolanan tüm portföy verilerini silmek istediğinizden emin misiniz? Bu işlemi geri almanın bir yolu yoktur."
   },
   "portfolio_deleteFromServerDisclaimer": {
     "en": "If you are signed in, this will delete it from the server and your other devices when they sync.",
-    "tr": "Oturum açtıysanız, bu işlem senkronize edildiklerinde sunucudan ve diğer cihazlarınızdan silinecektir.",
+    "tr": "Oturum açtıysanız, bu işlem senkronize edildiklerinde sunucudan ve diğer cihazlarınızdan silinecektir."
   },
   "portfolio_deleteHoldingsForQuoteFormatted": {
     "_formatted": false,
@@ -2366,8 +2366,8 @@
   "portfolio_deleteQuoteWarningWithTransactionsFormatted": {
     "_formatted": false,
     "en": "Are you sure you want to delete this Quote (%s) and all its Holdings in this portfolio?",
-    "fr": "Supprimer un cours (%s) supprimera également toutes les positions associées dans le portefeuille. Continuer ?"
-    "tr": "Bu öneriyi (%s) ve bu portföye ait tüm varlıkları silmek istediğinize emin misiniz?",
+    "fr": "Supprimer un cours (%s) supprimera également toutes les positions associées dans le portefeuille. Continuer ?",
+    "tr": "Bu öneriyi (%s) ve bu portföye ait tüm varlıkları silmek istediğinize emin misiniz?"
   },
   "portfolio_deleteSelectedPortfoliosWarning": {
     "en": "Are you sure you want to delete these Portfolios and all Quotes in them?",
@@ -2398,20 +2398,20 @@
   "portfolio_displayLocalCurrency": {
     "de": "Lokale Währung anstelle der Heimatwährung anzeigen für:",
     "en": "Display local currency instead of home currency for:",
-    "fr": "Afficher la devise du titre au lieu de la devise préférée pour :"
-    "tr": "Ana para birimi yerine yerel para birimini görüntüle:",
+    "fr": "Afficher la devise du titre au lieu de la devise préférée pour :",
+    "tr": "Ana para birimi yerine yerel para birimini görüntüle:"
   },
   "portfolio_displayLocalCurrencyForHoldings": {
     "de": "Einzelbestände in diesem Portfolio: Beispielsweise werden GOOG- Bestände in USD und BNS.TO- Bestände in CAD angezeigt.",
     "en": "Individual holdings in this portfolio: For example, GOOG holdings will be shown in USD and BNS.TO holdings will be shown in CAD.",
-    "fr": "Positions individuelles dans ce portefeuille : Par exemple, les positions GOOG seront indiquées en USD et celles de BNS.TO seront indiquées en dollars canadiens."
-    "tr": "Bu portföydeki bireysel varlıklar: Örneğin, GOOG varlıkları USD cinsinden ve BNS.TO varlıkları CAD cinsinden gösterilecektir.",
+    "fr": "Positions individuelles dans ce portefeuille : Par exemple, les positions GOOG seront indiquées en USD et celles de BNS.TO seront indiquées en dollars canadiens.",
+    "tr": "Bu portföydeki bireysel varlıklar: Örneğin, GOOG varlıkları USD cinsinden ve BNS.TO varlıkları CAD cinsinden gösterilecektir."
   },
   "portfolio_displayLocalCurrencyForTotals": {
     "de": "Gesamtbeträge in diesem Portfolio: Alle Notierungen in diesem Portfolio müssen die selbe Währung aufweisen. Die Gesamtsumme bezieht sich auf die Summen am oberen und unteren Rand der Anzeige.",
     "en": "Aggregate totals in this portfolio: All quotes in this portfolio must be the same currency. Aggregate totals refers to the totals at top and bottom of screen.",
-    "fr": "Totaux agrégés dans ce portefeuille : Tous les cours dans ce portefeuille doivent avoir la même devise. Les totaux agrégés font référence aux totaux en haut et en bas de l\\'écran."
-    "tr": "Bu portföydeki toplamlar: Bu portföydeki tüm öneriler-varlıklar aynı para biriminde olmalıdır. Toplamlar, ekranın üst ve altındaki toplamları ifade eder.",
+    "fr": "Totaux agrégés dans ce portefeuille : Tous les cours dans ce portefeuille doivent avoir la même devise. Les totaux agrégés font référence aux totaux en haut et en bas de l\\'écran.",
+    "tr": "Bu portföydeki toplamlar: Bu portföydeki tüm öneriler-varlıklar aynı para biriminde olmalıdır. Toplamlar, ekranın üst ve altındaki toplamları ifade eder."
   },
   "portfolio_dividends": {
     "en": "Dividends",
@@ -2444,8 +2444,8 @@
     "fr": "Dividendes faisant partie d\\'un régime de réinvestissement des dividendes (RRD). Vous n\\'avez pas besoin d\\'ajouter une transaction séparée pour la conversion des dividendes en espèces. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs."
   },
   "portfolio_doNotAddToTotals": {
-    "en": "Don\\'t add to totals on Portfolios Overview screen"
-    "tr": "Portföy genel görünümünde toplamlar eklenmesin",
+    "en": "Don\\'t add to totals on Portfolios Overview screen",
+    "tr": "Portföy genel görünümünde toplamlar eklenmesin"
   },
   "portfolio_editHolding": {
     "en": "Edit Holding",
@@ -2994,7 +2994,7 @@
     "de": "Symbole",
     "en": "Symbols",
     "fr": "Symbole",
-    "tr": "Semboller",
+    "tr": "Semboller"
   },
   "portfolio_sortSymbolsReverse": {
     "de": "Symbole (absteigend)",
@@ -3050,14 +3050,17 @@
     "zh-Hant-TW": "類別"
   },
   "portfolio_sortConditionReverse": {
-    "en": "Type (Reverse)"
+    "de": "Art(umgekehrte Reihenfolge)",
+    "en": "Type (Reverse)",
     "tr": "Tip (Ters)"
   },
   "portfolio_sortState": {
-    "en": "Triggered State"
+    "de": "Auslösestatus",
+    "en": "Triggered State",
     "tr": "Tetiklenen Durum"
   },
   "portfolio_sortStateReverse": {
+    "de": "Auslösestatus (umgekehrte Reihenfolge)",
     "en": "Triggered State (Reverse)"
     "tr": "Tetiklenen Durum (Ters)"
   },
@@ -3579,7 +3582,7 @@
   },
   "settingsDisplay_lastTradedPrice": {
     "en": "Last Open Market Price",
-    "tr": "Son Piyasa Açılış Fİyatı",
+    "tr": "Son Piyasa Açılış Fİyatı"
   },
   "settingsDisplay_line1": {
     "de": "1. Zeile",
