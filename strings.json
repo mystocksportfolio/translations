@@ -2949,6 +2949,7 @@
   "portfolio_sortDragHandleAccessibility": {
     "en": "Drag Handle",
     "fr": "Faites glisser la poignée"
+    "tr": "Sürükleme Kolu",
   },
   "portfolio_sortHoldingSelectedFormatted": {
     "_formatted": false,
@@ -3188,6 +3189,7 @@
   "portfolio_useTodayChange": {
     "en": "Today\\'s Change (New day time configurable in Settings, Calculations)",
     "fr": "Taux de change du jour, Réinitialisé à:\\nminuit"
+    "tr": "Günlük değişim (Yeni günün başlangıç zamanı ayarlar-hesaplamalar bölümünden değiştirilebilir",
   },
   "portfolio_value": {
     "en": "Value",
@@ -3215,24 +3217,29 @@
   },
   "portfolio_xirr": {
     "en": "XIRR"
+    "tr": "İGO"
   },
   "portfolio_ytdStart": {
     "en": "YTD Start"
+    "tr": "YTD Başlangıcı"
   },
   "portfolioHistorical_clearLocalCache": {
     "en": "Clear historical storage",
+    "tr": "depolama alanı geçmişini temizleyin",
     "zh-Hant-TW": "清除歷史紀錄"
   },
   "portfolioHistorical_title": {
     "en": "Calculate historical performance?\\n\\nNote: If you modify previous transactions, you may need to clear the historical storage and recalculate. If historical quote prices are missing, you can go to the quote details page and add custom historical prices from the top menu."
+    "tr": "Geçmiş performansı hesaplayın\\n\\nNot: Önceki işlemleri değiştirirseniz, geçmiş depolamayı temizlemeniz ve yeniden hesaplamanız gerekebilir. Geçmiş teklif fiyatları eksikse, teklif ayrıntıları sayfasına gidebilir ve üst menüden özel geçmiş fiyatlar ekleyebilirsiniz.",
   },
   "portfolioHistorical_disableDataGranularity": {
     "en": "Calculate 1 day granularity for 1+ year old data (slow)"
+    "tr": "+1 yıllık veriler için 1 günlük ayrıntı düzeyini hesaplayın (yavaş)"
   },
   "purchases_alreadyPurchased": {
     "en": "Already purchased",
     "fr": "Déjà acheté",
-    "tr": "Zaten satın alınmış"
+    "tr": "Zaten satın alınmış",
   },
   "purchases_couldNotFetchPurchases": {
     "en": "Could not fetch in-app purchases. Please try again later.",
@@ -3247,7 +3254,7 @@
   "purchases_freeLifetime": {
     "en": "You have the lifetime premium upgrade, so you have free subscription benefits for life. You can still support the app by subscribing.",
     "fr": "Vous avez une mise à jour Premium à vie, donc vous avez les bénéfices d\\'une souscription à vie. Vous pouvez encore supporter l\\'application en souscrivant.",
-    "tr": "Ömür boyu premium üyeliğe sahipsiniz, bu nedenle ömür boyu ücretsiz abonelik avantajlarına sahipsiniz. Yine de abone olarak uygulamayı destekleyebilirsiniz."
+    "tr": "Ömür boyu premium yükseltmeye sahipsiniz, bu nedenle ömür boyu ücretsiz abonelik avantajlarına sahipsiniz. Yine de abone olarak uygulamayı destekleyebilirsiniz."
   },
   "purchases_help": {
     "en": "Purchases are lifetime, linked to your google account and other devices using the same google account. Please contact us if you are having issues with any purchase such as transferring to a new device.",
@@ -3285,11 +3292,12 @@
   },
   "purchases_promoExportData": {
     "en": "More exported data (i.e. quote prices)",
+    "tr": "Daha fazla dışa aktarılabilir veri (örneğin öneri fiyatları)",
     "zh-Hant-TW": "匯出更多數據（例如：報價）"
   },
   "purchases_promoChartAnnotations": {
     "en": "Chart annotations for transactions",
-    "tr": "İşlemler için grafik ek açıklamalar"
+    "tr": "İşlemler için grafik ek açıklamaları"
   },
   "purchases_promoExportPortfolioReportAsPDF": {
     "en": "Export portfolio report as PDF",
@@ -3303,7 +3311,7 @@
   },
   "purchases_promoFullScreenHistoricals": {
     "en": "Portfolio historical performance",
-    "tr": "Portföy tarihsel performansı",
+    "tr": "Portföyün tarihsel performansı",
     "zh-Hant-TW": "歷年投資組合表現"
   },
   "purchases_promoUnlimitedAlerts": {
@@ -3460,11 +3468,12 @@
     "de": "Bestände berechnet nach…",
     "en": "Holdings calculated using…",
     "fr": "Positions calculées avec…"
-    "tr": "Hesaplamada varlıklar kullanılıyor...",
+    "tr": "Hesaplamada varlıklar kullanılıyor…",
   },
   "settingsCalculations_yearToDateBegins": {
     "de": "Jahr-zu-Tag (YTD) beginnt am…",
     "en": "Year-to-Date (YTD) begins on…"
+    "tr": "Yıldan Tarihe (YTD) şöyle başlıyor…",
   },
   "settingsCalculations_omitCashFromPercentages": {
     "de": "Bargeld aus den %-Renditen weglassen",
@@ -3574,14 +3583,16 @@
   "settingsDisplay_inlineAllTimeAndRealizedYtd": {
     "de": "Inline realisierte YTD-Renditen",
     "en": "Inline YTD realized returns"
+    "tr": "Satır içi YTD gerçekleşen getiriler"
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtdHelp": {
     "en": "Shows YTD returns (for tax loss harvesting). Requires \\'Inline all-time and realized gains\\' to be enabled."
+    "tr": "YTD getirilerini gösterir (vergi kaybı için). \\'Satır içi tüm zamanlar ve gerçekleşen kazançlar\\' seçeneğinin etkinleştirilmesini gerektirir."
   },
   "settingsDisplay_inlineSharesAndAveragePricePerShare": {
     "de": "Inline Aktien und Durchschnittspreis pro Aktie",
     "en": "Inline shares and average price per share"
-    "tr": "Sıralı hisseler ve hisse başına ortalama fiyat"
+    "tr": "Satır içi hisseler ve hisse başına ortalama fiyat"
   },
   "settingsDisplay_invertFontColor": {
     "de": "Invertieren der Schriftfarbe",
@@ -3659,6 +3670,7 @@
     "de": "Anzahl der Aktien min. Genauigkeit",
     "en": "Number of shares min precision",
     "fr": "Précision du nombre d\\'actions"
+    "tr": "Hisse sayısı min hassasiyet",
   },
   "settingsDisplay_percentagesOnTop": {
     "de": "Prozentsatz oben anzeigen",
@@ -4715,6 +4727,7 @@
   "widget_configureHelp": {
     "en": "To configure widget settings (such as auto-refresh and font size), open the app, Settings, and go to the Widget section. If you resize the widget to be very small, be sure to visit widget settings to reduce the UI size so everything fits.\\n\\nPlease note that there are two types of widgets - overview and single portfolio. If you do not see your quotes, you may have meant to pin the single portfolio widget but pinned the overview widget.",
     "fr": "Pour effectuer le réglage du widget (tels que la mise à jour automatique and la taille de la police), ouvrez l\\'application, Réglages and allez dans la rubrique Widget. Si vous redimensionnez le widget pour qu\\'il soit très petit, veillez à réduire la taille dans les réglages du widget pour que tout s\\'affiche correctement."
+    "tr": "Widget ayarlarını (otomatik yenileme ve yazı tipi boyutu gibi) yapılandırmak için uygulamayı, Ayarlar'ı açın ve Widget bölümüne gidin. Widget\\'i çok küçük olacak şekilde yeniden boyutlandırırsanız, her şeyin sığması için kullanıcı arayüzü boyutunu küçültmek üzere widget ayarlarını ziyaret ettiğinizden emin olun.\\n\\nLütfen iki tür widget olduğunu unutmayın - genel bakış ve tek portföy. önerilerinizi göremiyorsanız, tek portföy widget\\'ini sabitlemek istemiş ancak genel bakış widget\\'ini sabitlemiş olabilirsiniz."
   },
   "widget_refreshing": {
     "en": "Refreshing Widget",
