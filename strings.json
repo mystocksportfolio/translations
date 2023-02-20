@@ -2838,7 +2838,7 @@
   },
   "portfolio_splitsHelp": {
     "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4.",
-    "tr": "Örnekler:\\n\\n%400 bölünme, sahip olunan hisseleri 4 ile çarpacak ve hisse başına ödenen maliyeti 4'e bölecektir.\\n\\n%400 ters bölünme, sahip olunan hisseleri 4'e bölecek ve hisse başına maliyeti 4'e katlayacaktır."
+    "tr": "Örnekler:\\n\\n%400 bölünme, sahip olunan hisseleri 4 ile çarpacak ve hisse başına ödenen maliyeti 4\\'e bölecektir.\\n\\n%400 ters bölünme, sahip olunan hisseleri 4\\'e bölecek ve hisse başına maliyeti 4\\'e katlayacaktır."
   },
   "portfolio_previewCSV_colon": {
     "en": "Preview CSV:",
@@ -4727,7 +4727,7 @@
   "widget_configureHelp": {
     "en": "To configure widget settings (such as auto-refresh and font size), open the app, Settings, and go to the Widget section. If you resize the widget to be very small, be sure to visit widget settings to reduce the UI size so everything fits.\\n\\nPlease note that there are two types of widgets - overview and single portfolio. If you do not see your quotes, you may have meant to pin the single portfolio widget but pinned the overview widget.",
     "fr": "Pour effectuer le réglage du widget (tels que la mise à jour automatique and la taille de la police), ouvrez l\\'application, Réglages and allez dans la rubrique Widget. Si vous redimensionnez le widget pour qu\\'il soit très petit, veillez à réduire la taille dans les réglages du widget pour que tout s\\'affiche correctement.",
-    "tr": "Widget ayarlarını (otomatik yenileme ve yazı tipi boyutu gibi) yapılandırmak için uygulamayı, Ayarlar'ı açın ve Widget bölümüne gidin. Widget\\'i çok küçük olacak şekilde yeniden boyutlandırırsanız, her şeyin sığması için kullanıcı arayüzü boyutunu küçültmek üzere widget ayarlarını ziyaret ettiğinizden emin olun.\\n\\nLütfen iki tür widget olduğunu unutmayın - genel bakış ve tek portföy. önerilerinizi göremiyorsanız, tek portföy widget\\'ini sabitlemek istemiş ancak genel bakış widget\\'ini sabitlemiş olabilirsiniz."
+    "tr": "Widget ayarlarını (otomatik yenileme ve yazı tipi boyutu gibi) yapılandırmak için uygulamayı, Ayarlar\\'ı açın ve Widget bölümüne gidin. Widget\\'i çok küçük olacak şekilde yeniden boyutlandırırsanız, her şeyin sığması için kullanıcı arayüzü boyutunu küçültmek üzere widget ayarlarını ziyaret ettiğinizden emin olun.\\n\\nLütfen iki tür widget olduğunu unutmayın - genel bakış ve tek portföy. önerilerinizi göremiyorsanız, tek portföy widget\\'ini sabitlemek istemiş ancak genel bakış widget\\'ini sabitlemiş olabilirsiniz."
   },
   "widget_refreshing": {
     "en": "Refreshing Widget",
