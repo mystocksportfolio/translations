@@ -10,7 +10,7 @@ Progress (864 strings):
 
 ![Progress](https://progress-bar.dev/100?title=en&width=120) 864/864
 
-![Progress](https://progress-bar.dev/96?title=tr&width=120) 833/864
+![Progress](https://progress-bar.dev/100?title=tr&width=120) 863/864
 
 ![Progress](https://progress-bar.dev/59?title=zh-Hant-TW&width=120) 510/864
 
