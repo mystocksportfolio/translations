@@ -396,7 +396,7 @@
   },
   "addQuote_howToPreviewHelp": {
     "en": "After entering the symbol/ticker, a price preview should show up.\\n\\nClick on the price preview to view the quote without adding it to your portfolio.",
-    "fr": "Après avoir saisi le nom du symbole, cliquez sur le clavier ou sélectionnez un symbole depuis la liste d\\'auto-complétion.\\n\\nSi une prévisualisation du prix the la cotation surgit sous le champ du symbole, vous pouvez cliquer dessus pour prévisualiser la cotation et les actualités sans l\\'ajouter à votre portefeuille."
+    "fr": "Après avoir saisi le nom du symbole, cliquez sur le clavier ou sélectionnez un symbole depuis la liste d\\'auto-complétion.\\n\\nSi une prévisualisation du prix the la cotation surgit sous le champ du symbole, vous pouvez cliquer dessus pour prévisualiser la cotation et les actualités sans l\\'ajouter à votre portefeuille.",
     "tr": "Sembolü/etiketi girdikten sonra bir fiyat önizlemesi görünecektir.\\n\\nPortföyünüze eklemeden fiyatı görüntülemek için fiyat önizlemesine tıklayın."
   },
   "addQuote_howToAddCrypto": {
@@ -2889,10 +2889,10 @@
   "portfolio_sortChangePercentReverse": {
     "en": "Change % (Ascending)",
     "fr": "Variation % (Décroissant)",
-    "tr": "Değişim % (Artan)",
+    "tr": "Değişim % (Artan)"
   },
   "portfolio_sortAbsChangePercentReverse": {
-    "en": "Change % (Absolute, Ascending)"
+    "en": "Change % (Absolute, Ascending)",
     "tr": "Değişim % (Mutlak, Artan)"
   },
   "portfolio_sortChangeReverse": {
@@ -3827,7 +3827,7 @@
   "settingsGeneral_showExitPrompt": {
     "de": "Beim Verlassen bestätigen",
     "en": "Confirm when exiting",
-    "tr": "Uygulamadan çıkarken onay iste",
+    "tr": "Uygulamadan çıkarken onay iste"
   },
   "settingsGeneral_showExitPromptHelp": {
     "de": "Zeigt vor dem Beenden des Startbildschirms der App eine Bestätigungsmeldung an.",
@@ -3903,16 +3903,16 @@
     "zh-Hant-TW": "匯出至Google雲端硬碟 / SD卡 / 外接儲存裝置 / Email / 備忘錄"
   },
   "settings_csvExportPriceAlerts": {
-    "en": "Export Price Alerts as CSV"
-    "tr": "Fiyat Uyarılarını CSV olarak dışa aktar",
+    "en": "Export Price Alerts as CSV",
+    "tr": "Fiyat Uyarılarını CSV olarak dışa aktar"
   },
   "settings_csvImport": {
-    "en": "Import from CSV"
-    "tr": "CSV\\'den içe aktar",
+    "en": "Import from CSV",
+    "tr": "CSV\\'den içe aktar"
   },
   "settings_csvImportCustomPrices": {
-    "en": "Import Custom Prices from CSV"
-    "tr": "Özel Fiyatları CSV\\'den içe aktar",
+    "en": "Import Custom Prices from CSV",
+    "tr": "Özel Fiyatları CSV\\'den içe aktar"
   },
   "settings_csvImportPortfolios": {
     "en": "Import Portfolios from CSV",
@@ -3925,8 +3925,8 @@
     "zh-Hant-TW": "從 Google Drive / SD卡 / 外部儲存空間 / Email / 剪貼簿 匯入"
   },
   "settings_csvImportPriceAlerts": {
-    "en": "Import Price Alerts from CSV"
-    "tr": "Fiyat Uyarılarını CSV\\'den içe aktar",
+    "en": "Import Price Alerts from CSV",
+    "tr": "Fiyat Uyarılarını CSV\\'den içe aktar"
   },
   "settings_general": {
     "de": "Allgemeines",
