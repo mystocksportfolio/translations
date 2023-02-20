@@ -16,7 +16,7 @@
   },
   "accounting_execution": {
     "en": "Execution",
-    "tr": "Yürütme"
+    "tr": "İşlem yöntemi"
   },
   "accounting_fifo": {
     "en": "FIFO",
@@ -40,7 +40,7 @@
   },
   "accounting_highCost": {
     "en": "High Cost",
-    "tr": "Yüksek Maliyet",
+    "tr": "Yüksek Maliyetli",
     "zh-Hant-TW": "成本高"
   },
   "accounting_highCostDescription": {
@@ -50,7 +50,7 @@
   },
   "accounting_lowCost": {
     "en": "Low Cost",
-    "tr": "Düşük Maliyet",
+    "tr": "Düşük Maliyetli",
     "zh-Hant-TW": "成本低"
   },
   "accounting_lowCostDescription": {
@@ -1416,6 +1416,7 @@
   "generic_none": {
     "en": "None",
     "fr": "Aucune sélection",
+    "tr": "Hiçbiri",
     "zh-Hant-TW": "無"
   },
   "generic_notApplicable": {
@@ -2252,6 +2253,7 @@
   },
   "portfolio_ceo": {
     "en": "CEO",
+    "tr": "CEO",
     "zh-Hant-TW": "執行長"
   },
   "portfolio_change": {
@@ -2433,15 +2435,18 @@
   },
   "portfolio_dividendsInTotalsHelp": {
     "en": "If OFF, dividends not reinvested will be omitted from your total calculations. Dividends reinvested will be reflected with a cost basis as if you purchased again with cash. This is the accounting method used at most exchanges. If ON, dividends in both cases are added to your total calculations at no cost basis.",
-    "fr": "Si OFF, les dividendes non réinvestis seront omis du calcul du total. Les dividendes réinvestis apparaîtront avec un cout de base comme si vous achetiez à nouveau avec des espèces. C\\'est la méthode de calcul utilisée dans la plupart des échanges. Si ON, les dividendes sont ajoutés dans les deux cas au calcul du total sans cout de base."
+    "fr": "Si OFF, les dividendes non réinvestis seront omis du calcul du total. Les dividendes réinvestis apparaîtront avec un cout de base comme si vous achetiez à nouveau avec des espèces. C\\'est la méthode de calcul utilisée dans la plupart des échanges. Si ON, les dividendes sont ajoutés dans les deux cas au calcul du total sans cout de base.",
+    "tr": "KAPALI ise, yeniden yatırılmayan temettüler toplam hesaplamalarınızdan çıkarılacaktır. Yeniden yatırılan temettüler, tekrar nakit ile satın almışsınız gibi maliyet esası ile yansıtılacaktır. Bu, çoğu borsada kullanılan muhasebe yöntemidir. AÇIK ise, her iki durumda da temettüler maliyet esası olmaksızın toplam hesaplamalarınıza eklenir."
   },
   "portfolio_dividendsNotReinvestedHelp": {
     "en": "Dividends that are not part of a dividend reinvestment plan (DRIP) and converted to cash. If you re-invest these later, you should add a new BUY transaction. Amount should be in stock\\'s local currency. You can change how dividends are reflected in your total calculations in the app Settings under Calculations.",
-    "fr": "Dividendes qui ne font pas partie d\\'un régime de réinvestissement des dividendes (RRD) et convertis en espèces. Si vous les réinvestissez plus tard, vous devez ajouter une nouvelle transaction ACHETER. Le montant doit être dans la device du titre. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs."
+    "fr": "Dividendes qui ne font pas partie d\\'un régime de réinvestissement des dividendes (RRD) et convertis en espèces. Si vous les réinvestissez plus tard, vous devez ajouter une nouvelle transaction ACHETER. Le montant doit être dans la device du titre. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs.",
+    "tr": "Bir temettü yeniden yatırım planının (DRIP) parçası olmayan ve nakde dönüştürülen temettüler. Bunları daha sonra yeniden yatırırsanız, yeni bir AL işlemi eklemelisiniz. Tutar, hisse senedinin yerel para birimi cinsinden olmalıdır. Temettülerin toplam hesaplamalarınıza nasıl yansıtılacağını Uygulama Ayarları\\'nda Hesaplamalar bölümünden değiştirebilirsiniz."
   },
   "portfolio_dividendsReinvestedHelp": {
     "en": "Dividends part of a dividend reinvestment plan (DRIP). You do not need to add a separate transaction for the dividends to cash conversion. You can change how dividends are reflected in your total calculations in the app Settings under Calculations.",
-    "fr": "Dividendes faisant partie d\\'un régime de réinvestissement des dividendes (RRD). Vous n\\'avez pas besoin d\\'ajouter une transaction séparée pour la conversion des dividendes en espèces. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs."
+    "fr": "Dividendes faisant partie d\\'un régime de réinvestissement des dividendes (RRD). Vous n\\'avez pas besoin d\\'ajouter une transaction séparée pour la conversion des dividendes en espèces. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs.",
+    "tr": "Temettüler, temettü yeniden yatırım planının (DRIP) bir parçasıdır. Temettüleri nakde dönüştürmek için ayrı bir işlem eklemenize gerek yoktur. Temettülerin toplam hesaplamalarınıza nasıl yansıtılacağını Uygulama Ayarları\\'nda Hesaplamalar bölümünden değiştirebilirsiniz."
   },
   "portfolio_doNotAddToTotals": {
     "en": "Don\\'t add to totals on Portfolios Overview screen",
@@ -2500,7 +2505,7 @@
   "portfolio_generatePortfolioReport": {
     "de": "Portfoliobericht erstellen",
     "en": "Generate Portfolio Report",
-    "tr": "Portföy Raporu Oluşturma"
+    "tr": "Portföy Raporu Oluştur"
   },
   "portfolio_generateReport": {
     "de": "Bericht erstellen",
@@ -2611,9 +2616,11 @@
   },
   "portfolio_movers_gainers": {
     "en": "Gainers"
+    "tr": "Kazandıranlar"
   },
   "portfolio_movers_losers": {
     "en": "Losers"
+    "tr": "Kaybettirenler"
   },
   "portfolio_moveToPortfolio": {
     "en": "Move/Copy to Portfolio",
@@ -2650,6 +2657,7 @@
   },
   "portfolio_noQuotesHelp": {
     "en": "Add a new quote by tapping the Add button in the menu or by tapping here.",
+    "tr": "Menüdeki Ekle düğmesine dokunarak veya buraya dokunarak yeni bir öneriyi takip edin.",
     "zh-Hant-TW": "點擊選單中新增按鈕，新增報價"
   },
   "portfolio_noTransactionsHelp": {
@@ -2715,7 +2723,7 @@
   "portfolio_portfolioMultipleCurrenciesNoHomeCurrency": {
     "en": "This portfolio has different currencies but a home currency is not set, so totals can\\'t be calculated. Please tap here to set currency settings.",
     "fr": "Ce portefeuille a différentes devises mais aucune devise préférée n\\'est définie. Les totaux ne peuvent donc pas être calculés. S\\'il vous plaît appuyez ici pour définir les paramètres de devise.",
-    "tr": "Bu portföyün farklı para birimleri vardır, ancak bir ana para birimi ayarlanmamıştır, bu nedenle toplamlar hesaplanamaz. Para birimi ayarlarını yapmak için lütfen buraya dokunun."
+    "tr": "Bu portföyün farklı para birimleri vardır ancak bir ana para birimi ayarlanmamıştır. Bu nedenle toplamlar hesaplanamaz. Para birimi ayarlarını yapmak için lütfen buraya dokunun."
   },
   "portfolio_portfolios": {
     "de": "Portfolios",
@@ -2770,23 +2778,27 @@
   },
   "portfolio_realizedValue": {
     "en": "Realized Value",
-    "zh-Hant-TW": "已實現市值",
-    "tr": "Gerçekleşen Değer"
+    "tr": "Gerçekleşen Değer",
+    "zh-Hant-TW": "已實現市值"
   },
   "portfolio_realizedYTD": {
     "en": "Realized YTD",
+    "tr": "Gerçekleşen YTD",
     "zh-Hant-TW": "已實現 YTD"
   },
   "portfolio_realizedYTDChange": {
     "en": "Realized YTD Change",
+    "tr": "Gerçekleşen YTD Değişimi",
     "zh-Hant-TW": "已實現YTD損益"
   },
   "portfolio_realizedYTDChangePercent": {
     "en": "Realized YTD Change Percent",
+    "tr": "Gerçekleşen YTD Değişim Yüzdesi",
     "zh-Hant-TW": "已實現YTD損益比"
   },
   "portfolio_realizedYTDColon": {
     "en": "Rlzd YTD:",
+    "tr": "Grçklşn YTD",
     "zh-Hant-TW": "已實現 YTD："
   },
   "portfolio_refreshNews": {
@@ -2796,6 +2808,7 @@
   },
   "portfolio_reverseOrder": {
     "en": "Reverse Order",
+    "tr": "Ters Sıralama",
     "zh-Hant-TW": "顛倒順序"
   },
   "portfolio_sectorIndustry": {
@@ -2825,9 +2838,11 @@
   },
   "portfolio_splitsHelp": {
     "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4."
+    "tr": "Örnekler:\\n\\n%400 bölünme, sahip olunan hisseleri 4 ile çarpacak ve hisse başına ödenen maliyeti 4'e bölecektir.\\n\\n%400 ters bölünme, sahip olunan hisseleri 4'e bölecek ve hisse başına maliyeti 4'e katlayacaktır.",
   },
   "portfolio_previewCSV_colon": {
     "en": "Preview CSV:"
+    "tr": "CSV Görünümü:"
   },
   "portfolio_price": {
     "en": "Price",
@@ -2839,12 +2854,14 @@
     "_formatted": false,
     "en": "%s x %s shares",
     "fr": "%s x %s actions",
+    "tr": "%s x %s Hisseler",
     "zh-Hant-TW": "%s x %s 股數"
   },
   "portfolio_priceAndSharesFormattedWithLocal": {
     "_formatted": false,
     "en": "%s (%s) x %s shares",
     "fr": "%s (%s) x %s actions",
+    "tr": "%s (%s) x %s Hisseler",
     "zh-Hant-TW": "%s (%s) x %s 股數"
   },
   "portfolio_showDetails": {
@@ -2931,7 +2948,8 @@
   },
   "portfolio_sortDragHandleAccessibility": {
     "en": "Drag Handle",
-    "fr": "Faites glisser la poignée"
+    "fr": "Faites glisser la poignée",
+    "tr": "Sürükleme Kolu"
   },
   "portfolio_sortHoldingSelectedFormatted": {
     "_formatted": false,
@@ -3170,7 +3188,8 @@
   },
   "portfolio_useTodayChange": {
     "en": "Today\\'s Change (New day time configurable in Settings, Calculations)",
-    "fr": "Taux de change du jour, Réinitialisé à:\\nminuit"
+    "fr": "Taux de change du jour, Réinitialisé à:\\nminuit",
+    "tr": "Günlük değişim (Yeni günün başlangıç zamanı ayarlar-hesaplamalar bölümünden değiştirilebilir"
   },
   "portfolio_value": {
     "en": "Value",
@@ -3197,20 +3216,25 @@
     "zh-Hant-TW": "觀察清單"
   },
   "portfolio_xirr": {
-    "en": "XIRR"
+    "en": "XIRR",
+    "tr": "İGO"
   },
   "portfolio_ytdStart": {
-    "en": "YTD Start"
+    "en": "YTD Start",
+    "tr": "YTD Başlangıcı"
   },
   "portfolioHistorical_clearLocalCache": {
     "en": "Clear historical storage",
+    "tr": "depolama alanı geçmişini temizleyin",
     "zh-Hant-TW": "清除歷史紀錄"
   },
   "portfolioHistorical_title": {
-    "en": "Calculate historical performance?\\n\\nNote: If you modify previous transactions, you may need to clear the historical storage and recalculate. If historical quote prices are missing, you can go to the quote details page and add custom historical prices from the top menu."
+    "en": "Calculate historical performance?\\n\\nNote: If you modify previous transactions, you may need to clear the historical storage and recalculate. If historical quote prices are missing, you can go to the quote details page and add custom historical prices from the top menu.",
+    "tr": "Geçmiş performansı hesaplayın\\n\\nNot: Önceki işlemleri değiştirirseniz, geçmiş depolamayı temizlemeniz ve yeniden hesaplamanız gerekebilir. Geçmiş teklif fiyatları eksikse, teklif ayrıntıları sayfasına gidebilir ve üst menüden özel geçmiş fiyatlar ekleyebilirsiniz."
   },
   "portfolioHistorical_disableDataGranularity": {
-    "en": "Calculate 1 day granularity for 1+ year old data (slow)"
+    "en": "Calculate 1 day granularity for 1+ year old data (slow)",
+    "tr": "+1 yıllık veriler için 1 günlük ayrıntı düzeyini hesaplayın (yavaş)"
   },
   "purchases_alreadyPurchased": {
     "en": "Already purchased",
@@ -3230,7 +3254,7 @@
   "purchases_freeLifetime": {
     "en": "You have the lifetime premium upgrade, so you have free subscription benefits for life. You can still support the app by subscribing.",
     "fr": "Vous avez une mise à jour Premium à vie, donc vous avez les bénéfices d\\'une souscription à vie. Vous pouvez encore supporter l\\'application en souscrivant.",
-    "tr": "Ömür boyu premium üyeliğe sahipsiniz, bu nedenle ömür boyu ücretsiz abonelik avantajlarına sahipsiniz. Yine de abone olarak uygulamayı destekleyebilirsiniz."
+    "tr": "Ömür boyu premium yükseltmeye sahipsiniz, bu nedenle ömür boyu ücretsiz abonelik avantajlarına sahipsiniz. Yine de abone olarak uygulamayı destekleyebilirsiniz."
   },
   "purchases_help": {
     "en": "Purchases are lifetime, linked to your google account and other devices using the same google account. Please contact us if you are having issues with any purchase such as transferring to a new device.",
@@ -3268,11 +3292,12 @@
   },
   "purchases_promoExportData": {
     "en": "More exported data (i.e. quote prices)",
+    "tr": "Daha fazla dışa aktarılabilir veri (örneğin öneri fiyatları)",
     "zh-Hant-TW": "匯出更多數據（例如：報價）"
   },
   "purchases_promoChartAnnotations": {
     "en": "Chart annotations for transactions",
-    "tr": "İşlemler için grafik ek açıklamalar"
+    "tr": "İşlemler için grafik ek açıklamaları"
   },
   "purchases_promoExportPortfolioReportAsPDF": {
     "en": "Export portfolio report as PDF",
@@ -3286,7 +3311,7 @@
   },
   "purchases_promoFullScreenHistoricals": {
     "en": "Portfolio historical performance",
-    "tr": "Portföy tarihsel performansı",
+    "tr": "Portföyün tarihsel performansı",
     "zh-Hant-TW": "歷年投資組合表現"
   },
   "purchases_promoUnlimitedAlerts": {
@@ -3447,7 +3472,8 @@
   },
   "settingsCalculations_yearToDateBegins": {
     "de": "Jahr-zu-Tag (YTD) beginnt am…",
-    "en": "Year-to-Date (YTD) begins on…"
+    "en": "Year-to-Date (YTD) begins on…",
+    "tr": "Yıldan Tarihe (YTD) şöyle başlıyor…"
   },
   "settingsCalculations_omitCashFromPercentages": {
     "de": "Bargeld aus den %-Renditen weglassen",
@@ -3556,15 +3582,17 @@
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtd": {
     "de": "Inline realisierte YTD-Renditen",
-    "en": "Inline YTD realized returns"
+    "en": "Inline YTD realized returns",
+    "tr": "Satır içi YTD gerçekleşen getiriler"
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtdHelp": {
-    "en": "Shows YTD returns (for tax loss harvesting). Requires \\'Inline all-time and realized gains\\' to be enabled."
+    "en": "Shows YTD returns (for tax loss harvesting). Requires \\'Inline all-time and realized gains\\' to be enabled.",
+    "tr": "YTD getirilerini gösterir (vergi kaybı için). \\'Satır içi tüm zamanlar ve gerçekleşen kazançlar\\' seçeneğinin etkinleştirilmesini gerektirir."
   },
   "settingsDisplay_inlineSharesAndAveragePricePerShare": {
     "de": "Inline Aktien und Durchschnittspreis pro Aktie",
     "en": "Inline shares and average price per share",
-    "tr": "Sıralı hisseler ve hisse başına ortalama fiyat"
+    "tr": "Satır içi hisseler ve hisse başına ortalama fiyat"
   },
   "settingsDisplay_invertFontColor": {
     "de": "Invertieren der Schriftfarbe",
@@ -3642,6 +3670,7 @@
     "de": "Anzahl der Aktien min. Genauigkeit",
     "en": "Number of shares min precision",
     "fr": "Précision du nombre d\\'actions"
+    "tr": "Hisse sayısı min hassasiyet",
   },
   "settingsDisplay_percentagesOnTop": {
     "de": "Prozentsatz oben anzeigen",
@@ -4698,6 +4727,7 @@
   "widget_configureHelp": {
     "en": "To configure widget settings (such as auto-refresh and font size), open the app, Settings, and go to the Widget section. If you resize the widget to be very small, be sure to visit widget settings to reduce the UI size so everything fits.\\n\\nPlease note that there are two types of widgets - overview and single portfolio. If you do not see your quotes, you may have meant to pin the single portfolio widget but pinned the overview widget.",
     "fr": "Pour effectuer le réglage du widget (tels que la mise à jour automatique and la taille de la police), ouvrez l\\'application, Réglages and allez dans la rubrique Widget. Si vous redimensionnez le widget pour qu\\'il soit très petit, veillez à réduire la taille dans les réglages du widget pour que tout s\\'affiche correctement."
+    "tr": "Widget ayarlarını (otomatik yenileme ve yazı tipi boyutu gibi) yapılandırmak için uygulamayı, Ayarlar'ı açın ve Widget bölümüne gidin. Widget\\'i çok küçük olacak şekilde yeniden boyutlandırırsanız, her şeyin sığması için kullanıcı arayüzü boyutunu küçültmek üzere widget ayarlarını ziyaret ettiğinizden emin olun.\\n\\nLütfen iki tür widget olduğunu unutmayın - genel bakış ve tek portföy. önerilerinizi göremiyorsanız, tek portföy widget\\'ini sabitlemek istemiş ancak genel bakış widget\\'ini sabitlemiş olabilirsiniz."
   },
   "widget_refreshing": {
     "en": "Refreshing Widget",
