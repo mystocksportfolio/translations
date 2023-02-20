@@ -3657,8 +3657,8 @@
   },
   "settingsDisplay_miniModeQuotesHelp": {
     "en": "Show one line per quote. Tap the cell to toggle between absolute and percentage.",
-    "fr": "Affiche uniquement une line sur l\\'onglet Cours. Taper la valeur de la variation (dernière colonne) pour basculer entre valeur et pourcentage."
-    "tr": "Öneri başına bir satır gösterin. Mutlak ve yüzde arasında geçiş yapmak için hücreye dokunun.",
+    "fr": "Affiche uniquement une line sur l\\'onglet Cours. Taper la valeur de la variation (dernière colonne) pour basculer entre valeur et pourcentage.",
+    "tr": "Öneri başına bir satır gösterin. Mutlak ve yüzde arasında geçiş yapmak için hücreye dokunun."
   },
   "settingsDisplay_numberOfShares": {
     "en": "Number of Shares",
