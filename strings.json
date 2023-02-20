@@ -3462,7 +3462,7 @@
     "de": "Tägliche Kursänderung des Bestands verwendet…",
     "en": "Holdings daily change uses…",
     "fr": "Les variations du jour sur les positions utilisent…",
-    "tr": "Varlıkların günlük değişimlerini kullan...",
+    "tr": "Varlıkların günlük değişimlerini kullan…",
   },
   "settingsCalculations_holdingsCalculatedUsing": {
     "de": "Bestände berechnet nach…",
@@ -3573,20 +3573,20 @@
     "de": "Inline Allzeithoch und realisierte Renditen",
     "en": "Inline all-time and realized returns",
     "fr": "Affichier les gains depuis toujours et réalisés",
-    "tr": "Tüm zamanlar ve gerçekleşen getiriler",
+    "tr": "Tüm zamanlar ve gerçekleşen getiriler"
   },
   "settingsDisplay_inlineAllTimeAndRealizedHelp": {
     "en": "Show all-time and realized gains below each portfolio and holding",
     "fr": "Afficher les gains depuis toujours et réalisés sous chaque portefeuille et position",
-    "tr": "Her portföyün ve varlığın altında tüm zamanları ve gerçekleşen kazançları gösterir",
+    "tr": "Her portföyün ve varlığın altında tüm zamanları ve gerçekleşen kazançları gösterir"
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtd": {
     "de": "Inline realisierte YTD-Renditen",
-    "en": "Inline YTD realized returns"
+    "en": "Inline YTD realized returns",
     "tr": "Satır içi YTD gerçekleşen getiriler"
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtdHelp": {
-    "en": "Shows YTD returns (for tax loss harvesting). Requires \\'Inline all-time and realized gains\\' to be enabled."
+    "en": "Shows YTD returns (for tax loss harvesting). Requires \\'Inline all-time and realized gains\\' to be enabled.",
     "tr": "YTD getirilerini gösterir (vergi kaybı için). \\'Satır içi tüm zamanlar ve gerçekleşen kazançlar\\' seçeneğinin etkinleştirilmesini gerektirir."
   },
   "settingsDisplay_inlineSharesAndAveragePricePerShare": {
@@ -3647,13 +3647,13 @@
   "settingsDisplay_miniModeWidgetHelp": {
     "de": "Zeige eine Zeile pro Element im Einzelportfolio -Widget. Tippen Sie auf die Zelle, um zwischen absolutem und prozentualem Wert zu wechseln.",
     "en": "Show one line per item on the single portfolio widget. Tap the cell to toggle between absolute and percentage.",
-    "fr": "Afficher uniquement une ligne par élément dans la liste du porte-feuille du widget. Tapez la dernière colonne d\\'une cellule pour basculer l\\'affichage."
-    "tr": "Tek portföy widget\\'inde öğe başına bir satır gösterin. Mutlak ve yüzde arasında geçiş yapmak için hücreye dokunun.",
+    "fr": "Afficher uniquement une ligne par élément dans la liste du porte-feuille du widget. Tapez la dernière colonne d\\'une cellule pour basculer l\\'affichage.",
+    "tr": "Tek portföy widget\\'inde öğe başına bir satır gösterin. Mutlak ve yüzde arasında geçiş yapmak için hücreye dokunun."
   },
   "settingsDisplay_miniModeHoldingsHelp": {
     "en": "Show one line per holding. Tap the cell to toggle between absolute and percentage.",
-    "fr": "Affiche uniquement une line sur l\\'onglet Positions. Taper la valeur de la variation pour basculer entre valeur et pourcentage."
-    "tr": "Varlık başına bir satır gösterin. Mutlak ve yüzde arasında geçiş yapmak için hücreye dokunun.",
+    "fr": "Affiche uniquement une line sur l\\'onglet Positions. Taper la valeur de la variation pour basculer entre valeur et pourcentage.",
+    "tr": "Varlık başına bir satır gösterin. Mutlak ve yüzde arasında geçiş yapmak için hücreye dokunun."
   },
   "settingsDisplay_miniModeQuotesHelp": {
     "en": "Show one line per quote. Tap the cell to toggle between absolute and percentage.",
@@ -3682,18 +3682,18 @@
   "settingsDisplay_percentagesOnTopHelp": {
     "de": "Zeigt die prozentuale Veränderungen in der 1. Zeile an. Tippen Sie im Einzeilenmodus auf das Dreieck, um die Werte zwischen Prozent und Absolut zu wechseln",
     "en": "Show percentage changes on 1st line. When in single-line mode, tap the cell to switch between percentages and absolutes.",
-    "fr": "Afficher le taux de variation sur la 1ère ligne"
-    "tr": "Yüzde değişikliklerini 1. satırda gösterin. Tek satır modundayken, yüzdeler ve mutlak değerler arasında geçiş yapmak için hücreye dokunun.",
+    "fr": "Afficher le taux de variation sur la 1ère ligne",
+    "tr": "Yüzde değişikliklerini 1. satırda gösterin. Tek satır modundayken, yüzdeler ve mutlak değerler arasında geçiş yapmak için hücreye dokunun."
   },
   "settingsDisplay_quoteExchange": {
     "en": "Quote Exchange",
-    "fr": "Cours du titre"
-    "tr": "Öneri Kuru",
+    "fr": "Cours du titre",
+    "tr": "Öneri Kuru"
   },
   "settingsDisplay_quoteExchangeQuoteName": {
     "en": "Quote Exchange, Quote Name",
-    "fr": "Cours du titre, Nom du titre"
-    "tr": "Öneri Kuru, Öneri Adı",
+    "fr": "Cours du titre, Nom du titre",
+    "tr": "Öneri Kuru, Öneri Adı"
   },
   "settingsDisplay_quoteName": {
     "en": "Quote Name",
@@ -3711,13 +3711,13 @@
   "settingsDisplay_showCurrencyOnQuotesTab": {
     "de": "Zeige Währungssymbol auf der Registerkarte \"Notierungen\"",
     "en": "Show currency symbol on Quotes tab",
-    "fr": "Affiche le symbole monétaire dans l\\'onglet Cours"
-    "tr": "Öneri sekmesinde para birimi Sembolünü göster",
+    "fr": "Affiche le symbole monétaire dans l\\'onglet Cours",
+    "tr": "Öneri sekmesinde para birimi Sembolünü göster"
   },
   "settingsDisplay_showCurrencyOnQuotesTabHelp": {
     "en": "For example, $10. If off, then 10 (without currency symbol) will be shown.",
-    "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché."
-    "tr": "Örneğin, 10$. Kapalı ise, \"10\" (para birimi sembolü olmadan) gösterilecektir.",
+    "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché.",
+    "tr": "Örneğin, 10$. Kapalı ise, \"10\" (para birimi sembolü olmadan) gösterilecektir."
   },
   "settingsDisplay_showThumbnails": {
     "de": "Vorschaubilder anzeigen",
@@ -3875,7 +3875,7 @@
   "settings_couldNotStartEmailApp": {
     "en": "Could not start email app. Have you set up email on your device?",
     "fr": "Impossible de lancer l\\'application email. Avez-vous configuré votre email sur votre appareil ?",
-    "tr": "E-posta uygulaması başlatılamadı. Cihazınızda e-posta kurulumu yaptınız mı?",
+    "tr": "E-posta uygulaması başlatılamadı. Cihazınızda e-posta kurulumu yaptınız mı?"
   },
   "settings_csv": {
     "en": "CSV",
