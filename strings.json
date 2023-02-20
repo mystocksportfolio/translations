@@ -3462,7 +3462,7 @@
     "de": "Tägliche Kursänderung des Bestands verwendet…",
     "en": "Holdings daily change uses…",
     "fr": "Les variations du jour sur les positions utilisent…",
-    "tr": "Varlıkların günlük değişimlerini kullan…",
+    "tr": "Varlıkların günlük değişimlerini kullan…"
   },
   "settingsCalculations_holdingsCalculatedUsing": {
     "de": "Bestände berechnet nach…",
@@ -3472,8 +3472,8 @@
   },
   "settingsCalculations_yearToDateBegins": {
     "de": "Jahr-zu-Tag (YTD) beginnt am…",
-    "en": "Year-to-Date (YTD) begins on…"
-    "tr": "Yıldan Tarihe (YTD) şöyle başlıyor…",
+    "en": "Year-to-Date (YTD) begins on…",
+    "tr": "Yıldan Tarihe (YTD) şöyle başlıyor…"
   },
   "settingsCalculations_omitCashFromPercentages": {
     "de": "Bargeld aus den %-Renditen weglassen",
