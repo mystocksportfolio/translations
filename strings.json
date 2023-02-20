@@ -847,9 +847,8 @@
   },
   "csvImport_recognizedHeadersHelp": {
     "en": "Recognized CSV Headers:\\n\\nSymbol: Symbol name (i.e. BB)\\nPortfolio: Portfolio the quote belongs to\\nShares: Shares owned\\nType: Buy, Sell, Buy to Cover, Sell Short\\nPrice: Cost per share\\nCommission: Total commissions\\nDate: Date of transaction (YYYY-MM-DD GMT+HH:MM), i.e. 2017–05–25 GMT+01:00\\nNotes: Additional notes\\n\\nTo see a sample CSV, you can export a CSV from the app.\\n\\nThe Date format must be correct or the date will not be imported. If you are using Excel, you can customize the format of the generated dates. 2016–11–25 GMT-08:00 is a valid date, 11–25–2017 is not.",
-    "tr": "Tanınan CSV Başlıkları:\\n\\nSembol: Sembol adı (örneğin BB)\\nPortföy: Önerilerin ait olduğu portföy\\nHisseler: Sahip olunan hisseler\\nTür: Al, Sat, Kapatmak için Al, Açığa Sat\\nFiyat: Hisse başı maliyet\\nKomisyon: Toplam komisyon\\nTarih: İşlem tarihi (YYY–MM–DD GMT+H:MM), örneğin 2017–05–25 GMT+01:00\\nNotlar: Ek notlar\\n\\nÖrnek bir CSV görmek için uygulamadan bir CSV dışa aktarabilirsiniz.\\n\\nTarih biçimi doğru olmalıdır, aksi takdirde tarih içe aktarılmayacaktır. Excel kullanıyorsanız oluşturulan tarihlerin biçimini özelleştirebilirsiniz. 2016–11–25 GMT–08:00 geçerli bir tarihtir, 11–25–2017 geçerli değildir.",
-    "zh-Hant-TW": "確認 CSV 標題:\\n\\n代碼: 代碼名稱 (例. BB)\\n組合: 股票屬於組合\\n股數: 擁有股數\\n類別: 買, 賣, 空單補回, 賣空\\n價格: 每股均價\\n手續費: 總手續費\\n日期: 成交日期 (YYYY-MM-DD GMT+HH:MM), 例. 2017–05–25 GMT+01:00\\n備註: 附註\\n\\n不知道CSV格式的話,你可以從app匯出CSV.\\n\\n日期格式一定要正確,否則該日期將不會被匯入.如果是使用Excel的話,可以客製化日期格式 2016–11–25 GMT-08:00 這個日期格式是可以的, 11–25–2017 則不行."
     "tr": "Tanınan CSV Başlıkları:\\n\\nSembol: Sembol adı (örneğin BB)\\nPortföy: Önerilerin ait olduğu portföy\\nHisseler: Sahip olunan hisseler\\nTür: Al, Sat, Kapatmak için Al, Açığa Sat\\nFiyat: Hisse başı maliyet\\nKomisyon: Toplam komisyon\\nTarih: İşlem tarihi (YYY-MM-DD GMT+H:MM), örneğin 2017-05-25 GMT+01:00\\nNotlar: Ek notlar\\n\\nÖrnek bir CSV görmek için uygulamadan bir CSV dışa aktarabilirsiniz.\\n\\nTarih biçimi doğru olmalıdır, aksi takdirde tarih içe aktarılmayacaktır. Excel kullanıyorsanız oluşturulan tarihlerin biçimini özelleştirebilirsiniz. 2016-11-25 GMT-08:00 geçerli bir tarihtir, 11-25-2017 geçerli değildir.",
+    "zh-Hant-TW": "確認 CSV 標題:\\n\\n代碼: 代碼名稱 (例. BB)\\n組合: 股票屬於組合\\n股數: 擁有股數\\n類別: 買, 賣, 空單補回, 賣空\\n價格: 每股均價\\n手續費: 總手續費\\n日期: 成交日期 (YYYY-MM-DD GMT+HH:MM), 例. 2017–05–25 GMT+01:00\\n備註: 附註\\n\\n不知道CSV格式的話,你可以從app匯出CSV.\\n\\n日期格式一定要正確,否則該日期將不會被匯入.如果是使用Excel的話,可以客製化日期格式 2016–11–25 GMT-08:00 這個日期格式是可以的, 11–25–2017 則不行."
   },
   "csvImport_unableToDownload": {
     "en": "Unable to download CSV file",
@@ -2436,18 +2435,18 @@
   },
   "portfolio_dividendsInTotalsHelp": {
     "en": "If OFF, dividends not reinvested will be omitted from your total calculations. Dividends reinvested will be reflected with a cost basis as if you purchased again with cash. This is the accounting method used at most exchanges. If ON, dividends in both cases are added to your total calculations at no cost basis.",
-    "fr": "Si OFF, les dividendes non réinvestis seront omis du calcul du total. Les dividendes réinvestis apparaîtront avec un cout de base comme si vous achetiez à nouveau avec des espèces. C\\'est la méthode de calcul utilisée dans la plupart des échanges. Si ON, les dividendes sont ajoutés dans les deux cas au calcul du total sans cout de base."
-    "tr": "KAPALI ise, yeniden yatırılmayan temettüler toplam hesaplamalarınızdan çıkarılacaktır. Yeniden yatırılan temettüler, tekrar nakit ile satın almışsınız gibi maliyet esası ile yansıtılacaktır. Bu, çoğu borsada kullanılan muhasebe yöntemidir. AÇIK ise, her iki durumda da temettüler maliyet esası olmaksızın toplam hesaplamalarınıza eklenir.",
+    "fr": "Si OFF, les dividendes non réinvestis seront omis du calcul du total. Les dividendes réinvestis apparaîtront avec un cout de base comme si vous achetiez à nouveau avec des espèces. C\\'est la méthode de calcul utilisée dans la plupart des échanges. Si ON, les dividendes sont ajoutés dans les deux cas au calcul du total sans cout de base.",
+    "tr": "KAPALI ise, yeniden yatırılmayan temettüler toplam hesaplamalarınızdan çıkarılacaktır. Yeniden yatırılan temettüler, tekrar nakit ile satın almışsınız gibi maliyet esası ile yansıtılacaktır. Bu, çoğu borsada kullanılan muhasebe yöntemidir. AÇIK ise, her iki durumda da temettüler maliyet esası olmaksızın toplam hesaplamalarınıza eklenir."
   },
   "portfolio_dividendsNotReinvestedHelp": {
     "en": "Dividends that are not part of a dividend reinvestment plan (DRIP) and converted to cash. If you re-invest these later, you should add a new BUY transaction. Amount should be in stock\\'s local currency. You can change how dividends are reflected in your total calculations in the app Settings under Calculations.",
-    "fr": "Dividendes qui ne font pas partie d\\'un régime de réinvestissement des dividendes (RRD) et convertis en espèces. Si vous les réinvestissez plus tard, vous devez ajouter une nouvelle transaction ACHETER. Le montant doit être dans la device du titre. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs."
-    "tr": "Bir temettü yeniden yatırım planının (DRIP) parçası olmayan ve nakde dönüştürülen temettüler. Bunları daha sonra yeniden yatırırsanız, yeni bir AL işlemi eklemelisiniz. Tutar, hisse senedinin yerel para birimi cinsinden olmalıdır. Temettülerin toplam hesaplamalarınıza nasıl yansıtılacağını Uygulama Ayarları\\'nda Hesaplamalar bölümünden değiştirebilirsiniz.",
+    "fr": "Dividendes qui ne font pas partie d\\'un régime de réinvestissement des dividendes (RRD) et convertis en espèces. Si vous les réinvestissez plus tard, vous devez ajouter une nouvelle transaction ACHETER. Le montant doit être dans la device du titre. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs.",
+    "tr": "Bir temettü yeniden yatırım planının (DRIP) parçası olmayan ve nakde dönüştürülen temettüler. Bunları daha sonra yeniden yatırırsanız, yeni bir AL işlemi eklemelisiniz. Tutar, hisse senedinin yerel para birimi cinsinden olmalıdır. Temettülerin toplam hesaplamalarınıza nasıl yansıtılacağını Uygulama Ayarları\\'nda Hesaplamalar bölümünden değiştirebilirsiniz."
   },
   "portfolio_dividendsReinvestedHelp": {
     "en": "Dividends part of a dividend reinvestment plan (DRIP). You do not need to add a separate transaction for the dividends to cash conversion. You can change how dividends are reflected in your total calculations in the app Settings under Calculations.",
-    "fr": "Dividendes faisant partie d\\'un régime de réinvestissement des dividendes (RRD). Vous n\\'avez pas besoin d\\'ajouter une transaction séparée pour la conversion des dividendes en espèces. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs."
-    "tr": "Temettüler, temettü yeniden yatırım planının (DRIP) bir parçasıdır. Temettüleri nakde dönüştürmek için ayrı bir işlem eklemenize gerek yoktur. Temettülerin toplam hesaplamalarınıza nasıl yansıtılacağını Uygulama Ayarları\\'nda Hesaplamalar bölümünden değiştirebilirsiniz.",
+    "fr": "Dividendes faisant partie d\\'un régime de réinvestissement des dividendes (RRD). Vous n\\'avez pas besoin d\\'ajouter une transaction séparée pour la conversion des dividendes en espèces. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs.",
+    "tr": "Temettüler, temettü yeniden yatırım planının (DRIP) bir parçasıdır. Temettüleri nakde dönüştürmek için ayrı bir işlem eklemenize gerek yoktur. Temettülerin toplam hesaplamalarınıza nasıl yansıtılacağını Uygulama Ayarları\\'nda Hesaplamalar bölümünden değiştirebilirsiniz."
   },
   "portfolio_doNotAddToTotals": {
     "en": "Don\\'t add to totals on Portfolios Overview screen",
@@ -2779,8 +2778,8 @@
   },
   "portfolio_realizedValue": {
     "en": "Realized Value",
-    "zh-Hant-TW": "已實現市值"
     "tr": "Gerçekleşen Değer",
+    "zh-Hant-TW": "已實現市值"
   },
   "portfolio_realizedYTD": {
     "en": "Realized YTD",
@@ -2898,16 +2897,16 @@
   "portfolio_sortChangeReverse": {
     "en": "Change (Ascending)",
     "fr": "Variation (Décroissant)",
-    "tr": "Değişim (Artan)",
+    "tr": "Değişim (Artan)"
   },
   "portfolio_sortAbsChangeReverse": {
-    "en": "Change (Absolute, Ascending)"
+    "en": "Change (Absolute, Ascending)",
     "tr": "Değişim (Mutlak, Artan)"
   },
   "portfolio_sortCostBasisReverse": {
     "en": "Cost Basis (Ascending)",
     "fr": "Cout (Décroissant)",
-    "tr": "Maliyete Göre (Artan)",
+    "tr": "Maliyete Göre (Artan)"
   },
   "portfolio_sortDailyChange": {
     "en": "Daily Change",
@@ -2931,8 +2930,8 @@
   },
   "portfolio_sortDailyChangePercentReverse": {
     "en": "Daily Change % (Ascending)",
-    "fr": "Variation quotidienne % (Décroissant)"
-    "tr": "Günlük Değişim % (Artan)",
+    "fr": "Variation quotidienne % (Décroissant)",
+    "tr": "Günlük Değişim % (Artan)"
   },
   "portfolio_sortAbsDailyChangePercentReverse": {
     "en": "Daily Change % (Absolute, Ascending)",
@@ -2940,8 +2939,8 @@
   },
   "portfolio_sortDailyChangeReverse": {
     "en": "Daily Change (Ascending)",
-    "fr": "Variation quotidienne (Décroissant)"
-    "tr": "Günlük Değişim (Artan)",
+    "fr": "Variation quotidienne (Décroissant)",
+    "tr": "Günlük Değişim (Artan)"
   },
   "portfolio_sortAbsDailyChangeReverse": {
     "en": "Daily Change (Absolute, Ascending)",
@@ -2949,47 +2948,47 @@
   },
   "portfolio_sortDragHandleAccessibility": {
     "en": "Drag Handle",
-    "fr": "Faites glisser la poignée"
-    "tr": "Sürükleme Kolu",
+    "fr": "Faites glisser la poignée",
+    "tr": "Sürükleme Kolu"
   },
   "portfolio_sortHoldingSelectedFormatted": {
     "_formatted": false,
     "en": "%d Holding Selected",
-    "fr": "%d position selectionnée".
+    "fr": "%d position selectionnée",
     "tr": "%d Varlık Seçildi"
   },
   "portfolio_sortHoldingsSelectedFormatted": {
     "_formatted": false,
     "en": "%d Holdings Selected",
-    "fr": "%d positions selectionnées"
-    "tr": "%d Varlıklar Seçildi",
+    "fr": "%d positions selectionnées",
+    "tr": "%d Varlıklar Seçildi"
   },
   "portfolio_sortNameReverse": {
     "en": "Name (Descending)",
-    "fr": "Nom (Décroissant)"
-    "tr": "Ad (Azalan)",
+    "fr": "Nom (Décroissant)",
+    "tr": "Ad (Azalan)"
   },
   "portfolio_sortNumberTransactions": {
     "en": "Number of Transactions",
-    "fr": "Nombre de transactions"
-    "tr": "İşlemlerin Sayısı",
+    "fr": "Nombre de transactions",
+    "tr": "İşlemlerin Sayısı"
   },
   "portfolio_sortNumberTransactionsReverse": {
     "en": "Number of Transactions (Ascending)",
-    "fr": "Nombre de transactions (Décroissant)"
-    "tr": "İşlemlerin Sayısı (Artan)",
+    "fr": "Nombre de transactions (Décroissant)",
+    "tr": "İşlemlerin Sayısı (Artan)"
   },
   "portfolio_sortPortfolioSelectedFormatted": {
     "_formatted": false,
     "en": "%d Portfolio Selected",
-    "fr": "%d portefeuille selectionné"
-    "tr": "%d Portföy Seçildi",
+    "fr": "%d portefeuille selectionné",
+    "tr": "%d Portföy Seçildi"
   },
   "portfolio_sortPortfoliosSelectedFormatted": {
     "_formatted": false,
     "en": "%d Portfolios Selected",
     "fr": "%d portefeuilles selectionnés",
-    "tr": "%d Portföyler Seçildi",
+    "tr": "%d Portföyler Seçildi"
   },
   "portfolio_sortPriceReverse": {
     "de": "Preis (aufsteigend)",
@@ -3032,17 +3031,17 @@
   },
   "portfolio_sortTotalChangePercent": {
     "en": "Total Change %",
-    "fr": "Variation totale %"
-    "tr": "Toplam Değişim % ",
+    "fr": "Variation totale %",
+    "tr": "Toplam Değişim % "
   },
   "portfolio_sortAbsTotalChangePercent": {
-    "en": "Total Change % (Absolute)".
+    "en": "Total Change % (Absolute)",
     "tr": "Toplam Değişim % (Mutlak)"
   },
   "portfolio_sortTotalChangePercentReverse": {
     "en": "Total Change % (Ascending)",
     "fr": "Variation totale % (Décroissant)",
-    "tr": "Toplam Değişim % (Artan)",
+    "tr": "Toplam Değişim % (Artan)"
   },
   "portfolio_sortAbsTotalChangePercentReverse": {
     "en": "Total Change % (Absolute, Ascending)",
@@ -3050,17 +3049,17 @@
   },
   "portfolio_sortTotalChangeReverse": {
     "en": "Total Change (Ascending)",
-    "fr": "Variation totale (Décroissant)"
-    "tr": "Toplam Değişim (Artan)",
+    "fr": "Variation totale (Décroissant)",
+    "tr": "Toplam Değişim (Artan)"
   },
   "portfolio_sortAbsTotalChangeReverse": {
-    "en": "Total Change (Absolute, Ascending)"
+    "en": "Total Change (Absolute, Ascending)",
     "tr": "Toplam Değişim (Mutlak, Artan)"
   },
   "portfolio_sortValueReverse": {
     "en": "Value (Ascending)",
-    "fr": "Valeur (Décroissant)"
-    "tr": "Değer (Artan)",
+    "fr": "Valeur (Décroissant)",
+    "tr": "Değer (Artan)"
   },
   "portfolio_sortCondition": {
     "de": "Art",
@@ -3087,12 +3086,12 @@
     "de": "Sortieren nach…",
     "en": "Sort By…",
     "fr": "Trier par…",
-    "tr": "Şuna göre sırala…",
+    "tr": "Şuna göre sırala…"
   },
   "portfolio_syncBrokerage": {
     "en": "Sync Brokerage",
     "fr": "Synchronisation du courtage",
-    "tr": "Aracı kurum senkronizasyonu",
+    "tr": "Aracı kurum senkronizasyonu"
   },
   "portfolio_ticker": {
     "de": "Bezeichnung",
@@ -3128,12 +3127,12 @@
   "portfolio_totalProceedsPlaceholder": {
     "_formatted": false,
     "en": "Proceeds: %s",
-    "tr": "Getiri: %s",
+    "tr": "Getiri: %s"
   },
   "portfolio_unannualizedPlaceholder": {
     "_formatted": false,
     "en": "Unannualized %s",
-    "tr": "Yıllıklandırılmamış %s",
+    "tr": "Yıllıklandırılmamış %s"
   },
   "portfolio_unrealized": {
     "en": "Unrealized",
@@ -3189,8 +3188,8 @@
   },
   "portfolio_useTodayChange": {
     "en": "Today\\'s Change (New day time configurable in Settings, Calculations)",
-    "fr": "Taux de change du jour, Réinitialisé à:\\nminuit"
-    "tr": "Günlük değişim (Yeni günün başlangıç zamanı ayarlar-hesaplamalar bölümünden değiştirilebilir",
+    "fr": "Taux de change du jour, Réinitialisé à:\\nminuit",
+    "tr": "Günlük değişim (Yeni günün başlangıç zamanı ayarlar-hesaplamalar bölümünden değiştirilebilir"
   },
   "portfolio_value": {
     "en": "Value",
@@ -3217,11 +3216,11 @@
     "zh-Hant-TW": "觀察清單"
   },
   "portfolio_xirr": {
-    "en": "XIRR"
+    "en": "XIRR",
     "tr": "İGO"
   },
   "portfolio_ytdStart": {
-    "en": "YTD Start"
+    "en": "YTD Start",
     "tr": "YTD Başlangıcı"
   },
   "portfolioHistorical_clearLocalCache": {
@@ -3230,17 +3229,17 @@
     "zh-Hant-TW": "清除歷史紀錄"
   },
   "portfolioHistorical_title": {
-    "en": "Calculate historical performance?\\n\\nNote: If you modify previous transactions, you may need to clear the historical storage and recalculate. If historical quote prices are missing, you can go to the quote details page and add custom historical prices from the top menu."
-    "tr": "Geçmiş performansı hesaplayın\\n\\nNot: Önceki işlemleri değiştirirseniz, geçmiş depolamayı temizlemeniz ve yeniden hesaplamanız gerekebilir. Geçmiş teklif fiyatları eksikse, teklif ayrıntıları sayfasına gidebilir ve üst menüden özel geçmiş fiyatlar ekleyebilirsiniz.",
+    "en": "Calculate historical performance?\\n\\nNote: If you modify previous transactions, you may need to clear the historical storage and recalculate. If historical quote prices are missing, you can go to the quote details page and add custom historical prices from the top menu.",
+    "tr": "Geçmiş performansı hesaplayın\\n\\nNot: Önceki işlemleri değiştirirseniz, geçmiş depolamayı temizlemeniz ve yeniden hesaplamanız gerekebilir. Geçmiş teklif fiyatları eksikse, teklif ayrıntıları sayfasına gidebilir ve üst menüden özel geçmiş fiyatlar ekleyebilirsiniz."
   },
   "portfolioHistorical_disableDataGranularity": {
-    "en": "Calculate 1 day granularity for 1+ year old data (slow)"
+    "en": "Calculate 1 day granularity for 1+ year old data (slow)",
     "tr": "+1 yıllık veriler için 1 günlük ayrıntı düzeyini hesaplayın (yavaş)"
   },
   "purchases_alreadyPurchased": {
     "en": "Already purchased",
     "fr": "Déjà acheté",
-    "tr": "Zaten satın alınmış",
+    "tr": "Zaten satın alınmış"
   },
   "purchases_couldNotFetchPurchases": {
     "en": "Could not fetch in-app purchases. Please try again later.",
