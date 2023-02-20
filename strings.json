@@ -397,7 +397,7 @@
   "addQuote_howToPreviewHelp": {
     "en": "After entering the symbol/ticker, a price preview should show up.\\n\\nClick on the price preview to view the quote without adding it to your portfolio.",
     "fr": "Après avoir saisi le nom du symbole, cliquez sur le clavier ou sélectionnez un symbole depuis la liste d\\'auto-complétion.\\n\\nSi une prévisualisation du prix the la cotation surgit sous le champ du symbole, vous pouvez cliquer dessus pour prévisualiser la cotation et les actualités sans l\\'ajouter à votre portefeuille."
-    "tr": "Sembolü/etiketi girdikten sonra bir fiyat önizlemesi görünecektir.\\n\\nPortföyünüze eklemeden fiyatı görüntülemek için fiyat önizlemesine tıklayın.",
+    "tr": "Sembolü/etiketi girdikten sonra bir fiyat önizlemesi görünecektir.\\n\\nPortföyünüze eklemeden fiyatı görüntülemek için fiyat önizlemesine tıklayın."
   },
   "addQuote_howToAddCrypto": {
     "en": "How To: Tracking crypto",
@@ -405,7 +405,7 @@
     "zh-Hant-TW": "如何追蹤加密貨幣"
   },
   "addQuote_howToAddCryptoHelp": {
-    "en": "To track a crypto, enter the pair (i.e. BTC-USD). If you cannot find a pair, you may contact us at support@peeksoft.co to get it registered. Prices are aggregated across exchanges (Source: CoinGecko)."
+    "en": "To track a crypto, enter the pair (i.e. BTC-USD). If you cannot find a pair, you may contact us at support@peeksoft.co to get it registered. Prices are aggregated across exchanges (Source: CoinGecko).",
     "tr": "Bir kriptoyu takip etmek için eşleşme girin (örneğin BTC-USD). Bir eşleşme bulamazsanız kaydettirmek için support@peeksoft.co adresinden bizimle iletişime geçebilirsiniz. Fiyatlar borsalar arasında toplanmıştır (Kaynak: CoinGecko)."
   },
   "addQuote_symbol": {
@@ -847,6 +847,7 @@
   },
   "csvImport_recognizedHeadersHelp": {
     "en": "Recognized CSV Headers:\\n\\nSymbol: Symbol name (i.e. BB)\\nPortfolio: Portfolio the quote belongs to\\nShares: Shares owned\\nType: Buy, Sell, Buy to Cover, Sell Short\\nPrice: Cost per share\\nCommission: Total commissions\\nDate: Date of transaction (YYYY-MM-DD GMT+HH:MM), i.e. 2017–05–25 GMT+01:00\\nNotes: Additional notes\\n\\nTo see a sample CSV, you can export a CSV from the app.\\n\\nThe Date format must be correct or the date will not be imported. If you are using Excel, you can customize the format of the generated dates. 2016–11–25 GMT-08:00 is a valid date, 11–25–2017 is not.",
+    "tr": "Tanınan CSV Başlıkları:\\n\\nSembol: Sembol adı (örneğin BB)\\nPortföy: Önerilerin ait olduğu portföy\\nHisseler: Sahip olunan hisseler\\nTür: Al, Sat, Kapatmak için Al, Açığa Sat\\nFiyat: Hisse başı maliyet\\nKomisyon: Toplam komisyon\\nTarih: İşlem tarihi (YYY–MM–DD GMT+H:MM), örneğin 2017–05–25 GMT+01:00\\nNotlar: Ek notlar\\n\\nÖrnek bir CSV görmek için uygulamadan bir CSV dışa aktarabilirsiniz.\\n\\nTarih biçimi doğru olmalıdır, aksi takdirde tarih içe aktarılmayacaktır. Excel kullanıyorsanız oluşturulan tarihlerin biçimini özelleştirebilirsiniz. 2016–11–25 GMT–08:00 geçerli bir tarihtir, 11–25–2017 geçerli değildir.",
     "zh-Hant-TW": "確認 CSV 標題:\\n\\n代碼: 代碼名稱 (例. BB)\\n組合: 股票屬於組合\\n股數: 擁有股數\\n類別: 買, 賣, 空單補回, 賣空\\n價格: 每股均價\\n手續費: 總手續費\\n日期: 成交日期 (YYYY-MM-DD GMT+HH:MM), 例. 2017–05–25 GMT+01:00\\n備註: 附註\\n\\n不知道CSV格式的話,你可以從app匯出CSV.\\n\\n日期格式一定要正確,否則該日期將不會被匯入.如果是使用Excel的話,可以客製化日期格式 2016–11–25 GMT-08:00 這個日期格式是可以的, 11–25–2017 則不行."
     "tr": "Tanınan CSV Başlıkları:\\n\\nSembol: Sembol adı (örneğin BB)\\nPortföy: Önerilerin ait olduğu portföy\\nHisseler: Sahip olunan hisseler\\nTür: Al, Sat, Kapatmak için Al, Açığa Sat\\nFiyat: Hisse başı maliyet\\nKomisyon: Toplam komisyon\\nTarih: İşlem tarihi (YYY-MM-DD GMT+H:MM), örneğin 2017-05-25 GMT+01:00\\nNotlar: Ek notlar\\n\\nÖrnek bir CSV görmek için uygulamadan bir CSV dışa aktarabilirsiniz.\\n\\nTarih biçimi doğru olmalıdır, aksi takdirde tarih içe aktarılmayacaktır. Excel kullanıyorsanız oluşturulan tarihlerin biçimini özelleştirebilirsiniz. 2016-11-25 GMT-08:00 geçerli bir tarihtir, 11-25-2017 geçerli değildir.",
   },
@@ -1814,7 +1815,7 @@
   "help_dontSeeMyAnswer": {
     "en": "I don\\'t see my answer…",
     "fr": "Je ne vois pas ma réponse…",
-    "tr": "Cevabımı göremiyorum...",
+    "tr": "Cevabımı göremiyorum…",
     "zh-Hant-TW": "我沒有找到答案…"
   },
   "help_howCanWeHelp": {
@@ -2631,7 +2632,7 @@
   "portfolio_movingToPortfolio": {
     "en": "Moving to portfolio…",
     "fr": "Déplacement vers le portefeuille…",
-    "tr": "Portföye taşınıyor...",
+    "tr": "Portföye taşınıyor…",
     "zh-Hant-TW": "移動至投資組合中…"
   },
   "portfolio_multipleCurrenciesNoHomeCurrency": {
@@ -2872,7 +2873,7 @@
     "zh-Hant-TW": "更多"
   },
   "portfolio_sortAbsChange": {
-    "en": "Change (Absolute)"
+    "en": "Change (Absolute)",
     "tr": "Değişim (Mutlak)"
   },
   "portfolio_sortChangePercent": {
@@ -2882,12 +2883,12 @@
     "zh-Hant-TW": "漲跌 %"
   },
   "portfolio_sortAbsChangePercent": {
-    "en": "Change % (Absolute)"
+    "en": "Change % (Absolute)",
     "tr": "Değişim % (Mutlak)"
   },
   "portfolio_sortChangePercentReverse": {
     "en": "Change % (Ascending)",
-    "fr": "Variation % (Décroissant)"
+    "fr": "Variation % (Décroissant)",
     "tr": "Değişim % (Artan)",
   },
   "portfolio_sortAbsChangePercentReverse": {
@@ -2896,7 +2897,7 @@
   },
   "portfolio_sortChangeReverse": {
     "en": "Change (Ascending)",
-    "fr": "Variation (Décroissant)"
+    "fr": "Variation (Décroissant)",
     "tr": "Değişim (Artan)",
   },
   "portfolio_sortAbsChangeReverse": {
@@ -2905,7 +2906,7 @@
   },
   "portfolio_sortCostBasisReverse": {
     "en": "Cost Basis (Ascending)",
-    "fr": "Cout (Décroissant)"
+    "fr": "Cout (Décroissant)",
     "tr": "Maliyete Göre (Artan)",
   },
   "portfolio_sortDailyChange": {
@@ -2915,7 +2916,7 @@
     "zh-Hant-TW": "每日漲跌"
   },
   "portfolio_sortAbsDailyChange": {
-    "en": "Daily Change (Absolute)"
+    "en": "Daily Change (Absolute)",
     "tr": "Günlük Değişim (Mutlak)"
   },
   "portfolio_sortDailyChangePercent": {
@@ -2925,7 +2926,7 @@
     "zh-Hant-TW": "每日漲跌 %"
   },
   "portfolio_sortAbsDailyChangePercent": {
-    "en": "Daily Change % (Absolute)"
+    "en": "Daily Change % (Absolute)",
     "tr": "Günlük Değişim % (Mutlak)"
   },
   "portfolio_sortDailyChangePercentReverse": {
@@ -2934,7 +2935,7 @@
     "tr": "Günlük Değişim % (Artan)",
   },
   "portfolio_sortAbsDailyChangePercentReverse": {
-    "en": "Daily Change % (Absolute, Ascending)"
+    "en": "Daily Change % (Absolute, Ascending)",
     "tr": "Günlük Değişim % (Mutlak, Artan)"
   },
   "portfolio_sortDailyChangeReverse": {
@@ -2943,7 +2944,7 @@
     "tr": "Günlük Değişim (Artan)",
   },
   "portfolio_sortAbsDailyChangeReverse": {
-    "en": "Daily Change (Absolute, Ascending)"
+    "en": "Daily Change (Absolute, Ascending)",
     "tr": "Günlük Değişim (Mutlak, Artan)"
   },
   "portfolio_sortDragHandleAccessibility": {
@@ -2954,8 +2955,8 @@
   "portfolio_sortHoldingSelectedFormatted": {
     "_formatted": false,
     "en": "%d Holding Selected",
-    "fr": "%d position selectionnée"
-    "tr": "%d Varlık Seçildi",
+    "fr": "%d position selectionnée".
+    "tr": "%d Varlık Seçildi"
   },
   "portfolio_sortHoldingsSelectedFormatted": {
     "_formatted": false,
@@ -2987,26 +2988,26 @@
   "portfolio_sortPortfoliosSelectedFormatted": {
     "_formatted": false,
     "en": "%d Portfolios Selected",
-    "fr": "%d portefeuilles selectionnés"
+    "fr": "%d portefeuilles selectionnés",
     "tr": "%d Portföyler Seçildi",
   },
   "portfolio_sortPriceReverse": {
     "de": "Preis (aufsteigend)",
     "en": "Price (Ascending)",
-    "fr": "Prix (Décroissant)"
-    "tr": "Fiyat (Artan)",
+    "fr": "Prix (Décroissant)",
+    "tr": "Fiyat (Artan)"
   },
   "portfolio_sortQuoteSelectedFormatted": {
     "_formatted": false,
     "en": "%d Quote Selected",
-    "fr": "%d quotation selectionné"
-    "tr": "%d Öneri Seçildi",
+    "fr": "%d quotation selectionné",
+    "tr": "%d Öneri Seçildi"
   },
   "portfolio_sortQuotesSelectedFormatted": {
     "_formatted": false,
     "en": "%d Quotes Selected",
-    "fr": "%d quotations selectionnés"
-    "tr": "%d Öneriler Seçildi",
+    "fr": "%d quotations selectionnés",
+    "tr": "%d Öneriler Seçildi"
   },
   "portfolio_sortSymbols": {
     "de": "Symbole",
@@ -3017,8 +3018,8 @@
   "portfolio_sortSymbolsReverse": {
     "de": "Symbole (absteigend)",
     "en": "Symbols (Descending)",
-    "fr": "Symbole (Décroissant)"
-    "tr": "Semboller (Azalan)",
+    "fr": "Symbole (Décroissant)",
+    "tr": "Semboller (Azalan)"
   },
   "portfolio_sortTotalChange": {
     "en": "Total Change",
@@ -3026,7 +3027,7 @@
     "tr": "Toplam Değişim"
   },
   "portfolio_sortAbsTotalChange": {
-    "en": "Total Change (Absolute)"
+    "en": "Total Change (Absolute)",
     "tr": "Toplam Değişim (Mutlak)"
   },
   "portfolio_sortTotalChangePercent": {
@@ -3035,16 +3036,16 @@
     "tr": "Toplam Değişim % ",
   },
   "portfolio_sortAbsTotalChangePercent": {
-    "en": "Total Change % (Absolute)"
+    "en": "Total Change % (Absolute)".
     "tr": "Toplam Değişim % (Mutlak)"
   },
   "portfolio_sortTotalChangePercentReverse": {
     "en": "Total Change % (Ascending)",
-    "fr": "Variation totale % (Décroissant)"
+    "fr": "Variation totale % (Décroissant)",
     "tr": "Toplam Değişim % (Artan)",
   },
   "portfolio_sortAbsTotalChangePercentReverse": {
-    "en": "Total Change % (Absolute, Ascending)"
+    "en": "Total Change % (Absolute, Ascending)",
     "tr": "Toplam Değişim % (Mutlak, Artan)"
   },
   "portfolio_sortTotalChangeReverse": {
@@ -3085,12 +3086,12 @@
   "portfolio_sort_by": {
     "de": "Sortieren nach…",
     "en": "Sort By…",
-    "fr": "Trier par…"
+    "fr": "Trier par…",
     "tr": "Şuna göre sırala…",
   },
   "portfolio_syncBrokerage": {
     "en": "Sync Brokerage",
-    "fr": "Synchronisation du courtage"
+    "fr": "Synchronisation du courtage",
     "tr": "Aracı kurum senkronizasyonu",
   },
   "portfolio_ticker": {
@@ -3126,12 +3127,12 @@
   },
   "portfolio_totalProceedsPlaceholder": {
     "_formatted": false,
-    "en": "Proceeds: %s"
+    "en": "Proceeds: %s",
     "tr": "Getiri: %s",
   },
   "portfolio_unannualizedPlaceholder": {
     "_formatted": false,
-    "en": "Unannualized %s"
+    "en": "Unannualized %s",
     "tr": "Yıllıklandırılmamış %s",
   },
   "portfolio_unrealized": {
@@ -3332,7 +3333,7 @@
   "purchases_restoringPurchases": {
     "en": "Restoring Purchases…",
     "fr": "Restoration des achats…",
-    "tr": "Satın Almalar Geri Yükleniyor...",
+    "tr": "Satın Almalar Geri Yükleniyor…",
     "zh-Hant-TW": "重新安裝中…"
   },
   "purchases_restorePurchasesHelp": {
@@ -3357,23 +3358,23 @@
   },
   "purchases_subscriptionIssue": {
     "en": "Something\\'s wrong with your subscription, but you\\'ve still got access during a temporary grace period. Tap here to fix the problem.",
-    "fr": "Quelque chose pose problème à votre souscription mais vous avez toujours l\\'accès durant une période de grâce temporaire. Tapez ici pour résoudre le problème."
-    "tr": "Aboneliğinizle ilgili bir sorun var ancak geçici bir ödemesiz dönem boyunca hala erişiminiz bulunmaktadır. Sorunu çözmek için buraya dokunun.",
+    "fr": "Quelque chose pose problème à votre souscription mais vous avez toujours l\\'accès durant une période de grâce temporaire. Tapez ici pour résoudre le problème.",
+    "tr": "Aboneliğinizle ilgili bir sorun var ancak geçici bir ödemesiz dönem boyunca hala erişiminiz bulunmaktadır. Sorunu çözmek için buraya dokunun."
   },
   "purchases_subscriptionOnHold": {
     "en": "Your account is on hold because there\\'s a problem with your payment method. Tap here to fix the problem.",
-    "fr": "Votre compte est suspendu à cause d\\'un problème avec votre méthode de paiement. Tapez ici pour résoudre le problème."
-    "tr": "Ödeme yönteminizle ilgili bir sorun olduğu için hesabınız bekletiliyor. Sorunu çözmek için buraya dokunun.",
+    "fr": "Votre compte est suspendu à cause d\\'un problème avec votre méthode de paiement. Tapez ici pour résoudre le problème.",
+    "tr": "Ödeme yönteminizle ilgili bir sorun olduğu için hesabınız bekletiliyor. Sorunu çözmek için buraya dokunun."
   },
   "purchases_subscriptionTransfer": {
     "en": "A different account is already using your subscription, but you can transfer your subscription to this account. Tap here to transfer the subscription.",
-    "fr": "Un autre compte utilise déjà votre souscription mais vous pouvez transférer votre souscription vers ce compte. Tapez ici pour transférer la souscription."
-    "tr": "Aboneliğinizi zaten farklı bir hesap kullanıyor, ancak aboneliğinizi bu hesaba aktarabilirsiniz. Aboneliği aktarmak için buraya dokunun.",
+    "fr": "Un autre compte utilise déjà votre souscription mais vous pouvez transférer votre souscription vers ce compte. Tapez ici pour transférer la souscription.",
+    "tr": "Aboneliğinizi zaten farklı bir hesap kullanıyor, ancak aboneliğinizi bu hesaba aktarabilirsiniz. Aboneliği aktarmak için buraya dokunun."
   },
   "purchases_thankYouForUpgrading": {
     "en": "Thank you for upgrading!",
-    "fr": "Merci d\\'avoir procédé à la mise à niveau !"
-    "tr": "Yükseltme için teşekkür ederiz!",
+    "fr": "Merci d\\'avoir procédé à la mise à niveau !",
+    "tr": "Yükseltme için teşekkür ederiz!"
   },
   "purchases_trial": {
     "en": "Join free for a week\\n(first time subscribers)",
@@ -3419,18 +3420,18 @@
   },
   "reviewPrompt_rateFiveStars": {
     "en": "Rate 5 ⭐",
-    "fr": "Evaluer à 5 ⭐"
-    "tr": "5 ⭐",
+    "fr": "Evaluer à 5 ⭐",
+    "tr": "5 ⭐"
   },
   "reviewPrompt_rateFourStarsOrLess": {
     "en": "Rate 4 ⭐ or less",
-    "fr": "Evaluer à 4 ⭐ ou moins"
-    "tr": "4 ⭐ veya daha az",
+    "fr": "Evaluer à 4 ⭐ ou moins",
+    "tr": "4 ⭐ veya daha az"
   },
   "reviewPrompt_takeMomentToRateApp": {
     "en": "Take a moment to rate the app? 5 ⭐ ratings help the app to attract more customers and improve.",
-    "fr": "Prenez un moment pour évaluer l\\'application ? 5 ⭐ aident l\\'application à attirer plus de clients et à l\\'améliorer."
-    "tr": "Uygulamayı değerlendirmek için bir dakikanızı ayırır mısınız? 5 ⭐ derecelendirme, uygulamanın daha fazla müşteri çekmesine ve gelişmesine yardımcı olur.",
+    "fr": "Prenez un moment pour évaluer l\\'application ? 5 ⭐ aident l\\'application à attirer plus de clients et à l\\'améliorer.",
+    "tr": "Uygulamayı değerlendirmek için bir dakikanızı ayırır mısınız? 5 ⭐ derecelendirme, uygulamanın daha fazla müşteri çekmesine ve gelişmesine yardımcı olur."
   },
   "reviewPrompt_whatDoYouThinkAboutApp": {
     "en": "What do you think about the app?",
@@ -3440,18 +3441,18 @@
   },
   "settingsCalculations_askPriceIfAvailable": {
     "en": "Ask Price, if available and within 10 percent",
-    "fr": "Prix (offre), si disponible and within 10 percent"
-    "tr": "Satış (Talep) Fiyatı, eğer yüzde 10 arasındaysa",
+    "fr": "Prix (offre), si disponible and within 10 percent",
+    "tr": "Satış (Talep) Fiyatı, eğer yüzde 10 arasındaysa"
   },
   "settingsCalculations_bidAndAskAverageIfAvailable": {
     "en": "(Bid+Ask)/2, if available and within 10 percent",
-    "fr": "(Demande+Offre)/2, si disponible and within 10 percent"
-    "tr": "(Alış+Satış)/2, eğer yüzde 10 arasındaysa",
+    "fr": "(Demande+Offre)/2, si disponible and within 10 percent",
+    "tr": "(Alış+Satış)/2, eğer yüzde 10 arasındaysa"
   },
   "settingsCalculations_bidPriceIfAvailable": {
     "en": "Bid Price, if available and within 10 percent",
-    "fr": "Prix (demande), si disponible and within 10 percent"
-    "tr": "Alış (Teklif) Fiyatı, eğer yüzde 10 arasındaysa",
+    "fr": "Prix (demande), si disponible and within 10 percent",
+    "tr": "Alış (Teklif) Fiyatı, eğer yüzde 10 arasındaysa"
   },
   "settingsCalculations_extendedHoursIfAvailable": {
     "en": "Extended Hours, if available",
@@ -3461,14 +3462,14 @@
   "settingsCalculations_holdingDailyChangeUses": {
     "de": "Tägliche Kursänderung des Bestands verwendet…",
     "en": "Holdings daily change uses…",
-    "fr": "Les variations du jour sur les positions utilisent…"
+    "fr": "Les variations du jour sur les positions utilisent…",
     "tr": "Varlıkların günlük değişimlerini kullan...",
   },
   "settingsCalculations_holdingsCalculatedUsing": {
     "de": "Bestände berechnet nach…",
     "en": "Holdings calculated using…",
-    "fr": "Positions calculées avec…"
-    "tr": "Hesaplamada varlıklar kullanılıyor…",
+    "fr": "Positions calculées avec…",
+    "tr": "Hesaplamada varlıklar kullanılıyor…"
   },
   "settingsCalculations_yearToDateBegins": {
     "de": "Jahr-zu-Tag (YTD) beginnt am…",
@@ -3477,18 +3478,18 @@
   },
   "settingsCalculations_omitCashFromPercentages": {
     "de": "Bargeld aus den %-Renditen weglassen",
-    "en": "Omit cash from % returns"
+    "en": "Omit cash from % returns",
     "tr": "% getirilerden nakit parayı çıkart"
   },
   "settingsCalculations_omitCashFromPercentagesHelp": {
     "de": "Barmittel werden bei der Berechnung der prozentualen Portfoliorenditen, wie z.B. der unrealisierten prozentualen Veränderung, nicht berücksichtigt",
-    "en": "Cash will be omitted when calculating portfolio percentage returns, such as unrealized change percent"
+    "en": "Cash will be omitted when calculating portfolio percentage returns, such as unrealized change percent",
     "tr": "Gerçekleşmemiş değişim yüzdesi gibi portföy yüzde getirileri hesaplanırken nakit ihmal edilecektir"
   },
   "settingsCalculations_todayResetsAt": {
     "de": "neue Tageszeit bei Verwendung von Heute-Berechnungen",
-    "en": "New day time when using Today calculations"
-    "tr": "Günlük hesaplamalar için yeni gün zamanı",
+    "en": "New day time when using Today calculations",
+    "tr": "Günlük hesaplamalar için yeni gün zamanı"
   },
   "settingsDisplay_averagePricePerShare": {
     "en": "Average Price per Share",
@@ -3499,14 +3500,14 @@
   "settingsDisplay_averagePricePerSharePrecision": {
     "de": "Durchschnittspreis pro Aktie min. Genauigkeit",
     "en": "Avg price per share min precision",
-    "fr": "Précision du prix moyen par action"
-    "tr": "Hisse başı Ortalama Fiyat min hassasiyeti",
+    "fr": "Précision du prix moyen par action",
+    "tr": "Hisse başı Ortalama Fiyat min hassasiyeti"
   },
   "settingsDisplay_daylightFontColor": {
     "de": "Schriftfarbe \"Daylight\" (gelb)",
     "en": "Daylight font color",
-    "fr": "Couleur de police de jour"
-    "tr": "Gündüz yazı tipi rengi",
+    "fr": "Couleur de police de jour",
+    "tr": "Gündüz yazı tipi rengi"
   },
   "settingsDisplay_decimalPlaces0": {
     "en": "0 decimal places",
@@ -3572,12 +3573,12 @@
   "settingsDisplay_inlineAllTimeAndRealized": {
     "de": "Inline Allzeithoch und realisierte Renditen",
     "en": "Inline all-time and realized returns",
-    "fr": "Affichier les gains depuis toujours et réalisés"
+    "fr": "Affichier les gains depuis toujours et réalisés",
     "tr": "Tüm zamanlar ve gerçekleşen getiriler",
   },
   "settingsDisplay_inlineAllTimeAndRealizedHelp": {
     "en": "Show all-time and realized gains below each portfolio and holding",
-    "fr": "Afficher les gains depuis toujours et réalisés sous chaque portefeuille et position"
+    "fr": "Afficher les gains depuis toujours et réalisés sous chaque portefeuille et position",
     "tr": "Her portföyün ve varlığın altında tüm zamanları ve gerçekleşen kazançları gösterir",
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtd": {
@@ -3591,7 +3592,7 @@
   },
   "settingsDisplay_inlineSharesAndAveragePricePerShare": {
     "de": "Inline Aktien und Durchschnittspreis pro Aktie",
-    "en": "Inline shares and average price per share"
+    "en": "Inline shares and average price per share",
     "tr": "Satır içi hisseler ve hisse başına ortalama fiyat"
   },
   "settingsDisplay_invertFontColor": {
@@ -3634,7 +3635,7 @@
   },
   "settingsDisplay_extendedHoursHelp": {
     "de": "Anzeige des erweiterten Handels (wird als 3. Zeile angezeigt, wenn der Einzeilenmodus ausgeschaltet ist, wird in derselben Zeile angezeigt, wenn der Einzeilenmodus eingeschaltet ist)",
-    "en": "Display extended trading (shows as 3rd line if single-line mode is off, shows on same line if single-line mode is on)"
+    "en": "Display extended trading (shows as 3rd line if single-line mode is off, shows on same line if single-line mode is on)",
     "tr": "Uzatılmış Piyasa saati işlemlerini göster (tek satır modu kapalıysa 3. satır olarak gösterilir, tek satır modu açıksa aynı satırda gösterilir)"
   },
   "settingsDisplay_miniMode": {
@@ -3767,8 +3768,8 @@
   },
   "settingsDisplay_showSharesAtAveragePricePerShare": {
     "en": "Show Avg Price Per Share and Number of Shares below each holding",
-    "fr": "Afficher Prix moyen par action et Nombre d\\'actions sous chaque position"
-    "tr": "Her bir varlığın altında Hisse Başına Ortalama Fiyatı ve Hisse Sayısını göster",
+    "fr": "Afficher Prix moyen par action et Nombre d\\'actions sous chaque position",
+    "tr": "Her bir varlığın altında Hisse Başına Ortalama Fiyatı ve Hisse Sayısını göster"
   },
   "settingsDisplay_theme": {
     "de": "Theme",
@@ -3814,7 +3815,7 @@
     "zh-Hant-TW": "永不鎖定螢幕"
   },
   "settingsGeneral_keepScreenAliveHelp": {
-    "en": "Prevent phone screen from sleeping while app is visible"
+    "en": "Prevent phone screen from sleeping while app is visible",
     "tr": "Uygulama görünür durumdayken telefon ekranının uyumasını önler"
   },
   "settingsGeneral_openNewsExternalBrowser": {
@@ -3830,7 +3831,7 @@
   },
   "settingsGeneral_showExitPromptHelp": {
     "de": "Zeigt vor dem Beenden des Startbildschirms der App eine Bestätigungsmeldung an.",
-    "en": "Show a confirmation message before exiting the app while on the home screen"
+    "en": "Show a confirmation message before exiting the app while on the home screen",
     "tr": "Uygulamadan çıkmadan önce ana ekran sayfasında bir onay mesajı gösterir"
   },
   "settingsWidget_singleLineMode": {
@@ -3874,7 +3875,7 @@
   },
   "settings_couldNotStartEmailApp": {
     "en": "Could not start email app. Have you set up email on your device?",
-    "fr": "Impossible de lancer l\\'application email. Avez-vous configuré votre email sur votre appareil ?"
+    "fr": "Impossible de lancer l\\'application email. Avez-vous configuré votre email sur votre appareil ?",
     "tr": "E-posta uygulaması başlatılamadı. Cihazınızda e-posta kurulumu yaptınız mı?",
   },
   "settings_csv": {
@@ -3884,12 +3885,12 @@
     "zh-Hant-TW": "CSV"
   },
   "settings_csvExport": {
-    "en": "Export as CSV"
-    "tr": "CSV olarak dışa aktar",
+    "en": "Export as CSV",
+    "tr": "CSV olarak dışa aktar"
   },
   "settings_csvExportCustomPrices": {
-    "en": "Export Custom Prices as CSV"
-    "tr": "Özel Fiyatları CSV olarak dışa aktar",
+    "en": "Export Custom Prices as CSV",
+    "tr": "Özel Fiyatları CSV olarak dışa aktar"
   },
   "settings_csvExportPortfolios": {
     "en": "Export Portfolios as CSV",
@@ -4231,7 +4232,7 @@
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
     "fr": "Synchronisation des portefeuilles…",
-    "tr": "Portföyler sunucu ile senkronize ediliyor..."
+    "tr": "Portföyler sunucu ile senkronize ediliyor…"
   },
   "sync_lastSynchronizedTimeFormatted": {
     "_formatted": false,
