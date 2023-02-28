@@ -454,7 +454,8 @@
   "addQuote_typeUnlisted": {
     "en": "Unlisted",
     "fr": "Non listé",
-    "tr": "Listelenmeyen"
+    "tr": "Listelenmeyen",
+    "zh-Hant-TW": "其他"
   },
   "alert_alertPageEmptyHelp": {
     "en": "Add an alert by tapping Add Alert (Alert icon) in the menu, or by tapping here.",
