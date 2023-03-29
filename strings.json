@@ -12,75 +12,91 @@
   },
   "accounting_addLots": {
     "en": "Add Lot(s)",
+    "de": "Lot(s) hinzufügen",
     "tr": "Lot(ları) Ekle"
   },
   "accounting_execution": {
     "en": "Execution",
+    "de": "Ausführung",
     "tr": "İşlem yöntemi"
   },
   "accounting_fifo": {
     "en": "FIFO",
+    "de": "FIFO",
     "tr": "FİFO",
     "zh-Hant-TW": "先買先賣"
   },
   "accounting_fifoDescription": {
     "en": "First In, First Out",
+    "de": "zuerst rein, zuerst raus",
     "tr": "İlk Giren, İlk Çıkar",
     "zh-Hant-TW": "先買先賣"
   },
   "accounting_lifo": {
     "en": "LIFO",
+    "de": "LIFO",
     "tr": "LİFO",
     "zh-Hant-TW": "後買先賣"
   },
   "accounting_lifoDescription": {
     "en": "Last In, First Out",
+    "de": "Zuletzt rein, Zuerst raus",
     "tr": "Son Giren, İlk Çıkar",
     "zh-Hant-TW": "後買先賣"
   },
   "accounting_highCost": {
     "en": "High Cost",
+    "de": "Höchster Preis",
     "tr": "Yüksek Maliyetli",
     "zh-Hant-TW": "成本高"
   },
   "accounting_highCostDescription": {
     "en": "Shares that were most expensive are sold first",
+    "de": "Die teuersten Aktien werden zuerst verkauft",
     "tr": "Önce en pahalı hisseler satılır",
     "zh-Hant-TW": "成本最高的先賣"
   },
   "accounting_lowCost": {
     "en": "Low Cost",
+    "de": "Niedrigster Preis",
     "tr": "Düşük Maliyetli",
     "zh-Hant-TW": "成本低"
   },
   "accounting_lowCostDescription": {
     "en": "Shares that were the least expensive are sold first",
+    "de": "Die günstigsten Aktien werden zuerst verkauft",
     "tr": "Önce en ucuz olan hisseler satılır",
     "zh-Hant-TW": "成本最低的先賣"
   },
   "accounting_noLotsFound": {
     "en": "No lots found",
+    "de": "keine Lots vorhanden",
     "tr": "Lotlar bulunamadı"
   },
   "accounting_noLotsFoundHelp": {
     "en": "Couldn\\'t find any valid lots (transactions) to select before this transaction\\'s date",
+    "de": "Es können keine gültigen Lots (Transaktionen) vor diesem Transaktionsdatum zur Auswahl gefunden werden",
     "tr": "Bu işlemin tarihinden önce seçilecek geçerli lotlar (işlemler) bulunamadı"
   },
   "accounting_selectLots": {
     "en": "Select Lots",
+    "de": "Lots auswählen",
     "tr": "Lotları Seç"
   },
   "accounting_weightedAverage": {
     "en": "Weighted Average",
+    "de": "Durchschnittlich gewichtet",
     "tr": "Ağırlıklı Ortalama"
   },
   "accounting_weightedAverageDescription": {
     "en": "The cost basis is calculated using the current unrealized cost per share",
+    "de": "Die Berechnungsgrundlage ist der aktuelle nicht realisierter Wert pro Aktie",
     "tr": "Maliyet esası, hisse başına cari gerçekleşmemiş maliyet kullanılarak hesaplanır",
     "zh-Hant-TW": "成本計算使用現有庫存股每股均價計算"
   },
   "accounting_specificLots": {
     "en": "Specific Lots",
+    "de": "Spezielle Lots",
     "tr": "Belirli Lotlar"
   },
   "accounting_specificLotsHelp": {
@@ -93,6 +109,7 @@
   },
   "account_deleted": {
     "en": "Account Deleted",
+    "de": "Konto gelöscht",
     "tr": "Hesap Silindi",
     "zh-Hant-TW": "已刪除帳戶"
   },
@@ -194,6 +211,7 @@
   },
   "addQuoteTransaction_commission": {
     "en": "Commission",
+    "de": "Provision",
     "fr": "Commission",
     "tr": "Komisyon",
     "zh-Hant-TW": "手續費"
@@ -205,16 +223,19 @@
   },
   "addQuoteTransaction_costBasisEntryMethod": {
     "en": "Entry Method",
+    "de": "Eingabemethode",
     "tr": "Giriş Yöntemi"
   },
   "addQuoteTransaction_costBasisTotalAmount": {
     "en": "Total Amount",
+    "de": "Gesamtbetrag",
     "tr": "Toplam Tutar",
     "zh-Hant-TW": "總金額"
   },
   "addQuoteTransaction_currencyToCurrencyFormatted": {
     "_formatted": false,
     "en": "%s to %s",
+    "de": "%s zu %s",
     "fr": "%s à %s",
     "tr": "%s\\'dan %s\\ye",
     "zh-Hant-TW": "%s 至 %s"
@@ -222,63 +243,74 @@
   "addQuoteTransaction_currencyToHomeCurrencyFormatted": {
     "_formatted": false,
     "en": "%s to Home Currency",
+    "de": "%s in Heimatwährung",
     "fr": "%s à la devise préférée",
     "tr": "%s\\'dan Ana Para Birimine",
     "zh-Hant-TW": "%s 至 預設幣別"
   },
   "addQuoteTransaction_date": {
     "en": "Transaction Date",
+    "de": "Transaktionsdatum",
     "fr": "Date de la transaction",
     "tr": "İşlem Tarihi",
     "zh-Hant-TW": "成交日期"
   },
   "addQuoteTransaction_depositCashToPortfolioFromDividends": {
     "en": "Deposit cash to portfolio from dividends",
+    "de": "Einzahlung von Bargeld in das Portfolio aus Dividenden",
     "fr": "Dépôt d\\'espèces au portefeuille lors des dividendes",
     "tr": "Temettülerden portföye yatan nakit",
     "zh-Hant-TW": "股息入金至投資組合"
   },
   "addQuoteTransaction_depositCashToPortfolioFromSale": {
     "en": "Deposit cash to portfolio from sale",
+    "de": "Einzahlung von Bargeld aus Verkäufen in das Portfolio",
     "fr": "Dépôt d\\'espèces au portefeuille lors de la vente",
     "tr": "Satıştan elde edilen nakdin portföye yatırılması"
   },
   "addQuoteTransaction_enterSharesPrompt": {
     "en": "Please enter the number of shares",
+    "de": "Bitte geben Sie die Anzahl der Aktien ein",
     "fr": "S\\'il vous plaît entrez le nombre d\\'actions",
     "tr": "Lütfen hisse adedini girin",
     "zh-Hant-TW": "請輸入股數"
   },
   "addQuoteTransaction_enterValidDate": {
     "en": "Please enter a valid transaction date",
+    "de": "Bitte geben Sie ein gültiges Transaktionsdatum ein",
     "tr": "Lütfen geçerli bir işlem tarihi girin",
     "zh-Hant-TW": "請輸入成交日期"
   },
   "addQuoteTransaction_enterValidSymbol": {
     "en": "Please enter a valid symbol",
+    "de": "Bitte geben Sie ein gültiges Symbol ein",
     "tr": "Lütfen geçerli bir sembol girin",
     "zh-Hant-TW": "請輸入代碼"
   },
   "addQuoteTransaction_exchangeRate": {
     "en": "Exchange Rate",
+    "de": "Wechselkurs",
     "fr": "Taux de change",
     "tr": "Döviz Kuru",
     "zh-Hant-TW": "匯率"
   },
   "addQuoteTransaction_percentCommission": {
     "en": "% Commission",
+    "de": "% Provision",
     "fr": "% Commission",
     "tr": "% Komisyon",
     "zh-Hant-TW": "% 手續費"
   },
   "addQuoteTransaction_pricePerShare": {
     "en": "Price Per Share",
+    "de": "Kurs je Aktie",
     "fr": "Prix par action",
     "tr": "Hisse Başı Fiyat",
     "zh-Hant-TW": "每股價格"
   },
   "addQuoteTransaction_purchaseDate": {
     "en": "Purchase Date",
+    "de": "Datum des Kaufs",
     "fr": "Date d\\'achat",
     "tr": "Satın Alma Tarihi",
     "zh-Hant-TW": "日期"
@@ -290,23 +322,27 @@
   },
   "addQuoteTransaction_time": {
     "en": "Transaction Time",
+    "de": "Transaktionszeit",
     "tr": "İşlem Zamanı",
     "zh-Hant-TW": "成交時間"
   },
   "addQuoteTransaction_transaction_notes": {
     "en": "Transaction Notes",
+    "de": "Anmerkungen zu Transaktionen",
     "fr": "Notes de transaction",
     "tr": "İşlem Notları",
     "zh-Hant-TW": "交易備註"
   },
   "addQuoteTransaction_type": {
     "en": "Transaction Type",
+    "de": "Transaction Typ",
     "fr": "Type de transaction",
     "tr": "İşlem Türü",
     "zh-Hant-TW": "交易別"
   },
   "addQuoteTransaction_typeBuy": {
     "en": "Buy",
+    "de": "Kaufen",
     "fr": "Acheter",
     "tr": "Alış",
     "zh": "买",
@@ -314,17 +350,20 @@
   },
   "addQuoteTransaction_typeBuyToCover": {
     "en": "Buy to Cover",
+    "de": "Deckungskauf",
     "fr": "Acheter pour couvrir",
     "tr": "Açığa Satış Alımı",
     "zh-Hant-TW": "空單補回 (Buy to Cover)"
   },
   "addQuoteTransaction_typeClosePositions": {
     "en": "Close Positions",
+    "de": "Posten schließen",
     "tr": "Pozisyonları Kapat",
     "zh-Hant-TW": "平倉"
   },
   "addQuoteTransaction_typeCloseShortPositions": {
     "en": "Close Short Positions",
+    "de": "Leerverkaufsposten schließen",
     "tr": "Açığa Satış Pozisyonlarını Kapat"
   },
   "addQuoteTransaction_typeDRIP": {
@@ -806,12 +845,14 @@
   },
   "csvImport_importAndOverwrite": {
     "en": "Delete local data after importing",
+    "de": "Lokale Daten nach dem Import löschen",
     "fr": "Supprimer les données locales après avoir importé",
     "tr": "İçe aktardıktan sonra yerel verileri sil",
     "zh-Hant-TW": "匯入後刪除原本數據"
   },
   "csvImport_imported": {
     "en": "Imported",
+    "de": "Importiert",
     "fr": "Importé",
     "tr": "İçe aktarıldı",
     "zh-Hant-TW": "匯入"
@@ -819,18 +860,21 @@
   "csvImport_importedQuotesAndHoldingsFormatted": {
     "_formatted": false,
     "en": "Successfully imported %s quotes and %s holdings",
+    "de": "Erfolgreich importierte %s Bestände und %s Notierungen",
     "fr": "Importation réussie de %s cours et %s positions",
     "tr": "%S Öneriler ve %s Varlıklar içe aktarıldı",
     "zh-Hant-TW": "成功匯入 %s 報價與 %s 股票"
   },
   "csvImport_importing": {
     "en": "Importing…",
+    "de": "wird importiert…",
     "fr": "Importation…",
     "tr": "İçe aktarılıyor…",
     "zh-Hant-TW": "匯入中…"
   },
   "csvImport_pasteDataHere": {
     "en": "Paste data here",
+    "de": "Daten hier einfügen",
     "fr": "Coller les données ici",
     "tr": "Verileri buraya yapıştırın",
     "zh-Hant-TW": "黏貼數據於此"
@@ -4532,28 +4576,33 @@
   },
   "viewQuoteStats_peRatio": {
     "en": "P/E",
+    "de": "KGV",
     "fr": "Rapport P/E",
     "tr": "F/K",
     "zh-Hant-TW": "本益比"
   },
   "viewQuoteStats_peRatioHelp": {
     "en": "Share price divided by earnings per share",
+    "de": "Aktienkurs geteilt durch den Gewinn je Aktie",
     "fr": "Prix de l\\'action divisé par le bénéfice par action",
     "tr": "Hisse fiyatının hisse başı kazanca bölünmesidir"
   },
   "viewQuoteStats_prevClose": {
     "en": "Prev Close",
+    "de": "Schlusskurs Vortag",
     "fr": "Clôture précédente",
     "tr": "Önceki Kapanış",
     "zh-Hant-TW": "昨收"
   },
   "viewQuoteStats_prevCloseHelp": {
     "en": "Close price in the previous trading day",
+    "de": "Schlusskurs am vorherigen Handelstag",
     "fr": "Prix de clôture la veille",
     "tr": "Bir önceki işlem günündeki kapanış fiyatı"
   },
   "viewQuoteStats_priceBookRatio": {
     "en": "Price/Book",
+    "de": "Kurs/Buchwert",
     "tr": "Fiyat/DD"
   },
   "viewQuoteStats_priceBookRatioHelp": {
@@ -4562,6 +4611,7 @@
   },
   "viewQuoteStats_priceSalesRatio": {
     "en": "Price/Sales",
+    "de": "Kurs/Verkäufe",
     "tr": "Fiyat/Satışlar"
   },
   "viewQuoteStats_priceSalesRatioHelp": {
@@ -4570,54 +4620,64 @@
   },
   "viewQuoteStats_volumeHelp": {
     "en": "Number of shares trading in latest trading day",
+    "de": "Anzahl der am Handelstag zuletzt gehandelten Aktien",
     "fr": "Nombre d\\'actions négociées la veille",
     "tr": "Son işlem gününde işlem yapılan hisse sayısı"
   },
   "viewQuoteTransaction_purchasedAmountFormatted": {
     "_formatted": false,
     "en": "Purchased %s",
+    "de": "Gekauft %s",
     "fr": "%s acheté",
     "tr": "%s Satın alındı"
   },
   "viewQuoteTransactions_dividendsFromHoldingFormatted": {
     "_formatted": false,
     "en": "Dividends from %s",
+    "de": "Dividenden von %s",
     "fr": "Dividendes de %s",
     "tr": "%s \\'den Temettüler"
   },
   "viewQuoteTransactions_soldAmountFormatted": {
     "_formatted": false,
     "en": "Sold %s",
+    "de": "verkauft %s",
     "fr": "Vendu %s",
     "tr": "%s Satıldı"
   },
   "viewQuoteTransactions_unknownDate": {
     "en": "Unknown Date",
+    "de": "Unbekanntes Datum",
     "fr": "Date inconnue",
     "tr": "Bilinmeyen Tarih"
   },
   "viewQuoteTransactions_unrecognizedTransaction": {
     "en": "Unrecognized Transaction",
+    "de": "Nicht erfasste Transaktion",
     "fr": "Transaction non reconnue",
     "tr": "Tanımlanmayan İşlem"
   },
   "viewQuote_addCustomPrices": {
     "en": "Add Custom Prices",
+    "de": "Benutzerdefinierte Kurse hinzufügen",
     "fr": "Ajouter des prix personnalisés",
     "tr": "Özel Fiyat Ekleyin"
   },
   "viewQuote_delete": {
     "en": "Delete Quote",
+    "de": "Notierung löschen",
     "fr": "Supprimer le cours",
     "tr": "Öneriyi Sil"
   },
   "viewQuote_editQuote": {
     "en": "Edit Quote",
+    "de": "Notierungen bearbeiten",
     "fr": "Modifier le cours",
     "tr": "Öneriyi Değiştir"
   },
   "viewQuote_extendedHours": {
     "en": "Extended",
+    "de": "Ausserbörslich",
     "fr": "Après clôture",
     "tr": "Genişletilmiş",
     "zh-Hant-TW": "盤後"
@@ -4625,22 +4685,26 @@
   "viewQuote_lastTradeFormatted": {
     "_formatted": false,
     "en": "Last Trade: %s",
+    "de": "Letzter Handel: %s",
     "fr": "Dernier échange : %s",
     "tr": "Son işlem: %s"
   },
   "viewQuote_moreNewsAboutXFormatted": {
     "_formatted": false,
     "en": "More news about %s ➔",
+    "de": "Mehr Nachrichten über %s ➔",
     "fr": "Plus d\\'actualités à propos de %s ➔",
     "tr": " %s hakkında daha fazla heber için ➔"
   },
   "viewQuote_newTickerChange": {
     "_formatted": false,
     "en": "Ticker has changed %s\\nTap here to change to the new one",
+    "de": "Der Ticker hat sich geändert %s\\nTippen Sie hier, um zum neuen Ticker zu wechseln",
     "tr": "%s sembolu değişti \\nYenisine geçmek için buraya dokunun"
   },
   "viewQuote_noData": {
     "en": "No Data",
+    "de": "Keine Daten",
     "fr": "Pas de données",
     "tr": "Veri Yok"
   },
@@ -4652,35 +4716,42 @@
   },
   "viewQuote_basedOnPortfolioTab": {
     "en": "Based on portfolio tab",
+    "de": "Basierend auf der Registrierkarte Portfolio",
     "tr": "Portföy sekmesine dayalı"
   },
   "viewQuote_profile": {
     "en": "Profile",
+    "de": "Profil",
     "tr": "Profil",
     "zh-Hant-TW": "簡介"
   },
   "viewQuote_shareQuote": {
     "en": "Share Quote",
+    "de": "Bestände teilen",
     "fr": "Partager un cours",
     "tr": "Öneriyi Paylaş"
   },
   "viewQuote_summary": {
     "en": "Summary",
+    "de": "Überblick",
     "fr": "Sommaire",
     "tr": "Özet"
   },
   "viewQuote_tapToEnterNotes": {
     "en": "Tap to enter notes",
+    "de": "Tippen, um Notizen einzugeben",
     "fr": "Appuyez pour entrer des notes",
     "tr": "Not girmek için dokunun"
   },
   "viewQuote_title": {
     "en": "View Quote",
+    "de": "Bestände anzeigen",
     "fr": "Voir le cours",
     "tr": "Öneriyi Görüntüle"
   },
   "viewQuote_transactions": {
     "en": "Transactions",
+    "de": "Transaktionen",
     "fr": "Transactions",
     "tr": "İşlemler"
   },
@@ -4696,32 +4767,38 @@
   },
   "widgetOverview_configure": {
     "en": "Configure Overview Widget",
+    "de": "Übersichts-Widget konfigurieren",
     "fr": "Configurer le widget de synthèse",
     "tr": "Genel Görünüm Widgetini yapılandır"
   },
   "widgetOverview_title": {
     "en": "Overview",
+    "de": "Übersicht",
     "fr": "Synthèse",
     "tr": "Genel Görünüm",
     "zh-Hant-TW": "總覽"
   },
   "widgetPortfolio_changeView": {
     "en": "Change View",
+    "de": "Ansicht ändern",
     "fr": "Changement de vue",
     "tr": "Görünümü Değiştir"
   },
   "widgetPortfolio_configure": {
     "en": "Configure Quotes Widget",
+    "de": "Widget der Bestände konfigurieren",
     "fr": "Configurer le widget des cours",
     "tr": "Öneriler Widget\\'ini yapılandır"
   },
   "widgetPortfolio_title": {
     "en": "Single Portfolio",
+    "de": "Einzelportfolio",
     "fr": "Portefeuille unique",
     "tr": "Tek Portföy."
   },
   "widgetPortfolio_youDoNotHaveAnyPortfolios": {
     "en": "You do not have any portfolios",
+    "de": "Sie haben keine Portfolios",
     "fr": "Vous n\\'avez aucun portefeuille",
     "tr": "Herhangi bir portföyünüz yok"
   },
@@ -4732,16 +4809,19 @@
   },
   "widget_refreshing": {
     "en": "Refreshing Widget",
+    "de": "Widget aktualisieren",
     "fr": "Rafraîchir le widget",
     "tr": "Widget Yenileniyor."
   },
   "widget_sharesAndPrice": {
     "en": "Shares/Price",
+    "de": "Anteile/Kosten",
     "fr": "Action/Prix",
     "tr": "Hisseler/Fiyat."
   },
   "widget_syncAlreadyInProgress": {
     "en": "Sync already in progress.",
+    "de": "Die Synchronisierung läuft bereits.",
     "fr": "Synchronisation déjà en cours.",
     "tr": "Senkronizasyon zaten devam ediyor."
   },
