@@ -115,6 +115,7 @@
   },
   "adBanner_placeHolder": {
     "en": "Upgrade to Premium and enjoy an Ad-free experience",
+    "de": "Upgraden Sie auf die Premium-Version und genießen Sie die Werbefreiheit",
     "fr": "Mettre à jour vers Premium et profiter d\\'une expérience sans publicité",
     "tr": "Premiuma yükselt ve reklamsız uygulamanın keyfini çıkar",
     "zh-Hant-TW": "升級成Premium帳戶,享受無廣告干擾體驗"
@@ -423,12 +424,14 @@
   },
   "addQuote_enterSymbolPrompt": {
     "en": "Please enter a symbol",
+    "de": "Bitte geben Sie ein Symbol ein",
     "fr": "Veuillez entrer un symbole",
     "tr": "Lütfen bir sembol girin",
     "zh-Hant-TW": "請輸入名稱／代碼"
   },
   "addQuote_howToPreview": {
     "en": "How To: Preview quote without adding to watchlist",
+    "de": "Wie: Vorschau des Bestands ohne zur Watchlist hinzuzufügen ",
     "fr": "Comment faire : Prévisualiser la cotation sans ajout à la list de surveillance",
     "tr": "Nasıl Yapılır: İzleme listesine eklemeden Öneriyi görüntüle",
     "zh-Hant-TW": "如何預覽卻不用加到觀察清單"
@@ -440,6 +443,7 @@
   },
   "addQuote_howToAddCrypto": {
     "en": "How To: Tracking crypto",
+    "de": "Wie: Kryptowährungen erfassen",
     "tr": "Nasıl Yapılır: Kripto takibi",
     "zh-Hant-TW": "如何追蹤加密貨幣"
   },
@@ -449,12 +453,14 @@
   },
   "addQuote_symbol": {
     "en": "Symbol",
+    "de": "Symbol",
     "fr": "Symbole",
     "tr": "Sembol",
     "zh-Hant-TW": "代碼"
   },
   "addQuote_symbolDisplayOverride": {
     "en": "Symbol display override (Optional)",
+    "de": "Symbolanzeige überschreiben (Optional)",
     "fr": "Remplacement du symbole d\\'affichage (Facultatif)",
     "tr": "Sembol ekranını geçersiz kıl (İsteğe bağlı)",
     "zh-Hant-TW": "更改顯示（選填）"
@@ -468,30 +474,35 @@
   },
   "addQuote_trackTransaction": {
     "en": "Track a Transaction",
+    "de": "Transaktion erfassen",
     "fr": "Suivre transaction",
     "tr": "İşlem Takibi",
     "zh-Hant-TW": "追蹤交易"
   },
   "addQuote_typeCrypto": {
     "en": "Crypto",
+    "de": "Kryptowährung",
     "fr": "Crypto",
     "tr": "Kripto",
     "zh-Hant-TW": "加密貨幣"
   },
   "addQuote_typeForex": {
     "en": "Forex",
+    "de": "Devisenhandel",
     "fr": "Devises",
     "tr": "Forex",
     "zh-Hant-TW": "外匯"
   },
   "addQuote_typeMarket": {
     "en": "Market",
+    "de": "Börsenplatz",
     "fr": "Marché",
     "tr": "Piyasa",
     "zh-Hant-TW": "市場"
   },
   "addQuote_typeUnlisted": {
     "en": "Unlisted",
+    "de": "Nicht börsennotiert",
     "fr": "Non listé",
     "tr": "Listelenmeyen",
     "zh-Hant-TW": "其他"
@@ -515,19 +526,23 @@
   },
   "alert_trailingStopLoss": {
     "en": "trailing stop loss",
+    "de": "Nachlaufender Stop-Loss",
     "tr": "Takip eden stoploss"
   },
   "alert_reverseTrailingStopLoss": {
     "en": "reverse trailing stop loss",
+    "de": "Umgekehrter nachlaufender Stop-Loss",
     "tr": "Tersine takip eden stoploss"
   },
   "alert_priceAlert": {
     "en": "Price Alert",
+    "de": "Kursalarm",
     "tr": "Fiyat Uyarısı",
     "zh-Hant-TW": "到價通知"
   },
   "alert_viewExistingAlerts": {
     "en": "View existing alerts",
+    "de": "Vorhandene Alarme ansehen",
     "tr": "Mevcut uyarıları görüntüle",
     "zh-Hant-TW": "查看既有到價通知"
   },
@@ -544,11 +559,13 @@
   },
   "chart_gridlines": {
     "en": "Gridlines",
+    "de": "Gitternetzlinien",
     "tr": "Klavuz Çizgileri",
     "zh-Hant-TW": "網格線"
   },
   "chart_indicators": {
     "en": "Indicators",
+    "de": "Indikatoren",
     "fr": "Indicateurs",
     "tr": "İndikatörler",
     "zh-Hant-TW": "指標"
@@ -562,6 +579,7 @@
   },
   "chart_intervalOneHour": {
     "en": "1 Hour",
+    "de": "1 Stunde",
     "tr": "1 Saat",
     "zh-Hant-TW": "一時"
   },
@@ -595,6 +613,7 @@
   },
   "chart_loading": {
     "en": "Loading Chart…",
+    "de": "Chart lädt…",
     "fr": "Chargement du graphique…",
     "tr": "Grafik Yükleniyor…",
     "zh-Hant-TW": "載入圖表中…"
@@ -608,6 +627,7 @@
   },
   "chart_price": {
     "en": "Price",
+    "de": "Kurs",
     "fr": "Prix",
     "tr": "Fiyat",
     "zh-Hant-TW": "價格"
@@ -635,6 +655,7 @@
   },
   "chart_rangeMax": {
     "en": "Max",
+    "de": "Max",
     "fr": "Max",
     "tr": "Max",
     "zh-Hant-TW": "全部"
@@ -647,6 +668,7 @@
   "chart_rangeNotAvailableFormatted": {
     "_formatted": false,
     "en": "%s chart range not available",
+    "de": "%s Diagrammbereich nicht verfügbar",
     "fr": "Intervalle %s du graphique non disponible",
     "tr": "%s grafik aralığı mevcut değil"
   },
@@ -680,6 +702,7 @@
   },
   "chart_rangeOneWeekCompact": {
     "en": "1W",
+    "de": "1W",
     "tr": "1H",
     "zh-Hant-TW": "一週"
   },
@@ -734,74 +757,87 @@
   },
   "chart_rangeYearToDateCompact": {
     "en": "YTD",
+    "de": "YTD",
     "fr": "YTD",
     "tr": "YTD",
     "zh-Hant-TW": "今年"
   },
   "chart_settings": {
     "en": "Chart Settings",
+    "de": "Diagrammeinstellungen",
     "fr": "Paramètres du graphique",
     "tr": "Grafik Ayarları",
     "zh-Hant-TW": "圖表設定"
   },
   "chart_title": {
     "en": "View Chart",
+    "de": "Diagramm anzeigen",
     "fr": "Voir le graphique",
     "tr": "Grafiği Görüntüle",
     "zh-Hant-TW": "檢視圖表"
   },
   "chart_transactionAnnotations": {
     "en": "Transaction Annotations",
+    "de": "Anmerkungen zu Transaktion",
     "tr": "İşlem Açıklamaları"
   },
   "chart_typeArea": {
     "en": "Area",
+    "de": "Fläche",
     "fr": "Aire",
     "tr": "Bölge",
     "zh-Hant-TW": "面積圖"
   },
   "chart_typeCandle": {
     "en": "Candle",
+    "de": "Kerze",
     "fr": "Bougie",
     "tr": "Mum",
     "zh-Hant-TW": "K線"
   },
   "chart_typeHollowCandle": {
     "en": "Hollow Candle",
+    "de": "Hohlkerze",
     "fr": "Bougie creuse",
     "tr": "İçi Boş Mum",
     "zh-Hant-TW": "空心K線"
   },
   "chart_typeLine": {
     "en": "Line",
+    "de": "Linie",
     "fr": "Ligne",
     "tr": "Çizgi",
     "zh-Hant-TW": "線形圖"
   },
   "chart_typeOHLC": {
     "en": "OHLC",
+    "de": "OHLC",
     "fr": "OHLC",
     "tr": "OHLC",
     "zh-Hant-TW": "美國線"
   },
   "chart_volume": {
     "en": "Volume",
+    "de": "Anzahl",
     "fr": "Volume",
     "tr": "Hacim",
     "zh-Hant-TW": "交易量"
   },
   "csv_fileEmpty": {
     "en": "File is empty",
+    "de": "Datei ist leer",
     "tr": "Dosya boş",
     "zh-Hant-TW": "空白檔案"
   },
   "csv_unableToOpen": {
     "en": "Unable to open file",
+    "de": "Datei kann nicht geöffnet werden",
     "tr": "Dosya açılamadı",
     "zh-Hant-TW": "無法開啟檔案"
   },
   "csvExport_exportAndOverwrite": {
     "en": "Export and overwrite existing file",
+    "de": "Exportieren und vorhandene Datei überschreiben",
     "fr": "Exporter et écraser le fichier existant",
     "tr": "Dışa aktar ve mevcut dosya üzerine yaz",
     "zh-Hant-TW": "匯出並取代既有檔案"
@@ -812,11 +848,13 @@
   },
   "csvExport_externalStorageUploaded": {
     "en": "CSV saved to External Storage",
+    "de": "CSV auf externem Speicher gespeichert",
     "tr": "CSV Harici Depolamaya kaydedildi",
     "zh-Hant-TW": "儲存CSV檔案至外部儲存裝置"
   },
   "csvExport_unableToUpload": {
     "en": "Unable to upload CSV file",
+    "de": "CSV-Datei kann nicht hochgeladen werden",
     "fr": "Impossible de charger le fichier CSV",
     "tr": "CSV dosyası yüklenemedi",
     "zh-Hant-TW": "無法上傳CSV檔案"
@@ -829,12 +867,14 @@
   },
   "csvImport_couldNotFindData": {
     "en": "Could not find data to import",
+    "de": "Keine Daten zum Importieren vorhanden",
     "fr": "Impossible de trouver les données à importer",
     "tr": "İçe aktarılacak veri bulunamadı",
     "zh-Hant-TW": "找不到可匯入數據"
   },
   "csvImport_fileWasEmpty": {
     "en": "CSV file was empty",
+    "de": "CSV-Datei war leer",
     "fr": "Le fichier CSV était vide",
     "tr": "CSV dosyası boş",
     "zh-Hant-TW": "空白CSV檔案"
@@ -881,12 +921,14 @@
   },
   "csvImport_pleaseCopyPasteData": {
     "en": "Please copy and paste the CSV data",
+    "de": "Bitte kopieren und fügen Sie die CSV-Daten ein.",
     "fr": "Veuillez copier et coller les données CSV",
     "tr": "Lütfen CSV verilerini kopyalayıp yapıştırın",
     "zh-Hant-TW": "請複製並貼上CSV數據"
   },
   "csvImport_sizeRestriction": {
     "en": "Use File option if you have a lot of data, since Android has a 1 MB size restriction for Clipboard/Email.",
+    "de": "Wenn die Datenmenge zu groß ist, verwenden Sie die Dateiauswahl, da Android eine Größenbeschränkung von 1 MB für die Zwischenablage/E-Mail besitzt.",
     "tr": "Android\\'de Pano/E-posta için 1 MB boyut sınırlaması olduğundan çok fazla veriniz varsa dosya seçeneğini kullanın.",
     "zh-Hant-TW": "由於安卓系統只提供 1 MB 給剪貼簿/Email，如果你有很多的資料，請使用檔案選項。"
   },
@@ -1252,10 +1294,12 @@
   },
   "generic_exportToFile": {
     "en": "Export to File",
+    "de": "als Datei exportieren",
     "tr": "Dosyaya aktar"
   },
   "generic_faq": {
     "en": "Frequently Asked Questions",
+    "de": "Häufig gestellte Fragen",
     "fr": "Questions fréquentes",
     "zh": "常见问题",
     "tr": "Sıkça Sorulan Sorular",
@@ -1263,10 +1307,12 @@
   },
   "generic_failedToOpenBrowser": {
     "en": "Could not open your web browser. Please check that you have one installed.",
+    "de": "Ihr Webbrowser konnte nicht geöffnet werden. Bitte überprüfen Sie, ob Sie einen installiert haben.",
     "tr": "Web tarayıcınız açılamadı. Lütfen yüklü bir tarayıcınız olup olmadığını kontrol edin."
   },
   "generic_filter": {
     "en": "Filter",
+    "de": "Filter",
     "fr": "Filtre",
     "tr": "Filtre",
     "zh-Hant-TW": "篩選"
@@ -1295,23 +1341,27 @@
   },
   "generic_hide": {
     "en": "Hide",
+    "de": "Ausblenden",
     "tr": "Gizle",
     "zh-Hant-TW": "隱藏"
   },
   "generic_hideAdvertisingAccessibility": {
     "en": "Hide Advertising",
+    "de": "Werbung ausblenden",
     "fr": "Cacher la publicité",
     "tr": "Reklamları Gizle",
     "zh-Hant-TW": "隱藏廣告"
   },
   "generic_iconAccessibility": {
     "en": "Icon",
+    "de": "Symbol",
     "fr": "Icône",
     "tr": "İkon",
     "zh-Hant-TW": "圖示"
   },
   "generic_import": {
     "en": "Import…",
+    "de": "Wird importiert…",
     "tr": "İçe aktar…",
     "zh-Hant-TW": "匯入中…"
   },
@@ -1322,6 +1372,7 @@
   },
   "generic_importData": {
     "en": "Import Data",
+    "de": "Daten importieren",
     "tr": "veriyi içe aktar"
   },
   "generic_language": {
@@ -1338,11 +1389,13 @@
   },
   "generic_later": {
     "en": "Later",
+    "de": "Später",
     "fr": "Plus tard",
     "tr": "Sonra"
   },
   "generic_loading": {
     "en": "Loading…",
+    "de": "Lädt…",
     "tr": "Yükleniyor…"
   },
   "generic_manageAlerts": {
@@ -1354,16 +1407,19 @@
   },
   "generic_manageExistingAlerts": {
     "en": "Manage existing alerts",
+    "de": "Bestehende Alarme verwalten",
     "tr": "Mevcut uyarıları yönet",
     "zh-Hant-TW": "管理到價通知列表"
   },
   "generic_manualSort": {
     "en": "Manual Sort",
+    "de": "Manuelle Sortierung",
     "tr": "Manuel Sıralama",
     "zh-Hant-TW": "手動分類"
   },
   "generic_month": {
     "en": "Month",
+    "de": "Monat",
     "tr": "Ay",
     "zh-Hant-TW": "月"
   },
@@ -1376,37 +1432,44 @@
   },
   "generic_nameOptional": {
     "en": "Name (Optional)",
+    "de": "Name (optional)",
     "fr": "Nom (Optionel)",
     "tr": "Ad ( İsteğe bağlı)",
     "zh-Hant-TW": "名稱（選填）"
   },
   "generic_navigateUpAccessibility": {
     "en": "Navigate up",
+    "de": "Nach oben navigieren",
     "fr": "Naviguer vers le haut",
     "tr": "Yukarı git"
   },
   "generic_navigationAppBarAccessibility": {
     "en": "Navigation Application Bar",
+    "de": "Navigation der Anwendungsleiste",
     "tr": "Uygulama Gezinti çubuğu"
   },
   "generic_navigationAccessibility": {
     "en": "Navigation",
+    "de": "Navigation",
     "fr": "Navigation",
     "tr": "Gezinti",
     "zh-Hant-TW": "導覽"
   },
   "generic_navigationTabsAccessibility": {
     "en": "Navigation Tabs",
+    "de": "Registerkarten für die Navigation",
     "tr": "Gezinti Sekmeleri",
     "zh-Hant-TW": "導覽頁籤"
   },
   "generic_navigationToolbarAccessibility": {
     "en": "Navigation Toolbar",
+    "de": "Symbolleiste für die Navigation",
     "tr": "Gezinti Araç Çubuğu",
     "zh-Hant-TW": "導覽工具列"
   },
   "generic_networkNotAvailable": {
     "en": "Network not available. Please connect to the internet and try again.",
+    "de": "Kein Netzwerk verfügbar. Bitte verbinden Sie sich mit dem Internet und versuchen Sie es erneut.",
     "fr": "Réseau non disponible Veuillez vous connecter à Internet et réessayer.",
     "tr": "Ağ mevcut değil. Lütfen internete bağlanın ve tekrar deneyin.",
     "zh-Hant-TW": "網路不給力，稍後請再重新連結網路"
