@@ -2627,217 +2627,252 @@
   },
   "portfolio_currentPortfolio": {
     "en": "Current Portfolio",
+    "de": "Aktuelles Portfolio",
     "fr": "Portefeuille actuel",
     "tr": "Geçerli Portföy",
     "zh-Hant-TW": "目前組合"
   },
   "portfolio_daily": {
     "en": "Daily",
+    "de": "Heute",
     "fr": "Jour",
     "tr": "Günlük",
     "zh-Hant-TW": "每日漲跌"
   },
   "portfolio_dailyChangeCalculation": {
     "en": "Daily Change Calculation",
+    "de": "Berechnung der täglichen Veränderung",
     "fr": "Calcul des modifications quotidiennes",
     "tr": "Günlük Değişim Hesapla",
     "zh-Hant-TW": "每日漲跌統計"
   },
   "portfolio_dailyColumnSettings": {
     "en": "Daily Column Settings",
+    "de": "Spalteneinstellungen 'Heute'",
     "fr": "Paramètres de la colonne \"jour\"",
     "tr": "Günlük Sütun Ayarları",
     "zh-Hant-TW": "每日漲跌欄位設定"
   },
   "portfolio_defaultCurrency": {
     "en": "Default",
+    "de": "Standardeinstellung",
     "fr": "Défaut",
     "tr": "Varsayılan",
     "zh-Hant-TW": "預設"
   },
   "portfolio_defaultName": {
     "en": "My Portfolio",
+    "de": "Mein Portfolio",
     "fr": "Mon portefeuille",
     "tr": "Portföyüm",
     "zh-Hant-TW": "我的投資組合"
   },
   "portfolio_deleteAccount": {
     "en": "Delete Account",
+    "de": "Konto löschen",
     "tr": "Hesabı Sil"
   },
   "portfolio_deleteAccountMessage": {
     "en": "Are you sure you want to delete your account and all portfolio data stored in the cloud? There is no way to undo this operation.",
+    "de": "Sind Sie sicher, dass Sie Ihr Konto und alle in der Cloud gespeicherten Portfoliodaten löschen möchten? Es gibt keine Möglichkeit, diesen Vorgang rückgängig zu machen.",
     "tr": "Hesabınızı ve bulutta depolanan tüm portföy verilerini silmek istediğinizden emin misiniz? Bu işlemi geri almanın bir yolu yoktur."
   },
   "portfolio_deleteFromServerDisclaimer": {
     "en": "If you are signed in, this will delete it from the server and your other devices when they sync.",
+    "de": "Nachdem Sie angemeldet sind, wird bei der Synchronisierung vom Server mit Ihren anderen Geräten alles gelöscht.",
     "tr": "Oturum açtıysanız, bu işlem senkronize edildiklerinde sunucudan ve diğer cihazlarınızdan silinecektir."
   },
   "portfolio_deleteHoldingsForQuoteFormatted": {
     "_formatted": false,
     "en": "Delete all Holdings for this Quote (%s)?",
+    "de": "Alle Bestände für diese Notierung(%s) löschen?",
     "fr": "Supprimer toutes les positions pour ce cours (%s) ?",
     "tr": "Bu öneri (%s) için tüm varlıklar silinsin mi ?"
   },
   "portfolio_deleteQuoteWarningFormatted": {
     "_formatted": false,
     "en": "Are you sure you want to delete this Quote (%s)?",
+    "de": "Sind Sie sicher, dass Sie diese Notierung (%s)löschen möchten?",
     "tr": "Bu öneriyi (%s) silmek istediğinize emin misiniz?",
     "zh-Hant-TW": "確定要刪除這個報價（%s）嗎?"
   },
   "portfolio_deleteQuoteWarningWithTransactionsFormatted": {
     "_formatted": false,
     "en": "Are you sure you want to delete this Quote (%s) and all its Holdings in this portfolio?",
+    "de": "Sind Sie sicher, dass Sie diese Notierung (%s) und alle darin enthaltenen Bestände in diesem Portfolio löschen möchten?",
     "fr": "Supprimer un cours (%s) supprimera également toutes les positions associées dans le portefeuille. Continuer ?",
     "tr": "Bu öneriyi (%s) ve bu portföye ait tüm varlıkları silmek istediğinize emin misiniz?"
   },
   "portfolio_deleteSelectedPortfoliosWarning": {
     "en": "Are you sure you want to delete these Portfolios and all Quotes in them?",
+    "de": "Sind Sie sicher, dass Sie dieses Portfolio und alle darin enthaltenen Notierungen löschen möchten?",
     "tr": "Bu Portföyü ve içindeki tüm önerileri silmek istediğinize emin misiniz?",
     "zh-Hant-TW": "確定要刪除這些投資組合與裡面所有的報價嗎?"
   },
   "portfolio_deleteSelectedQuotesWarning": {
     "en": "Are you sure you want to delete these Quotes and all Transactions in them?",
+    "de": "Sind Sie sicher, dass Sie diese Notierung und alle enthaltenen Transaktionen löschen möchten?",
     "tr": "Bu önerileri ve içindeki tüm işlemleri silmek istediğinize emin misiniz?",
     "zh-Hant-TW": "確定要刪除這些報價與裡面所有的交易嗎?"
   },
   "portfolio_deleteSelectedQuoteTransactionsWarning": {
     "en": "Are you sure you want to delete these Holdings and all Transactions in them?",
+    "de": "Sind Sie sicher, dass Sie diese Notierung und alle enthaltenen Transaktionen löschen möchten?",
     "tr": "Bu varlıkları  ve içindeki tüm işlemleri silmek istediğinize emin misiniz?",
     "zh-Hant-TW": "確定要刪除這些持股與所有的交易明細嗎?"
   },
   "portfolio_details": {
-    "de": "Details",
     "en": "Details",
+    "de": "Details",
     "fr": "Détails",
     "tr": "Detaylar",
     "zh-Hant-TW": "細節"
   },
   "portfolio_details_viewActivity": {
     "en": "View Activity",
+    "de": "Aktivität anzeigen",
     "tr": "Aktiviteyi görüntüle"
   },
   "portfolio_displayLocalCurrency": {
-    "de": "Lokale Währung anstelle der Heimatwährung anzeigen für:",
     "en": "Display local currency instead of home currency for:",
+    "de": "Lokale Währung anstelle der Heimatwährung anzeigen für:",
     "fr": "Afficher la devise du titre au lieu de la devise préférée pour :",
     "tr": "Ana para birimi yerine yerel para birimini görüntüle:"
   },
   "portfolio_displayLocalCurrencyForHoldings": {
-    "de": "Einzelbestände in diesem Portfolio: Beispielsweise werden GOOG- Bestände in USD und BNS.TO- Bestände in CAD angezeigt.",
     "en": "Individual holdings in this portfolio: For example, GOOG holdings will be shown in USD and BNS.TO holdings will be shown in CAD.",
+    "de": "Einzelbestände in diesem Portfolio: Beispielsweise werden GOOG- Bestände in USD und BNS.TO- Bestände in CAD angezeigt.",
     "fr": "Positions individuelles dans ce portefeuille : Par exemple, les positions GOOG seront indiquées en USD et celles de BNS.TO seront indiquées en dollars canadiens.",
     "tr": "Bu portföydeki bireysel varlıklar: Örneğin, GOOG varlıkları USD cinsinden ve BNS.TO varlıkları CAD cinsinden gösterilecektir."
   },
   "portfolio_displayLocalCurrencyForTotals": {
-    "de": "Gesamtbeträge in diesem Portfolio: Alle Notierungen in diesem Portfolio müssen die selbe Währung aufweisen. Die Gesamtsumme bezieht sich auf die Summen am oberen und unteren Rand der Anzeige.",
     "en": "Aggregate totals in this portfolio: All quotes in this portfolio must be the same currency. Aggregate totals refers to the totals at top and bottom of screen.",
+    "de": "Gesamtbeträge in diesem Portfolio: Alle Notierungen in diesem Portfolio müssen die selbe Währung aufweisen. Die Gesamtsumme bezieht sich auf die Summen am oberen und unteren Rand der Anzeige.",
     "fr": "Totaux agrégés dans ce portefeuille : Tous les cours dans ce portefeuille doivent avoir la même devise. Les totaux agrégés font référence aux totaux en haut et en bas de l\\'écran.",
     "tr": "Bu portföydeki toplamlar: Bu portföydeki tüm öneriler-varlıklar aynı para biriminde olmalıdır. Toplamlar, ekranın üst ve altındaki toplamları ifade eder."
   },
   "portfolio_dividends": {
     "en": "Dividends",
+    "de": "Dividenden",
     "fr": "Dividendes",
     "tr": "Temettüler",
     "zh-Hant-TW": "現金股利"
   },
   "portfolio_dividendsColon": {
     "en": "Dividends:",
+    "de": "Dividenden:",
     "fr": "Dividendes:",
     "tr": "Temettüler:",
     "zh-Hant-TW": "現金股利："
   },
   "portfolio_dividendsInTotals": {
     "en": "Dividends reflected in totals",
+    "de": "Dividenden in den Gesamtbeträgen enthalten",
     "fr": "Dividendes reflétés dans les totaux",
     "tr": "Toplamlara Yansıtılan Temettüler",
     "zh-Hant-TW": "總額含股利"
   },
   "portfolio_dividendsInTotalsHelp": {
     "en": "If OFF, dividends not reinvested will be omitted from your total calculations. Dividends reinvested will be reflected with a cost basis as if you purchased again with cash. This is the accounting method used at most exchanges. If ON, dividends in both cases are added to your total calculations at no cost basis.",
+    "de": "Wenn AUS gewählt wird, werden nicht reinvestierte Dividenden nicht in Ihre Gesamtberechnung einbezogen. Reinvestierte Dividenend werden mit einer Kostenbasis berücksichtigt, als ob Sie erneut mit Bargeld gekauft hätten. Dies Rechnungslegungsmethode wird an den meistemn Börsen verwendent. Wenn AN, werden Dividendne in beiden Fällen kostenlos zu Ihren Gesamtberechnungen hinzugeügt.",
     "fr": "Si OFF, les dividendes non réinvestis seront omis du calcul du total. Les dividendes réinvestis apparaîtront avec un cout de base comme si vous achetiez à nouveau avec des espèces. C\\'est la méthode de calcul utilisée dans la plupart des échanges. Si ON, les dividendes sont ajoutés dans les deux cas au calcul du total sans cout de base.",
     "tr": "KAPALI ise, yeniden yatırılmayan temettüler toplam hesaplamalarınızdan çıkarılacaktır. Yeniden yatırılan temettüler, tekrar nakit ile satın almışsınız gibi maliyet esası ile yansıtılacaktır. Bu, çoğu borsada kullanılan muhasebe yöntemidir. AÇIK ise, her iki durumda da temettüler maliyet esası olmaksızın toplam hesaplamalarınıza eklenir."
   },
   "portfolio_dividendsNotReinvestedHelp": {
     "en": "Dividends that are not part of a dividend reinvestment plan (DRIP) and converted to cash. If you re-invest these later, you should add a new BUY transaction. Amount should be in stock\\'s local currency. You can change how dividends are reflected in your total calculations in the app Settings under Calculations.",
+    "de": "Dividenden, die nicht Teil eines Dividenden-Reinvestitionsplans (DRIP) sind und in Bargeld umgewandelt wurden. Wenn Sie diese später wieder anlegen, sollten Sie eine neue Kauf-Transaktion hinzufügen. Der Betrag sollte in der Landeswährung der Aktie sein. Sie können in den App-Einstellungen unter Berechnungen ändern, wie Dividenden in Ihren Gesamtberechnungen berücksichtigt werden.",
     "fr": "Dividendes qui ne font pas partie d\\'un régime de réinvestissement des dividendes (RRD) et convertis en espèces. Si vous les réinvestissez plus tard, vous devez ajouter une nouvelle transaction ACHETER. Le montant doit être dans la device du titre. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs.",
     "tr": "Bir temettü yeniden yatırım planının (DRIP) parçası olmayan ve nakde dönüştürülen temettüler. Bunları daha sonra yeniden yatırırsanız, yeni bir AL işlemi eklemelisiniz. Tutar, hisse senedinin yerel para birimi cinsinden olmalıdır. Temettülerin toplam hesaplamalarınıza nasıl yansıtılacağını Uygulama Ayarları\\'nda Hesaplamalar bölümünden değiştirebilirsiniz."
   },
   "portfolio_dividendsReinvestedHelp": {
     "en": "Dividends part of a dividend reinvestment plan (DRIP). You do not need to add a separate transaction for the dividends to cash conversion. You can change how dividends are reflected in your total calculations in the app Settings under Calculations.",
+    "de": "Dividenden, die Teil eines Dividenden-Reinvestitionsplans (DRIP) sind. Sie müssen keine separate Transaktion für die Umwandlung von Dividenden in Bargeld hinzufügen. Sie können in den App-Einstellungen unter Berechnungen eingeben, wie Dividenden in Ihren Gesamtberechnungen berücksichtigt werden.",
     "fr": "Dividendes faisant partie d\\'un régime de réinvestissement des dividendes (RRD). Vous n\\'avez pas besoin d\\'ajouter une transaction séparée pour la conversion des dividendes en espèces. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs.",
     "tr": "Temettüler, temettü yeniden yatırım planının (DRIP) bir parçasıdır. Temettüleri nakde dönüştürmek için ayrı bir işlem eklemenize gerek yoktur. Temettülerin toplam hesaplamalarınıza nasıl yansıtılacağını Uygulama Ayarları\\'nda Hesaplamalar bölümünden değiştirebilirsiniz."
   },
   "portfolio_doNotAddToTotals": {
     "en": "Don\\'t add to totals on Portfolios Overview screen",
+    "de": "Fügt keine Summen der Portfolio-Übersicht hinzu",
     "tr": "Portföy genel görünümünde toplamlar eklenmesin"
   },
   "portfolio_editHolding": {
     "en": "Edit Holding",
+    "de": "Bestände bearbeiten",
     "fr": "Modifier la transaction",
     "tr": "Varlığı düzenle",
     "zh-Hant-TW": "編輯持股"
   },
   "portfolio_editOrDeletePortfolio": {
     "en": "Edit/Delete Portfolio",
+    "de": "Portfolio bearbeiten/löschen",
     "fr": "Modifier / Supprimer le portefeuille",
     "tr": "Portföyü Düzenle/Sil",
     "zh-Hant-TW": "編輯/刪除組合"
   },
   "portfolio_editNotes": {
     "en": "Edit Notes",
+    "de": "Notizen bearbeiten",
     "zh-Hant-TW": "編輯備註",
     "tr": "Notları Değiştir"
   },
   "portfolio_editPortfolio": {
     "en": "Edit Portfolio",
+    "de": "Portfolio bearbeiten",
     "fr": "Modifier le portefeuille",
     "tr": "Portföyü Değiştir",
     "zh-Hant-TW": "編輯組合"
   },
   "portfolio_enterThresholdOneToHundred": {
     "en": "Enter a threshold between 0–100",
+    "de": "Geben Sie einen Schwellwert zwischen 0-100 ein",
     "tr": "0–100 arasında bir eşik değeri girin"
   },
   "portfolio_excludedFromTotals": {
     "en": "Excluded from totals",
+    "de": "Von den Gesamtbeträgen ausgeschlossen",
     "tr": "Toplamlardan hariç tutulanlar"
   },
   "portfolio_filterNews": {
     "en": "Filter News",
+    "de": "Nachrichten filtern",
     "zh-Hant-TW": "篩選新聞",
     "tr": "Filtre Haberler"
   },
   "portfolio_fullTimeEmployees": {
     "en": "Full-Time Employees",
+    "de": "Vollzeitbeschäftigte",
     "tr": "Tam Zamanlı Çalışanlar",
     "zh-Hant-TW": "員工人數"
   },
   "portfolio_futures": {
     "en": "Futures",
+    "de": "Futures",
     "tr": "Vadeli İşlemler",
     "zh-Hant-TW": "期貨"
   },
   "portfolio_generatedByMSPApp": {
     "en": "Generated by MSP app",
+    "de": "Generiert mit MSP App",
     "tr": "MSP uygulaması tarafından oluşturuldu"
   },
   "portfolio_generatePortfolioReport": {
-    "de": "Portfoliobericht erstellen",
     "en": "Generate Portfolio Report",
+    "de": "Portfoliobericht erstellen",
     "tr": "Portföy Raporu Oluştur"
   },
   "portfolio_generateReport": {
-    "de": "Bericht erstellen",
     "en": "Generate Report",
+    "de": "Bericht erstellen",
     "tr": "Rapor Oluştur"
   },
   "portfolio_generateReport_errorGeneric": {
     "en": "Error while generating report. If the issue persists, please contact customer support.",
+    "de": "Fehler beim Erstellen des Berichts. Wenn das Problem weiterhin besteht, wenden Sie sich bitte an den Kundensupport",
     "tr": "Rapor oluşturulurken hata oluştu. Sorun devam ederse lütfen müşteri desteği ile iletişime geçin."
   },
   "portfolio_generateReport_errorNoHoldings": {
     "en": "You don\\'t have any portfolio holdings. Please record some transactions before generating a portfolio report.",
+    "de": "Sie haben keine Portfoliobestände. Bitte erfassen Sie einige Transaktionen, bevor Sie einen Portfolioreport erstellen.",
     "tr": "Herhangi bir portföy varlığınız yok. Lütfen bir portföy raporu oluşturmadan önce bazı işlemleri kaydedin."
   },
   "portfolio_generateReport_exportReport": {
@@ -2877,10 +2912,12 @@
   },
   "portfolio_generateReport_disclaimer": {
     "en": "The figures shown in this report may not represent actual holdings. For actual holdings, please contact your brokerage.",
+    "de": "Die in diesem Bericht angegebenen Zahlen entsprechen möglicherweise nicht den tatsächlichen Beständen. Für die tatsächlichen Bestände wenden Sie sich bitte an Ihren Makler.",
     "tr": "Bu raporda gösterilen rakamlar gerçek varlıkları temsil etmeyebilir. Gerçek varlıklar için lütfen aracı kurumunuzla iletişime geçin."
   },
   "portfolio_generateReport_generating": {
     "en": "Generating",
+    "de": "wird erstellt",
     "tr": "Açık varlıklar"
   },
   "portfolio_hideDetails": {
@@ -2906,6 +2943,7 @@
   },
   "portfolio_homeCurrencyHelp": {
     "en": "Your holdings will be converted to display in this currency. Note: historical performance chart data will be cleared.",
+    "de": "Ihre Bestände werden umgerechnet und in dieser Währung angezeigt. Hinweis: Bisherige Performance-Chartdaten werden gelöscht",
     "fr": "Vos avoirs seront convertis et affichés dans cette devise",
     "tr": "Varlıklarınız bu para biriminde görüntülenecek şekilde dönüştürülecektir. Not: geçmiş performans grafiği verileri silinecektir."
   },
@@ -2925,6 +2963,7 @@
   },
   "portfolio_ledgerNoTransactions": {
     "en": "No transactions added yet",
+    "de": "Bisher keine Transaktionen hinzugefügt",
     "tr": "Henüz işlem eklenmedi"
   },
   "portfolio_marketNews": {
@@ -2936,214 +2975,251 @@
   },
   "portfolio_movers_gainers": {
     "en": "Gainers",
+    "de": "Gewinner",
     "tr": "Kazandıranlar"
   },
   "portfolio_movers_losers": {
     "en": "Losers",
+    "de": "Verlierer",
     "tr": "Kaybettirenler"
   },
   "portfolio_moveToPortfolio": {
     "en": "Move/Copy to Portfolio",
+    "de": "verschieben/kopieren ins Portfolio",
     "fr": "Déplacer/Copie vers le portefeuille",
     "tr": "Portföye Taşı/Kopyala",
     "zh-Hant-TW": "移動/拷貝至投資組合"
   },
   "portfolio_movingToPortfolio": {
     "en": "Moving to portfolio…",
+    "de": "wird ins Portfolio verschoben...",
     "fr": "Déplacement vers le portefeuille…",
     "tr": "Portföye taşınıyor…",
     "zh-Hant-TW": "移動至投資組合中…"
   },
   "portfolio_multipleCurrenciesNoHomeCurrency": {
     "en": "Multiple currencies detected but a home currency is not set, so totals can\\'t be calculated. Please tap here to set a home currency.",
+    "de": "Es wurden mehrere Währungen erkannt, aber es wurde keine Heimatwährung festgelegt, so dass die Summen nicht berechnet werden können. Bitte tippen Sie hier, um eine Heimatwährung festzulegen.",
     "fr": "Plusieurs monnaies sont détectées mais aucune devise préférée n\\'est définie. Les totaux ne peuvent donc pas être calculés. S\\'il vous plaît appuyez ici pour définir une devise préférée.",
     "tr": "Birden fazla para birimi algılandı ancak bir ana para birimi ayarlanmadı, bu nedenle toplamlar hesaplanamıyor. Ana para birimini ayarlamak için lütfen buraya dokunun."
   },
   "portfolio_multipleCurrenciesUseLocalTotals": {
     "en": "This portfolio has different currencies but is set to display aggregate totals in its local currency. This option only works if the portfolio has holdings of one local currency. Tap here to edit currency settings.",
+    "de": "Dieses Portfolio hat verschiedene Währungen, ist aber so eingestellt, dass die Gesamtsummen in seiner Landeswährung angezeigt werden. Diese Option funktioniert nur, wenn das Portfolio Bestände in einer Landeswährung hat. Tippen Sie hier, um die Währungseinstellungen zu bearbeiten.",
     "fr": "Ce portefeuille a différentes devises mais est configuré pour afficher les totaux globaux dans sa devise. Cette option ne fonctionne que si le portefeuille possède des positions dans une seule devise. Appuyez ici pour modifier les paramètres de devise.",
     "tr": "Bu portföyün farklı para birimleri vardır ancak toplamları kendi yerel para biriminde gösterecek şekilde ayarlanmıştır. Bu seçenek yalnızca portföyde tek bir yerel para birimi varsa çalışır. Para birimi ayarlarını düzenlemek için buraya dokunun."
   },
   "portfolio_name": {
     "en": "Name",
+    "de": "Name",
     "fr": "Nom",
     "tr": "Ad",
     "zh-Hant-TW": "名稱"
   },
   "portfolio_noPortfoliosHelp": {
     "en": "Add a new portfolio or watchlist by tapping the Add button in the menu or by tapping here.",
+    "de": "Fügen Sie ein neues Portfolio oder eine Watchlist hinzu, indem Sie hier auf die Schaltfläche Hinzufügen im Menü oder hier tippen.",
     "tr": "Menüdeki Ekle düğmesine dokunarak veya buraya dokunarak yeni bir portföy veya izleme listesi ekleyin.",
     "zh-Hant-TW": "點擊選單中新增按鈕，新增投資組合或觀察清單"
   },
   "portfolio_noQuotesHelp": {
     "en": "Add a new quote by tapping the Add button in the menu or by tapping here.",
+    "de": "Fügen Sie ein neue Notierung hinzu, indem Sie im Menü auf die Schaltfläche 'Hinzufügen' oder hier tippen.",
     "tr": "Menüdeki Ekle düğmesine dokunarak veya buraya dokunarak yeni bir öneriyi takip edin.",
     "zh-Hant-TW": "點擊選單中新增按鈕，新增報價"
   },
   "portfolio_noTransactionsHelp": {
     "en": "Track a new transaction by tapping the Add button in the menu or by tapping here.",
+    "de": "Erfassen Sie eine neue Transaktion, indem Sie auf die Schaltfläche 'Hinzufügen' im Menü oder hier tippen.",
     "tr": "Menüdeki Ekle düğmesine dokunarak veya buraya dokunarak yeni bir işlemi takip edin.",
     "zh-Hant-TW": "點擊選單中新增按鈕，追蹤新交易"
   },
   "portfolio_omitCashFromPercentages": {
     "en": "Omit Cash from Percentage Returns",
+    "de": "Bargeld aus prozentualen Erträgen",
     "tr": "Yüzdelik Getirilerden Nakiti Çıkart"
   },
   "portfolio_omitCashFromTotals": {
-    "de": "Bargeld aus den Gesamtwerten herausnehmen",
     "en": "Omit cash from totals",
+    "de": "Bargeld aus den Gesamtwerten herausnehmen",
     "fr": "Omettre les liquidités des totaux",
     "tr": "Toplamlardan nakiti çıkart",
     "zh-Hant-TW": "總額不含現金"
   },
   "portfolio_omitCashFromTotalsHelp": {
-    "de": "Ihr Bargeld wird nicht im Gesamtwert Ihres Portfolios berücksichtigt",
     "en": "Your cash will not be reflected in your total portfolio value",
+    "de": "Ihr Bargeld wird nicht im Gesamtwert Ihres Portfolios berücksichtigt",
     "fr": "Vos liquidités ne seront pas prises en compte dans la valeur totale du portefeuille",
     "tr": "Nakit paranız toplam portföy değerinize yansıtılmayacaktır"
   },
   "portfolio_openAndClosedPositions": {
     "en": "Open & Closed Positions",
+    "de": "Offene & geschlossene Positionen",
     "tr": "Açık & Kapalı Pozisyonlar"
   },
   "portfolio_openPositions": {
     "en": "Open Positions",
+    "de": "Offene Positionen",
     "tr": "Açık Pozisyonlar"
   },
   "portfolio_openUnsoldPositions": {
     "en": "Open / Unsold Positions",
+    "de": "Offene/nicht verkaufte Positionen",
     "fr": "Ouvert / Positions non vendues",
     "tr": "Açık / Satılmamış Pozisyonlar"
   },
   "portfolio_overview": {
     "en": "Overview",
+    "de": "Übersicht",
     "tr": "Genel Görünüm",
     "zh-Hant-TW": "總覽"
   },
   "portfolio_outOfBounds": {
     "en": "Out of bounds",
+    "de": "Außerhalb des Bereichs",
     "tr": "Sınırların dışında"
   },
   "portfolio_performanceReport": {
     "en": "Performance Report",
+    "de": "Performance-Bericht",
     "tr": "Performans Raporu"
   },
   "portfolio_portfolioCurrency": {
     "en": "Portfolio Currency",
+    "de": "Portfolio Währung",
     "fr": "Devise du portefeuille",
     "tr": "Portföy Para Birimi",
     "zh-Hant-TW": "投資組合幣別"
   },
   "portfolio_portfolioIconAccessibility": {
     "en": "Portfolio Icon",
+    "de": "Portfolio Symbol",
     "fr": "Icône de portefeuille",
     "tr": "Portföy Simgesi",
     "zh-Hant-TW": "投資組合圖示"
   },
   "portfolio_portfolioMultipleCurrenciesNoHomeCurrency": {
     "en": "This portfolio has different currencies but a home currency is not set, so totals can\\'t be calculated. Please tap here to set currency settings.",
+    "de": "Dieses Portfolio hat verschiedene Währungen. Es ist aber keine lokale Währung eingestellt, so können keine Summen berechnet werden. Bitte tippen Sie hier, um in den Einstellungen die Währung festzulegen.",
     "fr": "Ce portefeuille a différentes devises mais aucune devise préférée n\\'est définie. Les totaux ne peuvent donc pas être calculés. S\\'il vous plaît appuyez ici pour définir les paramètres de devise.",
     "tr": "Bu portföyün farklı para birimleri vardır ancak bir ana para birimi ayarlanmamıştır. Bu nedenle toplamlar hesaplanamaz. Para birimi ayarlarını yapmak için lütfen buraya dokunun."
   },
   "portfolio_portfolios": {
-    "de": "Portfolios",
     "en": "Portfolios",
+    "de": "Portfolios",
     "fr": "Portefeuilles",
     "tr": "Portföyler",
     "zh-Hant-TW": "所有組合"
   },
   "portfolio_portfoliosOverview": {
     "en": "Portfolios Overview",
+    "de": "Übersicht der Portfolios",
     "fr": "Synthèse des portefeuilles",
     "tr": "Portföylerin Genel Görünümü",
     "zh-Hant-TW": "投資組合總覽"
   },
   "portfolio_portfolioValue": {
     "en": "Portfolio Value",
+    "de": "Portfolio Wert",
     "tr": "Portföy Değeri"
   },
   "portfolio_quotes": {
-    "de": "Notierungen",
     "en": "Quotes",
+    "de": "Notierungen",
     "fr": "Cours",
     "tr": "Öneriler",
     "zh-Hant-TW": "觀察清單"
   },
   "portfolio_realized": {
     "en": "Realized",
+    "de": "realisiert",
     "fr": "Réalisé",
     "tr": "Gerçekleşen",
     "zh-Hant-TW": "已實現"
   },
   "portfolio_realizedChange": {
     "en": "Realized Change",
+    "de": "realisierte Veränderung",
     "tr": "Gerçekleşen Değişim",
     "zh-Hant-TW": "已實現損益"
   },
   "portfolio_realizedChangePercent": {
     "en": "Realized Change Percent",
+    "de": "realisierte Veränderung in Prozent",
     "tr": "Gerçekleşen değişim Yüzdesi",
     "zh-Hant-TW": "已實現損益比"
   },
   "portfolio_realizedColon": {
     "en": "Realized:",
+    "de": "realisiert:",
     "fr": "Réalisé :",
     "tr": "Gerçekleşen:",
     "zh-Hant-TW": "已實現："
   },
   "portfolio_realizedCostBasis": {
     "en": "Realized Cost Basis",
+    "de": "realisierte Kostenbasis",
     "tr": "Maliyete göre Gerçekleşen",
     "zh-Hant-TW": "已實現成本"
   },
   "portfolio_realizedValue": {
     "en": "Realized Value",
+    "de": "realisierter Wert",
     "tr": "Gerçekleşen Değer",
     "zh-Hant-TW": "已實現市值"
   },
   "portfolio_realizedYTD": {
     "en": "Realized YTD",
+    "de": "realisierte YTD",
     "tr": "Gerçekleşen YTD",
     "zh-Hant-TW": "已實現 YTD"
   },
   "portfolio_realizedYTDChange": {
     "en": "Realized YTD Change",
+    "de": "realisierte YTD Veränderung ",
     "tr": "Gerçekleşen YTD Değişimi",
     "zh-Hant-TW": "已實現YTD損益"
   },
   "portfolio_realizedYTDChangePercent": {
     "en": "Realized YTD Change Percent",
+    "de": "realisierte YTD Veränderung in Prozent",
     "tr": "Gerçekleşen YTD Değişim Yüzdesi",
     "zh-Hant-TW": "已實現YTD損益比"
   },
   "portfolio_realizedYTDColon": {
     "en": "Rlzd YTD:",
+    "de": "real. YTD:",
     "tr": "Grçklşn YTD",
     "zh-Hant-TW": "已實現 YTD："
   },
   "portfolio_refreshNews": {
     "en": "Refresh News",
+    "de": "Nachrichten neu laden",
     "tr": "Haberleri Yenile",
     "zh-Hant-TW": "刷新市場新聞"
   },
   "portfolio_reverseOrder": {
     "en": "Reverse Order",
+    "de": "Umgekehrte Reihenfolge",
     "tr": "Ters Sıralama",
     "zh-Hant-TW": "顛倒順序"
   },
   "portfolio_sectorIndustry": {
     "en": "Sector, Industry",
+    "de": "Sektor, Branche",
     "tr": "Sektör, Endüstri",
     "zh-Hant-TW": "部門, 產業"
   },
   "portfolio_setHomeCurrency": {
     "en": "Set Home Currency",
+    "de": "Heimatwährung festlegen",
     "fr": "Définir la devise préférée",
     "tr": "Ana Para Birimini Ayarla",
     "zh-Hant-TW": "設定預設幣別"
   },
   "portfolio_shares": {
     "en": "Shares",
+    "de": "Anteile",
     "fr": "Actions",
     "tr": "Hisseler",
     "zh": "股数",
@@ -3151,6 +3227,7 @@
   },
   "portfolio_sharesAt": {
     "en": "Shares @",
+    "de": "Aktien @",
     "fr": "Actions @",
     "tr": "Hisseler @",
     "zh": "股数 @",
@@ -3158,14 +3235,17 @@
   },
   "portfolio_splitsHelp": {
     "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4.",
+    "de": "Beispiele:\\n\\nEin Split im Verhältnis 1:4 multipliziert die eigenen Aktien mit 4 und teilt die Kosten pro Aktie durch 4.\\n\nEin umgekehrter Split im Verhältnis 1:4 teilt die eigenen Aktien mit 4 und teilt die Kosten pro Aktie durch 4.",
     "tr": "Örnekler:\\n\\n%400 bölünme, sahip olunan hisseleri 4 ile çarpacak ve hisse başına ödenen maliyeti 4\\'e bölecektir.\\n\\n%400 ters bölünme, sahip olunan hisseleri 4\\'e bölecek ve hisse başına maliyeti 4\\'e katlayacaktır."
   },
   "portfolio_previewCSV_colon": {
     "en": "Preview CSV:",
+    "de": "CSV-Vorschau:",
     "tr": "CSV Görünümü:"
   },
   "portfolio_price": {
     "en": "Price",
+    "de": "Kurs",
     "fr": "Prix",
     "tr": "Fiyat",
     "zh-Hant-TW": "價格"
@@ -3173,6 +3253,7 @@
   "portfolio_priceAndSharesFormatted": {
     "_formatted": false,
     "en": "%s x %s shares",
+    "de": "%s x %s Aktien",
     "fr": "%s x %s actions",
     "tr": "%s x %s Hisseler",
     "zh-Hant-TW": "%s x %s 股數"
@@ -3180,204 +3261,240 @@
   "portfolio_priceAndSharesFormattedWithLocal": {
     "_formatted": false,
     "en": "%s (%s) x %s shares",
+    "de": "%s (%s) x %s Aktien",
     "fr": "%s (%s) x %s actions",
     "tr": "%s (%s) x %s Hisseler",
     "zh-Hant-TW": "%s (%s) x %s 股數"
   },
   "portfolio_showDetails": {
-    "de": "Details",
     "en": "Show Details",
+    "de": "Details",
     "fr": "Details",
     "tr": "Detayları Göster",
     "zh-Hant-TW": "更多"
   },
   "portfolio_sortAbsChange": {
     "en": "Change (Absolute)",
+    "de": "Veränderung (absolut)",
     "tr": "Değişim (Mutlak)"
   },
   "portfolio_sortChangePercent": {
     "en": "Change %",
+    "de": "Veränderung in %",
     "fr": "Variation %",
     "tr": "Değişim %",
     "zh-Hant-TW": "漲跌 %"
   },
   "portfolio_sortAbsChangePercent": {
     "en": "Change % (Absolute)",
+    "de": "Veränderung in % (absolut)",
     "tr": "Değişim % (Mutlak)"
   },
   "portfolio_sortChangePercentReverse": {
     "en": "Change % (Ascending)",
+    "de": "Veränderung in % (aufsteigend)",
     "fr": "Variation % (Décroissant)",
     "tr": "Değişim % (Artan)"
   },
   "portfolio_sortAbsChangePercentReverse": {
     "en": "Change % (Absolute, Ascending)",
+    "de": "Veränderung in % (absolut, aufsteigend)",
     "tr": "Değişim % (Mutlak, Artan)"
   },
   "portfolio_sortChangeReverse": {
     "en": "Change (Ascending)",
+    "de": "Veränderung (aufsteigend)",
     "fr": "Variation (Décroissant)",
     "tr": "Değişim (Artan)"
   },
   "portfolio_sortAbsChangeReverse": {
     "en": "Change (Absolute, Ascending)",
+    "de": "Veränderung (absolut, aufsteigend)",
     "tr": "Değişim (Mutlak, Artan)"
   },
   "portfolio_sortCostBasisReverse": {
     "en": "Cost Basis (Ascending)",
+    "de": "Kostengrundlage (aufsteigend)",
     "fr": "Cout (Décroissant)",
     "tr": "Maliyete Göre (Artan)"
   },
   "portfolio_sortDailyChange": {
     "en": "Daily Change",
+    "de": "Veränderung heute",
     "fr": "Variation quotidienne",
     "tr": "Günlük Değişim",
     "zh-Hant-TW": "每日漲跌"
   },
   "portfolio_sortAbsDailyChange": {
     "en": "Daily Change (Absolute)",
+    "de": "Veränderung heute (absolut)",
     "tr": "Günlük Değişim (Mutlak)"
   },
   "portfolio_sortDailyChangePercent": {
     "en": "Daily Change %",
+    "de": "Veränderung heute in %",
     "fr": "Variation quotidienne %",
     "tr": "Günlük Değişim %",
     "zh-Hant-TW": "每日漲跌 %"
   },
   "portfolio_sortAbsDailyChangePercent": {
     "en": "Daily Change % (Absolute)",
+    "de": "Veränderung heute in % (absolut)",
     "tr": "Günlük Değişim % (Mutlak)"
   },
   "portfolio_sortDailyChangePercentReverse": {
     "en": "Daily Change % (Ascending)",
+    "de": "Veränderung heute in % (absteigend)",
     "fr": "Variation quotidienne % (Décroissant)",
     "tr": "Günlük Değişim % (Artan)"
   },
   "portfolio_sortAbsDailyChangePercentReverse": {
     "en": "Daily Change % (Absolute, Ascending)",
+    "de": "Veränderung heute in % (absolut, absteigend)",
     "tr": "Günlük Değişim % (Mutlak, Artan)"
   },
   "portfolio_sortDailyChangeReverse": {
     "en": "Daily Change (Ascending)",
+    "de": "Veränderung heute (absteigend)",
     "fr": "Variation quotidienne (Décroissant)",
     "tr": "Günlük Değişim (Artan)"
   },
   "portfolio_sortAbsDailyChangeReverse": {
     "en": "Daily Change (Absolute, Ascending)",
+    "de": "Veränderung heute (absolut, absteigend)",
     "tr": "Günlük Değişim (Mutlak, Artan)"
   },
   "portfolio_sortDragHandleAccessibility": {
     "en": "Drag Handle",
+    "de": "Handel mit Hebeln",
     "fr": "Faites glisser la poignée",
     "tr": "Sürükleme Kolu"
   },
   "portfolio_sortHoldingSelectedFormatted": {
     "_formatted": false,
     "en": "%d Holding Selected",
+    "de": "%d Notierung ausgewählt",
     "fr": "%d position selectionnée",
     "tr": "%d Varlık Seçildi"
   },
   "portfolio_sortHoldingsSelectedFormatted": {
     "_formatted": false,
     "en": "%d Holdings Selected",
+    "de": "%d Notierung ausgewählt",
     "fr": "%d positions selectionnées",
     "tr": "%d Varlıklar Seçildi"
   },
   "portfolio_sortNameReverse": {
     "en": "Name (Descending)",
+    "de": "Name (absteigend)",
     "fr": "Nom (Décroissant)",
     "tr": "Ad (Azalan)"
   },
   "portfolio_sortNumberTransactions": {
     "en": "Number of Transactions",
+    "de": "Anzahl der Transaktionen",
     "fr": "Nombre de transactions",
     "tr": "İşlemlerin Sayısı"
   },
   "portfolio_sortNumberTransactionsReverse": {
     "en": "Number of Transactions (Ascending)",
+    "de": "Anzahl der Transaktionen (absteigend)",
     "fr": "Nombre de transactions (Décroissant)",
     "tr": "İşlemlerin Sayısı (Artan)"
   },
   "portfolio_sortPortfolioSelectedFormatted": {
     "_formatted": false,
     "en": "%d Portfolio Selected",
+    "de": "%d Portfolio ausgewählt",
     "fr": "%d portefeuille selectionné",
     "tr": "%d Portföy Seçildi"
   },
   "portfolio_sortPortfoliosSelectedFormatted": {
     "_formatted": false,
     "en": "%d Portfolios Selected",
+    "de": "%d Portfolios ausgewählt",
     "fr": "%d portefeuilles selectionnés",
     "tr": "%d Portföyler Seçildi"
   },
   "portfolio_sortPriceReverse": {
-    "de": "Preis (aufsteigend)",
     "en": "Price (Ascending)",
+    "de": "Preis (aufsteigend)",
     "fr": "Prix (Décroissant)",
     "tr": "Fiyat (Artan)"
   },
   "portfolio_sortQuoteSelectedFormatted": {
     "_formatted": false,
     "en": "%d Quote Selected",
+    "de": "%d Bestand ausgewählt",
     "fr": "%d quotation selectionné",
     "tr": "%d Öneri Seçildi"
   },
   "portfolio_sortQuotesSelectedFormatted": {
     "_formatted": false,
     "en": "%d Quotes Selected",
+    "de": "%d Beständ ausgewählt",
     "fr": "%d quotations selectionnés",
     "tr": "%d Öneriler Seçildi"
   },
   "portfolio_sortSymbols": {
-    "de": "Symbole",
     "en": "Symbols",
+    "de": "Symbole",
     "fr": "Symbole",
     "tr": "Semboller"
   },
   "portfolio_sortSymbolsReverse": {
-    "de": "Symbole (absteigend)",
     "en": "Symbols (Descending)",
+    "de": "Symbole (absteigend)",
     "fr": "Symbole (Décroissant)",
     "tr": "Semboller (Azalan)"
   },
   "portfolio_sortTotalChange": {
     "en": "Total Change",
+    "de": "Gesamtveränderung",
     "fr": "Variation totale",
     "tr": "Toplam Değişim"
   },
   "portfolio_sortAbsTotalChange": {
     "en": "Total Change (Absolute)",
+    "de": "Gesamtveränderung (absolut)",
     "tr": "Toplam Değişim (Mutlak)"
   },
   "portfolio_sortTotalChangePercent": {
     "en": "Total Change %",
+    "de": "Gesamtveränderung in %",
     "fr": "Variation totale %",
     "tr": "Toplam Değişim % "
   },
   "portfolio_sortAbsTotalChangePercent": {
     "en": "Total Change % (Absolute)",
+    "de": "Gesamtveränderung in % (absolut)",
     "tr": "Toplam Değişim % (Mutlak)"
   },
   "portfolio_sortTotalChangePercentReverse": {
     "en": "Total Change % (Ascending)",
+    "de": "Gesamtveränderung in % (aufsteigend)",
     "fr": "Variation totale % (Décroissant)",
     "tr": "Toplam Değişim % (Artan)"
   },
   "portfolio_sortAbsTotalChangePercentReverse": {
     "en": "Total Change % (Absolute, Ascending)",
+    "de": "Gesamtveränderung in % (absolut, aufsteigend)",
     "tr": "Toplam Değişim % (Mutlak, Artan)"
   },
   "portfolio_sortTotalChangeReverse": {
     "en": "Total Change (Ascending)",
+    "de": "Gesamtveränderung (aufsteigend)",
     "fr": "Variation totale (Décroissant)",
     "tr": "Toplam Değişim (Artan)"
   },
   "portfolio_sortAbsTotalChangeReverse": {
     "en": "Total Change (Absolute, Ascending)",
+    "de": "Gesamtveränderung (absolut, aufsteigend)",
     "tr": "Toplam Değişim (Mutlak, Artan)"
   },
   "portfolio_sortValueReverse": {
     "en": "Value (Ascending)",
+    "de": "Wert (aufsteigend)",
     "fr": "Valeur (Décroissant)",
     "tr": "Değer (Artan)"
   },
@@ -3422,6 +3539,7 @@
   },
   "portfolio_top_daily_movers_us": {
     "en": "Top Daily Movers (US)",
+    "de": "Täglichen Aktien Top-Bewegungen (US)",
     "tr": "Günlük En Çok Hareket Edenler (ABD)",
     "zh-Hant-TW": "漲跌榜（美國）"
   },
@@ -3435,11 +3553,13 @@
   "portfolio_totalCostPlaceholder": {
     "_formatted": false,
     "en": "Total Cost: %s",
+    "de": "Gesamtkosten: %s",
     "tr": "Toplam Maliyet: %s",
     "zh-Hant-TW": "總成本: %s"
   },
   "portfolio_totalDividends": {
     "en": "Total Dividends",
+    "de": "Dividenden gesamt",
     "fr": "Total des dividendes",
     "tr": "Toplam Temettüler",
     "zh-Hant-TW": "總股息"
@@ -3447,32 +3567,38 @@
   "portfolio_totalProceedsPlaceholder": {
     "_formatted": false,
     "en": "Proceeds: %s",
+    "de": "Erlöse: %s",
     "tr": "Getiri: %s"
   },
   "portfolio_unannualizedPlaceholder": {
     "_formatted": false,
     "en": "Unannualized %s",
+    "de": "nicht auf Jahresbasis %s",
     "tr": "Yıllıklandırılmamış %s"
   },
   "portfolio_unrealized": {
     "en": "Unrealized",
+    "de": "Nicht realisiert",
     "fr": "Non réalisé",
     "tr": "Gerçekleşmemiş",
     "zh-Hant-TW": "未實現"
   },
   "portfolio_unrealized_colon": {
     "en": "Unrealized:",
+    "de": "Nicht realisiert:",
     "fr": "Non réalisé:",
     "tr": "Gerçekleşmemiş",
     "zh-Hant-TW": "未實現："
   },
   "portfolio_unrealizedChange": {
     "en": "Unrealized Change",
+    "de": "Nicht realisierte Veränderung",
     "tr": "Gerçekleşmemiş Değişim",
     "zh-Hant-TW": "未實現損益"
   },
   "portfolio_unrealizedChangePercent": {
     "en": "Unrealized Change Percent",
+    "de": "Nicht realisierte Veränderung in Prozent",
     "tr": "Gerçekleşmemiş Değişim Yüzdesi",
     "zh-Hant-TW": "未實現損益比"
   },
