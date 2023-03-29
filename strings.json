@@ -101,10 +101,12 @@
   },
   "accounting_specificLotsHelp": {
     "en": "To use the \\'Specific Lots\\' execution type, please add the quote first and then go to the quote details page, transactions tab, and add the transaction from there so the app knows which lots can be used.",
+    "de": "Um die Ausführungsart \\'Spezifische Lots\\' zu verwenden, fügen Sie bitte zuerst die Notierung hinzu und gehen Sie dann auf die Angebotsdetailseite, Registerkarte Transaktionen, und fügen Sie die Transaktion von dort aus hinzu, damit die Anwendung weiß, welche Lots verwendet werden können.",
     "tr": "\\'Belirli Lotlar\\' uygulama türünü kullanmak için lütfen önce önerilere ekleyin ve ardından öneriler ayrıntıları sayfasına, işlemler sekmesine gidin ve işlemi buradan ekleyin, böylece uygulama hangi lotların kullanılabileceğini bilir."
   },
   "accounting_specificLotsDescription": {
     "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction.",
+    "de": "Wählen Sie die auszuführenden Lots in der Reihenfolge ihrer Priorität.\\n\\n Um die Reihenfolge zu ändern: Halten Sie die Taste gedrückt und ziehen Sie nach oben/unten. Die Transaktionen am Anfang der Liste werden zuerst ausgeführt.\\n\\nZum Entfernen: Tippen Sie auf Lot/Transaktion.",
     "tr": "Öncelik sırasına göre yürütülecek lotları seçin.\\n\\nYeniden sıralamak için: Basılı tutun ve yukarı/aşağı sürükleyin. Listenin en üstündeki işlemler önce kullanılacaktır.\\n\\nKaldırmak için: Lotun/işlemin üzerine dokunun."
   },
   "account_deleted": {
@@ -122,11 +124,13 @@
   },
   "addCustomPrices_help": {
     "en": "Add custom end of day prices for equity not listed on the market, to override prices, or to fill missing data. To delete a price data point, click on it in the list.",
+    "de": "Fügen Sie benutzerdefinierte Tagesendpreise für die Aktien, die nicht an der Börse notiert sind hinzu, um Preise außer Kraft zu setzen oder um fehlende Daten zu ergänzen. Um eine Kursangabe zu löschen, klicken Sie diese in der Liste an.",
     "fr": "Ajouter des prix personnalisés pour les fonds non listés par le marché, pour écraser des prix, ou pour renseigner des données manquantes. Pour effacer un prix, cliquez-le dans la liste.",
     "tr": "Piyasada listelenmeyen hisse senetleri için, fiyatları geçersiz kılmak için veya eksik verileri doldurmak için özel gün sonu fiyatları ekleyin. Bir fiyat veri noktasını silmek için listede üzerine tıklayın."
   },
   "addPortfolio_enterNamePrompt": {
     "en": "Please enter a name",
+    "de": "Bitte geben Sie einen Namen ein",
     "fr": "Veuillez entrer un nom",
     "tr": "Lütfen bir ad giriniz",
     "zh-Hant-TW": "請輸入投資組合名稱"
@@ -140,6 +144,7 @@
   },
   "addQuoteCash": {
     "en": "Cash",
+    "de": "Bargeld",
     "fr": "Liquidités",
     "zh": "现金",
     "tr": "Nakit",
@@ -155,6 +160,7 @@
   },
   "addQuoteCash_deposit": {
     "en": "Deposit",
+    "de": "Einzahlung",
     "fr": "Déposer",
     "tr": "Mevduat",
     "zh": "加值",
@@ -162,6 +168,7 @@
   },
   "addQuoteCash_enterCashAmount": {
     "en": "Please enter a cash amount",
+    "de": "Bitte einen Barbetrag eingeben",
     "fr": "Veuillez entrer un montant d\\'espèces",
     "tr": "Lütfen nakit tutarı girin",
     "zh-Hant-TW": "請輸入金額"
@@ -175,6 +182,7 @@
   },
   "addQuoteCash_withdraw": {
     "en": "Withdraw",
+    "de": "Entnahme",
     "fr": "Retirer",
     "tr": "Nakit Çekim",
     "zh": "提领",
