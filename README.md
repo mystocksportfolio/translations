@@ -20,6 +20,8 @@ Progress (864 strings):
 
 ![Progress](https://progress-bar.dev/2?title=zh&width=120) 20/864 - Chinese Simplified
 
+![Progress](https://progress-bar.dev/0?title=es&width=120) 1/864 - Spanish
+
 ### Links:
 
 MSP website: https://mystocksportfolio.app/

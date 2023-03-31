@@ -1,12 +1,13 @@
 {
   "example": {
-    "en": "Example",
-    "de": "Beispiel",
-    "fr": "Exemple",
-    "it": "Esempio",
-    "ja": "例",
-    "ko": "예시",
-    "tr": "Örnek",
+    "en": "English",
+    "de": "Deutsch",
+    "es": "Español",
+    "fr": "Français",
+    "it": "Italiano",
+    "ja": "日本",
+    "ko": "한국인",
+    "tr": "Türkçe",
     "zh": "例子",
     "zh-Hant-TW": "例子"
   },
@@ -1632,6 +1633,7 @@
   },
   "generic_ok": {
     "en": "OK",
+    "es": "OK",
     "de": "OK",
     "fr": "OK",
     "tr": "Tamam",
