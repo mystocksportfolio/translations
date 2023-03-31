@@ -198,7 +198,7 @@
   },
   "addQuoteCrypto_help": {
     "en": "Prices are aggregated across exchanges (Source: CoinGecko). If you cannot find a coin, you may contact us via support@peeksoft.co to get it registered.",
-    "de": "Die Kurse werden börsenübergreifend zusammengestellt (Quelle: CoinGecko). Wenn Sie eine 'Coin' nicht finden, können Sie uns über support@peeksoft.co kontaktieren, um diese registrieren zu lassen.",
+    "de": "Die Kurse werden börsenübergreifend zusammengestellt (Quelle: CoinGecko). Wenn Sie eine \\'Coin\\' nicht finden, können Sie uns über support@peeksoft.co kontaktieren, um diese registrieren zu lassen.",
     "fr": "Les prix sont agrégés entre les bourses (Source : CoinGecko). Si vous ne trouvez pas une pièce, vous pouvez nous contacter via support@peeksoft.co pour l\\'enregistrer.",
     "tr": "Fiyatlar borsalar arasında toplanmıştır (Kaynak: CoinGecko). Bir coin bulamazsanız kaydettirmek için support@peeksoft.co üzerinden bizimle iletişime geçebilirsiniz."
   },
@@ -1306,7 +1306,7 @@
   },
   "generic_enterValueBetween0And100": {
     "en": "Enter a value between 0-100",
-    "de": "Geben Sie einen Wert zwischen 0-100 ein",
+    "de": "Geben Sie einen Wert zwischen 0–100 ein",
     "fr": "Entrer une valeur entre 0 et 100",
     "tr": "0–100 arasında bir değer girin",
     "zh-Hant-TW": "輸入0-100之間數值"
@@ -2650,8 +2650,8 @@
   },
   "portfolio_dailyColumnSettings": {
     "en": "Daily Column Settings",
-    "de": "Spalteneinstellungen 'Heute'",
-    "fr": "Paramètres de la colonne \"jour\"",
+    "de": "Spalteneinstellungen \\'Heute\\'",
+    "fr": "Paramètres de la colonne \\'jour\\'",
     "tr": "Günlük Sütun Ayarları",
     "zh-Hant-TW": "每日漲跌欄位設定"
   },
@@ -2749,7 +2749,7 @@
   },
   "portfolio_displayLocalCurrencyForTotals": {
     "en": "Aggregate totals in this portfolio: All quotes in this portfolio must be the same currency. Aggregate totals refers to the totals at top and bottom of screen.",
-    "de": "Gesamtbeträge in diesem Portfolio: Alle Notierungen in diesem Portfolio müssen die selbe Währung aufweisen. Die Gesamtsumme bezieht sich auf die Summen am oberen und unteren Rand der Anzeige.",
+    "de": "Gesamtbeträge in diesem Portfolio: Alle Notierungen in diesem Portfolio müssen dieselbe Währung aufweisen. Die Gesamtsumme bezieht sich auf die Summen am oberen und unteren Rand der Anzeige.",
     "fr": "Totaux agrégés dans ce portefeuille : Tous les cours dans ce portefeuille doivent avoir la même devise. Les totaux agrégés font référence aux totaux en haut et en bas de l\\'écran.",
     "tr": "Bu portföydeki toplamlar: Bu portföydeki tüm öneriler-varlıklar aynı para biriminde olmalıdır. Toplamlar, ekranın üst ve altındaki toplamları ifade eder."
   },
@@ -2826,7 +2826,7 @@
   },
   "portfolio_enterThresholdOneToHundred": {
     "en": "Enter a threshold between 0–100",
-    "de": "Geben Sie einen Schwellwert zwischen 0-100 ein",
+    "de": "Geben Sie einen Schwellwert zwischen 0–100 ein",
     "tr": "0–100 arasında bir eşik değeri girin"
   },
   "portfolio_excludedFromTotals": {
@@ -2956,7 +2956,7 @@
     "tr": "Bilinen Son Günlük Değişim"
   },
   "portfolio_lastPrice": {
-    "de": "Letzer Preis",
+    "de": "Letzter Preis",
     "en": "Last Price",
     "fr": "Cours",
     "tr": "Son Fiyat",
@@ -2994,7 +2994,7 @@
   },
   "portfolio_movingToPortfolio": {
     "en": "Moving to portfolio…",
-    "de": "wird ins Portfolio verschoben...",
+    "de": "wird ins Portfolio verschoben…",
     "fr": "Déplacement vers le portefeuille…",
     "tr": "Portföye taşınıyor…",
     "zh-Hant-TW": "移動至投資組合中…"
@@ -3026,13 +3026,13 @@
   },
   "portfolio_noQuotesHelp": {
     "en": "Add a new quote by tapping the Add button in the menu or by tapping here.",
-    "de": "Fügen Sie ein neue Notierung hinzu, indem Sie im Menü auf die Schaltfläche 'Hinzufügen' oder hier tippen.",
+    "de": "Fügen Sie ein neue Notierung hinzu, indem Sie im Menü auf die Schaltfläche \\'Hinzufügen\\' oder hier tippen.",
     "tr": "Menüdeki Ekle düğmesine dokunarak veya buraya dokunarak yeni bir öneriyi takip edin.",
     "zh-Hant-TW": "點擊選單中新增按鈕，新增報價"
   },
   "portfolio_noTransactionsHelp": {
     "en": "Track a new transaction by tapping the Add button in the menu or by tapping here.",
-    "de": "Erfassen Sie eine neue Transaktion, indem Sie auf die Schaltfläche 'Hinzufügen' im Menü oder hier tippen.",
+    "de": "Erfassen Sie eine neue Transaktion, indem Sie auf die Schaltfläche \\'Hinzufügen\\' im Menü oder hier tippen.",
     "tr": "Menüdeki Ekle düğmesine dokunarak veya buraya dokunarak yeni bir işlemi takip edin.",
     "zh-Hant-TW": "點擊選單中新增按鈕，追蹤新交易"
   },
@@ -4498,7 +4498,7 @@
   },
   "settings_hideClosedPositionsSummary": {
     "en": "Holdings with 0 shares remaining will be hidden on the Holdings view",
-    "de": "Bestände mit 0 verbleibenden Anteilen werden in der Ansicht 'Bestände' ausgeblendet",
+    "de": "Bestände mit 0 verbleibenden Anteilen werden in der Ansicht \\'Bestände\\' ausgeblendet",
     "fr": "Les positions avec 0 actions restantes seront masquées dans la vue des positions",
     "tr": "Hisse sayısı 0 olursa varlıklar bölümünde gizlenecektir"
   },
@@ -4803,7 +4803,7 @@
   },
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
-    "de": "Synchronisierung der Portfolios mit dem Server...",
+    "de": "Synchronisierung der Portfolios mit dem Server…",
     "fr": "Synchronisation des portefeuilles…",
     "tr": "Portföyler sunucu ile senkronize ediliyor…"
   },
