@@ -277,6 +277,9 @@
     "tr": "Temettülerden portföye yatan nakit",
     "zh-Hant-TW": "股息入金至投資組合"
   },
+  "addQuoteTransaction_depositCashToPortfolioFromInterests": {
+    "en": "Deposit cash to portfolio from interests"
+  },
   "addQuoteTransaction_depositCashToPortfolioFromSale": {
     "en": "Deposit cash to portfolio from sale",
     "de": "Einzahlung von Bargeld aus Verkäufen in das Portfolio",
@@ -540,6 +543,21 @@
     "tr": "Menüdeki Uyarı Ekle (Uyarı simgesi) öğesine veya buraya dokunarak bir uyarı ekleyebilirsiniz.",
     "zh-Hant-TW": "點擊選單中新增到價通知或點擊這裡新增"
   },
+  "alert_enableAnnouncementPushNotifications": {
+    "en": "Enable push notifications for important announcements"
+  },
+  "alert_enableAnnouncementPushNotificationsTitle": {
+    "en": "Announcements"
+  },
+  "alert_enableQuotePricePushNotifications": {
+    "en": "Enable push notifications for quote prices"
+  },
+  "alert_enableQuotePricePushNotificationsGreaterThanTitle": {
+    "en": "Price Greater Than"
+  },
+  "alert_enableQuotePricePushNotificationsLessThanTitle": {
+    "en": "Price Less Than"
+  },
   "alert_lessThan": {
     "de": "weniger als",
     "en": "less than",
@@ -552,6 +570,12 @@
     "tr": "Daha çok",
     "zh-Hant-TW": "高於"
   },
+  "alert_testNotificationReceived": {
+    "en": "Test notification received"
+  },
+  "alert_testNotificationReceivedContent": {
+    "en": "Your phone can receive notifications successfully!"
+  },
   "alert_trailingStopLoss": {
     "en": "trailing stop loss",
     "de": "Nachlaufender Stop-Loss",
@@ -561,6 +585,21 @@
     "en": "reverse trailing stop loss",
     "de": "Umgekehrter nachlaufender Stop-Loss",
     "tr": "Tersine takip eden stoploss"
+  },
+  "alert_portfolioChangeTitle": {
+    "en": "Daily Portfolio Summary"
+  },
+  "alert_portfolioChangeValueDrop": {
+    "en": "Your portfolio value dropped today"
+  },
+  "alert_portfolioChangeValueRise": {
+    "en": "Your portfolio value grew today"
+  },
+  "alert_portfolioChangeRefreshingTitle": {
+    "en": "Calculating Portfolio Value"
+  },
+  "alert_portfolioChangeRefreshingDescription": {
+    "en": "Show a refreshing icon when calculating end of day portfolio values"
   },
   "alert_priceAlert": {
     "en": "Price Alert",
@@ -573,6 +612,12 @@
     "de": "Vorhandene Alarme ansehen",
     "tr": "Mevcut uyarıları görüntüle",
     "zh-Hant-TW": "查看既有到價通知"
+  },
+  "alert_widgetRefreshingDescription": {
+    "en": "Show a refreshing icon when the widget is refreshing"
+  },
+  "alert_widgetRefreshingTitle": {
+    "en": "Widget Refreshing"
   },
   "chart_couldNotFetchChart": {
     "en": "Could not fetch chart\\n\\nPlease check your internet connection and try a different interval (1 Day, 5 Days, etc.)",
@@ -1305,11 +1350,11 @@
     "tr": "Parolayı girin"
   },
   "generic_enterValueBetween0And100": {
-    "en": "Enter a value between 0-100",
+    "en": "Enter a value between 0–100",
     "de": "Geben Sie einen Wert zwischen 0–100 ein",
     "fr": "Entrer une valeur entre 0 et 100",
     "tr": "0–100 arasında bir değer girin",
-    "zh-Hant-TW": "輸入0-100之間數值"
+    "zh-Hant-TW": "輸入0–100之間數值"
   },
   "generic_enterYourAnswer": {
     "en": "Enter your answer",
@@ -1406,13 +1451,13 @@
     "tr": "Yazı Tipi Boyutu",
     "zh-Hant-TW": "字體大小"
   },
-  "generic_from_colon": {
-    "en": "From:",
+  "generic_from": {
+    "en": "From",
     "de": "Von",
-    "fr": "De :",
-    "tr": "Şundan:",
-    "zh": "从：",
-    "zh-Hant-TW": "從："
+    "fr": "De",
+    "tr": "Şundan",
+    "zh": "从",
+    "zh-Hant-TW": "從"
   },
   "generic_help": {
     "de": "Hilfe",
@@ -1619,7 +1664,7 @@
   },
   "generic_notApplicable": {
     "en": "N/A",
-    "de": "n/a",
+    "de": "N/A",
     "fr": "N/A",
     "tr": "N/A",
     "zh-Hant-TW": "N/A"
@@ -1674,6 +1719,12 @@
     "en": "Pick a File",
     "de": "Datei auswählen",
     "tr": "Bir dosya seçin"
+  },
+  "generic_placeholderAndColon": {
+    "_formatted": false,
+    "en": "%s:",
+    "fr": "%s :",
+    "zh-Hant-TW": "%s："
   },
   "generic_pleaseAgreeToPrivacyPolicyAndTerms": {
     "en": "Please agree to the Privacy Policy and Terms of Use before continuing",
@@ -1796,6 +1847,15 @@
     "fr": "Sélectionner un fichier",
     "tr": "Dosya seçin",
     "zh-Hant-TW": "選取檔案"
+  },
+  "generic_sendTestNotification": {
+    "en": "Send Test Notification"
+  },
+  "generic_sendTestNotificationHelp": {
+    "en": "Tap to send a test notification from our servers to check whether your phone is set up to receive notifications"
+  },
+  "generic_serverError": {
+    "en": "Server error. Please try again later or contact customer support."
   },
   "generic_set": {
     "en": "Set",
@@ -1986,13 +2046,13 @@
     "tr": "%s ay önce",
     "zh-Hant-TW": "%s月前"
   },
-  "generic_to_colon": {
-    "en": "To:",
-    "de": "Nach:",
-    "fr": "À :",
-    "tr": "Şuna:",
-    "zh": "至：",
-    "zh-Hant-TW": "到："
+  "generic_to": {
+    "en": "To",
+    "de": "Nach",
+    "fr": "À",
+    "tr": "Şuna",
+    "zh": "至",
+    "zh-Hant-TW": "到"
   },
   "generic_today": {
     "de": "Heute",
@@ -2401,13 +2461,6 @@
     "tr": "Portföy",
     "zh-Hant-TW": "組合"
   },
-  "portfolio_colon": {
-    "en": "Portfolio:",
-    "de": "Portfolio:",
-    "fr": "Portefeuille :",
-    "tr": "Portföy",
-    "zh-Hant-TW": "組合："
-  },
   "portfolio_commissions": {
     "en": "Commissions",
     "de": "Provisionen",
@@ -2504,12 +2557,6 @@
     "de": "Allzeit Veränderung in Prozent",
     "tr": "Tüm Zaman Değişim Yüzdesi",
     "zh-Hant-TW": "總損益比"
-  },
-  "portfolio_allTimeColon": {
-    "en": "All-Time:",
-    "de": "Allzeit:",
-    "tr": "Tüm Zaman:",
-    "zh-Hant-TW": "所有時間："
   },
   "portfolio_allTimeCommissions": {
     "en": "All-Time Commissions",
@@ -2619,13 +2666,6 @@
     "fr": "Devise",
     "tr": "Para Birimi",
     "zh-Hant-TW": "幣別"
-  },
-  "portfolio_currency_colon": {
-    "en": "Currency:",
-    "de": "Währung:",
-    "fr": "Devise :",
-    "tr": "Para Birimi",
-    "zh-Hant-TW": "幣別："
   },
   "portfolio_currentPortfolio": {
     "en": "Current Portfolio",
@@ -2759,13 +2799,6 @@
     "fr": "Dividendes",
     "tr": "Temettüler",
     "zh-Hant-TW": "現金股利"
-  },
-  "portfolio_dividendsColon": {
-    "en": "Dividends:",
-    "de": "Dividenden:",
-    "fr": "Dividendes:",
-    "tr": "Temettüler:",
-    "zh-Hant-TW": "現金股利："
   },
   "portfolio_dividendsInTotals": {
     "en": "Dividends reflected in totals",
@@ -2948,6 +2981,9 @@
     "de": "Ihre Bestände werden umgerechnet und in dieser Währung angezeigt. Hinweis: Bisherige Performance-Chartdaten werden gelöscht",
     "fr": "Vos avoirs seront convertis et affichés dans cette devise",
     "tr": "Varlıklarınız bu para biriminde görüntülenecek şekilde dönüştürülecektir. Not: geçmiş performans grafiği verileri silinecektir."
+  },
+  "portfolio_interests": {
+    "en": "Interests"
   },
   "portfolio_lastKnownDailyChange": {
     "de": "Letzte bekannte tägliche Änderung",
@@ -3151,13 +3187,6 @@
     "tr": "Gerçekleşen değişim Yüzdesi",
     "zh-Hant-TW": "已實現損益比"
   },
-  "portfolio_realizedColon": {
-    "en": "Realized:",
-    "de": "realisiert:",
-    "fr": "Réalisé :",
-    "tr": "Gerçekleşen:",
-    "zh-Hant-TW": "已實現："
-  },
   "portfolio_realizedCostBasis": {
     "en": "Realized Cost Basis",
     "de": "realisierte Kostenbasis",
@@ -3188,11 +3217,11 @@
     "tr": "Gerçekleşen YTD Değişim Yüzdesi",
     "zh-Hant-TW": "已實現YTD損益比"
   },
-  "portfolio_realizedYTDColon": {
-    "en": "Rlzd YTD:",
-    "de": "real. YTD:",
+  "portfolio_realizedYTDShort": {
+    "en": "Rlzd YTD",
+    "de": "real. YTD",
     "tr": "Grçklşn YTD",
-    "zh-Hant-TW": "已實現 YTD："
+    "zh-Hant-TW": "已實現 YTD"
   },
   "portfolio_refreshNews": {
     "en": "Refresh News",
@@ -3240,10 +3269,10 @@
     "de": "Beispiele:\\n\\nEin Split im Verhältnis 1:4 multipliziert die eigenen Aktien mit 4 und teilt die Kosten pro Aktie durch 4.\\n\nEin umgekehrter Split im Verhältnis 1:4 teilt die eigenen Aktien mit 4 und teilt die Kosten pro Aktie durch 4.",
     "tr": "Örnekler:\\n\\n%400 bölünme, sahip olunan hisseleri 4 ile çarpacak ve hisse başına ödenen maliyeti 4\\'e bölecektir.\\n\\n%400 ters bölünme, sahip olunan hisseleri 4\\'e bölecek ve hisse başına maliyeti 4\\'e katlayacaktır."
   },
-  "portfolio_previewCSV_colon": {
-    "en": "Preview CSV:",
-    "de": "CSV-Vorschau:",
-    "tr": "CSV Görünümü:"
+  "portfolio_previewCSV": {
+    "en": "Preview CSV",
+    "de": "CSV-Vorschau",
+    "tr": "CSV Görünümü"
   },
   "portfolio_price": {
     "en": "Price",
@@ -3320,7 +3349,7 @@
     "fr": "Cout (Décroissant)",
     "tr": "Maliyete Göre (Artan)"
   },
-  "portfolio_sortDailyChange": {
+  "portfolio_dailyChange": {
     "en": "Daily Change",
     "de": "Veränderung heute",
     "fr": "Variation quotidienne",
@@ -3511,6 +3540,12 @@
     "en": "Type (Reverse)",
     "tr": "Tip (Ters)"
   },
+  "portfolio_sortOrderMenus": {
+    "en": "Portfolios sort order in menus"
+  },
+  "portfolio_sortOrderMenusHelp": {
+    "en": "Sorting used for portfolios in the side drawer and portfolio view drop-down box"
+  },
   "portfolio_sortState": {
     "de": "Auslösestatus",
     "en": "Triggered State",
@@ -3584,13 +3619,6 @@
     "fr": "Non réalisé",
     "tr": "Gerçekleşmemiş",
     "zh-Hant-TW": "未實現"
-  },
-  "portfolio_unrealized_colon": {
-    "en": "Unrealized:",
-    "de": "Nicht realisiert:",
-    "fr": "Non réalisé:",
-    "tr": "Gerçekleşmemiş",
-    "zh-Hant-TW": "未實現："
   },
   "portfolio_unrealizedChange": {
     "en": "Unrealized Change",
@@ -4357,6 +4385,9 @@
     "tr": "Haberleri harici bir tarayıcıdan aç",
     "zh-Hant-TW": "開啟新聞於外部瀏覽器"
   },
+  "settingsGeneral_openNewsExternalBrowserHelp": {
+    "en": "Do not use the internal app web browser (Only recommended if internal browser is having issues)"
+  },
   "settingsGeneral_showExitPrompt": {
     "de": "Beim Verlassen bestätigen",
     "en": "Confirm when exiting",
@@ -4366,6 +4397,18 @@
     "de": "Zeigt vor dem Beenden des Startbildschirms der App eine Bestätigungsmeldung an.",
     "en": "Show a confirmation message before exiting the app while on the home screen",
     "tr": "Uygulamadan çıkmadan önce ana ekran sayfasında bir onay mesajı gösterir"
+  },
+  "settingsWidget_extendedHours": {
+    "en": "Extended hours (Premium)"
+  },
+  "settingsWidget_extendedHoursHelp": {
+    "en": "Show extended hours on portfolio\\'s quotes tab (Premium subscription required)"
+  },
+  "settingsWidget_extendedHoursIndicator": {
+    "en": "Show indicator for extended hours"
+  },
+  "settingsWidget_extendedHoursIndicatorHelp": {
+    "en": "(For single line mode) Show an \\'ext\\' label for extended prices when extended hours are enabled"
   },
   "settingsWidget_singleLineMode": {
     "de": "Einzeilenmodus",
@@ -4553,6 +4596,27 @@
     "fr": "Dernier portefeuille sélectionné",
     "tr": "Son Seçilen Portföy",
     "zh-Hant-TW": "上次使用的投資組合"
+  },
+  "settings_notifications": {
+    "en": "Notifications"
+  },
+  "settings_notifications_eodPortfolioSummary": {
+    "en": "End of Day Portfolio Summary"
+  },
+  "settings_notifications_eodPortfolioSummaryEnabled": {
+    "en": "Enable End of Day Portfolio Summary"
+  },
+  "settings_notifications_eodPortfolioSummaryEnabledHelp": {
+    "en": "If you don\\'t see an end of day push notification summarizing your portfolio changes, check https://dontkillmyapp.com for troubleshooting"
+  },
+  "settings_notifications_eodPortfolioSummaryTime": {
+    "en": "Approximate time to send summary"
+  },
+  "settings_notifications_eodPortfolioSummaryIncludeValue": {
+    "en": "Include portfolio value"
+  },
+  "settings_notifications_eodPortfolioSummaryIncludeValueHelp": {
+    "en": "Your portfolio value will be shown in the notification summary"
   },
   "settings_openPlayStore": {
     "en": "Open Play Store",
@@ -5221,6 +5285,10 @@
     "de": "Dividenden von %s",
     "fr": "Dividendes de %s",
     "tr": "%s \\'den Temettüler"
+  },
+  "viewQuoteTransactions_interestsFromHoldingFormatted": {
+    "_formatted": false,
+    "en": "Interests from %s"
   },
   "viewQuoteTransactions_soldAmountFormatted": {
     "_formatted": false,
