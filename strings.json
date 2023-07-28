@@ -1,5 +1,9 @@
 {
   "example": {
+    "_formatted": false,
+    "_formatted_comment": "Include this if there are placeholders such as %s",
+    "_translatable": false,
+    "_translatable_comment": "Include this if the string is not translatable",
     "en": "English",
     "de": "Deutsch",
     "es": "Español",
@@ -1077,13 +1081,12 @@
     "tr": "Reklamlar maliyetlerimizin bir kısmının karşılanmasına yardımcı oluyor. Premium reklamsız bir deneyim isteyen ve uygulamanın gelişimini desteklemek isteyen müşterilerimiz premium plana abone olabilirler. Desteğiniz için teşekkür ederiz!",
     "zh-Hant-TW": "MSP盡可能提供使用者優良的使用體驗,將廣告干擾降至最低.有限的廣告收入並無法足夠負擔維護與提供更加體驗.如果喜歡我們的產品,並且享受無廣告干擾的Premium體驗,並且支持我們提供更優良的服務與體驗,請訂閱MSP Premium.MSP開發團隊感謝您的支持與愛戴!"
   },
-  "generic_accountX": {
-    "_formatted": false,
-    "en": "Account: %s",
-    "de": "Konto: %s",
-    "fr": "Compte : %s",
-    "tr": "Hesap: %s",
-    "zh-Hant-TW": "帳戶: %s"
+  "generic_account": {
+    "en": "Account",
+    "de": "Konto",
+    "fr": "Compte",
+    "tr": "Hesap",
+    "zh-Hant-TW": "帳戶"
   },
   "generic_active": {
     "en": "Active",
@@ -1277,6 +1280,15 @@
     "tr": "Sil",
     "zh-Hant-TW": "刪除"
   },
+  "generic_deleteAccount": {
+    "en": "Delete Account"
+  },
+  "generic_deleteAccountData": {
+    "en": "Delete Account Data"
+  },
+  "generic_deleteAccountDataConfirm": {
+    "en": "Are you sure you want to delete your account data? There is no way to undo this operation."
+  },
   "generic_disableWarningInSettings": {
     "en": "You can disable this warning in the settings section in the app, general settings",
     "de": "Sie können diese Warnung in den Einstellungen der App unter Allgemeine Einstellungen deaktivieren",
@@ -1385,6 +1397,9 @@
     "en": "Error fetching results. Please try again later.",
     "de": "Fehler beim Abrufen der Ergebnisse. Bitte versuchen Sie es später noch einmal.",
     "tr": "Sonuçlar alınırken hata oluştu. Lütfen daha sonra tekrar deneyin"
+  },
+  "generic_errorWhileRestoring": {
+    "en": "Error while restoring"
   },
   "generic_exitApplication_question": {
     "en": "Exit Application?",
@@ -1726,6 +1741,11 @@
     "fr": "%s :",
     "zh-Hant-TW": "%s："
   },
+  "generic_placeholderAndPlaceholder": {
+    "_formatted": false,
+    "_translatable": false,
+    "en": "%s %s"
+  },
   "generic_pleaseAgreeToPrivacyPolicyAndTerms": {
     "en": "Please agree to the Privacy Policy and Terms of Use before continuing",
     "de": "Bitte stimmen Sie der Datenschutzerklärung und den Nutzungsbedingungen zu, bevor Sie fortfahren.",
@@ -1892,6 +1912,9 @@
     "de": "Google Drive-Konto aktivieren",
     "tr": "Google Drive hesabını etkinleştirin",
     "zh-Hant-TW": "使用 Google 雲端雲端硬碟帳戶"
+  },
+  "generic_signInSignOut": {
+    "en": "Sign in / Sign out"
   },
   "generic_signOut": {
     "en": "Sign Out",
@@ -2107,6 +2130,18 @@
     "fr": "Oui",
     "tr": "Evet",
     "zh-Hant-TW": "是"
+  },
+  "generic_yourAccountData": {
+    "en": "Your Account Data"
+  },
+  "generic_yourAccountDataStoredNA": {
+    "en": "Your account data is kept encrypted, anonymized, and stored on our private servers in North America."
+  },
+  "generic_yourAccountData_deleteDataMobile": {
+    "en": "You may request to delete your account and/or data. Your data includes all data stored on our servers such as portfolio data you uploaded to our servers (see the server sync page). It doesn\\'t include data on your mobile device. To delete data on your mobile device, you can uninstall the app."
+  },
+  "generic_yourAccountData_deleteDataWarning": {
+    "en": "If you delete your account or data, they will be permanently deleted and we cannot undelete it. To make a backup of your data, please visit the mobile application\\'s settings, export page."
   },
   "help_announcements": {
     "de": "Mitteilungen",
