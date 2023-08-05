@@ -599,11 +599,11 @@
   "alert_portfolioChangeValueRise": {
     "en": "Your portfolio value grew today"
   },
-  "alert_portfolioChangeRefreshingTitle": {
-    "en": "Calculating Portfolio Value"
-  },
   "alert_portfolioChangeRefreshingDescription": {
     "en": "Show a refreshing icon when calculating end of day portfolio values"
+  },
+  "alert_portfolioValue": {
+    "en": "Portfolio Value"
   },
   "alert_priceAlert": {
     "en": "Price Alert",
