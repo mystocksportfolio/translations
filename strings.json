@@ -2936,7 +2936,7 @@
     "en": "Filter News",
     "de": "Nachrichten filtern",
     "zh-Hant-TW": "篩選新聞",
-    "tr": "Filtre Haberler"
+    "tr": "Filtreli Haberler"
   },
   "portfolio_fullTimeEmployees": {
     "en": "Full-Time Employees",
@@ -3049,6 +3049,7 @@
   },
   "portfolio_interests": {
     "en": "Interests"
+    "tr": "İlgi Alanları"
   },
   "portfolio_lastKnownDailyChange": {
     "de": "Letzte bekannte tägliche Änderung",
@@ -4451,7 +4452,8 @@
     "zh-Hant-TW": "開啟新聞於外部瀏覽器"
   },
   "settingsGeneral_openNewsExternalBrowserHelp": {
-    "en": "Do not use the internal app web browser (Only recommended if internal browser is having issues)"
+    "en": "Do not use the internal app web browser (Only recommended if internal browser is having issues)",
+    "tr": "Dahili uygulama web tarayıcısını kullanmayın (Yalnızca dahili tarayıcıda sorun varsa önerilir)"
   },
   "settingsGeneral_showExitPrompt": {
     "de": "Beim Verlassen bestätigen",
@@ -4464,16 +4466,20 @@
     "tr": "Uygulamadan çıkmadan önce ana ekran sayfasında bir onay mesajı gösterir"
   },
   "settingsWidget_extendedHours": {
-    "en": "Extended hours (Premium)"
+    "en": "Extended hours (Premium)",
+    "tr": "Uzatılmış saatler (Premium)"
   },
   "settingsWidget_extendedHoursHelp": {
     "en": "Show extended hours on portfolio\\'s quotes tab (Premium subscription required)"
+    "tr": "Portföy\\'ün fiyat teklifleri sekmesinde uzatılmış saatleri gösterin (Premium abonelik gereklidir)"
   },
   "settingsWidget_extendedHoursIndicator": {
-    "en": "Show indicator for extended hours"
+    "en": "Show indicator for extended hours",
+    "tr": "Uzatılmış saatler için indikatör göster"
   },
   "settingsWidget_extendedHoursIndicatorHelp": {
     "en": "(For single line mode) Show an \\'ext\\' label for extended prices when extended hours are enabled"
+    "tr": "(Tek satır modu için) Uzatılmış saatler etkinleştirildiğinde uzatılmış fiyatlar için bir \\'ext\\' etiketi göster"
   },
   "settingsWidget_singleLineMode": {
     "de": "Einzeilenmodus",
@@ -5411,7 +5417,7 @@
     "en": "More news about %s ➔",
     "de": "Mehr Nachrichten über %s ➔",
     "fr": "Plus d\\'actualités à propos de %s ➔",
-    "tr": " %s hakkında daha fazla heber için ➔"
+    "tr": " %s hakkında daha fazla haber için ➔"
   },
   "viewQuote_newTickerChange": {
     "_formatted": false,
