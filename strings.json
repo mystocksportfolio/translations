@@ -23,7 +23,7 @@
   "accounting_execution": {
     "en": "Execution",
     "de": "Ausführung",
-    "tr": "İşlem yöntemi"
+    "tr": "İşlem Yöntemi"
   },
   "accounting_fifo": {
     "en": "FIFO",
@@ -81,7 +81,7 @@
   "accounting_noLotsFoundHelp": {
     "en": "Couldn\\'t find any valid lots (transactions) to select before this transaction\\'s date",
     "de": "Es können keine gültigen Lots (Transaktionen) vor diesem Transaktionsdatum zur Auswahl gefunden werden",
-    "tr": "Bu işlemin tarihinden önce seçilecek geçerli lotlar (işlemler) bulunamadı"
+    "tr": "Seçilen işlem tarihinden önce geçerli lotlar (işlemler) bulunamadı"
   },
   "accounting_selectLots": {
     "en": "Select Lots",
@@ -112,7 +112,7 @@
   "accounting_specificLotsDescription": {
     "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction.",
     "de": "Wählen Sie die auszuführenden Lots in der Reihenfolge ihrer Priorität.\\n\\n Um die Reihenfolge zu ändern: Halten Sie die Taste gedrückt und ziehen Sie nach oben/unten. Die Transaktionen am Anfang der Liste werden zuerst ausgeführt.\\n\\nZum Entfernen: Tippen Sie auf Lot/Transaktion.",
-    "tr": "Öncelik sırasına göre yürütülecek lotları seçin.\\n\\nYeniden sıralamak için: Basılı tutun ve yukarı/aşağı sürükleyin. Listenin en üstündeki işlemler önce kullanılacaktır.\\n\\nKaldırmak için: Lotun/işlemin üzerine dokunun."
+    "tr": "Öncelik sırasına göre işlenecek lotları seçin.\\n\\nYeniden sıralamak için: Basılı tutun ve yukarı/aşağı sürükleyin. Listenin en üstündeki işlemler önce kullanılacaktır.\\n\\nKaldırmak için: Lotun/işlemin üzerine dokunun."
   },
   "account_deleted": {
     "en": "Account Deleted",
@@ -282,7 +282,8 @@
     "zh-Hant-TW": "股息入金至投資組合"
   },
   "addQuoteTransaction_depositCashToPortfolioFromInterests": {
-    "en": "Deposit cash to portfolio from interests"
+    "en": "Deposit cash to portfolio from interests",
+    "tr": "Faizlerden portföye yatan nakit"
   },
   "addQuoteTransaction_depositCashToPortfolioFromSale": {
     "en": "Deposit cash to portfolio from sale",
@@ -439,7 +440,7 @@
     "en": "Use % Commission?",
     "de": "Für Provisionen % benutzen?",
     "fr": "Utiliser un pourcentage de commission ?",
-    "tr": "% olarak mı kullanıyorsun?",
+    "tr": "Komisyonu % olarak mı kullanıyorsun?",
     "zh-Hant-TW": "用 % 手續費？"
   },
   "addQuoteTransaction_withdrawCashFromPortfolioToPurchase": {
@@ -548,19 +549,24 @@
     "zh-Hant-TW": "點擊選單中新增到價通知或點擊這裡新增"
   },
   "alert_enableAnnouncementPushNotifications": {
-    "en": "Enable push notifications for important announcements"
+    "en": "Enable push notifications for important announcements",
+    "tr": "Önemli duyurular için anlık bildirimleri etkinleştirin"
   },
   "alert_enableAnnouncementPushNotificationsTitle": {
-    "en": "Announcements"
+    "en": "Announcements",
+    "tr": "Duyurular"
   },
   "alert_enableQuotePricePushNotifications": {
-    "en": "Enable push notifications for quote prices"
+    "en": "Enable push notifications for quote prices",
+    "tr": "Fiyat önerileri için anlık bildirimleri etkinleştirin"
   },
   "alert_enableQuotePricePushNotificationsGreaterThanTitle": {
-    "en": "Price Greater Than"
+    "en": "Price Greater Than",
+    "tr": "Daha Yüksek Fiyat"
   },
   "alert_enableQuotePricePushNotificationsLessThanTitle": {
-    "en": "Price Less Than"
+    "en": "Price Less Than",
+    "tr": "Daha Düşük Fiyat"
   },
   "alert_lessThan": {
     "de": "weniger als",
@@ -576,9 +582,11 @@
   },
   "alert_testNotificationReceived": {
     "en": "Test notification received"
+    "tr": "Test bildirimi alındı"
   },
   "alert_testNotificationReceivedContent": {
     "en": "Your phone can receive notifications successfully!"
+    "tr": "Telefonunuz bildirimleri başarıyla alabilir!"
   },
   "alert_trailingStopLoss": {
     "en": "trailing stop loss",
@@ -591,19 +599,24 @@
     "tr": "Tersine takip eden stoploss"
   },
   "alert_portfolioChangeTitle": {
-    "en": "Daily Portfolio Summary"
+    "en": "Daily Portfolio Summary",
+    "tr": "Günlük Portföy Özeti"
   },
   "alert_portfolioChangeValueDrop": {
-    "en": "Your portfolio value dropped today"
+    "en": "Your portfolio value dropped today",
+    "tr": "Portföy değeriniz bugün düştü"
   },
   "alert_portfolioChangeValueRise": {
-    "en": "Your portfolio value grew today"
+    "en": "Your portfolio value grew today",
+    "tr": "Portföy değeriniz bugün arttı"
   },
   "alert_portfolioChangeRefreshingTitle": {
-    "en": "Calculating Portfolio Value"
+    "en": "Calculating Portfolio Value",
+    "tr": "Portföy Değeriniz Hesaplanıyor"
   },
   "alert_portfolioChangeRefreshingDescription": {
-    "en": "Show a refreshing icon when calculating end of day portfolio values"
+    "en": "Show a refreshing icon when calculating end of day portfolio values",
+    "tr": "Gün sonu portföy değerleri hesaplanırken bir yenileme simgesi gösterin"
   },
   "alert_priceAlert": {
     "en": "Price Alert",
@@ -618,10 +631,13 @@
     "zh-Hant-TW": "查看既有到價通知"
   },
   "alert_widgetRefreshingDescription": {
-    "en": "Show a refreshing icon when the widget is refreshing"
+    "en": "Show a refreshing icon when the widget is refreshing",
+    "tr": "Widget yenilenirken yenileniyor simgesini göster"
   },
   "alert_widgetRefreshingTitle": {
-    "en": "Widget Refreshing"
+    "en": "Widget Refreshing",
+    "tr": "Wifget Yenileniyor"
+    
   },
   "chart_couldNotFetchChart": {
     "en": "Could not fetch chart\\n\\nPlease check your internet connection and try a different interval (1 Day, 5 Days, etc.)",
