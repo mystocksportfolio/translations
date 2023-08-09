@@ -1238,7 +1238,7 @@
   "generic_clientOutOfDate": {
     "en": "It looks like your app version is out of date, so this type is unrecognized. Please update to the latest version of the app.",
     "de": "Es sieht so aus, als ob Ihre App-Version veraltet ist, so dass dieser Typ nicht erkannt wird. Bitte aktualisieren Sie auf die neueste Version der App.",
-    "tr": "Uygulama sürümünüz güncel değil gibi görünüyor, bu nedenle bu tür tanınmıyor. Lütfen uygulamanın en son sürümüne güncelleyin."
+    "tr": "Uygulama sürümünüz güncel değil gibi görünüyor, bu nedenle bu tür tanınmıyor. Lütfen uygulamayı en son sürümüne güncelleyin."
   },
   "generic_closeDrawerAccessibility": {
     "en": "Close navigation drawer",
@@ -1297,13 +1297,16 @@
     "zh-Hant-TW": "刪除"
   },
   "generic_deleteAccount": {
-    "en": "Delete Account"
+    "en": "Delete Account",
+    "tr": "Hesabı Sil"
   },
   "generic_deleteAccountData": {
-    "en": "Delete Account Data"
+    "en": "Delete Account Data",
+    "tr": "Hesap Verisini Sil"
   },
   "generic_deleteAccountDataConfirm": {
-    "en": "Are you sure you want to delete your account data? There is no way to undo this operation."
+    "en": "Are you sure you want to delete your account data? There is no way to undo this operation.",
+    "tr": "Hesap Verisini silmek istediğinize emin misiniz? Bu işlemi geri almanın bir yolu yoktur."
   },
   "generic_disableWarningInSettings": {
     "en": "You can disable this warning in the settings section in the app, general settings",
@@ -1415,7 +1418,8 @@
     "tr": "Sonuçlar alınırken hata oluştu. Lütfen daha sonra tekrar deneyin"
   },
   "generic_errorWhileRestoring": {
-    "en": "Error while restoring"
+    "en": "Error while restoring",
+    "tr": "Geri yükleme sırasında hata oluştu"
   },
   "generic_exitApplication_question": {
     "en": "Exit Application?",
@@ -1755,12 +1759,14 @@
     "_formatted": false,
     "en": "%s:",
     "fr": "%s :",
+    "tr": "%s:",
     "zh-Hant-TW": "%s："
   },
   "generic_placeholderAndPlaceholder": {
     "_formatted": false,
     "_translatable": false,
-    "en": "%s %s"
+    "en": "%s %s",
+    "tr": "%s %s"
   },
   "generic_pleaseAgreeToPrivacyPolicyAndTerms": {
     "en": "Please agree to the Privacy Policy and Terms of Use before continuing",
@@ -1885,13 +1891,16 @@
     "zh-Hant-TW": "選取檔案"
   },
   "generic_sendTestNotification": {
-    "en": "Send Test Notification"
+    "en": "Send Test Notification",
+    "tr": "Test Bildirimi Gönder"
   },
   "generic_sendTestNotificationHelp": {
-    "en": "Tap to send a test notification from our servers to check whether your phone is set up to receive notifications"
+    "en": "Tap to send a test notification from our servers to check whether your phone is set up to receive notifications",
+    "tr": "Telefonunuzun bildirim almaya ayarlı olup olmadığını kontrol etmek için sunucularımızdan bir test bildirimi göndermek üzere dokunun"
   },
   "generic_serverError": {
-    "en": "Server error. Please try again later or contact customer support."
+    "en": "Server error. Please try again later or contact customer support.",
+    "tr": "Sunucu hatası. Lütfen daha sonra tekrar deneyin veya müşteri desteğiyle iletişime geçin."
   },
   "generic_set": {
     "en": "Set",
@@ -1931,11 +1940,12 @@
   },
   "generic_signInSignOut": {
     "en": "Sign in / Sign out"
+    "tr": "Oturum aç / Oturumu kapat",
   },
   "generic_signOut": {
     "en": "Sign Out",
     "fr": "Déconnexion",
-    "tr": "Çıkış Yap",
+    "tr": "Oturumu Kapat",
     "zh": "登出",
     "zh-Hant-TW": "登出"
   },
@@ -1943,7 +1953,7 @@
     "de": "Einloggen",
     "en": "Sign In",
     "fr": "Se connecter",
-    "tr": "Giriş Yap",
+    "tr": "Oturum Aç",
     "zh": "登入",
     "zh-Hant-TW": "登入"
   },
@@ -2148,16 +2158,20 @@
     "zh-Hant-TW": "是"
   },
   "generic_yourAccountData": {
-    "en": "Your Account Data"
+    "en": "Your Account Data",
+    "tr": "Hesap Verileriniz"
   },
   "generic_yourAccountDataStoredNA": {
-    "en": "Your account data is kept encrypted, anonymized, and stored on our private servers in North America."
+    "en": "Your account data is kept encrypted, anonymized, and stored on our private servers in North America.",
+    "tr": "Hesap verileriniz şifrelenir, anonim hale getirilir ve Kuzey Amerika'daki özel sunucularımızda saklanır."
   },
   "generic_yourAccountData_deleteDataMobile": {
     "en": "You may request to delete your account and/or data. Your data includes all data stored on our servers such as portfolio data you uploaded to our servers (see the server sync page). It doesn\\'t include data on your mobile device. To delete data on your mobile device, you can uninstall the app."
+    "tr": "Hesabınızı ve/veya verilerinizi silmeyi talep edebilirsiniz. Verileriniz, sunucularımıza yüklediğiniz portföy verileri gibi sunucularımızda depolanan tüm verileri içerir (sunucu senkronizasyonu sayfasına bakın). Mobil cihazınızdaki verileri içermez. Mobil cihazınızdaki verileri silmek için uygulamayı kaldırabilirsiniz."
   },
   "generic_yourAccountData_deleteDataWarning": {
     "en": "If you delete your account or data, they will be permanently deleted and we cannot undelete it. To make a backup of your data, please visit the mobile application\\'s settings, export page."
+    "tr": "Hesabınızı veya verilerinizi silerseniz, bunlar kalıcı olarak silinir ve geri alamayız. Verilerinizin yedeğini almak için lütfen mobil uygulamanın ayarlar, dışa aktarma sayfasını ziyaret edin."
   },
   "help_announcements": {
     "de": "Mitteilungen",
