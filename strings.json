@@ -23,7 +23,7 @@
   "accounting_execution": {
     "en": "Execution",
     "de": "Ausführung",
-    "tr": "İşlem yöntemi"
+    "tr": "İşlem Yöntemi"
   },
   "accounting_fifo": {
     "en": "FIFO",
@@ -81,7 +81,7 @@
   "accounting_noLotsFoundHelp": {
     "en": "Couldn\\'t find any valid lots (transactions) to select before this transaction\\'s date",
     "de": "Es können keine gültigen Lots (Transaktionen) vor diesem Transaktionsdatum zur Auswahl gefunden werden",
-    "tr": "Bu işlemin tarihinden önce seçilecek geçerli lotlar (işlemler) bulunamadı"
+    "tr": "Seçilen işlem tarihinden önce geçerli lotlar (işlemler) bulunamadı"
   },
   "accounting_selectLots": {
     "en": "Select Lots",
@@ -112,7 +112,7 @@
   "accounting_specificLotsDescription": {
     "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction.",
     "de": "Wählen Sie die auszuführenden Lots in der Reihenfolge ihrer Priorität.\\n\\n Um die Reihenfolge zu ändern: Halten Sie die Taste gedrückt und ziehen Sie nach oben/unten. Die Transaktionen am Anfang der Liste werden zuerst ausgeführt.\\n\\nZum Entfernen: Tippen Sie auf Lot/Transaktion.",
-    "tr": "Öncelik sırasına göre yürütülecek lotları seçin.\\n\\nYeniden sıralamak için: Basılı tutun ve yukarı/aşağı sürükleyin. Listenin en üstündeki işlemler önce kullanılacaktır.\\n\\nKaldırmak için: Lotun/işlemin üzerine dokunun."
+    "tr": "Öncelik sırasına göre işlenecek lotları seçin.\\n\\nYeniden sıralamak için: Basılı tutun ve yukarı/aşağı sürükleyin. Listenin en üstündeki işlemler önce kullanılacaktır.\\n\\nKaldırmak için: Lotun/işlemin üzerine dokunun."
   },
   "account_deleted": {
     "en": "Account Deleted",
@@ -282,7 +282,8 @@
     "zh-Hant-TW": "股息入金至投資組合"
   },
   "addQuoteTransaction_depositCashToPortfolioFromInterests": {
-    "en": "Deposit cash to portfolio from interests"
+    "en": "Deposit cash to portfolio from interests",
+    "tr": "Faizlerden portföye yatan nakit"
   },
   "addQuoteTransaction_depositCashToPortfolioFromSale": {
     "en": "Deposit cash to portfolio from sale",
@@ -439,7 +440,7 @@
     "en": "Use % Commission?",
     "de": "Für Provisionen % benutzen?",
     "fr": "Utiliser un pourcentage de commission ?",
-    "tr": "% olarak mı kullanıyorsun?",
+    "tr": "Komisyonu % olarak mı kullanıyorsun?",
     "zh-Hant-TW": "用 % 手續費？"
   },
   "addQuoteTransaction_withdrawCashFromPortfolioToPurchase": {
@@ -548,19 +549,24 @@
     "zh-Hant-TW": "點擊選單中新增到價通知或點擊這裡新增"
   },
   "alert_enableAnnouncementPushNotifications": {
-    "en": "Enable push notifications for important announcements"
+    "en": "Enable push notifications for important announcements",
+    "tr": "Önemli duyurular için anlık bildirimleri etkinleştirin"
   },
   "alert_enableAnnouncementPushNotificationsTitle": {
-    "en": "Announcements"
+    "en": "Announcements",
+    "tr": "Duyurular"
   },
   "alert_enableQuotePricePushNotifications": {
-    "en": "Enable push notifications for quote prices"
+    "en": "Enable push notifications for quote prices",
+    "tr": "Fiyat önerileri için anlık bildirimleri etkinleştirin"
   },
   "alert_enableQuotePricePushNotificationsGreaterThanTitle": {
-    "en": "Price Greater Than"
+    "en": "Price Greater Than",
+    "tr": "Daha Yüksek Fiyat"
   },
   "alert_enableQuotePricePushNotificationsLessThanTitle": {
-    "en": "Price Less Than"
+    "en": "Price Less Than",
+    "tr": "Daha Düşük Fiyat"
   },
   "alert_lessThan": {
     "de": "weniger als",
@@ -576,9 +582,11 @@
   },
   "alert_testNotificationReceived": {
     "en": "Test notification received"
+    "tr": "Test bildirimi alındı"
   },
   "alert_testNotificationReceivedContent": {
     "en": "Your phone can receive notifications successfully!"
+    "tr": "Telefonunuz bildirimleri başarıyla alabilir!"
   },
   "alert_trailingStopLoss": {
     "en": "trailing stop loss",
@@ -591,19 +599,24 @@
     "tr": "Tersine takip eden stoploss"
   },
   "alert_portfolioChangeTitle": {
-    "en": "Daily Portfolio Summary"
+    "en": "Daily Portfolio Summary",
+    "tr": "Günlük Portföy Özeti"
   },
   "alert_portfolioChangeValueDrop": {
-    "en": "Your portfolio value dropped today"
+    "en": "Your portfolio value dropped today",
+    "tr": "Portföy değeriniz bugün düştü"
   },
   "alert_portfolioChangeValueRise": {
-    "en": "Your portfolio value grew today"
+    "en": "Your portfolio value grew today",
+    "tr": "Portföy değeriniz bugün arttı"
   },
   "alert_portfolioChangeRefreshingDescription": {
-    "en": "Show a refreshing icon when calculating end of day portfolio values"
+    "en": "Show a refreshing icon when calculating end of day portfolio values",
+    "tr": "Gün sonu portföy değerleri hesaplanırken bir yenileme simgesi gösterin"
   },
   "alert_portfolioValue": {
     "en": "Portfolio Value"
+    "tr": "Portföy Değeriniz"
   },
   "alert_priceAlert": {
     "en": "Price Alert",
@@ -618,10 +631,13 @@
     "zh-Hant-TW": "查看既有到價通知"
   },
   "alert_widgetRefreshingDescription": {
-    "en": "Show a refreshing icon when the widget is refreshing"
+    "en": "Show a refreshing icon when the widget is refreshing",
+    "tr": "Widget yenilenirken yenileniyor simgesini göster"
   },
   "alert_widgetRefreshingTitle": {
-    "en": "Widget Refreshing"
+    "en": "Widget Refreshing",
+    "tr": "Wifget Yenileniyor"
+    
   },
   "chart_couldNotFetchChart": {
     "en": "Could not fetch chart\\n\\nPlease check your internet connection and try a different interval (1 Day, 5 Days, etc.)",
@@ -1222,7 +1238,7 @@
   "generic_clientOutOfDate": {
     "en": "It looks like your app version is out of date, so this type is unrecognized. Please update to the latest version of the app.",
     "de": "Es sieht so aus, als ob Ihre App-Version veraltet ist, so dass dieser Typ nicht erkannt wird. Bitte aktualisieren Sie auf die neueste Version der App.",
-    "tr": "Uygulama sürümünüz güncel değil gibi görünüyor, bu nedenle bu tür tanınmıyor. Lütfen uygulamanın en son sürümüne güncelleyin."
+    "tr": "Uygulama sürümünüz güncel değil gibi görünüyor, bu nedenle bu tür tanınmıyor. Lütfen uygulamayı en son sürümüne güncelleyin."
   },
   "generic_closeDrawerAccessibility": {
     "en": "Close navigation drawer",
@@ -1281,13 +1297,16 @@
     "zh-Hant-TW": "刪除"
   },
   "generic_deleteAccount": {
-    "en": "Delete Account"
+    "en": "Delete Account",
+    "tr": "Hesabı Sil"
   },
   "generic_deleteAccountData": {
-    "en": "Delete Account Data"
+    "en": "Delete Account Data",
+    "tr": "Hesap Verisini Sil"
   },
   "generic_deleteAccountDataConfirm": {
-    "en": "Are you sure you want to delete your account data? There is no way to undo this operation."
+    "en": "Are you sure you want to delete your account data? There is no way to undo this operation.",
+    "tr": "Hesap Verisini silmek istediğinize emin misiniz? Bu işlemi geri almanın bir yolu yoktur."
   },
   "generic_disableWarningInSettings": {
     "en": "You can disable this warning in the settings section in the app, general settings",
@@ -1399,7 +1418,8 @@
     "tr": "Sonuçlar alınırken hata oluştu. Lütfen daha sonra tekrar deneyin"
   },
   "generic_errorWhileRestoring": {
-    "en": "Error while restoring"
+    "en": "Error while restoring",
+    "tr": "Geri yükleme sırasında hata oluştu"
   },
   "generic_exitApplication_question": {
     "en": "Exit Application?",
@@ -1739,12 +1759,14 @@
     "_formatted": false,
     "en": "%s:",
     "fr": "%s :",
+    "tr": "%s:",
     "zh-Hant-TW": "%s："
   },
   "generic_placeholderAndPlaceholder": {
     "_formatted": false,
     "_translatable": false,
-    "en": "%s %s"
+    "en": "%s %s",
+    "tr": "%s %s"
   },
   "generic_pleaseAgreeToPrivacyPolicyAndTerms": {
     "en": "Please agree to the Privacy Policy and Terms of Use before continuing",
@@ -1869,13 +1891,16 @@
     "zh-Hant-TW": "選取檔案"
   },
   "generic_sendTestNotification": {
-    "en": "Send Test Notification"
+    "en": "Send Test Notification",
+    "tr": "Test Bildirimi Gönder"
   },
   "generic_sendTestNotificationHelp": {
-    "en": "Tap to send a test notification from our servers to check whether your phone is set up to receive notifications"
+    "en": "Tap to send a test notification from our servers to check whether your phone is set up to receive notifications",
+    "tr": "Telefonunuzun bildirim almaya ayarlı olup olmadığını kontrol etmek için sunucularımızdan bir test bildirimi göndermek üzere dokunun"
   },
   "generic_serverError": {
-    "en": "Server error. Please try again later or contact customer support."
+    "en": "Server error. Please try again later or contact customer support.",
+    "tr": "Sunucu hatası. Lütfen daha sonra tekrar deneyin veya müşteri desteğiyle iletişime geçin."
   },
   "generic_set": {
     "en": "Set",
@@ -1915,11 +1940,12 @@
   },
   "generic_signInSignOut": {
     "en": "Sign in / Sign out"
+    "tr": "Oturum aç / Oturumu kapat",
   },
   "generic_signOut": {
     "en": "Sign Out",
     "fr": "Déconnexion",
-    "tr": "Çıkış Yap",
+    "tr": "Oturumu Kapat",
     "zh": "登出",
     "zh-Hant-TW": "登出"
   },
@@ -1927,7 +1953,7 @@
     "de": "Einloggen",
     "en": "Sign In",
     "fr": "Se connecter",
-    "tr": "Giriş Yap",
+    "tr": "Oturum Aç",
     "zh": "登入",
     "zh-Hant-TW": "登入"
   },
@@ -2132,16 +2158,20 @@
     "zh-Hant-TW": "是"
   },
   "generic_yourAccountData": {
-    "en": "Your Account Data"
+    "en": "Your Account Data",
+    "tr": "Hesap Verileriniz"
   },
   "generic_yourAccountDataStoredNA": {
-    "en": "Your account data is kept encrypted, anonymized, and stored on our private servers in North America."
+    "en": "Your account data is kept encrypted, anonymized, and stored on our private servers in North America.",
+    "tr": "Hesap verileriniz şifrelenir, anonim hale getirilir ve Kuzey Amerika'daki özel sunucularımızda saklanır."
   },
   "generic_yourAccountData_deleteDataMobile": {
     "en": "You may request to delete your account and/or data. Your data includes all data stored on our servers such as portfolio data you uploaded to our servers (see the server sync page). It doesn\\'t include data on your mobile device. To delete data on your mobile device, you can uninstall the app."
+    "tr": "Hesabınızı ve/veya verilerinizi silmeyi talep edebilirsiniz. Verileriniz, sunucularımıza yüklediğiniz portföy verileri gibi sunucularımızda depolanan tüm verileri içerir (sunucu senkronizasyonu sayfasına bakın). Mobil cihazınızdaki verileri içermez. Mobil cihazınızdaki verileri silmek için uygulamayı kaldırabilirsiniz."
   },
   "generic_yourAccountData_deleteDataWarning": {
     "en": "If you delete your account or data, they will be permanently deleted and we cannot undelete it. To make a backup of your data, please visit the mobile application\\'s settings, export page."
+    "tr": "Hesabınızı veya verilerinizi silerseniz, bunlar kalıcı olarak silinir ve geri alamayız. Verilerinizin yedeğini almak için lütfen mobil uygulamanın ayarlar, dışa aktarma sayfasını ziyaret edin."
   },
   "help_announcements": {
     "de": "Mitteilungen",
@@ -2906,7 +2936,7 @@
     "en": "Filter News",
     "de": "Nachrichten filtern",
     "zh-Hant-TW": "篩選新聞",
-    "tr": "Filtre Haberler"
+    "tr": "Filtreli Haberler"
   },
   "portfolio_fullTimeEmployees": {
     "en": "Full-Time Employees",
@@ -3019,6 +3049,7 @@
   },
   "portfolio_interests": {
     "en": "Interests"
+    "tr": "İlgi Alanları"
   },
   "portfolio_lastKnownDailyChange": {
     "de": "Letzte bekannte tägliche Änderung",
@@ -4421,7 +4452,8 @@
     "zh-Hant-TW": "開啟新聞於外部瀏覽器"
   },
   "settingsGeneral_openNewsExternalBrowserHelp": {
-    "en": "Do not use the internal app web browser (Only recommended if internal browser is having issues)"
+    "en": "Do not use the internal app web browser (Only recommended if internal browser is having issues)",
+    "tr": "Dahili uygulama web tarayıcısını kullanmayın (Yalnızca dahili tarayıcıda sorun varsa önerilir)"
   },
   "settingsGeneral_showExitPrompt": {
     "de": "Beim Verlassen bestätigen",
@@ -4434,16 +4466,20 @@
     "tr": "Uygulamadan çıkmadan önce ana ekran sayfasında bir onay mesajı gösterir"
   },
   "settingsWidget_extendedHours": {
-    "en": "Extended hours (Premium)"
+    "en": "Extended hours (Premium)",
+    "tr": "Uzatılmış saatler (Premium)"
   },
   "settingsWidget_extendedHoursHelp": {
     "en": "Show extended hours on portfolio\\'s quotes tab (Premium subscription required)"
+    "tr": "Portföy\\'ün fiyat teklifleri sekmesinde uzatılmış saatleri gösterin (Premium abonelik gereklidir)"
   },
   "settingsWidget_extendedHoursIndicator": {
-    "en": "Show indicator for extended hours"
+    "en": "Show indicator for extended hours",
+    "tr": "Uzatılmış saatler için indikatör göster"
   },
   "settingsWidget_extendedHoursIndicatorHelp": {
     "en": "(For single line mode) Show an \\'ext\\' label for extended prices when extended hours are enabled"
+    "tr": "(Tek satır modu için) Uzatılmış saatler etkinleştirildiğinde uzatılmış fiyatlar için bir \\'ext\\' etiketi göster"
   },
   "settingsWidget_singleLineMode": {
     "de": "Einzeilenmodus",
@@ -5381,7 +5417,7 @@
     "en": "More news about %s ➔",
     "de": "Mehr Nachrichten über %s ➔",
     "fr": "Plus d\\'actualités à propos de %s ➔",
-    "tr": " %s hakkında daha fazla heber için ➔"
+    "tr": " %s hakkında daha fazla haber için ➔"
   },
   "viewQuote_newTickerChange": {
     "_formatted": false,
