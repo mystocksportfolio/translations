@@ -610,13 +610,13 @@
     "en": "Your portfolio value grew today",
     "tr": "Portföy değeriniz bugün arttı"
   },
-  "alert_portfolioChangeRefreshingTitle": {
-    "en": "Calculating Portfolio Value",
-    "tr": "Portföy Değeriniz Hesaplanıyor"
-  },
   "alert_portfolioChangeRefreshingDescription": {
     "en": "Show a refreshing icon when calculating end of day portfolio values",
     "tr": "Gün sonu portföy değerleri hesaplanırken bir yenileme simgesi gösterin"
+  },
+  "alert_portfolioValue": {
+    "en": "Portfolio Value"
+    "tr": "Portföy Değeriniz"
   },
   "alert_priceAlert": {
     "en": "Price Alert",
