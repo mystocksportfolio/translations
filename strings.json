@@ -2536,6 +2536,7 @@
   "portfolioAllocations_groupInOthers": {
     "en": "Group holding in \\'Others\\' when less than % of total",
     "fr": "Grouper les position sous \\'Autres\\' quand ils représentent moins que % du total"
+    "tr": "Toplamın %\\'sinden az ise varlıkların \\'Diğerleri\\ grubundaki payı"
   },
   "portfolioAnalysis_changeSettings": {
     "en": "To change, open Settings, Calculations",
@@ -3608,9 +3609,11 @@
   },
   "portfolio_sortOrderMenus": {
     "en": "Portfolios sort order in menus"
+    "tr": "Portföylerin menülerdeki sıralama düzeni"
   },
   "portfolio_sortOrderMenusHelp": {
     "en": "Sorting used for portfolios in the side drawer and portfolio view drop-down box"
+    "tr": "Yan çekmecede ve portföy görünümü açılır kutusunda portföyler için kullanılan sıralama"
   },
   "portfolio_sortState": {
     "de": "Auslösestatus",
@@ -4670,24 +4673,31 @@
   },
   "settings_notifications": {
     "en": "Notifications"
+    "tr": "Bildirimler"
   },
   "settings_notifications_eodPortfolioSummary": {
     "en": "End of Day Portfolio Summary"
+    "tr": "Gün Sonu Portföy Özeti"
   },
   "settings_notifications_eodPortfolioSummaryEnabled": {
     "en": "Enable End of Day Portfolio Summary"
+    "tr": "Gün Sonu Portföy Özetini Etkinleştir"
   },
   "settings_notifications_eodPortfolioSummaryEnabledHelp": {
     "en": "If you don\\'t see an end of day push notification summarizing your portfolio changes, check https://dontkillmyapp.com for troubleshooting"
+    "tr": "Portföy değişikliklerinizi özetleyen bir gün sonu anlık bildirimi görmüyorsanız, sorun giderme için https://dontkillmyapp.com adresini kontrol edin"
   },
   "settings_notifications_eodPortfolioSummaryTime": {
     "en": "Approximate time to send summary"
+    "tr": "Özet göndermek için yaklaşık süre"
   },
   "settings_notifications_eodPortfolioSummaryIncludeValue": {
     "en": "Include portfolio value"
+    "tr": "Portföy değerini dahil edin"
   },
   "settings_notifications_eodPortfolioSummaryIncludeValueHelp": {
     "en": "Your portfolio value will be shown in the notification summary"
+    "tr": "Portföy değeriniz bildirim özetinde gösterilecektir"
   },
   "settings_openPlayStore": {
     "en": "Open Play Store",
@@ -5417,6 +5427,7 @@
   "viewQuoteTransactions_interestsFromHoldingFormatted": {
     "_formatted": false,
     "en": "Interests from %s"
+    "tr": "%s \\'den ilgi alanları"
   },
   "viewQuoteTransactions_soldAmountFormatted": {
     "_formatted": false,
