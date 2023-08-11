@@ -598,6 +598,10 @@
     "de": "Umgekehrter nachlaufender Stop-Loss",
     "tr": "Tersine takip eden stoploss"
   },
+  "alert_calculatingPortfolioValue": {
+    "en": "Calculating Portfolio Value",
+    "tr": "Portföy Değeriniz Hesaplanıyor"
+  },
   "alert_portfolioChangeTitle": {
     "en": "Daily Portfolio Summary",
     "tr": "Günlük Portföy Özeti"
@@ -613,10 +617,6 @@
   "alert_portfolioChangeRefreshingDescription": {
     "en": "Show a refreshing icon when calculating end of day portfolio values",
     "tr": "Gün sonu portföy değerleri hesaplanırken bir yenileme simgesi gösterin"
-  },
-  "alert_portfolioValue": {
-    "en": "Portfolio Value"
-    "tr": "Portföy Değeriniz"
   },
   "alert_priceAlert": {
     "en": "Price Alert",
@@ -4995,6 +4995,63 @@
     "de": "Portfolio",
     "tr": "Portföy",
     "zh-Hant-TW": "組合"
+  },
+  "userConsent_consentToAdvertising": {
+    "en": "Consent to Advertising"
+  },
+  "userConsent_failed": {
+    "en": "Error trying to gather consent. Please check your internet connection."
+  },
+  "userConsent_descriptionLine1": {
+    "en": "Due to data protection regulations, you must choose an option below."
+  },
+  "userConsent_descriptionLine2": {
+    "en": "You can use this app either for free using an advertisement supported experience, or without advertisements by upgrading to a premium experience. We use advertising to help pay for costs of running and maintaining the service."
+  },
+  "userConsent_descriptionLine3": {
+    "en": "Please choose your preferred experience:"
+  },
+  "userConsent_manage": {
+    "en": "Manage Advertising Consent"
+  },
+  "userConsent_pleaseConsentAdvertising": {
+    "en": "Please consent to all advertising vendors"
+  },
+  "userConsent_adSupportedExperience": {
+    "en": "Advertisement supported experience"
+  },
+  "userConsent_premiumNoAdsExperience": {
+    "en": "Premium experience - No advertising"
+  },
+  "userConsent_premiumFreeTrial": {
+    "en": "Free trial for new subscribers"
+  },
+  "userConsent_upgradeToPremium": {
+    "en": "Upgrade to Premium"
+  },
+  "userConsent_customDescription": {
+    "en": "For a customized ad experience, please select the following at a minimum:"
+  },
+  "userConsent_customLine1": {
+    "en": "Store and/or access information on a device"
+  },
+  "userConsent_customLine2": {
+    "en": "Select basic ads"
+  },
+  "userConsent_customLine3": {
+    "en": "Measure ad performance"
+  },
+  "userConsent_customLine4": {
+    "en": "Apply market research to generate audience insights"
+  },
+  "userConsent_customLine5": {
+    "en": "Develop and improve products"
+  },
+  "userConsent_customLine6": {
+    "en": "From the vendor list, consent to Google Advertising Products (this is hard to find since the list is not alphabetized, but we cannot customize this list)"
+  },
+  "userConsent_customMissingOptions": {
+    "en": "Some required ad options were not selected. Please follow the instructions in the red text and try again."
   },
   "viewQuoteStats_52WeekHigh": {
     "en": "52wk High",
