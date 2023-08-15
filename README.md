@@ -6,21 +6,21 @@ You may also open a ticket (Issues tab) or send an email to info@mystocksportfol
 
 Thank you for any help with translating!
 
-Progress (922 strings):
+Progress (924 strings):
 
-![Progress](https://progress-bar.dev/100?title=en&width=120) 922/922 - English
+![Progress](https://progress-bar.dev/100?title=en&width=120) 924/924 - English
 
-![Progress](https://progress-bar.dev/92?title=de&width=120) 845/922 - German
+![Progress](https://progress-bar.dev/91?title=de&width=120) 845/924 - German
 
-![Progress](https://progress-bar.dev/98?title=tr&width=120) 903/922 - Turkish
+![Progress](https://progress-bar.dev/98?title=tr&width=120) 904/924 - Turkish
 
-![Progress](https://progress-bar.dev/93?title=zh-Hant-TW&width=120) 855/922 - Traditional Chinese
+![Progress](https://progress-bar.dev/93?title=zh-Hant-TW&width=120) 856/924 - Traditional Chinese
 
-![Progress](https://progress-bar.dev/57?title=fr&width=120) 528/922 - French
+![Progress](https://progress-bar.dev/57?title=fr&width=120) 528/924 - French
 
-![Progress](https://progress-bar.dev/2?title=zh&width=120) 20/922 - Simplified Chinese
+![Progress](https://progress-bar.dev/2?title=zh&width=120) 20/924 - Simplified Chinese
 
-![Progress](https://progress-bar.dev/0?title=es&width=120) 1/922 - Spanish
+![Progress](https://progress-bar.dev/0?title=es&width=120) 1/924 - Spanish
 
 ### Links:
 
