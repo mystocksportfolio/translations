@@ -353,7 +353,7 @@
     "de": "Wechselkurs zum Zeitpunkt der Transaktion (Aktie(n) Währung zu Landeswährung). Zum Beispiel bedeutet 1,5, dass 1 $ der Lagerwährung in 1,5 $ Ihrer Landeswährung umgetauscht wird. Sie können die Landeswährung ändern, indem Sie auf dem Bildschirm mit den Beständen auf Währung tippen. Lassen Sie das Feld leer, um den Wechselkurs von heute zu verwenden.",
     "fr": "Taux de change au moment de la transaction (Devise du titre à la devise préférée). Par exemple, 1.5 signifie qu\\'1 dans la devises du titre vaut 1.5 dans la devise préférée. Vous pouvez changer la Devise préférée en appuyant sur Devise sur l\\'écran des positions. Laissez vide pour utiliser le taux de change du jour.",
     "tr": "İşlem sırasındaki Döviz Kuru (Hisse Senedi Para Birimi - Ana Para Birimi). Örneğin 1.5, 1 $\\'lık hisse senedi para biriminin 1,5 $\\'lık ana para biriminize dönüştüğü anlamına gelir. Ana Para Birimini varlıklar ekranında Para Birimi öğesine dokunarak değiştirebilirsiniz. Güncel döviz kurunu kullanmak için boş bırakın.",
-    "zh-Hant-TW": "成交匯率 (股票幣別 至 本地幣別)。舉例來說，1.5 表示 1元的股票幣別對應到 1.5元您的本地幣別。您可以在投資組合持有選單中點選貨幣來更改，將其留白來自動使用當天的匯率。"
+    "zh-Hant-TW": "成交匯率 (股票幣別 至 預設幣別)。舉例來說，1.5 表示 1元的股票幣別對應到 1.5元您的預設幣別。您可以在投資組合持有選單中點選貨幣來更改，將其留白來自動使用當天的匯率。"
   },
   "addQuoteTransaction_time": {
     "en": "Transaction Time",
@@ -2942,7 +2942,7 @@
     "de": "Lokale Währung anstelle der Heimatwährung anzeigen für:",
     "fr": "Afficher la devise du titre au lieu de la devise préférée pour :",
     "tr": "Ana para birimi yerine yerel para birimini görüntüle:",
-    "zh-Hant-TW": "顯示當地貨幣而非本地貨幣: "
+    "zh-Hant-TW": "顯示當地貨幣而非預設貨幣: "
   },
   "portfolio_displayLocalCurrencyForHoldings": {
     "en": "Individual holdings in this portfolio: For example, GOOG holdings will be shown in USD and BNS.TO holdings will be shown in CAD.",
@@ -3231,7 +3231,7 @@
     "de": "Es wurden mehrere Währungen erkannt, aber es wurde keine Heimatwährung festgelegt, so dass die Summen nicht berechnet werden können. Bitte tippen Sie hier, um eine Heimatwährung festzulegen.",
     "fr": "Plusieurs monnaies sont détectées mais aucune devise préférée n\\'est définie. Les totaux ne peuvent donc pas être calculés. S\\'il vous plaît appuyez ici pour définir une devise préférée.",
     "tr": "Birden fazla para birimi algılandı ancak bir ana para birimi ayarlanmadı, bu nedenle toplamlar hesaplanamıyor. Ana para birimini ayarlamak için lütfen buraya dokunun.",
-    "zh-Hant-TW": "偵測到多個幣別但未設定本地貨幣，因此無法計算總數。請按這來設定本地貨幣。"
+    "zh-Hant-TW": "偵測到多個幣別但未設定預設貨幣，因此無法計算總數。請按這來設定預設貨幣。"
   },
   "portfolio_multipleCurrenciesUseLocalTotals": {
     "en": "This portfolio has different currencies but is set to display aggregate totals in its local currency. This option only works if the portfolio has holdings of one local currency. Tap here to edit currency settings.",
@@ -3340,7 +3340,7 @@
     "de": "Dieses Portfolio hat verschiedene Währungen. Es ist aber keine lokale Währung eingestellt, so können keine Summen berechnet werden. Bitte tippen Sie hier, um in den Einstellungen die Währung festzulegen.",
     "fr": "Ce portefeuille a différentes devises mais aucune devise préférée n\\'est définie. Les totaux ne peuvent donc pas être calculés. S\\'il vous plaît appuyez ici pour définir les paramètres de devise.",
     "tr": "Bu portföyün farklı para birimleri vardır ancak bir ana para birimi ayarlanmamıştır. Bu nedenle toplamlar hesaplanamaz. Para birimi ayarlarını yapmak için lütfen buraya dokunun.",
-    "zh-Hant-TW": "投資組合包含多個幣別但未設定本地貨幣，因此無法計算總數。請按這來設定本地貨幣。"
+    "zh-Hant-TW": "投資組合包含多個幣別但未設定預設貨幣，因此無法計算總數。請按這來設定預設貨幣。"
   },
   "portfolio_portfolios": {
     "en": "Portfolios",
@@ -5103,7 +5103,7 @@
     "de": "Zum Beispiel, $10. Wenn AUS, dann wird 10 (ohne Währungssymbol) angezeigt. Diese Option wird nur verwendet, wenn eine Heimatwährung festgelegt worden ist",
     "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché. Cette option n\\'est utilisée que lorsqu\\'une devise préférée est définie.",
     "tr": "Örneğin, 10$. Kapalı ise 10 şeklinde (para birimi sembolü olmadan) gösterilecektir. Bu seçenek yalnızca bir ana para birimi ayarlandığında kullanılır.",
-    "zh-Hant-TW": "舉例來說，$10. 若 Off, 則 10 (沒有金錢符號) 會被顯示。此選項只會在已經設定本地貨幣的情況下有效。"
+    "zh-Hant-TW": "舉例來說，$10. 若 Off, 則 10 (沒有金錢符號) 會被顯示。此選項只會在已經設定預設貨幣的情況下有效。"
   },
   "settings_startingPortfolioScreenTab": {
     "de": "Startbildschirm für Registerkarte \"Portfolio\"",
