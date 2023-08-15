@@ -602,12 +602,12 @@
     "zh-Hant-TW": "高於"
   },
   "alert_testNotificationReceived": {
-    "en": "Test notification received"
+    "en": "Test notification received",
     "tr": "Test bildirimi alındı",
     "zh-Hant-TW": "已收到測試推播通知"
   },
   "alert_testNotificationReceivedContent": {
-    "en": "Your phone can receive notifications successfully!"
+    "en": "Your phone can receive notifications successfully!",
     "tr": "Telefonunuz bildirimleri başarıyla alabilir!",
     "zh-Hant-TW": "您的裝置已可成功接收通知"
   },
@@ -3168,7 +3168,7 @@
     "zh-Hant-TW": "您的投資組合會被轉換成以此貨幣顯示。注意: 歷史績效圖資料會被清除。"
   },
   "portfolio_interests": {
-    "en": "Interests"
+    "en": "Interests",
     "tr": "İlgi Alanları",
     "zh-Hant-TW": "利息"
   },
