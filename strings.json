@@ -273,7 +273,7 @@
     "de": "%s in Heimatwährung",
     "fr": "%s à la devise préférée",
     "tr": "%s\\'dan Ana Para Birimine",
-    "zh-Hant-TW": "%s 至 當地幣別"
+    "zh-Hant-TW": "%s 至 預設幣別"
   },
   "addQuoteTransaction_date": {
     "en": "Transaction Date",
