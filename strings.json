@@ -287,7 +287,7 @@
     "de": "Einzahlung von Bargeld in das Portfolio aus Dividenden",
     "fr": "Dépôt d\\'espèces au portefeuille lors des dividendes",
     "tr": "Temettülerden portföye yatan nakit",
-    "zh-Hant-TW": "股息入金至投資組合"
+    "zh-Hant-TW": "股利入金至投資組合"
   },
   "addQuoteTransaction_depositCashToPortfolioFromInterests": {
     "en": "Deposit cash to portfolio from interests",
@@ -407,7 +407,7 @@
     "de": "Dividenden + Reinvestition (DRIP)",
     "fr": "Dividendes + réinvestissement (RRD)",
     "tr": "Temettü + Yeniden Yatırım (TYYP)",
-    "zh-Hant-TW": "股票股利/股息再投入"
+    "zh-Hant-TW": "股票股利/股利再投入"
   },
   "addQuoteTransaction_typeReverseSplit": {
     "en": "Reverse Split",
@@ -453,7 +453,7 @@
     "de": "Für Provisionen % benutzen?",
     "fr": "Utiliser un pourcentage de commission ?",
     "tr": "Komisyonu % olarak mı kullanıyorsun?",
-    "zh-Hant-TW": "用 % 手續費？"
+    "zh-Hant-TW": "用百分比計算手續費？"
   },
   "addQuoteTransaction_withdrawCashFromPortfolioToPurchase": {
     "en": "Withdraw cash from portfolio to purchase",
@@ -481,7 +481,7 @@
     "de": "Wie: Vorschau des Bestands ohne zur Watchlist hinzuzufügen ",
     "fr": "Comment faire : Prévisualiser la cotation sans ajout à la list de surveillance",
     "tr": "Nasıl Yapılır: İzleme listesine eklemeden Öneriyi görüntüle",
-    "zh-Hant-TW": "如何預覽卻不用加到觀察清單"
+    "zh-Hant-TW": "教學提示: 預覽報價不需要加入觀察清單"
   },
   "addQuote_howToPreviewHelp": {
     "en": "After entering the symbol/ticker, a price preview should show up.\\n\\nClick on the price preview to view the quote without adding it to your portfolio.",
@@ -494,7 +494,7 @@
     "en": "How To: Tracking crypto",
     "de": "Wie: Kryptowährungen erfassen",
     "tr": "Nasıl Yapılır: Kripto takibi",
-    "zh-Hant-TW": "如何追蹤加密貨幣"
+    "zh-Hant-TW": "教學提示: 如何追蹤加密貨幣"
   },
   "addQuote_howToAddCryptoHelp": {
     "en": "To track a crypto, enter the pair (i.e. BTC-USD). If you cannot find a pair, you may contact us at support@peeksoft.co to get it registered. Prices are aggregated across exchanges (Source: CoinGecko).",
@@ -1049,7 +1049,7 @@
     "de": "Daten hier einfügen",
     "fr": "Coller les données ici",
     "tr": "Verileri buraya yapıştırın",
-    "zh-Hant-TW": "黏貼數據於此"
+    "zh-Hant-TW": "貼上數據於此"
   },
   "csvImport_pleaseCopyPasteData": {
     "en": "Please copy and paste the CSV data",
@@ -2693,7 +2693,7 @@
     "de": "Alle Positionen",
     "fr": "Toutes les positions",
     "tr": "Tüm Pozisyonlar",
-    "zh-Hant-TW": "所有倉位"
+    "zh-Hant-TW": "所有持股"
   },
   "portfolio_allTime": {
     "en": "All-Time",
@@ -2730,7 +2730,7 @@
     "en": "All-Time Dividends",
     "de": "Allzeithoch Dividenden",
     "tr": "Tüm Zaman Temettüler",
-    "zh-Hant-TW": "總股息"
+    "zh-Hant-TW": "總股利"
   },
   "portfolio_allTimeValue": {
     "en": "All-Time Value",
@@ -3839,7 +3839,7 @@
     "de": "Dividenden gesamt",
     "fr": "Total des dividendes",
     "tr": "Toplam Temettüler",
-    "zh-Hant-TW": "總股息"
+    "zh-Hant-TW": "總股利"
   },
   "portfolio_totalProceedsPlaceholder": {
     "_formatted": false,
@@ -4781,7 +4781,7 @@
     "en": "Export Portfolios as CSV",
     "de": "Portfolios als CSV exportieren",
     "tr": "Portföyleri CSV olarak dışa aktar",
-    "zh-Hant-TW": "將投資組合匯出成CSV"
+    "zh-Hant-TW": "匯出投資組合至CSV"
   },
   "settings_csvExportPortfoliosHelp": {
     "en": "Export to Google Drive / SDCard / External Storage / Email / Clipboard",
@@ -5267,7 +5267,7 @@
     "en": "Portfolio",
     "de": "Portfolio",
     "tr": "Portföy",
-    "zh-Hant-TW": "組合"
+    "zh-Hant-TW": "投資組合"
   },
   "userConsent_consentToAdvertising": {
     "en": "Consent to Advertising"
@@ -5440,7 +5440,7 @@
     "en": "Book Value",
     "de": "Buchwert",
     "tr": "Defter Değeri",
-    "zh-Hant-TW": "賬面價值"
+    "zh-Hant-TW": "淨值 (股東權益)"
   },
   "viewQuoteStats_bookValueHelp": {
     "en": "Total assets minus total liabilities. Reflects value shareholders would receive if company were to be liquidated.",
