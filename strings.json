@@ -500,7 +500,7 @@
     "en": "To track a crypto, enter the pair (i.e. BTC-USD). If you cannot find a pair, you may contact us at support@peeksoft.co to get it registered. Prices are aggregated across exchanges (Source: CoinGecko).",
     "de": "Um eine Kryptowährung zu erfassen, geben Sie das Paar ein (z. B. BTC-USD). Wenn Sie ein Paar nicht finden können, kontaktieren Sie uns unter support@peeksoft.co, um dieses registrieren zu lassen. Die Kurse werden börsenübergreifend zusammengestellt (Quelle: CoinGecko).",
     "tr": "Bir kriptoyu takip etmek için eşleşme girin (örneğin BTC-USD). Bir eşleşme bulamazsanız kaydettirmek için support@peeksoft.co adresinden bizimle iletişime geçebilirsiniz. Fiyatlar borsalar arasında toplanmıştır (Kaynak: CoinGecko).",
-    "zh-TW": "輸入貨幣對 (例如 BTC-USD) 來追縱。如果您找不到該貨幣對，歡迎聯絡我們 support@peeksoft.co 來協助加入。價格是從多個交易所而來 (來源: CoinGecko)。"
+    "zh-Hant-TW": "輸入貨幣對 (例如 BTC-USD) 來追縱。如果您找不到該貨幣對，歡迎聯絡我們 support@peeksoft.co 來協助加入。價格是從多個交易所而來 (來源: CoinGecko)。"
   },
   "addQuote_symbol": {
     "en": "Symbol",
