@@ -674,7 +674,7 @@
     "de": "Diagrammdaten konnten nicht ermittelt werden\\n\\nBitte überprüfen Sie Ihre Internetverbindung und versuchen Sie ein anderes Intervall (1 Tag, 5 Tage usw.)",
     "tr": "Grafik alınamadı\\n\\nLütfen internet bağlantınızı kontrol edin ve farklı bir aralık deneyin (1 Gün, 5 Gün, vb.)",
     "fr": "Impossible de récupérer le graphique\\n\\nVérifiez votre connexion internet et essayez un interval différent (1 jour, 5 jours, etc.)",
-    "zh-Hant-TW": "無法獲得圖表\\n\\n請檢查網路連線並試著選擇其他區間 (1天，5天，...等等)"
+    "zh-Hant-TW": "無法獲得圖表\\n\\n請檢查網路連線並試著選擇其他區間 (1天，5天，…等等)"
   },
   "chart_enableVolumeColors": {
     "en": "Volume: Enable Colors",
@@ -3039,7 +3039,7 @@
     "en": "Enter a threshold between 0–100",
     "de": "Geben Sie einen Schwellwert zwischen 0–100 ein",
     "tr": "0–100 arasında bir eşik değeri girin",
-    "zh-Hant-TW": "在 0-100 之中選擇閥值"
+    "zh-Hant-TW": "在 0–100 之中選擇閥值"
   },
   "portfolio_excludedFromTotals": {
     "en": "Excluded from totals",
