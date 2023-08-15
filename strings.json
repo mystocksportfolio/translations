@@ -1357,7 +1357,7 @@
   },
   "generic_deletingAccount": {
     "en": "Deleting Account",
-    "tr": "Hesap verisini sil  zaten devam ediyor",
+    "tr": "Hesap verisini sil zaten devam ediyor",
     "zh-Hant-TW": "已進刪除帳戶步中"
   },
   "generic_disableWarningInSettings": {
