@@ -1174,11 +1174,12 @@
     "zh-Hant-TW": "額外的選項"
   },
   "generic_agreePrivacyPolicyAndTermsOfUse": {
+    "_comment": "generic_termsOfUse and generic_privacyPolicy should exist in the translation",
     "en": "By continuing, you agree to the\\nPrivacy Policy and Terms of Use",
     "de": "Wenn Sie fortfahren, erklären Sie sich mit der Datenschutzbestimmungen und den Nutzungsbedingungen einverstanden",
     "fr": "En continuant, vous acceptez les\\nConditions d\\'utilisation et Politique de confidentialité",
     "tr": "Devam ederek Gizlilik Politikasını ve Kullanım Koşullarını\\nkabul etmiş olursunuz",
-    "zh-Hant-TW": "如要繼續，您需要同意隱私權政策與使用規範"
+    "zh-Hant-TW": "如要繼續，您需要同意隱私權政策與使用條款"
   },
   "generic_appLockHelp": {
     "de": "Wenn Sie die App-Sperre aktivieren, werden Sie beim Start der App zur Eingabe eines Codes, Gesichtserkennung oder Entsperrmuster aufgefordert. Wenn Sie Ihren Code vergessen, müssen Sie die App neu installieren.",
@@ -2106,7 +2107,7 @@
     "en": "Terms of Use",
     "fr": "Conditions d\\'utilisation",
     "tr": "Kullanım Koşulları",
-    "zh-Hant-TW": "使用規範"
+    "zh-Hant-TW": "使用條款"
   },
   "generic_time_justNow": {
     "en": "Just now",
@@ -4987,12 +4988,6 @@
     "tr": "Gizlilik Politikası",
     "zh": "隐私政策",
     "zh-Hant-TW": "隱私政策"
-  },
-  "settings_termsOfUse": {
-    "en": "Terms of Use",
-    "de": "Allgemeine Geschäftsbedingungen",
-    "tr": "Kullanım Koşulları",
-    "zh-Hant-TW": "使用條款"
   },
   "settings_refreshInterval": {
     "de": "Auto-Aktualisierung (bei geöffneter App)",
