@@ -2162,7 +2162,7 @@
   "generic_time_XWeeksAgo": {
     "_formatted": false,
     "en": "%s weeks ago",
-    "de": "seit %s Wochen",
+    "de": "vor %s Wochen",
     "tr": "%s hafta önce",
     "zh-Hant-TW": "%s星期前"
   },
