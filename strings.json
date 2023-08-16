@@ -5326,7 +5326,7 @@
   "userConsent_upgradeToPremium": {
     "_comment": "GDPR (EU) only",
     "en": "Upgrade to Premium",
-    "tr": "Premium'\\a Yükselt"
+    "tr": "Premium\\'a Yükselt"
   },
   "userConsent_customDescription": {
     "_comment": "GDPR (EU) only",
@@ -5361,7 +5361,7 @@
   "userConsent_customLine6": {
     "_comment": "GDPR (EU) only",
     "en": "From the vendor list, consent to Google Advertising Products (this is hard to find since the list is not alphabetized, but we cannot customize this list)",
-    "tr": "Sağlayıcı listesinden Google Advertising Products'\\a onay verin (liste alfabetik olarak sıralanmadığı için bunu bulmak zor olabilir. Maalesef bu listeyi özelleştiremiyoruz"
+    "tr": "Sağlayıcı listesinden Google Advertising Products\\'a onay verin (liste alfabetik olarak sıralanmadığı için bunu bulmak zor olabilir. Maalesef bu listeyi özelleştiremiyoruz"
   },
   "userConsent_customMissingOptions": {
     "_comment": "GDPR (EU) only",
