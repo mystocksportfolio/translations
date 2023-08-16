@@ -5280,97 +5280,97 @@
   },
   "userConsent_consentToAdvertising": {
     "_comment": "GDPR (EU) only",
-    "en": "Consent to Advertising"
+    "en": "Consent to Advertising",
     "tr": "Reklam İzni"
   },
   "userConsent_failed": {
     "_comment": "GDPR (EU) only",
-    "en": "Error trying to gather consent. Please check your internet connection."
+    "en": "Error trying to gather consent. Please check your internet connection.",
     "tr": "Onay toplamaya çalışırken hata oluştu. Lütfen internet bağlantınızı kontrol edin."
   },
   "userConsent_descriptionLine1": {
     "_comment": "GDPR (EU) only",
-    "en": "Due to data protection regulations, you must choose an option below."
+    "en": "Due to data protection regulations, you must choose an option below.",
     "tr": "Veri koruma düzenlemeleri nedeniyle aşağıdaki seçeneklerden birini seçmelisiniz."
   },
   "userConsent_descriptionLine2": {
     "_comment": "GDPR (EU) only",
-    "en": "You can use this app either for free using an advertisement supported experience, or without advertisements by upgrading to a premium experience. We use advertising to help pay for costs of running and maintaining the service."
+    "en": "You can use this app either for free using an advertisement supported experience, or without advertisements by upgrading to a premium experience. We use advertising to help pay for costs of running and maintaining the service.",
     "tr": "Bu uygulamayı reklam destekli bir deneyim kullanarak ücretsiz olarak veya premium bir deneyime yükselterek reklamsız olarak kullanabilirsiniz. Hizmeti yürütme ve sürdürme maliyetlerini karşılamaya yardımcı olmak için reklamları kullanıyoruz."
   },
   "userConsent_descriptionLine3": {
     "_comment": "GDPR (EU) only",
-    "en": "Please choose your preferred experience:"
+    "en": "Please choose your preferred experience:",
     "tr": "Lütfen tercih ettiğiniz deneyimi seçin:"
   },
   "userConsent_manage": {
     "_comment": "GDPR (EU) only",
-    "en": "Manage Advertising Consent"
+    "en": "Manage Advertising Consent",
     "tr": "Reklam İznini Yönet"
   },
   "userConsent_pleaseConsentAdvertising": {
     "_comment": "GDPR (EU) only",
-    "en": "Please consent to all advertising vendors"
+    "en": "Please consent to all advertising vendors",
     "tr": "Lütfen tüm reklam sağlayıcılarına izin verin"
   },
   "userConsent_adSupportedExperience": {
     "_comment": "GDPR (EU) only",
-    "en": "Advertisement supported experience"
+    "en": "Advertisement supported experience",
     "tr": "Reklam destekli deneyim"
   },
   "userConsent_premiumNoAdsExperience": {
     "_comment": "GDPR (EU) only",
-    "en": "Premium experience - No advertising"
+    "en": "Premium experience - No advertising",
     "tr": "Premium deneyim - Reklam yok"
   },
   "userConsent_premiumFreeTrial": {
     "_comment": "GDPR (EU) only",
-    "en": "Free trial for new subscribers"
+    "en": "Free trial for new subscribers",
     "tr": "Yeni aboneler için ücretsiz deneme"
   },
   "userConsent_upgradeToPremium": {
     "_comment": "GDPR (EU) only",
-    "en": "Upgrade to Premium"
+    "en": "Upgrade to Premium",
     "tr": "Premium'\\a Yükselt"
   },
   "userConsent_customDescription": {
     "_comment": "GDPR (EU) only",
-    "en": "For a customized ad experience, please select the following at a minimum:"
+    "en": "For a customized ad experience, please select the following at a minimum:",
     "tr": "Özelleştirilmiş bir reklam deneyimi için lütfen en azından aşağıdakileri seçin:"
   },
   "userConsent_customLine1": {
     "_comment": "GDPR (EU) only",
-    "en": "Store and/or access information on a device"
+    "en": "Store and/or access information on a device",
     "tr": "Bir cihazda bilgi depolamak ve/veya bilgilere erişmek"
   },
   "userConsent_customLine2": {
     "_comment": "GDPR (EU) only",
-    "en": "Select basic ads"
+    "en": "Select basic ads",
     "tr": "Temel reklamları seç"
   },
   "userConsent_customLine3": {
     "_comment": "GDPR (EU) only",
-    "en": "Measure ad performance"
+    "en": "Measure ad performance",
     "tr": "Reklam performansını ölçme"
   },
   "userConsent_customLine4": {
     "_comment": "GDPR (EU) only",
-    "en": "Apply market research to generate audience insights"
+    "en": "Apply market research to generate audience insights",
     "tr": "Kitle eğilimlerinin oluşturulması için pazar araştırması"
   },
   "userConsent_customLine5": {
     "_comment": "GDPR (EU) only",
-    "en": "Develop and improve products"
+    "en": "Develop and improve products",
     "tr": "Ürünleri geliştirme ve iyileştirme"
   },
   "userConsent_customLine6": {
     "_comment": "GDPR (EU) only",
-    "en": "From the vendor list, consent to Google Advertising Products (this is hard to find since the list is not alphabetized, but we cannot customize this list)"
+    "en": "From the vendor list, consent to Google Advertising Products (this is hard to find since the list is not alphabetized, but we cannot customize this list)",
     "tr": "Sağlayıcı listesinden Google Advertising Products'\\a onay verin (liste alfabetik olarak sıralanmadığı için bunu bulmak zor olabilir. Maalesef bu listeyi özelleştiremiyoruz"
   },
   "userConsent_customMissingOptions": {
     "_comment": "GDPR (EU) only",
-    "en": "Some required ad options were not selected. Please follow the instructions in the red text and try again."
+    "en": "Some required ad options were not selected. Please follow the instructions in the red text and try again.",
     "tr": "Bazı gerekli reklam seçenekleri seçilmedi. Lütfen kırmızı metindeki talimatları izleyin ve tekrar deneyin."
   },
   "viewQuoteStats_52WeekHigh": {
