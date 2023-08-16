@@ -674,7 +674,7 @@
     "de": "Diagrammdaten konnten nicht ermittelt werden\\n\\nBitte überprüfen Sie Ihre Internetverbindung und versuchen Sie ein anderes Intervall (1 Tag, 5 Tage usw.)",
     "tr": "Grafik alınamadı\\n\\nLütfen internet bağlantınızı kontrol edin ve farklı bir aralık deneyin (1 Gün, 5 Gün, vb.)",
     "fr": "Impossible de récupérer le graphique\\n\\nVérifiez votre connexion internet et essayez un interval différent (1 jour, 5 jours, etc.)",
-    "zh-Hant-TW": "無法獲得圖表\\n\\n請檢查網路連線並試著選擇其他區間 (1天, 5天, ...等等)"
+    "zh-Hant-TW": "無法獲得圖表\\n\\n請檢查網路連線並試著選擇其他區間 (1天，5天，…等等)"
   },
   "chart_enableVolumeColors": {
     "en": "Volume: Enable Colors",
@@ -1354,6 +1354,11 @@
     "en": "Are you sure you want to delete your account data? There is no way to undo this operation.",
     "tr": "Hesap Verisini silmek istediğinize emin misiniz? Bu işlemi geri almanın bir yolu yoktur.",
     "zh-Hant-TW": "您確定要刪除帳戶資料嗎? 此動作無法復原."
+  },
+  "generic_deletingAccount": {
+    "en": "Deleting Account",
+    "tr": "Hesap verisini sil zaten devam ediyor",
+    "zh-Hant-TW": "已進刪除帳戶步中"
   },
   "generic_disableWarningInSettings": {
     "en": "You can disable this warning in the settings section in the app, general settings",
@@ -2157,7 +2162,7 @@
   "generic_time_XWeeksAgo": {
     "_formatted": false,
     "en": "%s weeks ago",
-    "de": "seit %s Wochen",
+    "de": "vor %s Wochen",
     "tr": "%s hafta önce",
     "zh-Hant-TW": "%s星期前"
   },
@@ -2243,7 +2248,7 @@
   },
   "generic_yourAccountDataStoredNA": {
     "en": "Your account data is kept encrypted, anonymized, and stored on our private servers in North America.",
-    "tr": "Hesap verileriniz şifrelenir, anonim hale getirilir ve Kuzey Amerika'daki özel sunucularımızda saklanır.",
+    "tr": "Hesap verileriniz şifrelenir, anonim hale getirilir ve Kuzey Amerika\\'daki özel sunucularımızda saklanır.",
     "zh-Hant-TW": "您的帳戶資料會被匿名加密存放在我們北美的伺服器中"
   },
   "generic_yourAccountData_deleteDataMobile": {
@@ -2662,6 +2667,10 @@
     "tr": "Portföye Ekleniyor…",
     "zh-Hant-TW": "新增至投資組合中…"
   },
+  "portfolio_allocation_categoryTagsForSymbol": {
+    "_formatted": false,
+    "en": "Category Tags for %s"
+  },
   "portfolio_allocation_categoryTagHelp": {
     "en": "To assign category tags, click on the labels button (bottom right of an item). The allocation chart can be configured to show the symbol on the 1st level, and the category tag on the 2nd level.",
     "de": "Um Kategorieschlagwörter zuzuweisen, klicken Sie auf die Schaltfläche \\'Labels\\' (unten rechts neben einem Artikel). Das Zuordnungsdiagramm kann so konfiguriert werden, dass das Symbol auf der ersten Ebene und das Kategorielabel auf der zweiten Ebene angezeigt wird",
@@ -3030,7 +3039,7 @@
     "en": "Enter a threshold between 0–100",
     "de": "Geben Sie einen Schwellwert zwischen 0–100 ein",
     "tr": "0–100 arasında bir eşik değeri girin",
-    "zh-Hant-TW": "在 0-100 之中選擇閥值"
+    "zh-Hant-TW": "在 0–100 之中選擇閥值"
   },
   "portfolio_excludedFromTotals": {
     "en": "Excluded from totals",
@@ -5270,61 +5279,99 @@
     "zh-Hant-TW": "投資組合"
   },
   "userConsent_consentToAdvertising": {
+    "_comment": "GDPR (EU) only",
     "en": "Consent to Advertising"
+    "tr": "Reklam İzni"
   },
   "userConsent_failed": {
+    "_comment": "GDPR (EU) only",
     "en": "Error trying to gather consent. Please check your internet connection."
+    "tr": "Onay toplamaya çalışırken hata oluştu. Lütfen internet bağlantınızı kontrol edin."
   },
   "userConsent_descriptionLine1": {
+    "_comment": "GDPR (EU) only",
     "en": "Due to data protection regulations, you must choose an option below."
+    "tr": "Veri koruma düzenlemeleri nedeniyle aşağıdaki seçeneklerden birini seçmelisiniz."
   },
   "userConsent_descriptionLine2": {
+    "_comment": "GDPR (EU) only",
     "en": "You can use this app either for free using an advertisement supported experience, or without advertisements by upgrading to a premium experience. We use advertising to help pay for costs of running and maintaining the service."
+    "tr": "Bu uygulamayı reklam destekli bir deneyim kullanarak ücretsiz olarak veya premium bir deneyime yükselterek reklamsız olarak kullanabilirsiniz. Hizmeti yürütme ve sürdürme maliyetlerini karşılamaya yardımcı olmak için reklamları kullanıyoruz."
   },
   "userConsent_descriptionLine3": {
+    "_comment": "GDPR (EU) only",
     "en": "Please choose your preferred experience:"
+    "tr": "Lütfen tercih ettiğiniz deneyimi seçin:"
   },
   "userConsent_manage": {
+    "_comment": "GDPR (EU) only",
     "en": "Manage Advertising Consent"
+    "tr": "Reklam İznini Yönet"
   },
   "userConsent_pleaseConsentAdvertising": {
+    "_comment": "GDPR (EU) only",
     "en": "Please consent to all advertising vendors"
+    "tr": "Lütfen tüm reklam sağlayıcılarına izin verin"
   },
   "userConsent_adSupportedExperience": {
+    "_comment": "GDPR (EU) only",
     "en": "Advertisement supported experience"
+    "tr": "Reklam destekli deneyim"
   },
   "userConsent_premiumNoAdsExperience": {
+    "_comment": "GDPR (EU) only",
     "en": "Premium experience - No advertising"
+    "tr": "Premium deneyim - Reklam yok"
   },
   "userConsent_premiumFreeTrial": {
+    "_comment": "GDPR (EU) only",
     "en": "Free trial for new subscribers"
+    "tr": "Yeni aboneler için ücretsiz deneme"
   },
   "userConsent_upgradeToPremium": {
+    "_comment": "GDPR (EU) only",
     "en": "Upgrade to Premium"
+    "tr": "Premium'\\a Yükselt"
   },
   "userConsent_customDescription": {
+    "_comment": "GDPR (EU) only",
     "en": "For a customized ad experience, please select the following at a minimum:"
+    "tr": "Özelleştirilmiş bir reklam deneyimi için lütfen en azından aşağıdakileri seçin:"
   },
   "userConsent_customLine1": {
+    "_comment": "GDPR (EU) only",
     "en": "Store and/or access information on a device"
+    "tr": "Bir cihazda bilgi depolamak ve/veya bilgilere erişmek"
   },
   "userConsent_customLine2": {
+    "_comment": "GDPR (EU) only",
     "en": "Select basic ads"
+    "tr": "Temel reklamları seç"
   },
   "userConsent_customLine3": {
+    "_comment": "GDPR (EU) only",
     "en": "Measure ad performance"
+    "tr": "Reklam performansını ölçme"
   },
   "userConsent_customLine4": {
+    "_comment": "GDPR (EU) only",
     "en": "Apply market research to generate audience insights"
+    "tr": "Kitle eğilimlerinin oluşturulması için pazar araştırması"
   },
   "userConsent_customLine5": {
+    "_comment": "GDPR (EU) only",
     "en": "Develop and improve products"
+    "tr": "Ürünleri geliştirme ve iyileştirme"
   },
   "userConsent_customLine6": {
+    "_comment": "GDPR (EU) only",
     "en": "From the vendor list, consent to Google Advertising Products (this is hard to find since the list is not alphabetized, but we cannot customize this list)"
+    "tr": "Sağlayıcı listesinden Google Advertising Products'\\a onay verin (liste alfabetik olarak sıralanmadığı için bunu bulmak zor olabilir. Maalesef bu listeyi özelleştiremiyoruz"
   },
   "userConsent_customMissingOptions": {
+    "_comment": "GDPR (EU) only",
     "en": "Some required ad options were not selected. Please follow the instructions in the red text and try again."
+    "tr": "Bazı gerekli reklam seçenekleri seçilmedi. Lütfen kırmızı metindeki talimatları izleyin ve tekrar deneyin."
   },
   "viewQuoteStats_52WeekHigh": {
     "en": "52wk High",
