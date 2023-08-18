@@ -18,7 +18,8 @@
   "accounting_addLots": {
     "en": "Add Lot(s)",
     "de": "Lot(s) hinzufügen",
-    "tr": "Lot(ları) Ekle"
+    "tr": "Lot(ları) Ekle",
+    "zh-Hant-TW": "新增交易紀錄"
   },
   "accounting_execution": {
     "en": "Execution",
@@ -89,7 +90,8 @@
   "accounting_selectLots": {
     "en": "Select Lots",
     "de": "Lots auswählen",
-    "tr": "Lotları Seç"
+    "tr": "Lotları Seç",
+    "zh-Hant-TW": "選擇交易紀錄"
   },
   "accounting_weightedAverage": {
     "en": "Weighted Average",
@@ -106,17 +108,20 @@
   "accounting_specificLots": {
     "en": "Specific Lots",
     "de": "Spezielle Lots",
-    "tr": "Belirli Lotlar"
+    "tr": "Belirli Lotlar",
+    "zh-Hant-TW": "特定交易紀錄"
   },
   "accounting_specificLotsHelp": {
     "en": "To use the \\'Specific Lots\\' execution type, please add the quote first and then go to the quote details page, transactions tab, and add the transaction from there so the app knows which lots can be used.",
     "de": "Um die Ausführungsart \\'Spezifische Lots\\' zu verwenden, fügen Sie bitte zuerst die Notierung hinzu und gehen Sie dann auf die Angebotsdetailseite, Registerkarte Transaktionen, und fügen Sie die Transaktion von dort aus hinzu, damit die Anwendung weiß, welche Lots verwendet werden können.",
-    "tr": "\\'Belirli Lotlar\\' uygulama türünü kullanmak için lütfen önce önerilere ekleyin ve ardından öneriler ayrıntıları sayfasına, işlemler sekmesine gidin ve işlemi buradan ekleyin, böylece uygulama hangi lotların kullanılabileceğini bilir."
+    "tr": "\\'Belirli Lotlar\\' uygulama türünü kullanmak için lütfen önce önerilere ekleyin ve ardından öneriler ayrıntıları sayfasına, işlemler sekmesine gidin ve işlemi buradan ekleyin, böylece uygulama hangi lotların kullanılabileceğini bilir.",
+    "zh-Hant-TW": "要使用 \\'特定交易\\' 執行類型，請先新增報價，然後前往報價詳細資料頁面，選擇交易分頁，並從那裡新增交易，以便應用程式知道可以使用哪些交易紀錄。"
   },
   "accounting_specificLotsDescription": {
     "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction.",
     "de": "Wählen Sie die auszuführenden Lots in der Reihenfolge ihrer Priorität.\\n\\n Um die Reihenfolge zu ändern: Halten Sie die Taste gedrückt und ziehen Sie nach oben/unten. Die Transaktionen am Anfang der Liste werden zuerst ausgeführt.\\n\\nZum Entfernen: Tippen Sie auf Lot/Transaktion.",
-    "tr": "Öncelik sırasına göre işlenecek lotları seçin.\\n\\nYeniden sıralamak için: Basılı tutun ve yukarı/aşağı sürükleyin. Listenin en üstündeki işlemler önce kullanılacaktır.\\n\\nKaldırmak için: Lotun/işlemin üzerine dokunun."
+    "tr": "Öncelik sırasına göre işlenecek lotları seçin.\\n\\nYeniden sıralamak için: Basılı tutun ve yukarı/aşağı sürükleyin. Listenin en üstündeki işlemler önce kullanılacaktır.\\n\\nKaldırmak için: Lotun/işlemin üzerine dokunun.",
+    "zh-Hant-TW": "按優先順序選擇要執行的交易紀錄。\\n\\n重新排序：按住並上下拖曳。列表頂部的交易將優先使用。\\n\\n移除：點擊股票紀錄/交易。"
   },
   "account_deleted": {
     "en": "Account Deleted",
@@ -129,7 +134,7 @@
     "de": "Upgraden Sie auf die Premium-Version und genießen Sie die Werbefreiheit",
     "fr": "Mettre à jour vers Premium et profiter d\\'une expérience sans publicité",
     "tr": "Premiuma yükselt ve reklamsız uygulamanın keyfini çıkar",
-    "zh-Hant-TW": "升級成Premium帳戶，享受無廣告干擾體驗"
+    "zh-Hant-TW": "升級成 Premium 帳戶，享受無廣告干擾體驗"
   },
   "addCustomPrices_help": {
     "en": "Add custom end of day prices for equity not listed on the market, to override prices, or to fill missing data. To delete a price data point, click on it in the list.",
@@ -620,7 +625,8 @@
   "alert_reverseTrailingStopLoss": {
     "en": "reverse trailing stop loss",
     "de": "Umgekehrter nachlaufender Stop-Loss",
-    "tr": "Tersine takip eden stoploss"
+    "tr": "Tersine takip eden stoploss",
+    "zh-Hant-TW": "反向移動停損"
   },
   "alert_calculatingPortfolioValue": {
     "en": "Calculating Portfolio Value",
@@ -1256,7 +1262,8 @@
   "generic_cant_send_email_error": {
     "en": "Can\\'t send email. Please check that email has been set up properly on your device.",
     "de": "Kann keine E-Mail senden. Bitte überprüfen Sie, ob die E-Mail-Funktion auf Ihrem Gerät richtig eingerichtet ist.",
-    "tr": "E-posta gönderilemiyor. Lütfen cihazınızda e-postanın doğru şekilde kurulup kurulmadığını kontrol edin."
+    "tr": "E-posta gönderilemiyor. Lütfen cihazınızda e-postanın doğru şekilde kurulup kurulmadığını kontrol edin.",
+    "zh-Hant-TW": "無法寄送電子郵件。請確認您的設備已正確設定電子郵件。"
   },
   "generic_changePasscode": {
     "en": "Change Passcode",
@@ -2006,7 +2013,8 @@
   "generic_shareUsing": {
     "en": "Share using…",
     "de": "Teilen mit…",
-    "tr": "…Kullanarak paylaş"
+    "tr": "…Kullanarak paylaş",
+    "zh-Hant-TW": "分享"
   },
   "generic_show": {
     "en": "Show",
@@ -2363,12 +2371,14 @@
   "logInOut_signInToPurchase": {
     "en": "Sign in first so that your purchases are saved to the cloud, can restored, and synced to other devices? If you have multiple accounts on your phone, you can sign in so that the purchase is linked to the correct account.",
     "de": "Melden Sie sich zuerst an, damit Ihre Einkäufe in der Cloud gespeichert werden, wiederhergestellt und mit anderen Geräten synchronisiert werden können. Wenn Sie mehrere Konten auf Ihrem Telefon haben, müssen Sie sich anmelden, damit der Kauf mit dem richtigen Konto verknüpft wird.",
-    "tr": "Satın aldıklarınızın buluta kaydedilmesi, geri yüklenebilmesi ve diğer cihazlarla senkronize edilebilmesi için önce oturum açın? Telefonunuzda birden fazla hesabınız varsa, satın alma işleminin doğru hesaba bağlanması için oturum açabilirsiniz."
+    "tr": "Satın aldıklarınızın buluta kaydedilmesi, geri yüklenebilmesi ve diğer cihazlarla senkronize edilebilmesi için önce oturum açın? Telefonunuzda birden fazla hesabınız varsa, satın alma işleminin doğru hesaba bağlanması için oturum açabilirsiniz.",
+    "zh-Hant-TW": "請先登錄，以便將您的購買保存到雲端，可以恢復並同步到其他設備？如果您的手機上有多個帳戶，您可以登錄以將購買與正確的帳戶關聯。"
   },
   "logInOut_signInToRestorePurchases": {
     "en": "Sign in to share purchases on the cloud? Click No if you want to use your local Google Play account. (If you have multiple accounts on your phone, Google Play sometimes restores it from the incorrect account. You should sign in to the correct account to workaround that issue.).\\n\\nNote: If your purchases are shared on the cloud and you are not signed in, they will be transferred from the cloud to your local account, and other signed in devices using purchases from the cloud will lose access to that purchase. To share purchases on the cloud, sign in, and then click restore, to transfer purchases from your local device to the cloud.",
     "de": "Anmelden, um Einkäufe in der Cloud zu teilen? Klicken Sie auf Nein, wenn Sie Ihr lokales Google Play-Konto verwenden möchten. (Wenn Sie mehrere Konten auf Ihrem Telefon haben, stellt Google Play es manchmal mit dem falschen Konto wieder her. Sie sollten sich beim richtigen Konto anmelden, um dieses Problem zu umgehen.).\\n\\nHinweis: Wenn Ihre Einkäufe in der Cloud freigegeben werden und Sie nicht angemeldet sind, werden sie von der Cloud auf Ihr lokales Konto übertragen und andere angemeldete Geräte, die Einkäufe aus der Cloud verwenden, verlieren den Zugriff auf diese Einkäufe. Um Einkäufe in der Cloud freizugeben, melden Sie sich an und klicken Sie dann auf Wiederherstellen, um Einkäufe von Ihrem lokalen Gerät in die Cloud zu übertragen.",
-    "tr": "Satın alımları bulutta paylaşmak için oturum açın. Yerel Google Play hesabınızı kullanmak istiyorsanız Hayır\\'a tıklayın. (Telefonunuzda birden fazla hesabınız varsa, Google Play bazen yanlış hesaptan geri yükler. Bu sorunu çözmek için doğru hesapta oturum açmalısınız).\\n\\nNot: Satın alımlarınız bulutta paylaşılıyorsa ve oturum açmadıysanız, buluttan yerel hesabınıza aktarılır ve buluttan satın alımları kullanan diğer oturum açmış cihazlar bu satın alımlara erişimini kaybeder. Satın alımları bulutta paylaşmak için oturum açın ve ardından satın alımları yerel cihazınızdan buluta aktarmak için geri yükle\\'ye tıklayın."
+    "tr": "Satın alımları bulutta paylaşmak için oturum açın. Yerel Google Play hesabınızı kullanmak istiyorsanız Hayır\\'a tıklayın. (Telefonunuzda birden fazla hesabınız varsa, Google Play bazen yanlış hesaptan geri yükler. Bu sorunu çözmek için doğru hesapta oturum açmalısınız).\\n\\nNot: Satın alımlarınız bulutta paylaşılıyorsa ve oturum açmadıysanız, buluttan yerel hesabınıza aktarılır ve buluttan satın alımları kullanan diğer oturum açmış cihazlar bu satın alımlara erişimini kaybeder. Satın alımları bulutta paylaşmak için oturum açın ve ardından satın alımları yerel cihazınızdan buluta aktarmak için geri yükle\\'ye tıklayın.",
+    "zh-Hant-TW": "登錄以在雲端分享購買？如果您想使用本地的 Google Play 帳戶，請按“否”。（如果您的手機上有多個帳戶，Google Play 有時會從錯誤的帳戶中恢復購買。您應該登錄到正確的帳戶以解決此問題。）\\n\\n注意：如果您的購買已在雲端上分享，且您未登錄，則它們將從雲端轉移到您的本地帳戶，使用雲端購買的其他已登錄設備將失去對該購買的訪問權限。要在雲端上分享購買，請先登錄，然後點擊恢復，將購買從本地設備轉移到雲端。"
   },
   "logInOut_signOutOfGoogle": {
     "en": "Sign Out of Google",
@@ -2422,7 +2432,8 @@
   "news_configureMarketNews": {
     "de": "Börsennachrichten konfigurieren",
     "en": "Configure Market News",
-    "tr": "Piyasa Haberlerini Yapılandır"
+    "tr": "Piyasa Haberlerini Yapılandır",
+    "zh-Hant-TW": "設定市場新聞"
   },
   "news_configureNews": {
     "en": "Configure News",
@@ -2435,13 +2446,15 @@
     "en": "Configure which categories to view market news for by tapping Configure News (Gear icon) in the menu, or by tapping here.",
     "de": "Legen Sie fest für welche Kategorien die Börsennachrichten angezeigt werden sollen, indem Sie im Menü auf Nachrichten konfigurieren (Zahnradsymbol) oder hier tippen.",
     "fr": "Régler pour quels catégories visualiser les actualités en tapant Régler les actualités (icone roue dentée) dans le menu, ou en tapant ici.",
-    "tr": "Hangi kategorilerde piyasa haberlerinin görüntüleneceğini Menüdeki Haberleri Yapılandır (Dişli simgesi) öğesine veya buraya dokunarak yapılandırabilirsiniz."
+    "tr": "Hangi kategorilerde piyasa haberlerinin görüntüleneceğini Menüdeki Haberleri Yapılandır (Dişli simgesi) öğesine veya buraya dokunarak yapılandırabilirsiniz.",
+    "zh-Hant-TW": "透過點擊菜單中的「設定新聞」（齒輪圖示）或在此處點擊，來設定要查看哪些市場新聞的類別。"
   },
   "news_fetchFailed": {
     "en": "Failed to fetch news. Please check that you have internet connection and try again later.",
     "de": "Die Nachrichten konnten nicht abgerufen werden. Bitte prüfen Sie, ob Sie eine Internetverbindung haben und versuchen Sie es später noch einmal.",
     "fr": "Impossible d\\'aller chercher l\\'actualité. Veuillez vérifier que vous avez une connexion Internet et réessayer plus tard.",
-    "tr": "Haberler alınamadı. Lütfen internet bağlantınızın olup olmadığını kontrol edin ve daha sonra tekrar deneyin."
+    "tr": "Haberler alınamadı. Lütfen internet bağlantınızın olup olmadığını kontrol edin ve daha sonra tekrar deneyin.",
+    "zh-Hant-TW": "無法取得新聞。請檢查您是否有網路連線，稍後再試。"
   },
   "news_filterNewsFromXFormatted": {
     "_formatted": false,
@@ -2469,7 +2482,8 @@
     "de": "Für welche Sprachen möchten Sie die Nachrichten abrufen? Um neu anzuordnen, zwei Sekunden gedrückt halten und dann nach oben/unten ziehen.",
     "en": "Which categories do you want to retrieve news for? To re-order, press-hold for two seconds and then drag up/down.",
     "fr": "Pour quels catégories voulez-vous recevoir les actualités? Pour ordonner la liste, maintenez appuyé durant deux secondes et déplacer vers le haut ou le bas.",
-    "tr": "Hangi kategoriler için haber almak istiyorsunuz? Yeniden sıralamak için iki saniye basılı tutun ve ardından yukarı/aşağı sürükleyin."
+    "tr": "Hangi kategoriler için haber almak istiyorsunuz? Yeniden sıralamak için iki saniye basılı tutun ve ardından yukarı/aşağı sürükleyin.",
+    "zh-Hant-TW": "您想要擷取哪些類別的新聞？要重新排列，按住兩秒鐘，然後上下拖曳。"
   },
   "news_imageAccessibility": {
     "en": "News Image",
@@ -2532,7 +2546,8 @@
     "en": "Enabling password protection will prompt for a password when the app is launched. If you lose your password, you will need to re-install the app.\\n\\nSetting a password does not protect your data if your device is stolen. Google provides ways to remotely wipe your device: https://www.google.com/#q=android+remotely+wipe+phone",
     "de": "Wenn Sie den Kennwortschutz aktivieren, werden Sie beim Starten der App zur Eingabe eines Kennworts aufgefordert. Wenn Sie Ihr Kennwort verlieren, müssen Sie die App neu installieren.\\n\\nDas Festlegen eines Kennworts schützt Ihre Daten nicht, wenn Ihr Gerät gestohlen wird. Google bietet Möglichkeiten, ihr Gerät aus der Ferne zu löschen: https://www.google.com/#q=android+remotely+wipe+phone",
     "fr": "L\\'activation de la protection par mot de passe nécessitera la saisie d\\'un mot de passe au lancement de l\\'application. Si vous perdez votre mot de passe, vous devrez réinstaller l\\'application.\\n\\nLa définition d\\'un mot de passe ne protège pas vos données si votre appareil est volé. Google propose des moyens d\\'effacer à distance votre appareil : https://www.google.com/#q=android+remotely+wipe+phone",
-    "tr": "Parola korumasını etkinleştirirseniz uygulama başlatıldığında bir parola isteyecektir. Şifrenizi kaybederseniz uygulamayı yeniden yüklemeniz gerekecektir.\\n\\nŞifre belirlemek, cihazınızın çalınması durumunda verilerinizi korumaz. Google, cihazınızı uzaktan silmenin yollarını sunar: https://www.google.com/#q=android+remotely+wipe+phone"
+    "tr": "Parola korumasını etkinleştirirseniz uygulama başlatıldığında bir parola isteyecektir. Şifrenizi kaybederseniz uygulamayı yeniden yüklemeniz gerekecektir.\\n\\nŞifre belirlemek, cihazınızın çalınması durumunda verilerinizi korumaz. Google, cihazınızı uzaktan silmenin yollarını sunar: https://www.google.com/#q=android+remotely+wipe+phone",
+    "zh-Hant-TW": "啟用密碼保護將在啟動應用程式時提示輸入密碼。如果您忘記密碼，將需要重新安裝應用程式。\\n\\n設定密碼不會在您的設備遭竊時保護您的數據。Google 提供遠程清除您的設備的方法：https://www.google.com/#q=android+remotely+wipe+phone"
   },
   "password_enterPassword": {
     "en": "Enter Password",
@@ -2641,7 +2656,8 @@
   "portfolio_absoluteMagnitude": {
     "en": "Absolute / Magnitude",
     "de": "Absolut / Größe",
-    "tr": "Mutlak / Büyüklük"
+    "tr": "Mutlak / Büyüklük",
+    "zh-Hant-TW": "絕對值 / 巨大度"
   },
   "portfolio_activity": {
     "en": "Activity",
@@ -2670,7 +2686,8 @@
   },
   "portfolio_allocation_categoryTagsForSymbol": {
     "_formatted": false,
-    "en": "Category Tags for %s"
+    "en": "Category Tags for %s",
+    "zh-Hant-TW": "%s 的群組標籤"
   },
   "portfolio_allocation_categoryTagHelp": {
     "en": "To assign category tags, click on the labels button (bottom right of an item). The allocation chart can be configured to show the symbol on the 1st level, and the category tag on the 2nd level.",
@@ -2780,7 +2797,8 @@
     "en": "Can\\'t manually sort when a column header is locked to a sort. Please tap the locked column header and choose \"Manual Sort\".",
     "de": "Kann nicht manuell sortieret werden, wenn eine Spaltenüberschrift für eine Sortierung gesperrt ist. Bitte tippen Sie auf die gesperrte Spaltenüberschrift und wählen Sie \"Manuell sortieren\".",
     "fr": "Impossible de trier manuellement lorsque qu\\'une colonne est utilisée pour trier. Tapez sur l\\'en-tête de colonne et choisissez \"Manual Sort\".",
-    "tr": "Bir sütun başlığı sıralamaya kilitlendiğinde manuel olarak sıralama yapılamaz. Lütfen kilitli sütun başlığına dokunun ve \"Manuel Sırala\" seçeneğini seçin."
+    "tr": "Bir sütun başlığı sıralamaya kilitlendiğinde manuel olarak sıralama yapılamaz. Lütfen kilitli sütun başlığına dokunun ve \"Manuel Sırala\" seçeneğini seçin.",
+    "zh-Hant-TW": "當欄位標題被鎖定以進行排序時，無法手動進行排序。請點擊鎖定的欄位標題，然後選擇「手動排序」。"
   },
   "portfolio_ceo": {
     "en": "CEO",
@@ -2886,12 +2904,14 @@
   "portfolio_deleteAccountMessage": {
     "en": "Are you sure you want to delete your account and all portfolio data stored in the cloud? There is no way to undo this operation.",
     "de": "Sind Sie sicher, dass Sie Ihr Konto und alle in der Cloud gespeicherten Portfoliodaten löschen möchten? Es gibt keine Möglichkeit, diesen Vorgang rückgängig zu machen.",
-    "tr": "Hesabınızı ve bulutta depolanan tüm portföy verilerini silmek istediğinizden emin misiniz? Bu işlemi geri almanın bir yolu yoktur."
+    "tr": "Hesabınızı ve bulutta depolanan tüm portföy verilerini silmek istediğinizden emin misiniz? Bu işlemi geri almanın bir yolu yoktur.",
+    "zh-Hant-TW": "您確定要刪除您的帳戶以及在雲端中儲存的所有投資組合資料嗎？此操作無法恢復。"
   },
   "portfolio_deleteFromServerDisclaimer": {
     "en": "If you are signed in, this will delete it from the server and your other devices when they sync.",
     "de": "Nachdem Sie angemeldet sind, wird bei der Synchronisierung vom Server mit Ihren anderen Geräten alles gelöscht.",
-    "tr": "Oturum açtıysanız, bu işlem senkronize edildiklerinde sunucudan ve diğer cihazlarınızdan silinecektir."
+    "tr": "Oturum açtıysanız, bu işlem senkronize edildiklerinde sunucudan ve diğer cihazlarınızdan silinecektir.",
+    "zh-Hant-TW": "如果您已登入，這將在同步時從伺服器和其他裝置中刪除該資料。"
   },
   "portfolio_deleteHoldingsForQuoteFormatted": {
     "_formatted": false,
@@ -3141,7 +3161,8 @@
   "portfolio_generateReport_disclaimer": {
     "en": "The figures shown in this report may not represent actual holdings. For actual holdings, please contact your brokerage.",
     "de": "Die in diesem Bericht angegebenen Zahlen entsprechen möglicherweise nicht den tatsächlichen Beständen. Für die tatsächlichen Bestände wenden Sie sich bitte an Ihren Makler.",
-    "tr": "Bu raporda gösterilen rakamlar gerçek varlıkları temsil etmeyebilir. Gerçek varlıklar için lütfen aracı kurumunuzla iletişime geçin."
+    "tr": "Bu raporda gösterilen rakamlar gerçek varlıkları temsil etmeyebilir. Gerçek varlıklar için lütfen aracı kurumunuzla iletişime geçin.",
+    "zh-Hant-TW": "此報告中顯示的數字可能不代表實際持股。如需實際持股情況，請聯繫您的券商。"
   },
   "portfolio_generateReport_generating": {
     "en": "Generating",
@@ -3247,7 +3268,8 @@
     "en": "This portfolio has different currencies but is set to display aggregate totals in its local currency. This option only works if the portfolio has holdings of one local currency. Tap here to edit currency settings.",
     "de": "Dieses Portfolio hat verschiedene Währungen, ist aber so eingestellt, dass die Gesamtsummen in seiner Landeswährung angezeigt werden. Diese Option funktioniert nur, wenn das Portfolio Bestände in einer Landeswährung hat. Tippen Sie hier, um die Währungseinstellungen zu bearbeiten.",
     "fr": "Ce portefeuille a différentes devises mais est configuré pour afficher les totaux globaux dans sa devise. Cette option ne fonctionne que si le portefeuille possède des positions dans une seule devise. Appuyez ici pour modifier les paramètres de devise.",
-    "tr": "Bu portföyün farklı para birimleri vardır ancak toplamları kendi yerel para biriminde gösterecek şekilde ayarlanmıştır. Bu seçenek yalnızca portföyde tek bir yerel para birimi varsa çalışır. Para birimi ayarlarını düzenlemek için buraya dokunun."
+    "tr": "Bu portföyün farklı para birimleri vardır ancak toplamları kendi yerel para biriminde gösterecek şekilde ayarlanmıştır. Bu seçenek yalnızca portföyde tek bir yerel para birimi varsa çalışır. Para birimi ayarlarını düzenlemek için buraya dokunun.",
+    "zh-Hant-TW": "此投資組合有不同的貨幣，但已設定為以本地貨幣顯示總計。此選項僅適用於投資組合擁有一個本地貨幣的情況。點擊此處以編輯貨幣設定。"
   },
   "portfolio_name": {
     "en": "Name",
@@ -3478,7 +3500,8 @@
   "portfolio_splitsHelp": {
     "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4.",
     "de": "Beispiele:\\n\\nEin Split im Verhältnis 1:4 multipliziert die eigenen Aktien mit 4 und teilt die Kosten pro Aktie durch 4.\\n\nEin umgekehrter Split im Verhältnis 1:4 teilt die eigenen Aktien mit 4 und teilt die Kosten pro Aktie durch 4.",
-    "tr": "Örnekler:\\n\\n%400 bölünme, sahip olunan hisseleri 4 ile çarpacak ve hisse başına ödenen maliyeti 4\\'e bölecektir.\\n\\n%400 ters bölünme, sahip olunan hisseleri 4\\'e bölecek ve hisse başına maliyeti 4\\'e katlayacaktır."
+    "tr": "Örnekler:\\n\\n%400 bölünme, sahip olunan hisseleri 4 ile çarpacak ve hisse başına ödenen maliyeti 4\\'e bölecektir.\\n\\n%400 ters bölünme, sahip olunan hisseleri 4\\'e bölecek ve hisse başına maliyeti 4\\'e katlayacaktır.",
+    "zh-Hant-TW": "例子:\\n\\n一個4對1的股票分割會將所擁有的股份乘以4，並將每股支付的成本除以4。\\n\\n一個1對4的反向股票分割會將所擁有的股份除以4，並將每股成本乘以4。"
   },
   "portfolio_previewCSV": {
     "en": "Preview CSV",
@@ -3624,7 +3647,8 @@
     "en": "Drag Handle",
     "de": "Handel mit Hebeln",
     "fr": "Faites glisser la poignée",
-    "tr": "Sürükleme Kolu"
+    "tr": "Sürükleme Kolu",
+    "zh-Hant-TW": "拖拉手把"
   },
   "portfolio_sortHoldingSelectedFormatted": {
     "_formatted": false,
@@ -3789,21 +3813,25 @@
   },
   "portfolio_sortOrderMenus": {
     "en": "Portfolios sort order in menus",
-    "tr": "Portföylerin menülerdeki sıralama düzeni"
+    "tr": "Portföylerin menülerdeki sıralama düzeni",
+    "zh-Hant-TW": "選單中的投資組合排序順序"
   },
   "portfolio_sortOrderMenusHelp": {
     "en": "Sorting used for portfolios in the side drawer and portfolio view drop-down box",
-    "tr": "Yan çekmecede ve portföy görünümü açılır kutusunda portföyler için kullanılan sıralama"
+    "tr": "Yan çekmecede ve portföy görünümü açılır kutusunda portföyler için kullanılan sıralama",
+    "zh-Hant-TW": "用於側邊中的投資組合和投資組合檢視下拉方塊的排序方式"
   },
   "portfolio_sortState": {
     "de": "Auslösestatus",
     "en": "Triggered State",
-    "tr": "Tetiklenen Durum"
+    "tr": "Tetiklenen Durum",
+    "zh-Hant-TW": "觸發狀態"
   },
   "portfolio_sortStateReverse": {
     "de": "Auslösestatus (umgekehrte Reihenfolge)",
     "en": "Triggered State (Reverse)",
-    "tr": "Tetiklenen Durum (Ters)"
+    "tr": "Tetiklenen Durum (Ters)",
+    "zh-Hant-TW": "觸發狀態（反向）"
   },
   "portfolio_sort_by": {
     "de": "Sortieren nach…",
@@ -3815,7 +3843,8 @@
   "portfolio_syncBrokerage": {
     "en": "Sync Brokerage",
     "fr": "Synchronisation du courtage",
-    "tr": "Aracı kurum senkronizasyonu"
+    "tr": "Aracı kurum senkronizasyonu",
+    "zh-Hant-TW": "同步券商"
   },
   "portfolio_ticker": {
     "de": "Bezeichnung",
@@ -3924,7 +3953,8 @@
     "en": "Today\\'s Change (New day time configurable in Settings, Calculations)",
     "de": "Heutige Veränderung (Neue Tageszeit konfigurierbar in Einstellungen, Berechnungen)",
     "fr": "Taux de change du jour, Réinitialisé à:\\nminuit",
-    "tr": "Günlük değişim (Yeni günün başlangıç zamanı ayarlar-hesaplamalar bölümünden değiştirilebilir"
+    "tr": "Günlük değişim (Yeni günün başlangıç zamanı ayarlar-hesaplamalar bölümünden değiştirilebilir",
+    "zh-Hant-TW": "今日變動（可在設定和計算中進行新的日期時間配置）"
   },
   "portfolio_value": {
     "en": "Value",
@@ -3974,7 +4004,8 @@
   "portfolioHistorical_title": {
     "en": "Calculate historical performance?\\n\\nNote: If you modify previous transactions, you may need to clear the historical storage and recalculate. If historical quote prices are missing, you can go to the quote details page and add custom historical prices from the top menu.",
     "de": "Vergangene Performance berechnen?\\n\\nHinweis: Wenn Sie vorherige Transaktionen ändern, müssen Sie möglicherweise den bisherigen Cache löschen und die Berechnung neu durchführen. Wenn vorgangene Kurse fehlen, können Sie zur Seite mit den Kursdetails gehen und benutzerdefinierte bisherige Kurse aus dem oberen Menü hinzufügen.",
-    "tr": "Geçmiş performansı hesaplayın\\n\\nNot: Önceki işlemleri değiştirirseniz, geçmiş depolamayı temizlemeniz ve yeniden hesaplamanız gerekebilir. Geçmiş teklif fiyatları eksikse, teklif ayrıntıları sayfasına gidebilir ve üst menüden özel geçmiş fiyatlar ekleyebilirsiniz."
+    "tr": "Geçmiş performansı hesaplayın\\n\\nNot: Önceki işlemleri değiştirirseniz, geçmiş depolamayı temizlemeniz ve yeniden hesaplamanız gerekebilir. Geçmiş teklif fiyatları eksikse, teklif ayrıntıları sayfasına gidebilir ve üst menüden özel geçmiş fiyatlar ekleyebilirsiniz.",
+    "zh-Hant-TW": "計算歷史表現？\\n\\n注意：如果您修改了之前的交易，您可能需要清除歷史儲存並重新計算。如果缺少歷史報價價格，您可以前往報價詳細資訊頁面，從頂部選單中添加自訂的歷史價格。"
   },
   "portfolioHistorical_disableDataGranularity": {
     "en": "Calculate 1 day granularity for 1+ year old data (slow)",
@@ -4298,12 +4329,14 @@
   "settingsCalculations_omitCashFromPercentagesHelp": {
     "de": "Barmittel werden bei der Berechnung der prozentualen Portfoliorenditen, wie z.B. der unrealisierten prozentualen Veränderung, nicht berücksichtigt",
     "en": "Cash will be omitted when calculating portfolio percentage returns, such as unrealized change percent",
-    "tr": "Gerçekleşmemiş değişim yüzdesi gibi portföy yüzde getirileri hesaplanırken nakit ihmal edilecektir"
+    "tr": "Gerçekleşmemiş değişim yüzdesi gibi portföy yüzde getirileri hesaplanırken nakit ihmal edilecektir",
+    "zh-Hant-TW": "在計算投資組合的百分比報酬時，現金將被忽略，例如未實現變化百分比。"
   },
   "settingsCalculations_todayResetsAt": {
     "de": "neue Tageszeit bei Verwendung von Heute-Berechnungen",
     "en": "New day time when using Today calculations",
-    "tr": "Günlük hesaplamalar için yeni gün zamanı"
+    "tr": "Günlük hesaplamalar için yeni gün zamanı",
+    "zh-Hant-TW": "使用今日計算時的新一天時間"
   },
   "settingsDisplay_averagePricePerShare": {
     "en": "Average Price per Share",
@@ -4400,28 +4433,33 @@
     "en": "Inline all-time and realized returns",
     "de": "Inline Allzeithoch und realisierte Renditen",
     "fr": "Affichier les gains depuis toujours et réalisés",
-    "tr": "Tüm zamanlar ve gerçekleşen getiriler"
+    "tr": "Tüm zamanlar ve gerçekleşen getiriler",
+    "zh-Hant-TW": "內嵌所有時間和已實現回報"
   },
   "settingsDisplay_inlineAllTimeAndRealizedHelp": {
     "en": "Show all-time and realized gains below each portfolio and holding",
     "de": "Zeigt die Allzeit und realisierten Gewinne unter jedem Portfolio und Bestand an",
     "fr": "Afficher les gains depuis toujours et réalisés sous chaque portefeuille et position",
-    "tr": "Her portföyün ve varlığın altında tüm zamanları ve gerçekleşen kazançları gösterir"
+    "tr": "Her portföyün ve varlığın altında tüm zamanları ve gerçekleşen kazançları gösterir",
+    "zh-Hant-TW": "在每個投資組合和持有部分下顯示所有時間和已實現的收益"
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtd": {
     "en": "Inline YTD realized returns",
     "de": "Inline realisierte YTD-Renditen",
-    "tr": "Satır içi YTD gerçekleşen getiriler"
+    "tr": "Satır içi YTD gerçekleşen getiriler",
+    "zh-Hant-TW": "內嵌今年迄今已實現回報"
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtdHelp": {
     "en": "Shows YTD returns (for tax loss harvesting). Requires \\'Inline all-time and realized gains\\' to be enabled.",
     "de": "Zeigt YTD-Renditen (für die steuerliche Verlustabschöpfung). Erfordert die Aktivierung von \\'Inline Allzeithoch und realisierte Renditen\\'",
-    "tr": "YTD getirilerini gösterir (vergi kaybı için). \\'Satır içi tüm zamanlar ve gerçekleşen kazançlar\\' seçeneğinin etkinleştirilmesini gerektirir."
+    "tr": "YTD getirilerini gösterir (vergi kaybı için). \\'Satır içi tüm zamanlar ve gerçekleşen kazançlar\\' seçeneğinin etkinleştirilmesini gerektirir.",
+    "zh-Hant-TW": "顯示今年迄今的回報（用於稅務處理）。需要啟用 \\'內嵌所有時間和已實現回報\\'。"
   },
   "settingsDisplay_inlineSharesAndAveragePricePerShare": {
     "de": "Inline Aktien und Durchschnittspreis pro Aktie",
     "en": "Inline shares and average price per share",
-    "tr": "Satır içi hisseler ve hisse başına ortalama fiyat"
+    "tr": "Satır içi hisseler ve hisse başına ortalama fiyat",
+    "zh-Hant-TW": "內嵌股份和每股平均價格"
   },
   "settingsDisplay_invertFontColor": {
     "de": "Invertieren der Schriftfarbe",
@@ -4697,7 +4735,8 @@
   "settingsGeneral_showExitPromptHelp": {
     "de": "Zeigt vor dem Beenden des Startbildschirms der App eine Bestätigungsmeldung an.",
     "en": "Show a confirmation message before exiting the app while on the home screen",
-    "tr": "Uygulamadan çıkmadan önce ana ekran sayfasında bir onay mesajı gösterir"
+    "tr": "Uygulamadan çıkmadan önce ana ekran sayfasında bir onay mesajı gösterir",
+    "zh-Hant-TW": "在回到主畫面時顯示退出應用程式的確認訊息"
   },
   "settingsWidget_extendedHours": {
     "en": "Extended hours (Premium)",
@@ -5216,7 +5255,8 @@
     "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.\\n\\nTo see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export.",
     "de": "Bei der Synchronisierung werden Ihr Telefon und der Server auf den neuesten Stand gebracht: Alle lokalen Daten, die Sie seit der letzten Synchronisierung geändert oder hinzugefügt haben, werden auf den Server hochgeladen, die neuesten Serverdaten werden heruntergeladen und alle lokalen Daten, die Sie von einem anderen Gerät gelöscht haben, werden gelöscht. Sie können über mehrere Geräte hinweg synchronisieren.\\n\\nUm weitere Sicherungsoptionen wie Google Drive, E-Mail oder externen Speicher zu sehen, besuchen Sie die App-Einstellungen, Import/Export.",
     "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d\\'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\\n\\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.\\n\\nVous pouvez aussi utiliser l\\'approche d\\'import/export dans les réglages de l\\'application, sauvegarder, import/export.",
-    "tr": "Senkronizasyon telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.\\n\\nGoogle Drive, e-posta veya harici depolama gibi daha fazla yedekleme seçeneği görmek için uygulama ayarları, içe/dışa aktarma bölümünü ziyaret edebilirsiniz."
+    "tr": "Senkronizasyon telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.\\n\\nGoogle Drive, e-posta veya harici depolama gibi daha fazla yedekleme seçeneği görmek için uygulama ayarları, içe/dışa aktarma bölümünü ziyaret edebilirsiniz.",
+    "zh-Hant-TW": "同步將會更新您的手機和伺服器至最新狀態：它會上傳自上次同步以來您所修改或新增的任何本地數據至伺服器，下載最新的伺服器數據，並刪除您在其他設備上刪除的任何本地數據。您可以在多個設備之間同步。\\n\\n如需更多的備份選項，如Google Drive、電子郵件或外部存儲，您可以訪問應用程式設置中的匯入/匯出。"
   },
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
@@ -5276,97 +5316,116 @@
   "userConsent_consentToAdvertising": {
     "_comment": "GDPR (EU) only",
     "en": "Consent to Advertising",
-    "tr": "Reklam İzni"
+    "tr": "Reklam İzni",
+    "zh-Hant-TW": "同意廣告"
   },
   "userConsent_failed": {
     "_comment": "GDPR (EU) only",
     "en": "Error trying to gather consent. Please check your internet connection.",
-    "tr": "Onay toplamaya çalışırken hata oluştu. Lütfen internet bağlantınızı kontrol edin."
+    "tr": "Onay toplamaya çalışırken hata oluştu. Lütfen internet bağlantınızı kontrol edin.",
+    "zh-Hant-TW": "同意時發生錯誤。請檢查您的網路連線。"
   },
   "userConsent_descriptionLine1": {
     "_comment": "GDPR (EU) only",
     "en": "Due to data protection regulations, you must choose an option below.",
-    "tr": "Veri koruma düzenlemeleri nedeniyle aşağıdaki seçeneklerden birini seçmelisiniz."
+    "tr": "Veri koruma düzenlemeleri nedeniyle aşağıdaki seçeneklerden birini seçmelisiniz.",
+    "zh-Hant-TW": "根據數據保護法規，您必須在下面選擇一個選項。"
   },
   "userConsent_descriptionLine2": {
     "_comment": "GDPR (EU) only",
     "en": "You can use this app either for free using an advertisement supported experience, or without advertisements by upgrading to a premium experience. We use advertising to help pay for costs of running and maintaining the service.",
-    "tr": "Bu uygulamayı reklam destekli bir deneyim kullanarak ücretsiz olarak veya premium bir deneyime yükselterek reklamsız olarak kullanabilirsiniz. Hizmeti yürütme ve sürdürme maliyetlerini karşılamaya yardımcı olmak için reklamları kullanıyoruz."
+    "tr": "Bu uygulamayı reklam destekli bir deneyim kullanarak ücretsiz olarak veya premium bir deneyime yükselterek reklamsız olarak kullanabilirsiniz. Hizmeti yürütme ve sürdürme maliyetlerini karşılamaya yardımcı olmak için reklamları kullanıyoruz.",
+    "zh-Hant-TW": "您可以選擇使用這個應用程式，透過廣告支援的體驗免費使用，或升級到無廣告的高級體驗。我們使用廣告來幫助支付運行和維護服務的成本。"
   },
   "userConsent_descriptionLine3": {
     "_comment": "GDPR (EU) only",
     "en": "Please choose your preferred experience:",
-    "tr": "Lütfen tercih ettiğiniz deneyimi seçin:"
+    "tr": "Lütfen tercih ettiğiniz deneyimi seçin:",
+    "zh-Hant-TW": "請選擇您偏好的體驗方式："
   },
   "userConsent_manage": {
     "_comment": "GDPR (EU) only",
     "en": "Manage Advertising Consent",
-    "tr": "Reklam İznini Yönet"
+    "tr": "Reklam İznini Yönet",
+    "zh-Hant-TW": "管理廣告同意"
   },
   "userConsent_pleaseConsentAdvertising": {
     "_comment": "GDPR (EU) only",
     "en": "Please consent to all advertising vendors",
-    "tr": "Lütfen tüm reklam sağlayıcılarına izin verin"
+    "tr": "Lütfen tüm reklam sağlayıcılarına izin verin",
+    "zh-Hant-TW": "請同意所有廣告供應商"
   },
   "userConsent_adSupportedExperience": {
     "_comment": "GDPR (EU) only",
     "en": "Advertisement supported experience",
-    "tr": "Reklam destekli deneyim"
+    "tr": "Reklam destekli deneyim",
+    "zh-Hant-TW": "廣告支援體驗"
   },
   "userConsent_premiumNoAdsExperience": {
     "_comment": "GDPR (EU) only",
     "en": "Premium experience - No advertising",
-    "tr": "Premium deneyim - Reklam yok"
+    "tr": "Premium deneyim - Reklam yok",
+    "zh-Hant-TW": "Premium 體驗 - 無廣告"
   },
   "userConsent_premiumFreeTrial": {
     "_comment": "GDPR (EU) only",
     "en": "Free trial for new subscribers",
-    "tr": "Yeni aboneler için ücretsiz deneme"
+    "tr": "Yeni aboneler için ücretsiz deneme",
+    "zh-Hant-TW": "新訂閱者可免費試用"
   },
   "userConsent_upgradeToPremium": {
     "_comment": "GDPR (EU) only",
     "en": "Upgrade to Premium",
-    "tr": "Premium\\'a Yükselt"
+    "tr": "Premium\\'a Yükselt",
+    "zh-Hant-TW": "升級到 Premium"
   },
   "userConsent_customDescription": {
     "_comment": "GDPR (EU) only",
     "en": "For a customized ad experience, please select the following at a minimum:",
-    "tr": "Özelleştirilmiş bir reklam deneyimi için lütfen en azından aşağıdakileri seçin:"
+    "tr": "Özelleştirilmiş bir reklam deneyimi için lütfen en azından aşağıdakileri seçin:",
+    "zh-Hant-TW": "為了自訂的廣告體驗，請至少選擇以下項目："
   },
   "userConsent_customLine1": {
     "_comment": "GDPR (EU) only",
     "en": "Store and/or access information on a device",
-    "tr": "Bir cihazda bilgi depolamak ve/veya bilgilere erişmek"
+    "tr": "Bir cihazda bilgi depolamak ve/veya bilgilere erişmek",
+    "zh-Hant-TW": "在裝置上儲存或訪問資訊"
   },
   "userConsent_customLine2": {
     "_comment": "GDPR (EU) only",
     "en": "Select basic ads",
-    "tr": "Temel reklamları seç"
+    "tr": "Temel reklamları seç",
+    "zh-Hant-TW": "選擇基本廣告"
   },
   "userConsent_customLine3": {
     "_comment": "GDPR (EU) only",
     "en": "Measure ad performance",
-    "tr": "Reklam performansını ölçme"
+    "tr": "Reklam performansını ölçme",
+    "zh-Hant-TW": "測量廣告效益"
   },
   "userConsent_customLine4": {
     "_comment": "GDPR (EU) only",
     "en": "Apply market research to generate audience insights",
-    "tr": "Kitle eğilimlerinin oluşturulması için pazar araştırması"
+    "tr": "Kitle eğilimlerinin oluşturulması için pazar araştırması",
+    "zh-Hant-TW": "應用市場研究以生成用戶洞察報告"
   },
   "userConsent_customLine5": {
     "_comment": "GDPR (EU) only",
     "en": "Develop and improve products",
-    "tr": "Ürünleri geliştirme ve iyileştirme"
+    "tr": "Ürünleri geliştirme ve iyileştirme",
+    "zh-Hant-TW": "開發與改善產品"
   },
   "userConsent_customLine6": {
     "_comment": "GDPR (EU) only",
     "en": "From the vendor list, consent to Google Advertising Products (this is hard to find since the list is not alphabetized, but we cannot customize this list)",
-    "tr": "Sağlayıcı listesinden Google Advertising Products\\'a onay verin (liste alfabetik olarak sıralanmadığı için bunu bulmak zor olabilir. Maalesef bu listeyi özelleştiremiyoruz"
+    "tr": "Sağlayıcı listesinden Google Advertising Products\\'a onay verin (liste alfabetik olarak sıralanmadığı için bunu bulmak zor olabilir. Maalesef bu listeyi özelleştiremiyoruz",
+    "zh-Hant-TW": "從供應商清單中同意 Google 廣告產品（由於清單未按字母順序排列，這很難找到，但我們無法自定義此清單）"
   },
   "userConsent_customMissingOptions": {
     "_comment": "GDPR (EU) only",
     "en": "Some required ad options were not selected. Please follow the instructions in the red text and try again.",
-    "tr": "Bazı gerekli reklam seçenekleri seçilmedi. Lütfen kırmızı metindeki talimatları izleyin ve tekrar deneyin."
+    "tr": "Bazı gerekli reklam seçenekleri seçilmedi. Lütfen kırmızı metindeki talimatları izleyin ve tekrar deneyin.",
+    "zh-Hant-TW": "一些必要的廣告選項未被選取。請按照紅色文字中的說明進行操作，然後重試。"
   },
   "viewQuoteStats_52WeekHigh": {
     "en": "52wk High",
@@ -5421,7 +5480,8 @@
     "en": "Ask lot size",
     "de": "Nachfage Größe Lot",
     "fr": "Nombre d\\'actions à ce prix (offre)",
-    "tr": "Satış lot sayısı"
+    "tr": "Satış lot sayısı",
+    "zh-Hant-TW": "詢價賣盤數量"
   },
   "viewQuoteStats_averageVolume": {
     "en": "Avg Vol (3m)",
@@ -5640,20 +5700,24 @@
   "viewQuoteStats_sharesHelp": {
     "en": "Shares outstanding - the number of shares held by all shareholders, including institutional investors and restricted shares owned by the company.",
     "de": "Im Umlauf befindliche Aktien - die Anzahl der Aktien, die von allen Aktionären gehalten werden, einschließlich institutioneller Anleger und Aktien mit Verfügungsbeschränkung, die sich im Besitz des Unternehmens befinden",
-    "tr": "Tedavüldeki hisseler - kurumsal yatırımcılar ve şirketin sahip olduğu kısıtlı hisseler dahil olmak üzere tüm hissedarların sahip olduğu hisse sayısı."
+    "tr": "Tedavüldeki hisseler - kurumsal yatırımcılar ve şirketin sahip olduğu kısıtlı hisseler dahil olmak üzere tüm hissedarların sahip olduğu hisse sayısı.",
+    "zh-Hant-TW": "流通股數 - 所有股東持有的股份數量，包括機構投資者和公司擁有的受限股份。"
   },
   "viewQuoteStats_shortPercentFloat": {
     "en": "Short% Float",
-    "tr": "Açığa satış halka açıklık %\\'si"
+    "tr": "Açığa satış halka açıklık %\\'si",
+    "zh-Hant-TW": "空單佔比浮動"
   },
   "viewQuoteStats_shortPercentFloatHelp": {
     "en": "Short % of float. Data is delayed.",
-    "tr": "Açığa satışların halka açıklık %\\'si. Veriler gecikmelidir."
+    "tr": "Açığa satışların halka açıklık %\\'si. Veriler gecikmelidir.",
+    "zh-Hant-TW": "空單佔比浮動。數據有延遲。"
   },
   "viewQuoteStats_shortPercentShares": {
     "en": "Short% Shares",
     "de": "% Anteil Leerverkäufe",
-    "tr": "Açığa satılan hisselerinin %\\'si."
+    "tr": "Açığa satılan hisselerinin %\\'si.",
+    "zh-Hant-TW": "空單佔比股票"
   },
   "viewQuoteStats_shortPercentSharesHelp": {
     "en": "Short % of outstanding shares. Data is delayed.",
