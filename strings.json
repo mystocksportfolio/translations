@@ -256,7 +256,7 @@
     "en": "Entry Method",
     "de": "Eingabemethode",
     "tr": "Giriş Yöntemi",
-    "zh-Hant-TW": "項目方式"
+    "zh-Hant-TW": "進場方式"
   },
   "addQuoteTransaction_costBasisTotalAmount": {
     "en": "Total Amount",
@@ -620,7 +620,7 @@
     "en": "trailing stop loss",
     "de": "Nachlaufender Stop-Loss",
     "tr": "Takip eden stoploss",
-    "zh-Hant-TW": "移動止損"
+    "zh-Hant-TW": "移動停損"
   },
   "alert_reverseTrailingStopLoss": {
     "en": "reverse trailing stop loss",
@@ -668,7 +668,7 @@
   "alert_widgetRefreshingDescription": {
     "en": "Show a refreshing icon when the widget is refreshing",
     "tr": "Widget yenilenirken yenileniyor simgesini göster",
-    "zh-Hant-TW": "顯示一個小圖示每當小工具已經正在重新整理中"
+    "zh-Hant-TW": "顯示一個小圖示當小工具正在重新整理中"
   },
   "alert_widgetRefreshingTitle": {
     "en": "Widget Refreshing",
@@ -1356,7 +1356,7 @@
   "generic_deleteAccountData": {
     "en": "Delete Account Data",
     "tr": "Hesap Verisini Sil",
-    "zh-Hant-TW": "刪除帳戶日期"
+    "zh-Hant-TW": "刪除帳戶資料"
   },
   "generic_deleteAccountDataConfirm": {
     "en": "Are you sure you want to delete your account data? There is no way to undo this operation.",
@@ -1372,7 +1372,7 @@
     "en": "You can disable this warning in the settings section in the app, general settings",
     "de": "Sie können diese Warnung in den Einstellungen der App unter Allgemeine Einstellungen deaktivieren",
     "tr": "Bu uyarıyı uygulamadaki ayarlar bölümü genel ayarlardan devre dışı bırakabilirsiniz",
-    "zh-Hant-TW": "您可以關閉這個警告在設定>一般設定頁面"
+    "zh-Hant-TW": "您可以從「設定 -> 一般設定頁面」關閉這個警告"
   },
   "generic_dismiss": {
     "en": "Dismiss",
@@ -2268,7 +2268,7 @@
   "generic_yourAccountData_deleteDataWarning": {
     "en": "If you delete your account or data, they will be permanently deleted and we cannot undelete it. To make a backup of your data, please visit the mobile application\\'s settings, export page.",
     "tr": "Hesabınızı veya verilerinizi silerseniz, bunlar kalıcı olarak silinir ve geri alamayız. Verilerinizin yedeğini almak için lütfen mobil uygulamanın ayarlar, dışa aktarma sayfasını ziyaret edin.",
-    "zh-Hant-TW": "若您要求刪除的帳戶或資料，所有操作皆不可復原。若要製作備份，請參訪設定>匯出頁面。"
+    "zh-Hant-TW": "若您要求刪除的帳戶或資料，所有操作皆不可復原。若要製作備份，請參訪「設定 -> 匯出頁面」。"
   },
   "help_announcements": {
     "de": "Mitteilungen",
@@ -2282,7 +2282,7 @@
     "de": "Es konnte keine Verbindung zum Hilfeserver hergestellt werden. Schicken Sie dem Entwickler eine E-Mail mit Ihrer Frage",
     "fr": "Impossible de se connecter au serveur d\\'aide. Envoyez un email au développeur avec votre question ?",
     "tr": "Yardım sunucusuna bağlanılamadı. Geliştiriciye sorunuzla ilgili e-posta mı gönderiyorsunuz?",
-    "zh-Hant-TW": "ˊ無法連接至幫助中心。Email 開發者您的問題?"
+    "zh-Hant-TW": "ˊ無法連接至幫助中心。Email 給開發者您的問題?"
   },
   "help_dontSeeMyAnswer": {
     "en": "I don\\'t see my answer…",
@@ -2631,7 +2631,7 @@
     "de": "Portfolio",
     "fr": "Portefeuille",
     "tr": "Portföy",
-    "zh-Hant-TW": "組合"
+    "zh-Hant-TW": "投資組合"
   },
   "portfolio_commissions": {
     "en": "Commissions",
@@ -2644,7 +2644,7 @@
     "en": "Group holding in \\'Others\\' when less than % of total",
     "fr": "Grouper les position sous \\'Autres\\' quand ils représentent moins que % du total",
     "tr": "Toplamın %\\'sinden az ise varlıkların \\'Diğerleri\\ grubundaki payı",
-    "zh-Hant-TW": "群組少於 % 會顯示成\\'其他\\'"
+    "zh-Hant-TW": "低於此百分比的持股將會歸類到\\'其他\\'"
   },
   "portfolioAnalysis_changeSettings": {
     "en": "To change, open Settings, Calculations",
@@ -3987,7 +3987,7 @@
     "en": "XIRR",
     "de": "XIRR",
     "tr": "İGO",
-    "zh-Hant-TW": "內部IRR"
+    "zh-Hant-TW": "XIRR"
   },
   "portfolio_ytdStart": {
     "en": "YTD Start",
@@ -4039,7 +4039,7 @@
     "de": "Sie haben das lebenslange Premium-Upgrade, d. h. Sie haben lebenslang kostenlose Abonnementvorteile. Sie können die App weiterhin unterstützen, wenn Sie ein Abonnement abschließen.",
     "fr": "Vous avez une mise à jour Premium à vie, donc vous avez les bénéfices d\\'une souscription à vie. Vous pouvez encore supporter l\\'application en souscrivant.",
     "tr": "Ömür boyu premium yükseltmeye sahipsiniz, bu nedenle ömür boyu ücretsiz abonelik avantajlarına sahipsiniz. Yine de abone olarak uygulamayı destekleyebilirsiniz.",
-    "zh-Hant-TW": "您已獲得終身 Premium 資格可免費訂閱。您仍然可以透過訂閱支持我們"
+    "zh-Hant-TW": "您已經擁有終身高級版升級，因此您終身享有免費訂閱權益。您仍然可以通過訂閱來支持該應用程式。"
   },
   "purchases_help": {
     "en": "Purchases are lifetime, linked to your google account and other devices using the same google account. Please contact us if you are having issues with any purchase such as transferring to a new device.",
@@ -4173,7 +4173,7 @@
     "de": "Mit Ihrem Abonnement stimmt etwas nicht, aber Sie haben vorübergehenden noch Zugang. Tippen Sie hier, um das Problem zu beheben.",
     "fr": "Quelque chose pose problème à votre souscription mais vous avez toujours l\\'accès durant une période de grâce temporaire. Tapez ici pour résoudre le problème.",
     "tr": "Aboneliğinizle ilgili bir sorun var ancak geçici bir ödemesiz dönem boyunca hala erişiminiz bulunmaktadır. Sorunu çözmek için buraya dokunun.",
-    "zh-Hant-TW": "訂閱發生不預期的錯誤，但您仍可暫時繼續使用，請按這解決問題。"
+    "zh-Hant-TW": "您的訂閱出現了一些問題，但在臨時寬限期內，您仍然可以使用。點擊此處以解決問題。"
   },
   "purchases_subscriptionOnHold": {
     "en": "Your account is on hold because there\\'s a problem with your payment method. Tap here to fix the problem.",
@@ -4805,7 +4805,7 @@
     "de": "Die E-Mail-App konnte nicht gestartet werden. Haben Sie E-Mail auf Ihrem Gerät eingerichtet?",
     "fr": "Impossible de lancer l\\'application email. Avez-vous configuré votre email sur votre appareil ?",
     "tr": "E-posta uygulaması başlatılamadı. Cihazınızda e-posta kurulumu yaptınız mı?",
-    "zh-Hant-TW": "無法開啟email app。您已經設定過email了嗎?"
+    "zh-Hant-TW": "無法開啟 email app。您已經在設備上設定過 email 了嗎?"
   },
   "settings_csv": {
     "en": "CSV",
@@ -5040,7 +5040,7 @@
     "en": "Manual",
     "fr": "Manuellement",
     "tr": "Manuel",
-    "zh-Hant-TW": "手動的"
+    "zh-Hant-TW": "手動"
   },
   "settings_refreshIntervalMinutes1": {
     "de": "1 Minuten",
@@ -5667,7 +5667,7 @@
     "de": "Gesamtwert des Unternehmens. Berechnet durch Multiplikation des aktuellen Aktienkurses mit der Gesamtzahl der ausstehenden Aktien.",
     "fr": "Valeur totale de l\\'entreprise calculée en multipliant le cours actuel de l\\'action par le nombre total d\\'actions en circulation.",
     "tr": "Şirketin toplam değeri. Mevcut hisse fiyatı ile tedavüldeki toplam hisselerin çarpılmasıyla hesaplanır.",
-    "zh-Hant-TW": "公司總世值。計算方式為每股價格乘上在外流通總股數。"
+    "zh-Hant-TW": "公司總市值。計算方式為每股價格乘上在外流通總股數。"
   },
   "viewQuoteStats_oneYearTarget": {
     "en": "1y Target",
