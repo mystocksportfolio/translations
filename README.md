@@ -2,7 +2,7 @@ This repository contains translations for the My Stocks Portfolio (MSP) applicat
 
 To make translation suggestions, you can submit a pull request for [strings.json](https://github.com/mystocksportfolio/translations/blob/main/strings.json). If your language is not listed yet, you may add a new entry for your language.
 
-You may also open a ticket (Issues tab) or send an email to info@mystocksportfolio.app with your suggested changes or translation bug reports, and we will try to make the change the next time the app releases.
+You may also open a ticket (Issues tab) or email info@mystocksportfolio.app with your suggested changes or translation bug reports, and we will try to make the change the next time the app releases.
 
 Thank you for any help with translating!
 
