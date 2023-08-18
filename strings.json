@@ -351,7 +351,7 @@
     "de": "Datum des Kaufs",
     "fr": "Date d\\'achat",
     "tr": "Satın Alma Tarihi",
-    "zh-Hant-TW": "日期"
+    "zh-Hant-TW": "購買日期"
   },
   "addQuoteTransaction_purchaseExchangeRateHelp": {
     "en": "Exchange Rate at time of Transaction (Stock\\'s Currency to Home Currency). For example, 1.5 means $1 of the stock\\'s currency exchanges to $1.5 of your home currency. You can change the Home Currency by tapping Currency on the holdings screen. Leave blank to use today\\'s exchange rate.",
@@ -1107,7 +1107,7 @@
     "en": "First time subscribers have 1 week free trial. You can cancel anytime by clicking manage subscriptions. On the purchase confirmation dialog, Google Play will confirm the trial time if you are eligible for a trial.",
     "de": "Erstmalige Abonnenten können 1 Woche lang kostenlos testen. Sie können jederzeit kündigen, indem Sie auf Abonnements verwalten klicken. Im Kaufbestätigungsdialog bestätigt Google Play die Testzeit, wenn Sie für eine Testversion berechtigt sind.",
     "tr": "İlk kez abone olanların 1 haftalık ücretsiz deneme süresi vardır. Abonelikleri yönet seçeneğine tıklayarak istediğiniz zaman iptal edebilirsiniz. Satın alma onayı iletişim kutusunda, deneme için uygunsanız Google Play deneme süresini onaylayacaktır.",
-    "zh-Hant-TW": "第一次訂閱享有1週免費體驗.點選管理訂閱,你隨時可以取消訂閱."
+    "zh-Hant-TW": "第一次訂閱享有1週免費體驗，點選管理訂閱，你隨時可以取消訂閱。"
   },
   "faq_paidAlready": {
     "en": "I paid for the app already, but the app does not remember or recognize my purchase",
@@ -1177,7 +1177,7 @@
     "de": "Zusätzliche Optionen",
     "en": "Additional Options",
     "tr": "İlave seçenekler",
-    "zh-Hant-TW": "額外的選項"
+    "zh-Hant-TW": "額外選項"
   },
   "generic_agreePrivacyPolicyAndTermsOfUse": {
     "_comment": "generic_termsOfUse and generic_privacyPolicy should exist in the translation",
@@ -1366,7 +1366,7 @@
   "generic_deletingAccount": {
     "en": "Deleting Account",
     "tr": "Hesap verisini sil zaten devam ediyor",
-    "zh-Hant-TW": "已進刪除帳戶步中"
+    "zh-Hant-TW": "正在刪除帳戶"
   },
   "generic_disableWarningInSettings": {
     "en": "You can disable this warning in the settings section in the app, general settings",
@@ -1712,14 +1712,14 @@
     "de": "Kein Netzwerk verfügbar. Bitte verbinden Sie sich mit dem Internet und versuchen Sie es erneut.",
     "fr": "Réseau non disponible Veuillez vous connecter à Internet et réessayer.",
     "tr": "Ağ mevcut değil. Lütfen internete bağlanın ve tekrar deneyin.",
-    "zh-Hant-TW": "網路不給力，稍後請再重新連結網路"
+    "zh-Hant-TW": "無網路連線，請連上網路後再試一次"
   },
   "generic_newVersionAvailable": {
     "en": "New version available",
     "de": "Neue Version verfügbar",
     "fr": "Nouvelle version disponible",
     "tr": "Yeni sürüm mevcut",
-    "zh-Hant-TW": "新版本"
+    "zh-Hant-TW": "有新版本"
   },
   "generic_newVersionAvailableHardUpgradeHelp": {
     "en": "Please upgrade to the newest version of the app for important bug fixes.",
@@ -1740,7 +1740,7 @@
     "de": "Nein",
     "fr": "Non",
     "tr": "Hayır",
-    "zh-Hant-TW": "不"
+    "zh-Hant-TW": "否"
   },
   "generic_noResults": {
     "en": "No Results",
@@ -1795,7 +1795,7 @@
     "de": "OK",
     "fr": "OK",
     "tr": "Tamam",
-    "zh-Hant-TW": "OK"
+    "zh-Hant-TW": "確定"
   },
   "generic_openDrawerAccessibility": {
     "en": "Open navigation drawer",
@@ -2490,7 +2490,7 @@
     "de": "Nachrichten-Bild",
     "fr": "Image de l\\'actualité",
     "tr": "Haber Görüntüsü",
-    "zh-Hant-TW": "影像"
+    "zh-Hant-TW": "新聞影像"
   },
   "news_loading": {
     "en": "Loading News…",
@@ -5487,7 +5487,7 @@
     "en": "Avg Vol (3m)",
     "fr": "Vol. moy.",
     "tr": "Ort Hacim(3A)",
-    "zh-Hant-TW": "平均交易量（3月）"
+    "zh-Hant-TW": "平均交易量 (3個月)"
   },
   "viewQuoteStats_averageVolumeHelp": {
     "en": "The average daily volume",
