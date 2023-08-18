@@ -14,7 +14,7 @@ Progress (923 strings):
 
 ![Progress](https://progress-bar.dev/100?title=tr&width=120) 922/923 - Turkish
 
-![Progress](https://progress-bar.dev/93?title=zh-Hant-TW&width=120) 855/923 - Traditional Chinese
+![Progress](https://progress-bar.dev/100?title=zh-Hant-TW&width=120) 919/923 - Traditional Chinese
 
 ![Progress](https://progress-bar.dev/57?title=fr&width=120) 528/923 - French
 
