@@ -203,7 +203,7 @@
     "de": "Bitte ein Kryptowährungspaar(z.B. BTC-USD) eingeben",
     "fr": "Veuillez entrer une parité crypto, ex. BTC-USD",
     "tr": "Lütfen bir kripto eşleşmesi girin, Örn. BTC-USD",
-    "zh-Hant-TW": "請輸入加密貨幣交易對, 例如：BTC-USD"
+    "zh-Hant-TW": "請輸入加密貨幣交易對，例如：BTC-USD"
   },
   "addQuoteCrypto_help": {
     "en": "Prices are aggregated across exchanges (Source: CoinGecko). If you cannot find a coin, you may contact us via support@peeksoft.co to get it registered.",
@@ -407,7 +407,7 @@
     "de": "Dividenden + Reinvestition (DRIP)",
     "fr": "Dividendes + réinvestissement (RRD)",
     "tr": "Temettü + Yeniden Yatırım (TYYP)",
-    "zh-Hant-TW": "股票股利/股利再投入"
+    "zh-Hant-TW": "股票股利／股利再投入"
   },
   "addQuoteTransaction_typeReverseSplit": {
     "en": "Reverse Split",
@@ -488,7 +488,7 @@
     "de": "Nach der Eingabe des Symbols/Tickers wird eine Kursvorschau angezeigt.\\n\\nKlicken Sie auf die Kursvorschau, um den Wert anzusehen, ohne diesen Ihrem Portfolio hinzuzufügen.",
     "fr": "Après avoir saisi le nom du symbole, cliquez sur le clavier ou sélectionnez un symbole depuis la liste d\\'auto-complétion.\\n\\nSi une prévisualisation du prix the la cotation surgit sous le champ du symbole, vous pouvez cliquer dessus pour prévisualiser la cotation et les actualités sans l\\'ajouter à votre portefeuille.",
     "tr": "Sembolü/etiketi girdikten sonra bir fiyat önizlemesi görünecektir.\\n\\nPortföyünüze eklemeden fiyatı görüntülemek için fiyat önizlemesine tıklayın.",
-    "zh-Hant-TW": "進入名稱/代碼之後應會顯示價格預覽。\\n\\n在不用加入投資組合的情況下點選價格預覽來顯示報價。"
+    "zh-Hant-TW": "進入名稱／代碼之後應會顯示價格預覽。\\n\\n在不用加入投資組合的情況下點選價格預覽來顯示報價。"
   },
   "addQuote_howToAddCrypto": {
     "en": "How To: Tracking crypto",
@@ -973,7 +973,7 @@
     "en": "To export, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nYou can choose to export to SDCard or local storage (open the side menu in the file picker), or Google Drive. If you export to Google Drive, your file will be accessible from your computer at https://drive.google.com.",
     "de": "Zum Exportieren, müssen Sie die Drive-App installiert haben (diese ist von den meisten Android-Herstellern vorinstalliert oder kann aus dem Store heruntergeladen werden).\\n\\nSie können wählen, ob Sie auf SD-Karte oder lokalen Speicher (öffnen Sie das Seitenmenü in der Dateiauswahl) oder auf Google Drive exportieren möchten. Wenn Sie zum Google Drive exportieren, können Sie von Ihrem Computer aus auf Ihre Datei zugreifen: https://drive.google.com.",
     "tr": "Dışa aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\n SDCard\\'a veya yerel depolama alanına (dosya seçicideki yan menüyü açın) ya da Google Drive\\'a aktarmayı seçebilirsiniz. Google Drive\\'a aktarırsanız, dosyanıza bilgisayarınızdan https://drive.google.com adresinden erişilebilir.",
-    "zh-Hant-TW": "若要匯出，您必須已安裝 Drive 應用程式 (已被多數安卓製造商內建且可從商城下載)。\\n\\n您可選擇匯出至 SD 卡、本機裝置 (開啟側邊目錄)，或 Google Drive。若您選擇匯出至 Google Drive，您的檔案可被存取從電腦端造訪 https://drive.google.com。"
+    "zh-Hant-TW": "若要匯出，您必須已安裝 Drive 應用程式（已被多數安卓製造商內建且可從商城下載）。\\n\\n您可選擇匯出至 SD 卡、本機裝置（開啟側邊目錄），或 Google Drive。若您選擇匯出至 Google Drive，您的檔案可被存取從電腦端造訪 https://drive.google.com。"
   },
   "csvExport_externalStorageUploaded": {
     "en": "CSV saved to External Storage",
@@ -1013,7 +1013,7 @@
     "en": "To import, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nTo view your Google Drive files from your computer, you can visit https://drive.google.com. You can also import from your SDCard or any other external storage (open the side menu in the file picker).",
     "de": "Zum Importieren müssen Sie die Drive-App installiert haben (diese ist von den meisten Android-Herstellern vorinstalliert oder kann aus dem Store heruntergeladen werden).\\\n\\nUm Ihre Google Drive-Dateien auf Ihrem Computer anzuzeigen, können Sie https://drive.google.com besuchen. Sie können auch von Ihrer SD-Karte oder einem anderen externen Speicher importieren (öffnen Sie das Seitenmenü in der Dateiauswahl).",
     "tr": "İçe aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\nGoogle Drive dosyalarınızı bilgisayarınızdan görüntülemek için https://drive.google.com adresini ziyaret edebilirsiniz. SDCard\\'ınızdan veya başka bir harici depolama alanından da içe aktarabilirsiniz (dosya seçicideki yan menüyü açın).",
-    "zh-Hant-TW": "若要匯入，您必須已安裝 Drive 應用程式 (已被多數安卓製造商內建且可從商城下載)。\\n\\n您可檢視 Google Drive 檔案從電腦端造訪 https://drive.google.com。也可選擇從 SD 卡或其他外部裝置 (開啟側邊目錄) 匯入。"
+    "zh-Hant-TW": "若要匯入，您必須已安裝 Drive 應用程式（已被多數安卓製造商內建且可從商城下載）。\\n\\n您可檢視 Google Drive 檔案從電腦端造訪 https://drive.google.com。也可選擇從 SD 卡或其他外部裝置（開啟側邊目錄）匯入。"
   },
   "csvImport_importAndOverwrite": {
     "en": "Delete local data after importing",
@@ -1062,13 +1062,13 @@
     "en": "Use File option if you have a lot of data, since Android has a 1 MB size restriction for Clipboard/Email.",
     "de": "Wenn die Datenmenge zu groß ist, verwenden Sie die Dateiauswahl, da Android eine Größenbeschränkung von 1 MB für die Zwischenablage/E-Mail besitzt.",
     "tr": "Android\\'de Pano/E-posta için 1 MB boyut sınırlaması olduğundan çok fazla veriniz varsa dosya seçeneğini kullanın.",
-    "zh-Hant-TW": "由於安卓系統只提供 1 MB 給剪貼簿/Email，如果你有很多的資料，請使用檔案選項。"
+    "zh-Hant-TW": "由於安卓系統只提供 1 MB 給剪貼簿／Email，如果你有很多的資料，請使用檔案選項。"
   },
   "csvImport_recognizedHeadersHelp": {
     "en": "Recognized CSV Headers:\\n\\nSymbol: Symbol name (i.e. BB)\\nPortfolio: Portfolio the quote belongs to\\nShares: Shares owned\\nType: Buy, Sell, Buy to Cover, Sell Short\\nPrice: Cost per share\\nCommission: Total commissions\\nDate: Date of transaction (YYYY-MM-DD GMT+HH:MM), i.e. 2017–05–25 GMT+01:00\\nNotes: Additional notes\\n\\nTo see a sample CSV, you can export a CSV from the app.\\n\\nThe Date format must be correct or the date will not be imported. If you are using Excel, you can customize the format of the generated dates. 2016–11–25 GMT-08:00 is a valid date, 11–25–2017 is not.",
     "de": "Erkannte CSV-Kopfzeilen:\\n\nSymbol: Symbolname (z. B. BB)\\nPortfolio: Portfolio, zu dem die Notierung gehört\\nShares: Aktien im Besitz\\nTyp: Kauf, Verkauf, Deckungskauf, Leerverkauf\\nPreis: Kosten pro Aktie\\nCommission: Gesamtprovision\\nDatum: Datum der Transaktion (JJJJ-MM-TT GMT+HH:MM), d. h. 2017-05-25 GMT+01:00\\\nNotizen: Zusätzliche Hinweise\\n\\nUm ein CSV-Beispiel zu sehen, können Sie eine CSV aus der App exportieren.\\n\nDas Datumsformat muss korrekt sein, sonst wird das Datum nicht importiert. Wenn Sie Excel verwenden, können Sie das Format der generierten Daten anpassen. 2016-11-25 GMT-08:00 ist ein gültiges Datum, 11-25-2017 ist dagegen nicht.",
     "tr": "Tanınan CSV Başlıkları:\\n\\nSembol: Sembol adı (örneğin BB)\\nPortföy: Önerilerin ait olduğu portföy\\nHisseler: Sahip olunan hisseler\\nTür: Al, Sat, Kapatmak için Al, Açığa Sat\\nFiyat: Hisse başı maliyet\\nKomisyon: Toplam komisyon\\nTarih: İşlem tarihi (YYY–MM–DD GMT+H:MM), örneğin 2017–05–25 GMT+01:00\\nNotlar: Ek notlar\\n\\nÖrnek bir CSV görmek için uygulamadan bir CSV dışa aktarabilirsiniz.\\n\\nTarih biçimi doğru olmalıdır, aksi takdirde tarih içe aktarılmayacaktır. Excel kullanıyorsanız oluşturulan tarihlerin biçimini özelleştirebilirsiniz. 2016–11–25 GMT–08:00 geçerli bir tarihtir, 11–25–2017 geçerli değildir.",
-    "zh-Hant-TW": "確認 CSV 標題:\\n\\n代碼: 代碼名稱 (例. BB)\\n組合: 股票屬於組合\\n股數: 擁有股數\\n類別: 買, 賣, 空單補回, 賣空\\n價格: 每股均價\\n手續費: 總手續費\\n日期: 成交日期 (YYYY-MM-DD GMT+HH:MM), 例. 2017–05–25 GMT+01:00\\n備註: 附註\\n\\n不知道CSV格式的話,你可以從app匯出CSV.\\n\\n日期格式一定要正確,否則該日期將不會被匯入.如果是使用Excel的話,可以客製化日期格式 2016–11–25 GMT-08:00 這個日期格式是可以的, 11–25–2017 則不行."
+    "zh-Hant-TW": "確認 CSV 標題:\\n\\n代碼: 代碼名稱 (例如 BB)\\n組合: 股票屬於組合\\n股數: 擁有股數\\n類別: 買, 賣, 空單補回, 賣空\\n價格: 每股均價\\n手續費: 總手續費\\n日期: 成交日期 (YYYY-MM-DD GMT+HH:MM), 例如 2017–05–25 GMT+01:00\\n備註: 附註\\n\\n不知道CSV格式的話,你可以從app匯出CSV.\\n\\n日期格式一定要正確,否則該日期將不會被匯入.如果是使用Excel的話,可以客製化日期格式 2016–11–25 GMT-08:00 這個日期格式是可以的，11–25–2017 則不行."
   },
   "csvImport_unableToDownload": {
     "en": "Unable to download CSV file",
@@ -1405,7 +1405,7 @@
     "en": "Email / Copy & Paste",
     "de": "E-Mail / Kopieren & Einfügen",
     "tr": "E-posta / Kopyala & Yapıştır",
-    "zh-Hant-TW": "Email / 複製 & 貼上"
+    "zh-Hant-TW": "Email／複製 & 貼上"
   },
   "generic_enableAppLock": {
     "de": "App-Sperre aktivieren",
@@ -1417,7 +1417,7 @@
     "de": "Aktiviere Gesichtserkennung / Berührungsidentifikation",
     "en": "Enable Face ID/Touch ID",
     "tr": "Face ID/Touch ID\\'yi etkinleştirin",
-    "zh-Hant-TW": "啟用生物特徵 (Face/Touch ID)"
+    "zh-Hant-TW": "啟用生物特徵（Face／Touch ID）"
   },
   "generic_enableWidgetLock": {
     "en": "Enable Widget Lock",
@@ -1814,13 +1814,13 @@
     "de": "/Monat",
     "fr": "/mois",
     "tr": "/Ay",
-    "zh-Hant-TW": "/月"
+    "zh-Hant-TW": "／月"
   },
   "generic_perYearShort": {
     "en": "/year",
     "de": "/Jahr",
     "tr": "/Yıl",
-    "zh-Hant-TW": "/年"
+    "zh-Hant-TW": "／年"
   },
   "generic_pickAFile": {
     "en": "Pick a File",
@@ -2023,7 +2023,7 @@
   "generic_signInSignOut": {
     "en": "Sign in / Sign out",
     "tr": "Oturum aç / Oturumu kapat",
-    "zh-Hant-TW": "登入 / 登出"
+    "zh-Hant-TW": "登入／登出"
   },
   "generic_signOut": {
     "en": "Sign Out",
@@ -2382,7 +2382,7 @@
     "de": "Abmelden / Konto wechseln",
     "fr": "Se déconnecter / Changer de compte",
     "tr": "Oturumu Kapat / Hesap Değiştir",
-    "zh-Hant-TW": "登出 / 切換帳戶"
+    "zh-Hant-TW": "登出／切換帳戶"
   },
   "logInOut_signingInToGoogle": {
     "en": "Signing in to Google…",
@@ -2799,7 +2799,7 @@
     "de": "geschlossene/verkaufte Positionen",
     "tr": "Kapanan / Satılan Pozisyonlar",
     "fr": "Fermé / Positions vendues",
-    "zh-Hant-TW": "已關閉 / 已賣出倉位"
+    "zh-Hant-TW": "已關閉／已賣出倉位"
   },
   "portfolio_costBasis": {
     "en": "Cost Basis",
@@ -3021,7 +3021,7 @@
     "de": "Portfolio bearbeiten/löschen",
     "fr": "Modifier / Supprimer le portefeuille",
     "tr": "Portföyü Düzenle/Sil",
-    "zh-Hant-TW": "編輯/刪除組合"
+    "zh-Hant-TW": "編輯／刪除組合"
   },
   "portfolio_editNotes": {
     "en": "Edit Notes",
@@ -3227,7 +3227,7 @@
     "de": "verschieben/kopieren ins Portfolio",
     "fr": "Déplacer/Copie vers le portefeuille",
     "tr": "Portföye Taşı/Kopyala",
-    "zh-Hant-TW": "移動/拷貝至投資組合"
+    "zh-Hant-TW": "移動／複製至投資組合"
   },
   "portfolio_movingToPortfolio": {
     "en": "Moving to portfolio…",
@@ -3311,7 +3311,7 @@
     "de": "Offene/nicht verkaufte Positionen",
     "fr": "Ouvert / Positions non vendues",
     "tr": "Açık / Satılmamış Pozisyonlar",
-    "zh-Hant-TW": "未平倉 / 未賣出部位"
+    "zh-Hant-TW": "未平倉／未賣出部位"
   },
   "portfolio_overview": {
     "en": "Overview",
@@ -3450,7 +3450,7 @@
     "en": "Sector, Industry",
     "de": "Sektor, Branche",
     "tr": "Sektör, Endüstri",
-    "zh-Hant-TW": "部門, 產業"
+    "zh-Hant-TW": "部門，產業"
   },
   "portfolio_setHomeCurrency": {
     "en": "Set Home Currency",
@@ -3938,7 +3938,7 @@
     "en": "Value/Cost",
     "fr": "Valeur/Coût",
     "tr": "Değer/Maliyet",
-    "zh-Hant-TW": "市值/成本"
+    "zh-Hant-TW": "市值／成本"
   },
   "portfolio_warningDeletePortfolio": {
     "en": "Are you sure you want to delete this portfolio?",
@@ -4254,7 +4254,7 @@
     "de": "(Angebot+Nachfrage)/2, falls verfügbar und bis zu 10 Prozent",
     "fr": "(Demande+Offre)/2, si disponible and within 10 percent",
     "tr": "(Alış+Satış)/2, eğer yüzde 10 arasındaysa",
-    "zh-Hant-TW": "(買價+賣價)/2，若可擷取到且在10%以內"
+    "zh-Hant-TW": "（買價＋賣價）／2，若可擷取到且在10%以內"
   },
   "settingsCalculations_bidPriceIfAvailable": {
     "en": "Bid Price, if available and within 10 percent",
@@ -4435,7 +4435,7 @@
     "en": "Invert fall/rise colors. This will make a decrease in price appear in green and a rise in price appear in red.",
     "fr": "Inverser les couleurs des baisses/hausses. Cela fera apparaître les baisses de prix en vert et les hausses en rouge.",
     "tr": "Düşüş/yükseliş renklerini ters çevirir. Bu, fiyattaki bir düşüşün yeşil, fiyattaki bir artışın ise kırmızı görünmesini sağlayacaktır.",
-    "zh-Hant-TW": "對調下降/上升顏色。漲會顯示紅色，跌會顯示綠色"
+    "zh-Hant-TW": "對調下降／上升顏色。漲會顯示紅色，跌會顯示綠色"
   },
   "settingsDisplay_lastTradedPrice": {
     "en": "Last Open Market Price",
@@ -4565,7 +4565,7 @@
     "de": "Beispiel für $10. Wenn AUS, dann wird 10 (ohne Währungssymbol) angezeigt.",
     "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché.",
     "tr": "Örneğin, 10$. Kapalı ise, \"10\" (para birimi sembolü olmadan) gösterilecektir.",
-    "zh-Hant-TW": "例如，$10，若 Off, 則 10 (沒有金錢符號) 會被顯示。"
+    "zh-Hant-TW": "例如，$10，若 Off，則 10 (沒有金錢符號) 會被顯示。"
   },
   "settingsDisplay_showThumbnails": {
     "de": "Vorschaubilder anzeigen",
@@ -4797,7 +4797,7 @@
     "en": "Export to Google Drive / SDCard / External Storage / Email / Clipboard",
     "de": "Exportieren zu Google Drive / SD-Karte / Externer Speicher / E-Mail / Zwischenablage",
     "tr": "Google Drive / SDCard / Harici Depolama / E-posta / Panoya Aktar",
-    "zh-Hant-TW": "匯出至Google雲端硬碟 / SD卡 / 外接儲存裝置 / Email / 備忘錄"
+    "zh-Hant-TW": "匯出至Google雲端硬碟／SD卡／外接儲存裝置／Email／備忘錄"
   },
   "settings_csvExportPriceAlerts": {
     "en": "Export Price Alerts as CSV",
@@ -4827,7 +4827,7 @@
     "en": "Import from Google Drive / SDCard / External Storage / Email / Clipboard",
     "de": "Importieren von Google Drive / SD-Karte / Externer Speicher / E-Mail / Zwischenablage",
     "tr": "Google Drive / SDCard / Harici Depolama / E-posta / Pano\\'dan içe aktar",
-    "zh-Hant-TW": "從 Google Drive / SD卡 / 外部儲存空間 / Email / 剪貼簿 匯入"
+    "zh-Hant-TW": "從 Google Drive／SD卡／外部儲存空間／Email／剪貼簿 匯入"
   },
   "settings_csvImportPriceAlerts": {
     "en": "Import Price Alerts from CSV",
@@ -4886,32 +4886,32 @@
     "en": "Import / Export",
     "de": "Import / Export",
     "tr": "İçe / Dışa aktar",
-    "zh-Hant-TW": "匯入 / 匯出"
+    "zh-Hant-TW": "匯入／匯出"
   },
   "settings_importExportAndSync": {
     "en": "Import/Export and Sync Data",
     "de": "Import/Export und Datensychronisation",
     "tr": "Verileri İçe/Dışa Aktar ve Senkronize Et",
     "fr": "Importer/Exporter and synchronizer les données",
-    "zh-Hant-TW": "匯入 / 匯出資料"
+    "zh-Hant-TW": "匯入／匯出資料"
   },
   "settings_importExportCustomPrices": {
     "en": "Import / Export Custom Prices",
     "de": "Import / Export benutzerdefinierte Kurse",
     "tr": "Özel fiyatları İçe/Dışa Aktar",
-    "zh-Hant-TW": "匯入 / 匯出手動價格"
+    "zh-Hant-TW": "匯入／匯出手動價格"
   },
   "settings_importExportPortfolioData": {
     "en": "Import / Export Portfolio Data",
     "de": "Portfoliodaten importieren/exportieren",
     "tr": "Portföy verisini İçe/Dışa Aktar",
-    "zh-Hant-TW": "匯入 / 匯出投資組合資料"
+    "zh-Hant-TW": "匯入／匯出投資組合資料"
   },
   "settings_importExportPriceAlerts": {
     "en": "Import / Export Price Alerts",
     "de": "Import-/Export Kursalarme",
     "tr": "Fiyat uyarılarını İçe/Dışa Aktar",
-    "zh-Hant-TW": "匯入 / 匯出到價通知"
+    "zh-Hant-TW": "匯入／匯出到價通知"
   },
   "settings_lastSelectedPortfolio": {
     "en": "Last Selected Portfolio",
@@ -5107,7 +5107,7 @@
     "de": "Zum Beispiel, $10. Wenn AUS, dann wird 10 (ohne Währungssymbol) angezeigt. Diese Option wird nur verwendet, wenn eine Heimatwährung festgelegt worden ist",
     "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché. Cette option n\\'est utilisée que lorsqu\\'une devise préférée est définie.",
     "tr": "Örneğin, 10$. Kapalı ise 10 şeklinde (para birimi sembolü olmadan) gösterilecektir. Bu seçenek yalnızca bir ana para birimi ayarlandığında kullanılır.",
-    "zh-Hant-TW": "舉例來說，$10. 若 Off, 則 10 (沒有金錢符號) 會被顯示。此選項只會在已經設定預設貨幣的情況下有效。"
+    "zh-Hant-TW": "舉例來說，$10。若 Off，則 10（沒有金錢符號）會被顯示。此選項只會在已經設定預設貨幣的情況下有效。"
   },
   "settings_startingPortfolioScreenTab": {
     "de": "Startbildschirm für Registerkarte \"Portfolio\"",
@@ -5182,7 +5182,7 @@
     "de": "Blendet die antippbaren Spaltenüberschriften zum Umschalten der Anzeigeart aus (z.B. täglich/Summe)",
     "fr": "Masquer les en-têtes cliquables des colonnes pour changer le type d\\'affichage (p.e. jour/total)",
     "tr": "Görüntüleme türünü değiştirmek için dokunulabilir sütun başlıklarını gizleyin (örn. günlük/toplam).",
-    "zh-Hant-TW": "隱藏可點選用來交換顯示 (每日/總額) 的行標題"
+    "zh-Hant-TW": "隱藏可點選用來交換顯示（每日／總額）的行標題"
   },
   "settings_widgetHideTitleBar": {
     "en": "Hide title bar",
@@ -5210,7 +5210,7 @@
     "de": "Synchronisierungsfehler. Wenn das Problem weiterhin besteht, versuchen Sie sich bei Google ab- und wieder anzumelden",
     "fr": "Erreur de synchronisation. Si le problème persiste, essayez de vous déconnecter de Google et de vous reconnecter.",
     "tr": "Senkronizasyon hatası. Sorun devam ederse Google hesabından çıkış yapmayı ve tekrar giriş yapmayı deneyin.",
-    "zh-Hant-TW": "同步發生錯誤。如果問題持續，市著登出 Google 帳戶再重新登入。"
+    "zh-Hant-TW": "同步發生錯誤。如果問題持續，試著登出 Google 帳戶再重新登入。"
   },
   "sync_help": {
     "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.\\n\\nTo see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export.",
@@ -5427,7 +5427,7 @@
     "en": "Avg Vol (3m)",
     "fr": "Vol. moy.",
     "tr": "Ort Hacim(3A)",
-    "zh-Hant-TW": "平均交易量 (3月)"
+    "zh-Hant-TW": "平均交易量（3月）"
   },
   "viewQuoteStats_averageVolumeHelp": {
     "en": "The average daily volume",
@@ -5441,7 +5441,7 @@
     "de": "Beta",
     "fr": "Bêta",
     "tr": "Beta",
-    "zh-Hant-TW": "大盤相關係數 (Beta)"
+    "zh-Hant-TW": "大盤相關係數（Beta）"
   },
   "viewQuoteStats_betaHelp": {
     "en": "Measure of the risk of a stock",
@@ -5482,7 +5482,7 @@
     "en": "Book Value",
     "de": "Buchwert",
     "tr": "Defter Değeri",
-    "zh-Hant-TW": "淨值 (股東權益)"
+    "zh-Hant-TW": "淨值（股東權益）"
   },
   "viewQuoteStats_bookValueHelp": {
     "en": "Total assets minus total liabilities. Reflects value shareholders would receive if company were to be liquidated.",
@@ -5495,7 +5495,7 @@
     "de": "Div/Yld",
     "fr": "Div/Rdt",
     "tr": "YT/YTV",
-    "zh-Hant-TW": "股利/殖利率"
+    "zh-Hant-TW": "股利／殖利率"
   },
   "viewQuoteStats_dividendAndYieldHelp": {
     "en": "Div = annual dividend. Yld = percent yield of annual dividend.",
@@ -5695,7 +5695,7 @@
     "en": "Shares short (prior month). Data is delayed.",
     "de": "Leerverkauf von Aktien (Vormonat). Die Daten werden verzögert angezeigt.",
     "tr": "Açığa satılan hisseller(Önceki ay).Veriler gecikmelidir.",
-    "zh-Hant-TW": "放空的部位 (上個月)。資料是延遲的。"
+    "zh-Hant-TW": "放空的部位（上個月）。資料是延遲的。"
   },
   "viewQuoteStats_pegRatio": {
     "en": "PEG Ratio",
@@ -5861,7 +5861,7 @@
     "en": "Ticker has changed %s\\nTap here to change to the new one",
     "de": "Der Ticker hat sich geändert %s\\nTippen Sie hier, um zum neuen Ticker zu wechseln",
     "tr": "%s sembolu değişti \\nYenisine geçmek için buraya dokunun",
-    "zh-Hant-TW": "代碼/標的已被改變。點選這裡來使用新的"
+    "zh-Hant-TW": "代碼／標的已被改變。點選這裡來使用新的"
   },
   "viewQuote_noData": {
     "en": "No Data",
@@ -5936,7 +5936,7 @@
     "de": "Vielen Dank für das Herunterladen von My Stocks Portfolio (MSP)!\\\n\\nEin Musterportfolio wurde erstellt. Bei Fragen besuchen Sie bitte den Hilfebereich.",
     "fr": "Merci d\\'avoir téléchargé cette application !\\n\\nUn exemple de portefeuille a été créé.",
     "tr": "My Stocks Portfolio (MSP) indirdiğiniz için teşekkür ederiz! Örnek bir portföy oluşturulmuştur. Sorularınız için lütfen yardım bölümünü ziyaret edin.",
-    "zh-Hant-TW": "感謝您下載 My Stocks Portfolio (MSP)！一個用作範例的投資組合已經被建立。如遇到任何問題請從幫助頁面中尋求協助。"
+    "zh-Hant-TW": "感謝您下載 My Stocks Portfolio（MSP）！一個用作範例的投資組合已經被建立。如遇到任何問題請從幫助頁面中尋求協助。"
   },
   "widgetOverview_configure": {
     "en": "Configure Overview Widget",
@@ -5985,7 +5985,7 @@
     "de": "Um Widget-Einstellungen (z.B. automatisches Aktualisieren und Schriftgröße) zu konfigurieren, öffnen Sie die App-Einstellungen und gehen zum Punkt Widget. Wenn Sie die Größe des Widgets auf sehr klein ändern, passen Sie auch die Widget-Einstellungen an, um die Größe der Benutzeroberfläche zu verringern, damit alles zu sehen ist.\\n\nBitte beachten Sie, dass es zwei Arten von Widgets gibt - Übersicht und Einzelportfolio. Wenn Sie Ihre Bestände nicht sehen, haben sie möglicherweise das Übersichts-Widget angeheftet, müssen aber das Einzelportfolio-Widget erstellen",
     "fr": "Pour effectuer le réglage du widget (tels que la mise à jour automatique and la taille de la police), ouvrez l\\'application, Réglages and allez dans la rubrique Widget. Si vous redimensionnez le widget pour qu\\'il soit très petit, veillez à réduire la taille dans les réglages du widget pour que tout s\\'affiche correctement.",
     "tr": "Widget ayarlarını (otomatik yenileme ve yazı tipi boyutu gibi) yapılandırmak için uygulamayı, Ayarlar\\'ı açın ve Widget bölümüne gidin. Widget\\'i çok küçük olacak şekilde yeniden boyutlandırırsanız, her şeyin sığması için kullanıcı arayüzü boyutunu küçültmek üzere widget ayarlarını ziyaret ettiğinizden emin olun.\\n\\nLütfen iki tür widget olduğunu unutmayın - genel bakış ve tek portföy. önerilerinizi göremiyorsanız, tek portföy widget\\'ini sabitlemek istemiş ancak genel bakış widget\\'ini sabitlemiş olabilirsiniz.",
-    "zh-Hant-TW": "若欲設定小工具(諸如自動重新整理和字體大小)，開啟應用程式>設定>小工具選單。若您將小工具長寬設定非常小，請記得調整設定確保小工具可顯示出所有內容。\\n\\n提醒您有兩種小工具可使用 - 總覽和單一投資組合。如果有需要看到您的報價，建議使用單一投資組合而非總覽。"
+    "zh-Hant-TW": "若欲設定小工具（諸如自動重新整理和字體大小)，開啟應用程式>設定>小工具選單。若您將小工具長寬設定非常小，請記得調整設定確保小工具可顯示出所有內容。\\n\\n提醒您有兩種小工具可使用 — 總覽和單一投資組合。如果有需要看到您的報價，建議使用單一投資組合而非總覽。"
   },
   "widget_refreshing": {
     "en": "Refreshing Widget",
@@ -5999,7 +5999,7 @@
     "de": "Anteile/Kosten",
     "fr": "Action/Prix",
     "tr": "Hisseler/Fiyat.",
-    "zh-Hant-TW": "股數/價格"
+    "zh-Hant-TW": "股數／價格"
   },
   "widget_syncAlreadyInProgress": {
     "en": "Sync already in progress.",
