@@ -1845,8 +1845,7 @@
   "generic_placeholderAndPlaceholder": {
     "_formatted": false,
     "_translatable": false,
-    "en": "%s %s",
-    "tr": "%s %s"
+    "en": "%s %s"
   },
   "generic_pleaseAgreeToPrivacyPolicyAndTerms": {
     "en": "Please agree to the Privacy Policy and Terms of Use before continuing",
@@ -5018,7 +5017,8 @@
     "de": "Premium",
     "en": "Premium",
     "fr": "Premium",
-    "tr": "Premium"
+    "tr": "Premium",
+    "zh-Hant-TW": "Premium"
   },
   "settings_privacyPolicy": {
     "de": "Datenschutz",
