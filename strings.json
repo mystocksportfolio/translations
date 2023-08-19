@@ -985,21 +985,21 @@
     "en": "CSV saved to External Storage",
     "de": "CSV auf externem Speicher gespeichert",
     "tr": "CSV Harici Depolamaya kaydedildi",
-    "zh-Hant-TW": "儲存CSV檔案至外部儲存裝置"
+    "zh-Hant-TW": "儲存 CSV 檔案至外部儲存裝置"
   },
   "csvExport_unableToUpload": {
     "en": "Unable to upload CSV file",
     "de": "CSV-Datei kann nicht hochgeladen werden",
     "fr": "Impossible de charger le fichier CSV",
     "tr": "CSV dosyası yüklenemedi",
-    "zh-Hant-TW": "無法上傳CSV檔案"
+    "zh-Hant-TW": "無法上傳 CSV 檔案"
   },
   "csvImport_copyPasteHelp": {
     "en": "Copy and paste the text containing the CSV data into the text field below. Make sure to copy and paste the headers as well. Each line of the CSV should be on a separate line.",
     "de": "Kopieren Sie den Text, der die CSV-Daten enthält und fügen ihn in das unten stehende Textfeld ein. Achten Sie darauf, dass Sie auch die Überschriften kopieren und einfügen. Jede Zeile der CSV-Datei sollte in einer eigenen Zeile stehen.",
     "fr": "Copiez et collez le texte contenant les données CSV dans le champ de texte ci-dessous. Assurez-vous de copier et coller les en-têtes également. Chaque ligne du fichier CSV doit être sur une ligne distincte.",
     "tr": "CSV verilerini içeren metni kopyalayıp aşağıdaki metin alanına yapıştırın. Başlıkları da kopyalayıp yapıştırdığınızdan emin olun. CSV\\'nin her satırı ayrı bir satırda olmalıdır.",
-    "zh-Hant-TW": "複製貼上CSV資料內容文字至文字輸入框內。請確認是否也有複製貼上標題，每一個CSV欄位應該要分開成不同的欄位。"
+    "zh-Hant-TW": "複製貼上 CSV 資料內容文字至文字輸入框內。請確認是否也有複製貼上標題，每一個 CSV 欄位應該要分開成不同的欄位。"
   },
   "csvImport_couldNotFindData": {
     "en": "Could not find data to import",
@@ -1013,7 +1013,7 @@
     "de": "CSV-Datei war leer",
     "fr": "Le fichier CSV était vide",
     "tr": "CSV dosyası boş",
-    "zh-Hant-TW": "空白CSV檔案"
+    "zh-Hant-TW": "空白 CSV 檔案"
   },
   "csvImport_externalStorageHelp": {
     "en": "To import, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nTo view your Google Drive files from your computer, you can visit https://drive.google.com. You can also import from your SDCard or any other external storage (open the side menu in the file picker).",
@@ -1062,7 +1062,7 @@
     "de": "Bitte kopieren und fügen Sie die CSV-Daten ein.",
     "fr": "Veuillez copier et coller les données CSV",
     "tr": "Lütfen CSV verilerini kopyalayıp yapıştırın",
-    "zh-Hant-TW": "請複製並貼上CSV數據"
+    "zh-Hant-TW": "請複製並貼上 CSV 數據"
   },
   "csvImport_sizeRestriction": {
     "en": "Use File option if you have a lot of data, since Android has a 1 MB size restriction for Clipboard/Email.",
@@ -1511,7 +1511,7 @@
     "de": "Export CSV",
     "en": "Export CSV",
     "tr": "CSV olarak dışa aktar",
-    "zh-Hant-TW": "匯出CSV"
+    "zh-Hant-TW": "匯出 CSV"
   },
   "generic_exportData": {
     "en": "Export Data",
@@ -1523,7 +1523,7 @@
     "en": "Export to Email",
     "de": "als Email exportieren",
     "tr": "E-postaya aktar",
-    "zh-Hant-TW": "匯出至Email"
+    "zh-Hant-TW": "匯出至 Email"
   },
   "generic_exportToFile": {
     "en": "Export to File",
@@ -1604,7 +1604,7 @@
     "de": "Import CSV",
     "en": "Import CSV",
     "tr": "CSV içe aktar",
-    "zh-Hant-TW": "匯入CSV"
+    "zh-Hant-TW": "匯入 CSV"
   },
   "generic_importData": {
     "en": "Import Data",
@@ -2133,7 +2133,7 @@
     "en": "%s minutes ago",
     "de": "seit %s Minute",
     "tr": "%s dakika önce",
-    "zh-Hant-TW": "%s分鐘前"
+    "zh-Hant-TW": "%s 分鐘前"
   },
   "generic_time_1HourAgo": {
     "en": "1 hour ago",
@@ -2146,7 +2146,7 @@
     "en": "%s hours ago",
     "de": "seit %s Stunden",
     "tr": "%s saat önce",
-    "zh-Hant-TW": "%s小時前"
+    "zh-Hant-TW": "%s 小時前"
   },
   "generic_time_1DayAgo": {
     "en": "1 day ago",
@@ -2159,7 +2159,7 @@
     "en": "%s days ago",
     "de": "seit %s Tagen",
     "tr": "%s gün önce",
-    "zh-Hant-TW": "%s天前"
+    "zh-Hant-TW": "%s 天前"
   },
   "generic_time_1WeekAgo": {
     "en": "1 week ago",
@@ -2172,7 +2172,7 @@
     "en": "%s weeks ago",
     "de": "vor %s Wochen",
     "tr": "%s hafta önce",
-    "zh-Hant-TW": "%s星期前"
+    "zh-Hant-TW": "%s 星期前"
   },
   "generic_time_1MonthAgo": {
     "en": "1 month ago",
@@ -2185,7 +2185,7 @@
     "en": "%s months ago",
     "de": "seit %s Monaten",
     "tr": "%s ay önce",
-    "zh-Hant-TW": "%s月前"
+    "zh-Hant-TW": "%s 月前"
   },
   "generic_to": {
     "en": "To",
@@ -4817,7 +4817,7 @@
     "en": "Export as CSV",
     "de": "als CSV exportieren",
     "tr": "CSV olarak dışa aktar",
-    "zh-Hant-TW": "匯出至CSV"
+    "zh-Hant-TW": "匯出至 CSV"
   },
   "settings_csvExportCustomPrices": {
     "en": "Export Custom Prices as CSV",
