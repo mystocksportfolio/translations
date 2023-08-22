@@ -515,11 +515,11 @@
     "zh-Hant-TW": "代碼"
   },
   "addQuote_symbolDisplayOverride": {
-    "en": "Symbol display override (Optional)",
-    "de": "Symbolanzeige überschreiben (Optional)",
-    "fr": "Remplacement du symbole d\\'affichage (Facultatif)",
-    "tr": "Sembol ekranını geçersiz kıl (İsteğe bağlı)",
-    "zh-Hant-TW": "更改顯示（選填）"
+    "en": "Symbol display override",
+    "de": "Symbolanzeige überschreiben",
+    "fr": "Remplacement du symbole d\\'affichage",
+    "tr": "Sembol ekranını geçersiz kıl",
+    "zh-Hant-TW": "更改顯示"
   },
   "addQuote_symbolWithHint": {
     "en": "Symbol (i.e. GOOG)",
@@ -1670,13 +1670,6 @@
     "tr": "Ad",
     "zh-Hant-TW": "名稱"
   },
-  "generic_nameOptional": {
-    "en": "Name (Optional)",
-    "de": "Name (optional)",
-    "fr": "Nom (Optionel)",
-    "tr": "Ad ( İsteğe bağlı)",
-    "zh-Hant-TW": "名稱（選填）"
-  },
   "generic_navigateUpAccessibility": {
     "en": "Navigate up",
     "de": "Nach oben navigieren",
@@ -1749,12 +1742,6 @@
     "tr": "Sonuç Yok",
     "zh-Hant-TW": "沒有結果"
   },
-  "generic_notesOptional": {
-    "de": "Anmerkungen (Optional)",
-    "en": "Notes (Optional)",
-    "tr": "Notlar (İsteğe bağlı)",
-    "zh-Hant-TW": "備註（選填）"
-  },
   "generic_notificationTestInProgress": {
     "en": "You should receive a test notification in a few seconds",
     "de": "Sie sollten in wenigen Sekunden eine Testbenachrichtigung erhalten",
@@ -1804,6 +1791,13 @@
     "tr": "Gezinti bölmesini açın",
     "zh-Hant-TW": "開啟側選單"
   },
+  "generic_optional": {
+    "en": "Optional",
+    "de": "optional",
+    "fr": "Optionel",
+    "tr": "İsteğe bağlı",
+    "zh-Hant-TW": "選填"
+  },
   "generic_passcode": {
     "en": "Passcode",
     "de": "Kennwort",
@@ -1846,6 +1840,13 @@
     "_formatted": false,
     "_translatable": false,
     "en": "%s %s"
+  },
+  "generic_placeholderInBrackets": {
+    "_formatted": false,
+    "en": "(%s)",
+    "fr": "(%s)",
+    "tr": "(%s)",
+    "zh-Hant-TW": "（%s）"
   },
   "generic_pleaseAgreeToPrivacyPolicyAndTerms": {
     "en": "Please agree to the Privacy Policy and Terms of Use before continuing",
@@ -3061,6 +3062,9 @@
     "tr": "0–100 arasında bir eşik değeri girin",
     "zh-Hant-TW": "在 0–100 之中選擇閥值"
   },
+  "portfolio_error_quoteCurrencyNotDetected": {
+    "en": "Currency for quote could not be detected"
+  },
   "portfolio_excludedFromTotals": {
     "en": "Excluded from totals",
     "de": "Von den Gesamtbeträgen ausgeschlossen",
@@ -3334,6 +3338,9 @@
     "tr": "Açık / Satılmamış Pozisyonlar",
     "zh-Hant-TW": "未平倉／未賣出部位"
   },
+  "portfolio_otherTransactionInfo": {
+    "en": "Other Transaction Info"
+  },
   "portfolio_overview": {
     "en": "Overview",
     "de": "Übersicht",
@@ -3496,11 +3503,22 @@
     "zh": "股数 @",
     "zh-Hant-TW": "股數 @"
   },
+  "portfolio_split_for": {
+    "_usage": "Usage: 4 for 1 split",
+    "en": "for",
+    "de": ":",
+    "fr": ":",
+    "tr": ":",
+    "zh-Hant-TW": "對"
+  },
   "portfolio_splitsHelp": {
     "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4.",
     "de": "Beispiele:\\n\\nEin Split im Verhältnis 1:4 multipliziert die eigenen Aktien mit 4 und teilt die Kosten pro Aktie durch 4.\\n\nEin umgekehrter Split im Verhältnis 1:4 teilt die eigenen Aktien mit 4 und teilt die Kosten pro Aktie durch 4.",
     "tr": "Örnekler:\\n\\n%400 bölünme, sahip olunan hisseleri 4 ile çarpacak ve hisse başına ödenen maliyeti 4\\'e bölecektir.\\n\\n%400 ters bölünme, sahip olunan hisseleri 4\\'e bölecek ve hisse başına maliyeti 4\\'e katlayacaktır.",
     "zh-Hant-TW": "例子:\\n\\n一個 4 對 1 的股票分割會將所擁有的股份乘以 4，並將每股支付的成本除以 4。\\n\\n一個 1 對 4 的反向股票分割會將所擁有的股份除以 4，並將每股成本乘以 4。"
+  },
+  "portfolio_splitRatio": {
+    "en": "Split Ratio"
   },
   "portfolio_previewCSV": {
     "en": "Preview CSV",
@@ -3962,6 +3980,9 @@
     "tr": "Değer",
     "zh-Hant-TW": "市值"
   },
+  "portfolio_valueChangePercent": {
+    "en": "Value Change %"
+  },
   "portfolio_valueAndCost": {
     "de": "Wert/Kosten",
     "en": "Value/Cost",
@@ -3981,6 +4002,13 @@
     "de": "Watchlist",
     "tr": "İzleme Listesi",
     "zh-Hant-TW": "觀察清單"
+  },
+  "portfolio_xForYSplit": {
+    "_formatted": false,
+    "en": "%s for %s split",
+    "de": "%s:%s Aktiensplit",
+    "tr": "%s:%s Bölünme",
+    "zh-Hant-TW": "%s 對 %s 股票分割"
   },
   "portfolio_xirr": {
     "en": "XIRR",
@@ -5487,7 +5515,7 @@
     "en": "Avg Vol (3m)",
     "fr": "Vol. moy.",
     "tr": "Ort Hacim(3A)",
-    "zh-Hant-TW": "平均交易量（3 個月）"
+    "zh-Hant-TW": "平均交易量-3個月"
   },
   "viewQuoteStats_averageVolumeHelp": {
     "en": "The average daily volume",
@@ -5501,7 +5529,7 @@
     "de": "Beta",
     "fr": "Bêta",
     "tr": "Beta",
-    "zh-Hant-TW": "大盤相關係數（Beta）"
+    "zh-Hant-TW": "大盤相關係數-Beta"
   },
   "viewQuoteStats_betaHelp": {
     "en": "Measure of the risk of a stock",
@@ -5542,7 +5570,7 @@
     "en": "Book Value",
     "de": "Buchwert",
     "tr": "Defter Değeri",
-    "zh-Hant-TW": "淨值（股東權益）"
+    "zh-Hant-TW": "淨值-股東權益"
   },
   "viewQuoteStats_bookValueHelp": {
     "en": "Total assets minus total liabilities. Reflects value shareholders would receive if company were to be liquidated.",
@@ -5980,6 +6008,13 @@
     "fr": "Voir le cours",
     "tr": "Öneriyi Görüntüle",
     "zh-Hant-TW": "顯示報價"
+  },
+  "viewQuote_transaction": {
+    "en": "Transaction",
+    "de": "Transaktion",
+    "fr": "Transaction",
+    "tr": "İşleml",
+    "zh-Hant-TW": "交易"
   },
   "viewQuote_transactions": {
     "en": "Transactions",
