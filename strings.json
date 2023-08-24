@@ -3519,6 +3519,7 @@
   },
   "portfolio_splitRatio": {
     "en": "Split Ratio"
+    "tr": "Bölünme Oranı",
   },
   "portfolio_previewCSV": {
     "en": "Preview CSV",
@@ -3982,6 +3983,7 @@
   },
   "portfolio_valueChangePercent": {
     "en": "Value Change %"
+    "tr": "Değer Değişimi %"
   },
   "portfolio_valueAndCost": {
     "de": "Wert/Kosten",
