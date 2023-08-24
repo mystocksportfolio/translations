@@ -2687,6 +2687,7 @@
   "portfolio_allocation_categoryTagsForSymbol": {
     "_formatted": false,
     "en": "Category Tags for %s",
+    "tr": "%s için Kategori Etiketleri",
     "zh-Hant-TW": "%s 的群組標籤"
   },
   "portfolio_allocation_categoryTagHelp": {
@@ -3064,6 +3065,7 @@
   },
   "portfolio_error_quoteCurrencyNotDetected": {
     "en": "Currency for quote could not be detected"
+    "tr": "Öneri için para birimi tespit edilemedi"
   },
   "portfolio_excludedFromTotals": {
     "en": "Excluded from totals",
@@ -6015,7 +6017,7 @@
     "en": "Transaction",
     "de": "Transaktion",
     "fr": "Transaction",
-    "tr": "İşleml",
+    "tr": "İşlem",
     "zh-Hant-TW": "交易"
   },
   "viewQuote_transactions": {
