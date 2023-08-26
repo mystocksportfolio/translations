@@ -12,7 +12,7 @@ Progress (929 strings):
 
 ![Progress](https://progress-bar.dev/91?title=de&width=120) 846/929 - German
 
-![Progress](https://progress-bar.dev/99?title=tr&width=120) 924/929 - Turkish
+![Progress](https://progress-bar.dev/100?title=tr&width=120) 928/929 - Turkish
 
 ![Progress](https://progress-bar.dev/99?title=zh-Hant-TW&width=120) 923/929 - Traditional Chinese
 

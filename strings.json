@@ -3064,7 +3064,7 @@
     "zh-Hant-TW": "在 0–100 之中選擇閥值"
   },
   "portfolio_error_quoteCurrencyNotDetected": {
-    "en": "Currency for quote could not be detected"
+    "en": "Currency for quote could not be detected",
     "tr": "Öneri için para birimi tespit edilemedi"
   },
   "portfolio_excludedFromTotals": {
@@ -3520,8 +3520,8 @@
     "zh-Hant-TW": "例子:\\n\\n一個 4 對 1 的股票分割會將所擁有的股份乘以 4，並將每股支付的成本除以 4。\\n\\n一個 1 對 4 的反向股票分割會將所擁有的股份除以 4，並將每股成本乘以 4。"
   },
   "portfolio_splitRatio": {
-    "en": "Split Ratio"
-    "tr": "Bölünme Oranı",
+    "en": "Split Ratio",
+    "tr": "Bölünme Oranı"
   },
   "portfolio_previewCSV": {
     "en": "Preview CSV",
@@ -3984,7 +3984,7 @@
     "zh-Hant-TW": "市值"
   },
   "portfolio_valueChangePercent": {
-    "en": "Value Change %"
+    "en": "Value Change %",
     "tr": "Değer Değişimi %"
   },
   "portfolio_valueAndCost": {
