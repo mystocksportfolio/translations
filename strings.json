@@ -2056,7 +2056,7 @@
   },
   "generic_sincePlaceholder": {
     "en": "Since %s",
-    "de": "seit %s",
+    "de": "vor %s",
     "tr": "%s\\'den beri",
     "zh-Hant-TW": "自從 %s"
   },
@@ -2125,46 +2125,46 @@
   },
   "generic_time_1MinAgo": {
     "en": "1 minute ago",
-    "de": "seit 1 Minute",
+    "de": "vor 1 Minute",
     "tr": "1 dakika önce",
     "zh-Hant-TW": "一分鐘前"
   },
   "generic_time_XMinsAgo": {
     "_formatted": false,
     "en": "%s minutes ago",
-    "de": "seit %s Minute",
+    "de": "vor %s Minute",
     "tr": "%s dakika önce",
     "zh-Hant-TW": "%s 分鐘前"
   },
   "generic_time_1HourAgo": {
     "en": "1 hour ago",
-    "de": "seit 1 Stunde",
+    "de": "vor 1 Stunde",
     "tr": "1 saat önce",
     "zh-Hant-TW": "一小時前"
   },
   "generic_time_XHoursAgo": {
     "_formatted": false,
     "en": "%s hours ago",
-    "de": "seit %s Stunden",
+    "de": "vor %s Stunden",
     "tr": "%s saat önce",
     "zh-Hant-TW": "%s 小時前"
   },
   "generic_time_1DayAgo": {
     "en": "1 day ago",
-    "de": "seit 1 Tag",
+    "de": "vor 1 Tag",
     "tr": "1 gün önce",
     "zh-Hant-TW": "一天前"
   },
   "generic_time_XDaysAgo": {
     "_formatted": false,
     "en": "%s days ago",
-    "de": "seit %s Tagen",
+    "de": "vor %s Tagen",
     "tr": "%s gün önce",
     "zh-Hant-TW": "%s 天前"
   },
   "generic_time_1WeekAgo": {
     "en": "1 week ago",
-    "de": "seit 1 Woche",
+    "de": "vor 1 Woche",
     "tr": "1 hafta önce",
     "zh-Hant-TW": "一星期前"
   },
@@ -2177,14 +2177,14 @@
   },
   "generic_time_1MonthAgo": {
     "en": "1 month ago",
-    "de": "seit 1 Monat",
+    "de": "vor 1 Monat",
     "tr": "1 ay önce",
     "zh-Hant-TW": "一月前"
   },
   "generic_time_XMonthsAgo": {
     "_formatted": false,
     "en": "%s months ago",
-    "de": "seit %s Monaten",
+    "de": "vor %s Monaten",
     "tr": "%s ay önce",
     "zh-Hant-TW": "%s 月前"
   },
