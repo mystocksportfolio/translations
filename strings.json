@@ -3289,6 +3289,9 @@
     "tr": "Menüdeki Ekle düğmesine dokunarak veya buraya dokunarak yeni bir portföy veya izleme listesi ekleyin.",
     "zh-Hant-TW": "點擊選單中新增按鈕，新增投資組合或觀察清單"
   },
+  "portfolio_noProfileInformationForQuote": {
+    "en": "No profile information for this quote"
+  },
   "portfolio_noQuotesHelp": {
     "en": "Add a new quote by tapping the Add button in the menu or by tapping here.",
     "de": "Fügen Sie ein neue Notierung hinzu, indem Sie im Menü auf die Schaltfläche \\'Hinzufügen\\' oder hier tippen.",
@@ -3865,6 +3868,11 @@
     "fr": "Synchronisation du courtage",
     "tr": "Aracı kurum senkronizasyonu",
     "zh-Hant-TW": "同步券商"
+  },
+  "portfolio_thisIsCurrencyCashPosition": {
+    "_comment": "Example: This is a USD cash position",
+    "_formatted": false,
+    "en": "This is a %s cash position"
   },
   "portfolio_ticker": {
     "de": "Bezeichnung",
