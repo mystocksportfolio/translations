@@ -1484,6 +1484,9 @@
     "tr": "Sonuçlar alınırken hata oluştu. Lütfen daha sonra tekrar deneyin",
     "zh-Hant-TW": "擷取失敗。請稍後再試。"
   },
+  "generic_errorRunningAppFromExternalStorage": {
+    "en": "It looks like you\\'re running the app from your SDCard / external storage. This may cause issues with graphics not loading, widgets not functioning, authentication failing, etc. Please move the app back to internal storage if you experience issues."
+  },
   "generic_errorWhileRestoring": {
     "en": "Error while restoring",
     "tr": "Geri yükleme sırasında hata oluştu",
