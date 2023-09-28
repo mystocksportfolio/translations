@@ -1316,6 +1316,9 @@
     "zh": "联络我们",
     "zh-Hant-TW": "聯繫我們"
   },
+  "generic_contentsOfReport": {
+    "en": "Contents of Report"
+  },
   "generic_continue": {
     "en": "Continue",
     "de": "fortfahren",
