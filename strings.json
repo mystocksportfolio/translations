@@ -2079,6 +2079,12 @@
     "tr": "Sırala",
     "zh-Hant-TW": "排序"
   },
+  "generic_sort_alphabetical": {
+    "en": "Alphabetical"
+  },
+  "generic_sort_manualSortOrder": {
+    "en": "Manual Sort Order"
+  },
   "generic_subscribed": {
     "en": "Subscribed",
     "de": "Abonniert",
@@ -4319,21 +4325,21 @@
     "zh-Hant-TW": "對於這個 App 有什麼想法呢？"
   },
   "settingsCalculations_askPriceIfAvailable": {
-    "en": "Ask Price, if available and within 10 percent",
+    "en": "Ask Price, if available and within 10%",
     "de": "Kurs fragen, wenn verfügbar und bis zu 10 Prozent",
     "fr": "Prix (offre), si disponible and within 10 percent",
     "tr": "Satış (Talep) Fiyatı, eğer yüzde 10 arasındaysa",
     "zh-Hant-TW": "賣價，若可擷取到且在 10% 以內"
   },
   "settingsCalculations_bidAndAskAverageIfAvailable": {
-    "en": "(Bid+Ask)/2, if available and within 10 percent",
+    "en": "(Bid+Ask)/2, if available and within 10%",
     "de": "(Angebot+Nachfrage)/2, falls verfügbar und bis zu 10 Prozent",
     "fr": "(Demande+Offre)/2, si disponible and within 10 percent",
     "tr": "(Alış+Satış)/2, eğer yüzde 10 arasındaysa",
     "zh-Hant-TW": "（買價＋賣價）／2，若可擷取到且在10%以內"
   },
   "settingsCalculations_bidPriceIfAvailable": {
-    "en": "Bid Price, if available and within 10 percent",
+    "en": "Bid Price, if available and within 10%",
     "de": "Angebotskurs, falls verfügbar und bis zu 10 Prozent",
     "fr": "Prix (demande), si disponible and within 10 percent",
     "tr": "Alış (Teklif) Fiyatı, eğer yüzde 10 arasındaysa",
