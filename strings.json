@@ -2081,9 +2081,11 @@
   },
   "generic_sort_alphabetical": {
     "en": "Alphabetical"
+    "tr": "Alfabetik"
   },
   "generic_sort_manualSortOrder": {
     "en": "Manual Sort Order"
+    "tr": "Manuel Sıralama Düzeni"
   },
   "generic_subscribed": {
     "en": "Subscribed",
@@ -3357,6 +3359,7 @@
   },
   "portfolio_otherTransactionInfo": {
     "en": "Other Transaction Info"
+    "tr": "Diğer İşlem Bilgisi"
   },
   "portfolio_overview": {
     "en": "Overview",
