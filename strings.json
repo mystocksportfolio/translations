@@ -2080,11 +2080,11 @@
     "zh-Hant-TW": "排序"
   },
   "generic_sort_alphabetical": {
-    "en": "Alphabetical"
+    "en": "Alphabetical",
     "tr": "Alfabetik"
   },
   "generic_sort_manualSortOrder": {
-    "en": "Manual Sort Order"
+    "en": "Manual Sort Order",
     "tr": "Manuel Sıralama Düzeni"
   },
   "generic_subscribed": {
@@ -3358,7 +3358,7 @@
     "zh-Hant-TW": "未平倉／未賣出部位"
   },
   "portfolio_otherTransactionInfo": {
-    "en": "Other Transaction Info"
+    "en": "Other Transaction Info",
     "tr": "Diğer İşlem Bilgisi"
   },
   "portfolio_overview": {
