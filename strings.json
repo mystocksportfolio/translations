@@ -659,6 +659,18 @@
     "tr": "Fiyat Uyarısı",
     "zh-Hant-TW": "到價通知"
   },
+  "alert_validation_enterNumberLessThanPrice": {
+    "en": "Please enter a number less than the current price"
+  },
+  "alert_validation_enterNumberMoreThanPrice": {
+    "en": "Please enter a number greater than the current price"
+  },
+  "alert_validation_enterValidAmount": {
+    "en": "Please enter a valid amount"
+  },
+  "alert_validation_selectValidCondition": {
+    "en": "Please select a valid condition"
+  },
   "alert_viewExistingAlerts": {
     "en": "View existing alerts",
     "de": "Vorhandene Alarme ansehen",
