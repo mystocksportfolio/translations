@@ -5404,23 +5404,11 @@
     "tr": "Bu uygulamayı reklam destekli bir deneyim kullanarak ücretsiz olarak veya premium bir deneyime yükselterek reklamsız olarak kullanabilirsiniz. Hizmeti yürütme ve sürdürme maliyetlerini karşılamaya yardımcı olmak için reklamları kullanıyoruz.",
     "zh-Hant-TW": "您可以選擇使用這個應用程式，透過廣告支援的體驗免費使用，或升級到無廣告的高級體驗。我們使用廣告來幫助支付運行和維護服務的成本。"
   },
-  "userConsent_descriptionLine3": {
-    "_comment": "GDPR (EU) only",
-    "en": "Please choose your preferred experience:",
-    "tr": "Lütfen tercih ettiğiniz deneyimi seçin:",
-    "zh-Hant-TW": "請選擇您偏好的體驗方式："
-  },
   "userConsent_manage": {
     "_comment": "GDPR (EU) only",
     "en": "Manage Advertising Consent",
     "tr": "Reklam İznini Yönet",
     "zh-Hant-TW": "管理廣告同意"
-  },
-  "userConsent_pleaseConsentAdvertising": {
-    "_comment": "GDPR (EU) only",
-    "en": "Please consent to all advertising vendors",
-    "tr": "Lütfen tüm reklam sağlayıcılarına izin verin",
-    "zh-Hant-TW": "請同意所有廣告供應商"
   },
   "userConsent_adSupportedExperience": {
     "_comment": "GDPR (EU) only",
