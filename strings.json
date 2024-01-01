@@ -5394,9 +5394,7 @@
   },
   "userConsent_descriptionLine1": {
     "_comment": "GDPR (EU) only",
-    "en": "Due to data protection regulations, you must choose an option below.",
-    "tr": "Veri koruma düzenlemeleri nedeniyle aşağıdaki seçeneklerden birini seçmelisiniz.",
-    "zh-Hant-TW": "根據數據保護法規，您必須在下面選擇一個選項。"
+    "en": "Due to data protection regulations in your country, please choose your preferred app experience:"
   },
   "userConsent_descriptionLine2": {
     "_comment": "GDPR (EU) only",
@@ -5436,9 +5434,7 @@
   },
   "userConsent_customDescription": {
     "_comment": "GDPR (EU) only",
-    "en": "For a customized ad experience, please select the following at a minimum:",
-    "tr": "Özelleştirilmiş bir reklam deneyimi için lütfen en azından aşağıdakileri seçin:",
-    "zh-Hant-TW": "為了自訂的廣告體驗，請至少選擇以下項目："
+    "en": "Please either Consent to advertising or select the following options at a minimum:"
   },
   "userConsent_customLine1": {
     "_comment": "GDPR (EU) only",
@@ -5478,9 +5474,9 @@
   },
   "userConsent_customMissingOptions": {
     "_comment": "GDPR (EU) only",
-    "en": "Some required ad options were not selected. Please follow the instructions in the red text and try again.",
-    "tr": "Bazı gerekli reklam seçenekleri seçilmedi. Lütfen kırmızı metindeki talimatları izleyin ve tekrar deneyin.",
-    "zh-Hant-TW": "一些必要的廣告選項未被選取。請按照紅色文字中的說明進行操作，然後重試。"
+    "en": "Some required ad options were not selected. Please follow the instructions in the green text and try again.",
+    "tr": "Bazı gerekli reklam seçenekleri seçilmedi. Lütfen yeşil metindeki talimatları izleyin ve tekrar deneyin.",
+    "zh-Hant-TW": "一些必要的廣告選項未被選取。請按照綠色文字中的說明進行操作，然後重試。"
   },
   "viewQuoteStats_52WeekHigh": {
     "en": "52wk High",
