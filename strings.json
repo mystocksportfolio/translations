@@ -1859,6 +1859,11 @@
     "_translatable": false,
     "en": "%s %s"
   },
+  "generic_placeholderAndPlaceholderNoSpace": {
+    "_formatted": false,
+    "_translatable": false,
+    "en": "%s%s"
+  },
   "generic_placeholderInBrackets": {
     "_formatted": false,
     "en": "(%s)",
@@ -1872,6 +1877,13 @@
     "fr": "Veuillez accepter la Politique de confidentialité et les conditions d\\'utilisation avant de continuer",
     "tr": "Lütfen devam etmeden önce Gizlilik Politikası ve Kullanım Koşullarını kabul edin",
     "zh-Hant-TW": "若要繼續，請同意隱私權政策與使用規範"
+  },
+  "generic_premium": {
+    "de": "Premium",
+    "en": "Premium",
+    "fr": "Premium",
+    "tr": "Premium",
+    "zh-Hant-TW": "Premium"
   },
   "generic_preview": {
     "en": "Preview",
@@ -3134,6 +3146,9 @@
     "de": "Bericht erstellen",
     "tr": "Rapor Oluştur",
     "zh-Hant-TW": "產生報告"
+  },
+  "portfolio_generateReport_enterCustomSubtitleOptional": {
+    "en": "Enter custom subtitle (Optional)"
   },
   "portfolio_generateReport_errorGeneric": {
     "en": "Error while generating report. If the issue persists, please contact customer support.",
@@ -5080,13 +5095,6 @@
     "tr": "Hassasiyet",
     "zh-Hant-TW": "精度"
   },
-  "settings_premium": {
-    "de": "Premium",
-    "en": "Premium",
-    "fr": "Premium",
-    "tr": "Premium",
-    "zh-Hant-TW": "Premium"
-  },
   "settings_privacyPolicy": {
     "de": "Datenschutz",
     "en": "Privacy Policy",
@@ -5340,12 +5348,26 @@
     "tr": "Son Senkronizasyon: %s",
     "zh-Hant-TW": "最後同步: %s"
   },
-  "sync_lastChangeTimeFormatted": {
-    "_formatted": false,
-    "en": "Last Change: %s%s",
-    "de": "Letzte Veränderung: %s%s",
-    "tr": "Son değişiklik: %s%s",
-    "zh-Hant-TW": "最後變動: %s%s"
+  "sync_allocationTags": {
+    "en": "Allocation Tags"
+  },
+  "sync_autoSync": {
+    "en": "Auto Sync"
+  },
+  "sync_lastChange": {
+    "en": "Last Change",
+    "de": "Letzte Veränderung",
+    "tr": "Son değişiklik",
+    "zh-Hant-TW": "最後變動"
+  },
+  "sync_deleteLocalDataBeforeSync": {
+    "en": "Delete local data before syncing"
+  },
+  "sync_quotesAndPortfolioData": {
+    "en": "Quotes and Portfolio Data"
+  },
+  "sync_premiumAutoSync": {
+    "en": "Subscribe to premium to enable auto sync of portfolio data? This supports real time sync of data between multiple devices."
   },
   "sync_signInToBackupAndSynchronize": {
     "en": "Sign in to backup and synchronize Portfolio data between devices.",
@@ -5360,6 +5382,12 @@
     "fr": "Synchroniser avec le serveur",
     "tr": "Sunucu ile senkronize et",
     "zh-Hant-TW": "與伺服器同步"
+  },
+  "sync_warningLocalDataDeletedTitle": {
+    "en": "Warning: All local data will be deleted"
+  },
+  "sync_warningLocalDataDeletedMessage": {
+    "en": "Are you sure you want to delete all your local portfolio data before syncing? This should only be done if you want to start over using the data stored on the server to avoid duplicates."
   },
   "tab_more": {
     "en": "More",
