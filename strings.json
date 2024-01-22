@@ -5369,6 +5369,13 @@
   "sync_premiumAutoSync": {
     "en": "Subscribe to premium to enable auto sync of portfolio data? This supports real time sync of data between multiple devices."
   },
+  "sync_restoreDataHelp": {
+    "en": "If you wish to restore portfolio data that has been deleted from the server, click here to manage your account."
+  },
+  "sync_restoreDataHelpLink": {
+    "_comment": "Substring of sync_restoreDataHelp that contains a clickable link",
+    "en": "click here"
+  },
   "sync_signInToBackupAndSynchronize": {
     "en": "Sign in to backup and synchronize Portfolio data between devices.",
     "de": "Melden Sie sich an, um Portfolio-Daten zu sichern und zwischen Geräten zu synchronisieren.",
