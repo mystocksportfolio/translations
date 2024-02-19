@@ -659,6 +659,18 @@
     "tr": "Fiyat Uyarısı",
     "zh-Hant-TW": "到價通知"
   },
+  "alert_validation_enterNumberLessThanPrice": {
+    "en": "Please enter a number less than the current price"
+  },
+  "alert_validation_enterNumberMoreThanPrice": {
+    "en": "Please enter a number greater than the current price"
+  },
+  "alert_validation_enterValidAmount": {
+    "en": "Please enter a valid amount"
+  },
+  "alert_validation_selectValidCondition": {
+    "en": "Please select a valid condition"
+  },
   "alert_viewExistingAlerts": {
     "en": "View existing alerts",
     "de": "Vorhandene Alarme ansehen",
@@ -1847,6 +1859,11 @@
     "_translatable": false,
     "en": "%s %s"
   },
+  "generic_placeholderAndPlaceholderNoSpace": {
+    "_formatted": false,
+    "_translatable": false,
+    "en": "%s%s"
+  },
   "generic_placeholderInBrackets": {
     "_formatted": false,
     "en": "(%s)",
@@ -1860,6 +1877,13 @@
     "fr": "Veuillez accepter la Politique de confidentialité et les conditions d\\'utilisation avant de continuer",
     "tr": "Lütfen devam etmeden önce Gizlilik Politikası ve Kullanım Koşullarını kabul edin",
     "zh-Hant-TW": "若要繼續，請同意隱私權政策與使用規範"
+  },
+  "generic_premium": {
+    "de": "Premium",
+    "en": "Premium",
+    "fr": "Premium",
+    "tr": "Premium",
+    "zh-Hant-TW": "Premium"
   },
   "generic_preview": {
     "en": "Preview",
@@ -3122,6 +3146,9 @@
     "de": "Bericht erstellen",
     "tr": "Rapor Oluştur",
     "zh-Hant-TW": "產生報告"
+  },
+  "portfolio_generateReport_enterCustomSubtitleOptional": {
+    "en": "Enter custom subtitle (Optional)"
   },
   "portfolio_generateReport_errorGeneric": {
     "en": "Error while generating report. If the issue persists, please contact customer support.",
@@ -5068,13 +5095,6 @@
     "tr": "Hassasiyet",
     "zh-Hant-TW": "精度"
   },
-  "settings_premium": {
-    "de": "Premium",
-    "en": "Premium",
-    "fr": "Premium",
-    "tr": "Premium",
-    "zh-Hant-TW": "Premium"
-  },
   "settings_privacyPolicy": {
     "de": "Datenschutz",
     "en": "Privacy Policy",
@@ -5328,12 +5348,33 @@
     "tr": "Son Senkronizasyon: %s",
     "zh-Hant-TW": "最後同步: %s"
   },
-  "sync_lastChangeTimeFormatted": {
-    "_formatted": false,
-    "en": "Last Change: %s%s",
-    "de": "Letzte Veränderung: %s%s",
-    "tr": "Son değişiklik: %s%s",
-    "zh-Hant-TW": "最後變動: %s%s"
+  "sync_allocationTags": {
+    "en": "Allocation Tags"
+  },
+  "sync_autoSync": {
+    "en": "Auto Sync"
+  },
+  "sync_lastChange": {
+    "en": "Last Change",
+    "de": "Letzte Veränderung",
+    "tr": "Son değişiklik",
+    "zh-Hant-TW": "最後變動"
+  },
+  "sync_deleteLocalDataBeforeSync": {
+    "en": "Delete local data before syncing"
+  },
+  "sync_quotesAndPortfolioData": {
+    "en": "Quotes and Portfolio Data"
+  },
+  "sync_premiumAutoSync": {
+    "en": "Subscribe to premium to enable auto sync of portfolio data? This supports real time sync of data between multiple devices."
+  },
+  "sync_restoreDataHelp": {
+    "en": "If you wish to restore portfolio data that has been deleted from the server, click here to manage your account."
+  },
+  "sync_restoreDataHelpLink": {
+    "_comment": "Substring of sync_restoreDataHelp that contains a clickable link",
+    "en": "click here"
   },
   "sync_signInToBackupAndSynchronize": {
     "en": "Sign in to backup and synchronize Portfolio data between devices.",
@@ -5348,6 +5389,12 @@
     "fr": "Synchroniser avec le serveur",
     "tr": "Sunucu ile senkronize et",
     "zh-Hant-TW": "與伺服器同步"
+  },
+  "sync_warningLocalDataDeletedTitle": {
+    "en": "Warning: All local data will be deleted"
+  },
+  "sync_warningLocalDataDeletedMessage": {
+    "en": "Are you sure you want to delete all your local portfolio data before syncing? This should only be done if you want to start over using the data stored on the server to avoid duplicates."
   },
   "tab_more": {
     "en": "More",
@@ -5382,9 +5429,7 @@
   },
   "userConsent_descriptionLine1": {
     "_comment": "GDPR (EU) only",
-    "en": "Due to data protection regulations, you must choose an option below.",
-    "tr": "Veri koruma düzenlemeleri nedeniyle aşağıdaki seçeneklerden birini seçmelisiniz.",
-    "zh-Hant-TW": "根據數據保護法規，您必須在下面選擇一個選項。"
+    "en": "Due to data protection regulations in your country, please choose your preferred app experience:"
   },
   "userConsent_descriptionLine2": {
     "_comment": "GDPR (EU) only",
@@ -5392,23 +5437,11 @@
     "tr": "Bu uygulamayı reklam destekli bir deneyim kullanarak ücretsiz olarak veya premium bir deneyime yükselterek reklamsız olarak kullanabilirsiniz. Hizmeti yürütme ve sürdürme maliyetlerini karşılamaya yardımcı olmak için reklamları kullanıyoruz.",
     "zh-Hant-TW": "您可以選擇使用這個應用程式，透過廣告支援的體驗免費使用，或升級到無廣告的高級體驗。我們使用廣告來幫助支付運行和維護服務的成本。"
   },
-  "userConsent_descriptionLine3": {
-    "_comment": "GDPR (EU) only",
-    "en": "Please choose your preferred experience:",
-    "tr": "Lütfen tercih ettiğiniz deneyimi seçin:",
-    "zh-Hant-TW": "請選擇您偏好的體驗方式："
-  },
   "userConsent_manage": {
     "_comment": "GDPR (EU) only",
     "en": "Manage Advertising Consent",
     "tr": "Reklam İznini Yönet",
     "zh-Hant-TW": "管理廣告同意"
-  },
-  "userConsent_pleaseConsentAdvertising": {
-    "_comment": "GDPR (EU) only",
-    "en": "Please consent to all advertising vendors",
-    "tr": "Lütfen tüm reklam sağlayıcılarına izin verin",
-    "zh-Hant-TW": "請同意所有廣告供應商"
   },
   "userConsent_adSupportedExperience": {
     "_comment": "GDPR (EU) only",
@@ -5436,9 +5469,7 @@
   },
   "userConsent_customDescription": {
     "_comment": "GDPR (EU) only",
-    "en": "For a customized ad experience, please select the following at a minimum:",
-    "tr": "Özelleştirilmiş bir reklam deneyimi için lütfen en azından aşağıdakileri seçin:",
-    "zh-Hant-TW": "為了自訂的廣告體驗，請至少選擇以下項目："
+    "en": "Please either Consent to advertising or select the following options at a minimum:"
   },
   "userConsent_customLine1": {
     "_comment": "GDPR (EU) only",
@@ -5478,9 +5509,9 @@
   },
   "userConsent_customMissingOptions": {
     "_comment": "GDPR (EU) only",
-    "en": "Some required ad options were not selected. Please follow the instructions in the red text and try again.",
-    "tr": "Bazı gerekli reklam seçenekleri seçilmedi. Lütfen kırmızı metindeki talimatları izleyin ve tekrar deneyin.",
-    "zh-Hant-TW": "一些必要的廣告選項未被選取。請按照紅色文字中的說明進行操作，然後重試。"
+    "en": "Some required ad options were not selected. Please follow the instructions in the green text and try again.",
+    "tr": "Bazı gerekli reklam seçenekleri seçilmedi. Lütfen yeşil metindeki talimatları izleyin ve tekrar deneyin.",
+    "zh-Hant-TW": "一些必要的廣告選項未被選取。請按照綠色文字中的說明進行操作，然後重試。"
   },
   "viewQuoteStats_52WeekHigh": {
     "en": "52wk High",
