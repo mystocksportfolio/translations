@@ -5350,11 +5350,9 @@
   },
   "sync_allocationTags": {
     "en": "Allocation Tags"
-    "tr": "Verilen Etiketler"
   },
   "sync_autoSync": {
     "en": "Auto Sync"
-    "tr": "Otomatik Senkronizasyon"
   },
   "sync_lastChange": {
     "en": "Last Change",
@@ -5364,24 +5362,19 @@
   },
   "sync_deleteLocalDataBeforeSync": {
     "en": "Delete local data before syncing"
-    "tr": "Senkronizasyondan önce yerel verileri sil"
   },
   "sync_quotesAndPortfolioData": {
     "en": "Quotes and Portfolio Data"
-    "tr": "Öneriler ve Portföy Verileri"
   },
   "sync_premiumAutoSync": {
     "en": "Subscribe to premium to enable auto sync of portfolio data? This supports real time sync of data between multiple devices."
-    "tr": "Portföy verilerinin otomatik senkronizasyonunu etkinleştirmek için premium'a abone olun? Bu, birden fazla cihaz arasında verilerin gerçek zamanlı senkronizasyonunu destekler."
   },
   "sync_restoreDataHelp": {
     "en": "If you wish to restore portfolio data that has been deleted from the server, click here to manage your account."
-    "tr": "Sunucudan silinen portföy verilerini geri yüklemek isterseniz, buraya tıklayarak hesabınızı yönetebilirsiniz."
   },
   "sync_restoreDataHelpLink": {
     "_comment": "Substring of sync_restoreDataHelp that contains a clickable link",
     "en": "click here"
-    "tr": "Buraya tıkla"
   },
   "sync_signInToBackupAndSynchronize": {
     "en": "Sign in to backup and synchronize Portfolio data between devices.",
@@ -5399,11 +5392,9 @@
   },
   "sync_warningLocalDataDeletedTitle": {
     "en": "Warning: All local data will be deleted"
-    "tr": "Uyarı: Tüm yerel veriler silinecektir"
   },
   "sync_warningLocalDataDeletedMessage": {
     "en": "Are you sure you want to delete all your local portfolio data before syncing? This should only be done if you want to start over using the data stored on the server to avoid duplicates."
-    "tr": "Senkronizasyondan önce tüm yerel portföy verilerinizi silmek istediğinizden emin misiniz? Bu, yalnızca yinelemeleri önlemek için sunucuda depolanan verileri kullanarak baştan başlamak amacıyla yapılmalıdır."
   },
   "tab_more": {
     "en": "More",
@@ -5439,7 +5430,6 @@
   "userConsent_descriptionLine1": {
     "_comment": "GDPR (EU) only",
     "en": "Due to data protection regulations in your country, please choose your preferred app experience:"
-    "tr": "Ülkenizdeki veri koruma düzenlemeleri kapsamında lütfen tercih ettiğiniz uygulama deneyimini seçin:"
   },
   "userConsent_descriptionLine2": {
     "_comment": "GDPR (EU) only",
