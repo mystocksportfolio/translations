@@ -5372,7 +5372,7 @@
   },
   "sync_premiumAutoSync": {
     "en": "Subscribe to premium to enable auto sync of portfolio data? This supports real time sync of data between multiple devices.",
-    "tr": "Portföy verilerinin otomatik senkronizasyonunu etkinleştirmek için premium'a abone olun? Bu, birden fazla cihaz arasında verilerin gerçek zamanlı senkronizasyonunu destekler."
+    "tr": "Portföy verilerinin otomatik senkronizasyonunu etkinleştirmek için premium\\'a abone olun? Bu, birden fazla cihaz arasında verilerin gerçek zamanlı senkronizasyonunu destekler."
   },
   "sync_restoreDataHelp": {
     "en": "If you wish to restore portfolio data that has been deleted from the server, click here to manage your account.",
