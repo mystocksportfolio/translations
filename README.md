@@ -10,7 +10,7 @@ Progress (947 strings):
 
 ![Progress](https://progress-bar.dev/100?title=en&width=120) 949/947 - English
 
-![Progress](https://progress-bar.dev/89?title=de&width=120) 846/947 - German
+![Progress](https://progress-bar.dev/99?title=de&width=120) 938/947 - German
 
 ![Progress](https://progress-bar.dev/99?title=tr&width=120) 937/947 - Turkish
 

@@ -296,6 +296,7 @@
   },
   "addQuoteTransaction_depositCashToPortfolioFromInterests": {
     "en": "Deposit cash to portfolio from interests",
+    "de": "Einzahlung von Bargeld in den Zinsbestand",
     "tr": "Faizlerden portföye yatan nakit",
     "zh-Hant-TW": "利息入金至投資組合"
   },
@@ -571,26 +572,31 @@
   },
   "alert_enableAnnouncementPushNotifications": {
     "en": "Enable push notifications for important announcements",
+    "de": "Push-Benachrichtigungen für wichtige Mitteilungen aktivieren",
     "tr": "Önemli duyurular için anlık bildirimleri etkinleştirin",
     "zh-Hant-TW": "允許重要的公告推播通知"
   },
   "alert_enableAnnouncementPushNotificationsTitle": {
     "en": "Announcements",
+    "de": "Mitteilungen",
     "tr": "Duyurular",
     "zh-Hant-TW": "公告"
   },
   "alert_enableQuotePricePushNotifications": {
     "en": "Enable push notifications for quote prices",
+    "de": "Push-Benachrichtigungen für Kurse aktivieren",
     "tr": "Fiyat önerileri için anlık bildirimleri etkinleştirin",
     "zh-Hant-TW": "允許報價推播通知"
   },
   "alert_enableQuotePricePushNotificationsGreaterThanTitle": {
     "en": "Price Greater Than",
+    "de": "Preis größer als",
     "tr": "Daha Yüksek Fiyat",
     "zh-Hant-TW": "價格高於"
   },
   "alert_enableQuotePricePushNotificationsLessThanTitle": {
     "en": "Price Less Than",
+    "de": "Preis weniger als",
     "tr": "Daha Düşük Fiyat",
     "zh-Hant-TW": "價格低於"
   },
@@ -608,11 +614,13 @@
   },
   "alert_testNotificationReceived": {
     "en": "Test notification received",
+    "de": "Testbenachrichtigung erhalten",
     "tr": "Test bildirimi alındı",
     "zh-Hant-TW": "已收到測試推播通知"
   },
   "alert_testNotificationReceivedContent": {
     "en": "Your phone can receive notifications successfully!",
+    "de": "Ihr Telefon kann erfolgreich Benachrichtigungen empfangen!",
     "tr": "Telefonunuz bildirimleri başarıyla alabilir!",
     "zh-Hant-TW": "您的裝置已可成功接收通知"
   },
@@ -630,26 +638,31 @@
   },
   "alert_calculatingPortfolioValue": {
     "en": "Calculating Portfolio Value",
+    "de": "Berechnung des Portfoliowertes",
     "tr": "Portföy Değeriniz Hesaplanıyor",
     "zh-Hant-TW": "計算投資組合市值"
   },
   "alert_portfolioChangeTitle": {
     "en": "Daily Portfolio Summary",
+    "de": "Tägliche Portfoliozusammenfassung",
     "tr": "Günlük Portföy Özeti",
     "zh-Hant-TW": "每日投資組合簡報"
   },
   "alert_portfolioChangeValueDrop": {
     "en": "Your portfolio value dropped today",
+    "de": "Ihr Portfoliowert ist heute gesunken",
     "tr": "Portföy değeriniz bugün düştü",
     "zh-Hant-TW": "您的投資組合市值今日減少"
   },
   "alert_portfolioChangeValueRise": {
     "en": "Your portfolio value grew today",
+    "de": "Ihr Portfoliowert ist heute gestiegen",
     "tr": "Portföy değeriniz bugün arttı",
     "zh-Hant-TW": "您的投資組合市值今日成長"
   },
   "alert_portfolioChangeRefreshingDescription": {
     "en": "Show a refreshing icon when calculating end of day portfolio values",
+    "de": "Zeige das Aktualisierungssymbols bei der Berechnung der Portfoliowerte zum Tagesende",
     "tr": "Gün sonu portföy değerleri hesaplanırken bir yenileme simgesi gösterin",
     "zh-Hant-TW": "顯示重新整理小圖示每當結算每日投資組合市值"
   },
@@ -660,16 +673,20 @@
     "zh-Hant-TW": "到價通知"
   },
   "alert_validation_enterNumberLessThanPrice": {
-    "en": "Please enter a number less than the current price"
+    "en": "Please enter a number less than the current price",
+    "de": "Bitte geben Sie eine Zahl ein, die kleiner als der aktuelle Kurs ist"
   },
   "alert_validation_enterNumberMoreThanPrice": {
-    "en": "Please enter a number greater than the current price"
+    "en": "Please enter a number greater than the current price",
+    "de": "Bitte geben Sie eine Zahl ein, die größer als der aktuelle Kurs ist"
   },
   "alert_validation_enterValidAmount": {
-    "en": "Please enter a valid amount"
+    "en": "Please enter a valid amount",
+    "de": "Bitte geben Sie einen gültigen Betrag ein"
   },
   "alert_validation_selectValidCondition": {
-    "en": "Please select a valid condition"
+    "en": "Please select a valid condition",
+    "de": "Bitte wählen Sie eine gültige Bedingung"
   },
   "alert_viewExistingAlerts": {
     "en": "View existing alerts",
@@ -679,11 +696,13 @@
   },
   "alert_widgetRefreshingDescription": {
     "en": "Show a refreshing icon when the widget is refreshing",
+    "de": "Zeige ein Aktualisierungssymbol an, wenn das Widget aktualisiert wird",
     "tr": "Widget yenilenirken yenileniyor simgesini göster",
     "zh-Hant-TW": "顯示一個小圖示當小工具正在重新整理中"
   },
   "alert_widgetRefreshingTitle": {
     "en": "Widget Refreshing",
+    "de": "Widget-Aktualisierung",
     "tr": "Wifget Yenileniyor",
     "zh-Hant-TW": "小工具重新整理中"
   },
@@ -696,6 +715,7 @@
   },
   "chart_enableVolumeColors": {
     "en": "Volume: Enable Colors",
+    "de": "Volumen: Farben anzeigen",
     "fr": "Volume : Activer les couleurs",
     "tr": "Hacim: Renkleri Etkinleştir",
     "zh-Hant-TW": "量：顏色"
@@ -805,6 +825,7 @@
   },
   "chart_rangeMonthToDateCompact": {
     "en": "MTD",
+    "de": "MTD",
     "tr": "MTD",
     "zh-Hant-TW": "本月"
   },
@@ -1329,7 +1350,8 @@
     "zh-Hant-TW": "聯繫我們"
   },
   "generic_contentsOfReport": {
-    "en": "Contents of Report"
+    "en": "Contents of Report",
+    "de": "Inhalt des Berichts"
   },
   "generic_continue": {
     "en": "Continue",
@@ -1365,21 +1387,25 @@
   },
   "generic_deleteAccount": {
     "en": "Delete Account",
+    "de": "Konto löschen",
     "tr": "Hesabı Sil",
     "zh-Hant-TW": "刪除帳戶"
   },
   "generic_deleteAccountData": {
     "en": "Delete Account Data",
+    "de": "Kontodaten löschen",
     "tr": "Hesap Verisini Sil",
     "zh-Hant-TW": "刪除帳戶資料"
   },
   "generic_deleteAccountDataConfirm": {
     "en": "Are you sure you want to delete your account data? There is no way to undo this operation.",
+    "de": "Sind Sie sicher, dass Sie Ihre Kontodaten löschen wollen? Dieser Vorgang kann nicht rückgängig gemacht werden.",
     "tr": "Hesap Verisini silmek istediğinize emin misiniz? Bu işlemi geri almanın bir yolu yoktur.",
     "zh-Hant-TW": "您確定要刪除帳戶資料嗎？此動作無法復原。"
   },
   "generic_deletingAccount": {
     "en": "Deleting Account",
+    "de": "Löschung des Kontos",
     "tr": "Hesap verisini sil zaten devam ediyor",
     "zh-Hant-TW": "正在刪除帳戶"
   },
@@ -1489,6 +1515,7 @@
   },
   "generic_errorImageAccessibility": {
     "en": "Error Image",
+    "de": "Fehlerbild",
     "fr": "Image d\\'erreur",
     "tr": "Hata Görüntüsü",
     "zh-Hant-TW": "影像錯誤"
@@ -1500,10 +1527,12 @@
     "zh-Hant-TW": "擷取失敗。請稍後再試。"
   },
   "generic_errorRunningAppFromExternalStorage": {
-    "en": "It looks like you\\'re running the app from your SDCard / external storage. This may cause issues with graphics not loading, widgets not functioning, authentication failing, etc. Please move the app back to internal storage if you experience issues."
+    "en": "It looks like you\\'re running the app from your SDCard / external storage. This may cause issues with graphics not loading, widgets not functioning, authentication failing, etc. Please move the app back to internal storage if you experience issues.",
+    "de": "Es sieht so aus, als ob Sie die App von Ihrer SDCard/externem Speicher ausführen. Dies kann zu Problemen mit nicht geladenen Grafiken, nicht funktionierenden Widgets, fehlgeschlagener Authentifizierung usw. führen. Bitte verschieben Sie die App zurück auf den internen Speicher, wenn Sie Probleme haben."
   },
   "generic_errorWhileRestoring": {
     "en": "Error while restoring",
+    "de": "Fehler beim Wiederherstellen",
     "tr": "Geri yükleme sırasında hata oluştu",
     "zh-Hant-TW": "復原過程中發生錯誤"
   },
@@ -2007,16 +2036,19 @@
   },
   "generic_sendTestNotification": {
     "en": "Send Test Notification",
+    "de": "Testbenachrichtigung senden",
     "tr": "Test Bildirimi Gönder",
     "zh-Hant-TW": "發送測試推播通知"
   },
   "generic_sendTestNotificationHelp": {
     "en": "Tap to send a test notification from our servers to check whether your phone is set up to receive notifications",
+    "de": "Tippen um eine Testbenachrichtigung von unseren Servern zu senden, um zu prüfen, ob Ihr Telefon für den Empfang von Benachrichtigungen entsprechend konfiguriert ist.",
     "tr": "Telefonunuzun bildirim almaya ayarlı olup olmadığını kontrol etmek için sunucularımızdan bir test bildirimi göndermek üzere dokunun",
     "zh-Hant-TW": "按下發送測試推播來檢查是否您的裝置已可正確收到來自我們伺服器的通知"
   },
   "generic_serverError": {
     "en": "Server error. Please try again later or contact customer support.",
+    "de": "Server-Fehler. Bitte versuchen Sie es später noch einmal oder wenden Sie sich an den Kundensupport.",
     "tr": "Sunucu hatası. Lütfen daha sonra tekrar deneyin veya müşteri desteğiyle iletişime geçin.",
     "zh-Hant-TW": "伺服器錯誤。請稍後重試或聯絡顧客支援。"
   },
@@ -2060,11 +2092,13 @@
   },
   "generic_signInSignOut": {
     "en": "Sign in / Sign out",
+    "de": "Einloggen / Ausloggen",
     "tr": "Oturum aç / Oturumu kapat",
     "zh-Hant-TW": "登入／登出"
   },
   "generic_signOut": {
     "en": "Sign Out",
+    "de": "Ausloggen",
     "fr": "Déconnexion",
     "tr": "Oturumu Kapat",
     "zh": "登出",
@@ -2105,10 +2139,12 @@
   },
   "generic_sort_alphabetical": {
     "en": "Alphabetical",
+    "de": "Alphabetisch",
     "tr": "Alfabetik"
   },
   "generic_sort_manualSortOrder": {
     "en": "Manual Sort Order",
+    "de": "Manuelle Sortierung",
     "tr": "Manuel Sıralama Düzeni"
   },
   "generic_subscribed": {
@@ -2290,21 +2326,25 @@
   },
   "generic_yourAccountData": {
     "en": "Your Account Data",
+    "de": "Ihre Kontodaten",
     "tr": "Hesap Verileriniz",
     "zh-Hant-TW": "您的帳戶資料"
   },
   "generic_yourAccountDataStoredNA": {
     "en": "Your account data is kept encrypted, anonymized, and stored on our private servers in North America.",
+    "de": "Ihre Kontodaten werden verschlüsselt, anonymisiert und auf unseren privaten Servern in Nordamerika gespeichert.",
     "tr": "Hesap verileriniz şifrelenir, anonim hale getirilir ve Kuzey Amerika\\'daki özel sunucularımızda saklanır.",
     "zh-Hant-TW": "您的帳戶資料會被匿名加密存放在我們北美的伺服器中"
   },
   "generic_yourAccountData_deleteDataMobile": {
     "en": "You may request to delete your account and/or data. Your data includes all data stored on our servers such as portfolio data you uploaded to our servers (see the server sync page). It doesn\\'t include data on your mobile device. To delete data on your mobile device, you can uninstall the app.",
+    "de": "Sie können eine Löschung Ihres Kontos und/oder Ihrer Daten beantragen. Ihre Daten umfassen alle auf unseren Servern gespeicherten Daten, wie z. B. Portfoliodaten, die Sie auf unsere Server hochgeladen haben (siehe die Seite zur Serversynkronisation). Dazu gehören nicht die Daten auf Ihrem Mobilgerät. Um die Daten auf Ihrem Mobilgerät zu löschen, deinstallieren Sie die App.",
     "tr": "Hesabınızı ve/veya verilerinizi silmeyi talep edebilirsiniz. Verileriniz, sunucularımıza yüklediğiniz portföy verileri gibi sunucularımızda depolanan tüm verileri içerir (sunucu senkronizasyonu sayfasına bakın). Mobil cihazınızdaki verileri içermez. Mobil cihazınızdaki verileri silmek için uygulamayı kaldırabilirsiniz.",
     "zh-Hant-TW": "您要求刪除的帳戶或資料，包含所有伺服器上的資料像是您上傳的投資組合（參見伺服器同步頁面），並不包含您本機裝置上的資料。若要刪除本機資料請移除應用程式。"
   },
   "generic_yourAccountData_deleteDataWarning": {
     "en": "If you delete your account or data, they will be permanently deleted and we cannot undelete it. To make a backup of your data, please visit the mobile application\\'s settings, export page.",
+    "de": "Wenn Sie die Löschung des Kontos oder der Daten beantragen, sind alle Vorgänge unwiderruflich. Um eine Sicherungskopie Ihrer Daten zu erstellen, besuchen Sie bitte die Seite „Einstellungen, Export“ dieser Anwendung.",
     "tr": "Hesabınızı veya verilerinizi silerseniz, bunlar kalıcı olarak silinir ve geri alamayız. Verilerinizin yedeğini almak için lütfen mobil uygulamanın ayarlar, dışa aktarma sayfasını ziyaret edin.",
     "zh-Hant-TW": "若您要求刪除的帳戶或資料，所有操作皆不可復原。若要製作備份，請參訪「設定 -> 匯出頁面」。"
   },
@@ -2680,6 +2720,7 @@
   },
   "portfolioAllocations_groupInOthers": {
     "en": "Group holding in \\'Others\\' when less than % of total",
+    "de": "Konzernbeteiligung an \\'Anderen\\', wenn weniger als % des Gesamtbetrags",
     "fr": "Grouper les position sous \\'Autres\\' quand ils représentent moins que % du total",
     "tr": "Toplamın %\\'sinden az ise varlıkların \\'Diğerleri\\ grubundaki payı",
     "zh-Hant-TW": "低於此百分比的持股將會歸類到\\'其他\\'"
@@ -2725,6 +2766,7 @@
   "portfolio_allocation_categoryTagsForSymbol": {
     "_formatted": false,
     "en": "Category Tags for %s",
+    "de": "Kategorie-Schlagwörter für %s",
     "tr": "%s için Kategori Etiketleri",
     "zh-Hant-TW": "%s 的群組標籤"
   },
@@ -2841,6 +2883,7 @@
   },
   "portfolio_ceo": {
     "en": "CEO",
+    "de": "CEO",
     "tr": "CEO",
     "zh-Hant-TW": "執行長"
   },
@@ -3103,6 +3146,7 @@
   },
   "portfolio_error_quoteCurrencyNotDetected": {
     "en": "Currency for quote could not be detected",
+    "de": "Die Währung für den Kurs konnte nicht erkannt werden",
     "tr": "Öneri için para birimi tespit edilemedi"
   },
   "portfolio_excludedFromTotals": {
@@ -3148,7 +3192,8 @@
     "zh-Hant-TW": "產生報告"
   },
   "portfolio_generateReport_enterCustomSubtitleOptional": {
-    "en": "Enter custom subtitle (Optional)"
+    "en": "Enter custom subtitle (Optional)",
+    "de": "Benutzerdefinierten Untertitel eingeben (optional)"
   },
   "portfolio_generateReport_errorGeneric": {
     "en": "Error while generating report. If the issue persists, please contact customer support.",
@@ -3246,6 +3291,7 @@
   },
   "portfolio_interests": {
     "en": "Interests",
+    "de": "Interessengebiete",
     "tr": "İlgi Alanları",
     "zh-Hant-TW": "利息"
   },
@@ -3331,7 +3377,8 @@
     "zh-Hant-TW": "點擊選單中新增按鈕，新增投資組合或觀察清單"
   },
   "portfolio_noProfileInformationForQuote": {
-    "en": "No profile information for this quote"
+    "en": "No profile information for this quote",
+    "de": "Keine Profilinformationen für dieses Angebot"
   },
   "portfolio_noQuotesHelp": {
     "en": "Add a new quote by tapping the Add button in the menu or by tapping here.",
@@ -3386,6 +3433,7 @@
   },
   "portfolio_otherTransactionInfo": {
     "en": "Other Transaction Info",
+    "de": "Sonstige Transaktionsinformationen",
     "tr": "Diğer İşlem Bilgisi"
   },
   "portfolio_overview": {
@@ -3566,6 +3614,7 @@
   },
   "portfolio_splitRatio": {
     "en": "Split Ratio",
+    "de": "Splitverhältnis",
     "tr": "Bölünme Oranı"
   },
   "portfolio_previewCSV": {
@@ -3878,11 +3927,13 @@
   },
   "portfolio_sortOrderMenus": {
     "en": "Portfolios sort order in menus",
+    "de": "Sortierung der Portfolios in den Menüs",
     "tr": "Portföylerin menülerdeki sıralama düzeni",
     "zh-Hant-TW": "選單中的投資組合排序順序"
   },
   "portfolio_sortOrderMenusHelp": {
     "en": "Sorting used for portfolios in the side drawer and portfolio view drop-down box",
+    "de": "Sortierung für Portfolios im Seiten-Menü und Dropdown-Menü der Portfolioansicht",
     "tr": "Yan çekmecede ve portföy görünümü açılır kutusunda portföyler için kullanılan sıralama",
     "zh-Hant-TW": "用於側邊中的投資組合和投資組合檢視下拉方塊的排序方式"
   },
@@ -3907,6 +3958,7 @@
   },
   "portfolio_syncBrokerage": {
     "en": "Sync Brokerage",
+    "de": "Handel-Synchronisierung",
     "fr": "Synchronisation du courtage",
     "tr": "Aracı kurum senkronizasyonu",
     "zh-Hant-TW": "同步券商"
@@ -3914,7 +3966,8 @@
   "portfolio_thisIsCurrencyCashPosition": {
     "_comment": "Example: This is a USD cash position",
     "_formatted": false,
-    "en": "This is a %s cash position"
+    "en": "This is a %s cash position",
+    "de": "Dies ist ein %s Bargeldbestand"
   },
   "portfolio_ticker": {
     "de": "Bezeichnung",
@@ -4821,21 +4874,25 @@
   },
   "settingsWidget_extendedHours": {
     "en": "Extended hours (Premium)",
+    "de": "Ausserbörslich (Premium)",
     "tr": "Uzatılmış saatler (Premium)",
     "zh-Hant-TW": "盤後（Premium）"
   },
   "settingsWidget_extendedHoursHelp": {
     "en": "Show extended hours on portfolio\\'s quotes tab (Premium subscription required)",
+    "de": "Ausserbörslichen Handel auf der Angebotsregisterkarte der Portfolio\\'s anzeigen (Premium-Abonnement erforderlich)",
     "tr": "Portföy\\'ün fiyat teklifleri sekmesinde uzatılmış saatleri gösterin (Premium abonelik gereklidir)",
     "zh-Hant-TW": "投資組合顯示盤後報價（需要 Premium）"
   },
   "settingsWidget_extendedHoursIndicator": {
     "en": "Show indicator for extended hours",
+    "de": "Anzeige für ausserbörslichen Handel",
     "tr": "Uzatılmış saatler için indikatör göster",
     "zh-Hant-TW": "顯示指標在盤後時間"
   },
   "settingsWidget_extendedHoursIndicatorHelp": {
     "en": "(For single line mode) Show an \\'ext\\' label for extended prices when extended hours are enabled",
+    "de": "(Für Einzelzeilenmodus) Zeigen Sie ein \\'ext\\' Label für ausserbörsliche Kurse an, wenn ausserbörslich aktiviert ist.",
     "tr": "(Tek satır modu için) Uzatılmış saatler etkinleştirildiğinde uzatılmış fiyatlar için bir \\'ext\\' etiketi göster",
     "zh-Hant-TW": "（單行模式）顯示 \\'ext\\' 標籤當盤後時間已開啟"
   },
@@ -5042,36 +5099,43 @@
   },
   "settings_notifications": {
     "en": "Notifications",
+    "de": "Benachrichtigungen",
     "tr": "Bildirimler",
     "zh-Hant-TW": "通知"
   },
   "settings_notifications_eodPortfolioSummary": {
     "en": "End of Day Portfolio Summary",
+    "de": "Portfolio-Zusammenfassung zum Tagesende",
     "tr": "Gün Sonu Portföy Özeti",
     "zh-Hant-TW": "每日投資組合簡報"
   },
   "settings_notifications_eodPortfolioSummaryEnabled": {
     "en": "Enable End of Day Portfolio Summary",
+    "de": "Aktivieren der Portfolio-Zusammenfassung zum Tagesende",
     "tr": "Gün Sonu Portföy Özetini Etkinleştir",
     "zh-Hant-TW": "啟用每日投資組合簡報"
   },
   "settings_notifications_eodPortfolioSummaryEnabledHelp": {
     "en": "If you don\\'t see an end of day push notification summarizing your portfolio changes, check https://dontkillmyapp.com for troubleshooting",
+    "de": "Wenn Sie am Ende des Tages keine Push-Benachrichtigung sehen, die Ihre Portfolioänderungen zusammenfasst, testen Sie zur Fehlerbehebung https://dontkillmyapp.com.",
     "tr": "Portföy değişikliklerinizi özetleyen bir gün sonu anlık bildirimi görmüyorsanız, sorun giderme için https://dontkillmyapp.com adresini kontrol edin",
     "zh-Hant-TW": "若您未收到每日簡報，請至 https://dontkillmyapp.com 疑難排解"
   },
   "settings_notifications_eodPortfolioSummaryTime": {
     "en": "Approximate time to send summary",
+    "de": "Ungefähre Dauer für Sendung der Zusammenfassung",
     "tr": "Özet göndermek için yaklaşık süre",
     "zh-Hant-TW": "發送每日簡報的大約時間"
   },
   "settings_notifications_eodPortfolioSummaryIncludeValue": {
     "en": "Include portfolio value",
+    "de": "Einschließlich Portfoliowert",
     "tr": "Portföy değerini dahil edin",
     "zh-Hant-TW": "包含投資組合市值"
   },
   "settings_notifications_eodPortfolioSummaryIncludeValueHelp": {
     "en": "Your portfolio value will be shown in the notification summary",
+    "de": "Ihr Portfoliowert wird in der Benachrichtigungsübersicht angezeigt",
     "tr": "Portföy değeriniz bildirim özetinde gösterilecektir",
     "zh-Hant-TW": "您投資組合市值會被顯示在簡報通知中"
   },
@@ -5350,10 +5414,12 @@
   },
   "sync_allocationTags": {
     "en": "Allocation Tags",
+    "de": "Zuordnung der Schlagwörter",
     "tr": "Verilen Etiketler"
   },
   "sync_autoSync": {
     "en": "Auto Sync",
+    "de": "Auto-Synchronisation",
     "tr": "Otomatik Senkronizasyon"
   },
   "sync_lastChange": {
@@ -5364,23 +5430,28 @@
   },
   "sync_deleteLocalDataBeforeSync": {
     "en": "Delete local data before syncing",
+    "de": "Lokale Daten vor der Synchronisierung löschen",
     "tr": "Senkronizasyondan önce yerel verileri sil"
   },
   "sync_quotesAndPortfolioData": {
     "en": "Quotes and Portfolio Data",
+    "de": "Kurse und Portfoliodaten",
     "tr": "Öneriler ve Portföy Verileri"
   },
   "sync_premiumAutoSync": {
     "en": "Subscribe to premium to enable auto sync of portfolio data? This supports real time sync of data between multiple devices.",
+    "de": "Abonnieren Sie Premium-Version, um eine automatische Synchronisierung der Portfoliodaten zu aktivieren. Dies unterstützt die Echtzeit-Synchronisierung von Daten zwischen mehreren Geräten.",
     "tr": "Portföy verilerinin otomatik senkronizasyonunu etkinleştirmek için premium\\'a abone olun? Bu, birden fazla cihaz arasında verilerin gerçek zamanlı senkronizasyonunu destekler."
   },
   "sync_restoreDataHelp": {
     "en": "If you wish to restore portfolio data that has been deleted from the server, click here to manage your account.",
+    "de": "Wenn Sie Portfoliodaten wiederherstellen möchten, die vom Server gelöscht wurden, klicken Sie hier zur Verwaltung Ihres Kontos.",
     "tr": "Sunucudan silinen portföy verilerini geri yüklemek isterseniz, buraya tıklayarak hesabınızı yönetebilirsiniz."
   },
   "sync_restoreDataHelpLink": {
     "_comment": "Substring of sync_restoreDataHelp that contains a clickable link",
     "en": "click here",
+    "de": "klicken Sie hier",
     "tr": "Buraya tıkla"
   },
   "sync_signInToBackupAndSynchronize": {
@@ -5399,10 +5470,12 @@
   },
   "sync_warningLocalDataDeletedTitle": {
     "en": "Warning: All local data will be deleted",
+    "de": "Achtung: Alle lokalen Daten werden gelöscht",
     "tr": "Uyarı: Tüm yerel veriler silinecektir"
   },
   "sync_warningLocalDataDeletedMessage": {
     "en": "Are you sure you want to delete all your local portfolio data before syncing? This should only be done if you want to start over using the data stored on the server to avoid duplicates.",
+    "de": "Sind Sie sicher, dass Sie alle Ihre lokalen Portfoliodaten vor der Synchronisierung löschen wollen? Dies sollten Sie nur machen, wenn Sie mit den auf dem Server gespeicherten Daten neu beginnen wollen, um Duplikate zu vermeiden.",
     "tr": "Senkronizasyondan önce tüm yerel portföy verilerinizi silmek istediğinizden emin misiniz? Bu, yalnızca yinelemeleri önlemek için sunucuda depolanan verileri kullanarak baştan başlamak amacıyla yapılmalıdır."
   },
   "tab_more": {
@@ -5427,99 +5500,116 @@
   "userConsent_consentToAdvertising": {
     "_comment": "GDPR (EU) only",
     "en": "Consent to Advertising",
+    "de": "Einwilligung zur Werbung",
     "tr": "Reklam İzni",
     "zh-Hant-TW": "同意廣告"
   },
   "userConsent_failed": {
     "_comment": "GDPR (EU) only",
     "en": "Error trying to gather consent. Please check your internet connection.",
+    "de": "Fehler bei der Übermittlung der Zustimmung. Bitte überprüfen Sie Ihre Internetverbindung.",
     "tr": "Onay toplamaya çalışırken hata oluştu. Lütfen internet bağlantınızı kontrol edin.",
     "zh-Hant-TW": "同意時發生錯誤。請檢查您的網路連線。"
   },
   "userConsent_descriptionLine1": {
     "_comment": "GDPR (EU) only",
     "en": "Due to data protection regulations in your country, please choose your preferred app experience:",
+    "de": "Aufgrund der Datenschutzbestimmungen in Ihrem Land wählen Sie bitte Ihre bevorzugte App-Erfahrung:",
     "tr": "Ülkenizdeki veri koruma düzenlemeleri kapsamında lütfen tercih ettiğiniz uygulama deneyimini seçin:"
   },
   "userConsent_descriptionLine2": {
     "_comment": "GDPR (EU) only",
     "en": "You can use this app either for free using an advertisement supported experience, or without advertisements by upgrading to a premium experience. We use advertising to help pay for costs of running and maintaining the service.",
+    "de": "Sie können diese App entweder kostenlos mit einem werbegestützten Angebot oder ohne Werbung nutzen, indem Sie ein Upgrade auf ein Premium-Angebot erwerben. Wir verwenden Werbung, um die Kosten für den Betrieb und die Wartung des Dienstes zu decken.",
     "tr": "Bu uygulamayı reklam destekli bir deneyim kullanarak ücretsiz olarak veya premium bir deneyime yükselterek reklamsız olarak kullanabilirsiniz. Hizmeti yürütme ve sürdürme maliyetlerini karşılamaya yardımcı olmak için reklamları kullanıyoruz.",
     "zh-Hant-TW": "您可以選擇使用這個應用程式，透過廣告支援的體驗免費使用，或升級到無廣告的高級體驗。我們使用廣告來幫助支付運行和維護服務的成本。"
   },
   "userConsent_manage": {
     "_comment": "GDPR (EU) only",
     "en": "Manage Advertising Consent",
+    "de": "Zustimmung zur Werbung verwalten",
     "tr": "Reklam İznini Yönet",
     "zh-Hant-TW": "管理廣告同意"
   },
   "userConsent_adSupportedExperience": {
     "_comment": "GDPR (EU) only",
     "en": "Advertisement supported experience",
+    "de": "Werbeunterstützte Erfahrung",
     "tr": "Reklam destekli deneyim",
     "zh-Hant-TW": "廣告支援體驗"
   },
   "userConsent_premiumNoAdsExperience": {
     "_comment": "GDPR (EU) only",
     "en": "Premium experience - No advertising",
+    "de": "Premium-Erlebnis - ohne Werbung",
     "tr": "Premium deneyim - Reklam yok",
     "zh-Hant-TW": "Premium 體驗 - 無廣告"
   },
   "userConsent_premiumFreeTrial": {
     "_comment": "GDPR (EU) only",
     "en": "Free trial for new subscribers",
+    "de": "Kostenloses Probeabonnement für Neukunden",
     "tr": "Yeni aboneler için ücretsiz deneme",
     "zh-Hant-TW": "新訂閱者可免費試用"
   },
   "userConsent_upgradeToPremium": {
     "_comment": "GDPR (EU) only",
     "en": "Upgrade to Premium",
+    "de": "Upgrade zur Premium-Version",
     "tr": "Premium\\'a Yükselt",
     "zh-Hant-TW": "升級到 Premium"
   },
   "userConsent_customDescription": {
     "_comment": "GDPR (EU) only",
-    "en": "Please either Consent to advertising or select the following options at a minimum:"
+    "en": "Please either Consent to advertising or select the following options at a minimum:",
+    "de": "Bitte stimmen Sie entweder der Werbung zu oder wählen Sie mindestens die folgenden Optionen aus:"
   },
   "userConsent_customLine1": {
     "_comment": "GDPR (EU) only",
     "en": "Store and/or access information on a device",
+    "de": "Speichern und/oder Zugreifen auf Informationen auf einem Gerät",
     "tr": "Bir cihazda bilgi depolamak ve/veya bilgilere erişmek",
     "zh-Hant-TW": "在裝置上儲存或訪問資訊"
   },
   "userConsent_customLine2": {
     "_comment": "GDPR (EU) only",
     "en": "Select basic ads",
+    "de": "Grundlegende Anzeigen auswählen",
     "tr": "Temel reklamları seç",
     "zh-Hant-TW": "選擇基本廣告"
   },
   "userConsent_customLine3": {
     "_comment": "GDPR (EU) only",
     "en": "Measure ad performance",
+    "de": "Messung der Werbeleistung",
     "tr": "Reklam performansını ölçme",
     "zh-Hant-TW": "測量廣告效益"
   },
   "userConsent_customLine4": {
     "_comment": "GDPR (EU) only",
     "en": "Apply market research to generate audience insights",
+    "de": "Nutzung der Marktforschung, um Einblicke in die Zielgruppe zu gewinnen",
     "tr": "Kitle eğilimlerinin oluşturulması için pazar araştırması",
     "zh-Hant-TW": "應用市場研究以生成用戶洞察報告"
   },
   "userConsent_customLine5": {
     "_comment": "GDPR (EU) only",
     "en": "Develop and improve products",
+    "de": "Entwicklung und Verbesserung von Produkten",
     "tr": "Ürünleri geliştirme ve iyileştirme",
     "zh-Hant-TW": "開發與改善產品"
   },
   "userConsent_customLine6": {
     "_comment": "GDPR (EU) only",
     "en": "From the vendor list, consent to Google Advertising Products (this is hard to find since the list is not alphabetized, but we cannot customize this list)",
+    "de": "Stimmen Sie in der Anbieterliste den Google-Werbeprodukten zu (dies ist nicht ganz einfach zu finden, da die Liste nicht alphabetisch geordnet ist, leider können wir diese Liste nicht anpassen)",
     "tr": "Sağlayıcı listesinden Google Advertising Products\\'a onay verin (liste alfabetik olarak sıralanmadığı için bunu bulmak zor olabilir. Maalesef bu listeyi özelleştiremiyoruz",
     "zh-Hant-TW": "從供應商清單中同意 Google 廣告產品（由於清單未按字母順序排列，這很難找到，但我們無法自定義此清單）"
   },
   "userConsent_customMissingOptions": {
     "_comment": "GDPR (EU) only",
     "en": "Some required ad options were not selected. Please follow the instructions in the green text and try again.",
+    "de": "Einige erforderliche Anzeigenoptionen wurden nicht ausgewählt. Bitte folgen Sie den Anweisungen im grünen Text und versuchen Sie es erneut.",
     "tr": "Bazı gerekli reklam seçenekleri seçilmedi. Lütfen yeşil metindeki talimatları izleyin ve tekrar deneyin.",
     "zh-Hant-TW": "一些必要的廣告選項未被選取。請按照綠色文字中的說明進行操作，然後重試。"
   },
@@ -5801,11 +5891,13 @@
   },
   "viewQuoteStats_shortPercentFloat": {
     "en": "Short% Float",
+    "de": "Leerverkaufsangebot",
     "tr": "Açığa satış halka açıklık %\\'si",
     "zh-Hant-TW": "空單佔比浮動"
   },
   "viewQuoteStats_shortPercentFloatHelp": {
     "en": "Short % of float. Data is delayed.",
+    "de": "% Anteil der Leerverkäufe. Die Daten sind verzögert.",
     "tr": "Açığa satışların halka açıklık %\\'si. Veriler gecikmelidir.",
     "zh-Hant-TW": "空單佔比浮動。數據有延遲。"
   },
