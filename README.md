@@ -26,9 +26,8 @@ Step 2: Make your edits and click 'commit changes' (top right)
 
 <img src="https://github.com/mystocksportfolio/translations/assets/1884422/159749ef-d383-43cb-9874-ecacb9e72a80" width="300">
 
-Step 3: Create a pull request and click 'propose changes'
+Step 3: Click 'Create pull request'
 
-<img src="https://github.com/mystocksportfolio/translations/assets/1884422/afe52285-f83b-4b11-b025-08dbfe82e139" width="300">
 
 You may also open a ticket (Issues tab) or email info@mystocksportfolio.app with your suggested changes or translation bug reports, and we will try to make the change the next time the app releases.
 
