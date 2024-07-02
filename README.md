@@ -16,9 +16,11 @@ Progress (947 strings):
 
 ![Progress](https://progress-bar.dev/0?title=es&width=120) 1/947 - Spanish
 
-To make translation suggestions, you can edit the localization file [strings.json](https://github.com/mystocksportfolio/translations/blob/main/strings.json). If your language is not listed yet, you may add a new entry for your language.
+To make translation suggestions, you can edit the localization file [strings.json](https://github.com/mystocksportfolio/translations/blob/main/strings.json) (see screenshots below). If your language is not listed yet, you may add a new entry for your language.
 
-![image](https://github.com/mystocksportfolio/translations/assets/1884422/0de08373-c52e-41c6-b036-6c74fe0cacf1)
+![image](https://github.com/mystocksportfolio/translations/assets/1884422/d9ffa189-0829-443c-b6ed-9b4b1b10d973)
+
+![image](https://github.com/mystocksportfolio/translations/assets/1884422/afe52285-f83b-4b11-b025-08dbfe82e139)
 
 You may also open a ticket (Issues tab) or email info@mystocksportfolio.app with your suggested changes or translation bug reports, and we will try to make the change the next time the app releases.
 
