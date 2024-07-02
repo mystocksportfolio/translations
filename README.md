@@ -24,8 +24,6 @@ Step 1: Click the edit button from the link [strings.json](https://github.com/my
 
 Step 2: Make your edits and click 'commit changes' (top right)
 
-<img src="https://github.com/mystocksportfolio/translations/assets/1884422/159749ef-d383-43cb-9874-ecacb9e72a80" width="300">
-
 Step 3: Click 'Create pull request'
 
 
