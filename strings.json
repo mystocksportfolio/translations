@@ -1721,12 +1721,14 @@
     "en": "Navigate up",
     "de": "Nach oben navigieren",
     "fr": "Naviguer vers le haut",
-    "tr": "Yukarı git"
+    "tr": "Yukarı git",
+    "zh-Hant-TW": "向上導覽"
   },
   "generic_navigationAppBarAccessibility": {
     "en": "Navigation Application Bar",
     "de": "Navigation der Anwendungsleiste",
-    "tr": "Uygulama Gezinti çubuğu"
+    "tr": "Uygulama Gezinti çubuğu",
+    "zh-Hant-TW": "導航應用程式欄"
   },
   "generic_navigationAccessibility": {
     "en": "Navigation",
@@ -2140,12 +2142,14 @@
   "generic_sort_alphabetical": {
     "en": "Alphabetical",
     "de": "Alphabetisch",
-    "tr": "Alfabetik"
+    "tr": "Alfabetik",
+     "zh-Hant-TW": "依照字母排序"
   },
   "generic_sort_manualSortOrder": {
     "en": "Manual Sort Order",
     "de": "Manuelle Sortierung",
-    "tr": "Manuel Sıralama Düzeni"
+    "tr": "Manuel Sıralama Düzeni",
+    "zh-Hant-TW": "手動排列"
   },
   "generic_subscribed": {
     "en": "Subscribed",
@@ -3378,7 +3382,8 @@
   },
   "portfolio_noProfileInformationForQuote": {
     "en": "No profile information for this quote",
-    "de": "Keine Profilinformationen für dieses Angebot"
+    "de": "Keine Profilinformationen für dieses Angebot",
+     "zh-Hant-TW": "此報價沒有檔案資訊"
   },
   "portfolio_noQuotesHelp": {
     "en": "Add a new quote by tapping the Add button in the menu or by tapping here.",
@@ -3615,7 +3620,8 @@
   "portfolio_splitRatio": {
     "en": "Split Ratio",
     "de": "Splitverhältnis",
-    "tr": "Bölünme Oranı"
+    "tr": "Bölünme Oranı",
+    "zh-Hant-TW": "拆股比例"
   },
   "portfolio_previewCSV": {
     "en": "Preview CSV",
@@ -3845,14 +3851,14 @@
     "de": "Symbole",
     "fr": "Symbole",
     "tr": "Semboller",
-    "zh-Hant-TW": "符號"
+    "zh-Hant-TW": "股票代碼"
   },
   "portfolio_sortSymbolsReverse": {
     "en": "Symbols (Descending)",
     "de": "Symbole (absteigend)",
     "fr": "Symbole (Décroissant)",
     "tr": "Semboller (Azalan)",
-    "zh-Hant-TW": "符號（遞減）"
+    "zh-Hant-TW": "股票代碼（遞減）"
   },
   "portfolio_sortTotalChange": {
     "en": "Total Change",
@@ -3974,7 +3980,7 @@
     "en": "Ticker",
     "fr": "Symbole",
     "tr": "Sembol",
-    "zh-Hant-TW": "代碼"
+    "zh-Hant-TW": "股票代碼"
   },
   "portfolio_top_daily_movers_us": {
     "en": "Top Daily Movers (US)",
@@ -5278,14 +5284,14 @@
     "de": "Zeige das Währungssymbol",
     "fr": "Afficher le symbole monétaire",
     "tr": "Para birimi sembolünü göster",
-    "zh-Hant-TW": "顯示金錢符號"
+    "zh-Hant-TW": "顯示貨幣符號"
   },
   "settings_showCurrencySymbolHelp": {
     "en": "For example, $10. If off, then 10 (without currency symbol) will be shown. This option is only used when a home currency is set.",
     "de": "Zum Beispiel, $10. Wenn AUS, dann wird 10 (ohne Währungssymbol) angezeigt. Diese Option wird nur verwendet, wenn eine Heimatwährung festgelegt worden ist",
     "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché. Cette option n\\'est utilisée que lorsqu\\'une devise préférée est définie.",
     "tr": "Örneğin, 10$. Kapalı ise 10 şeklinde (para birimi sembolü olmadan) gösterilecektir. Bu seçenek yalnızca bir ana para birimi ayarlandığında kullanılır.",
-    "zh-Hant-TW": "舉例來說，$10。若 Off，則 10（沒有金錢符號）會被顯示。此選項只會在已經設定預設貨幣的情況下有效。"
+    "zh-Hant-TW": "舉例來說，$10。若 Off，則 10（沒有貨幣符號）會被顯示。此選項只會在已經設定預設貨幣的情況下有效。"
   },
   "settings_startingPortfolioScreenTab": {
     "de": "Startbildschirm für Registerkarte \"Portfolio\"",
