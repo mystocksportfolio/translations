@@ -12,8 +12,8 @@
     "ja": "日本",
     "ko": "한국인",
     "tr": "Türkçe",
-    "zh": "例子",
-    "zh-Hant-TW": "例子"
+    "zh": "中文",
+    "zh-Hant-TW": "中文"
   },
   "accounting_addLots": {
     "en": "Add Lot(s)",
@@ -127,7 +127,7 @@
     "en": "Account Deleted",
     "de": "Konto gelöscht",
     "tr": "Hesap Silindi",
-    "zh-Hant-TW": "已刪除帳戶"
+    "zh-Hant-TW": "帳戶已刪除"
   },
   "adBanner_placeHolder": {
     "en": "Upgrade to Premium and enjoy an Ad-free experience",
@@ -229,7 +229,7 @@
     "de": "Die Zielwährung muss sich von der Ausgangswährung unterscheiden",
     "fr": "La devise cible doit être différente de la devise source",
     "tr": "Hedef para birimi kaynak para biriminden farklı olmalıdır",
-    "zh-Hant-TW": "目標幣別不能與來源幣別相同"
+    "zh-Hant-TW": "目標貨幣應與來源貨幣不同"
   },
   "addQuoteTransaction_calendar": {
     "en": "Calendar",
@@ -250,7 +250,7 @@
     "de": "Die Währung für dieses Angebot konnte nicht erkannt werden, daher kann die Methode der Bargeldumrechnung nicht angewendet werden. Bitte deaktivieren Sie das Kontrollkästchen für die Bargeldumrechnung",
     "fr": "Impossible de détecter la devise pour ce cours, impossible de convertir en espèces. Veuillez décocher la case de conversion en espèces.",
     "tr": "Bu fiyat teklifi için para birimi tespit edilemedi, bu nedenle nakit dönüştürme yöntemi kullanılamıyor. Lütfen nakit dönüştürme onay kutusundaki işareti kaldırın.",
-    "zh-Hant-TW": "偵測報價的幣別失敗，所以無法使用現金轉換功能。請取消點選現金轉換。"
+    "zh-Hant-TW": "偵測報價的幣別失敗，因此無法使用現金轉換功能。請取消選取現金轉換。"
   },
   "addQuoteTransaction_costBasisEntryMethod": {
     "en": "Entry Method",
@@ -292,7 +292,7 @@
     "de": "Einzahlung von Bargeld in das Portfolio aus Dividenden",
     "fr": "Dépôt d\\'espèces au portefeuille lors des dividendes",
     "tr": "Temettülerden portföye yatan nakit",
-    "zh-Hant-TW": "股利入金至投資組合"
+    "zh-Hant-TW": "股息入金至投資組合"
   },
   "addQuoteTransaction_depositCashToPortfolioFromInterests": {
     "en": "Deposit cash to portfolio from interests",
@@ -305,7 +305,7 @@
     "de": "Einzahlung von Bargeld aus Verkäufen in das Portfolio",
     "fr": "Dépôt d\\'espèces au portefeuille lors de la vente",
     "tr": "Satıştan elde edilen nakdin portföye yatırılması",
-    "zh-Hant-TW": "賣出後現金計入投資組合"
+    "zh-Hant-TW": "賣出後現金存入投資組合"
   },
   "addQuoteTransaction_enterSharesPrompt": {
     "en": "Please enter the number of shares",
@@ -459,21 +459,21 @@
     "de": "Für Provisionen % benutzen?",
     "fr": "Utiliser un pourcentage de commission ?",
     "tr": "Komisyonu % olarak mı kullanıyorsun?",
-    "zh-Hant-TW": "用百分比計算手續費？"
+    "zh-Hant-TW": "%手續費？"
   },
   "addQuoteTransaction_withdrawCashFromPortfolioToPurchase": {
     "en": "Withdraw cash from portfolio to purchase",
     "de": "Entnahme von Bargeld aus dem Portfolio zum Kauf",
     "fr": "Retirer de l\\'argent du portefeuille à l\\'achat",
     "tr": "Portföyden nakit çekerek satın al",
-    "zh-Hant-TW": "買入時自動從投資組合出金"
+    "zh-Hant-TW": "從投資組合中提取現金購買"
   },
   "addQuote_addUnlistedSymbolHelp": {
     "en": "Unlisted symbols can be used for equity such as shares that do not trade on the open market. To add price data, go to the quote details page after adding the symbol, open the menu, and click \\'Add Custom Prices\\'.",
     "de": "Nicht börsennotierte Symbole, die nicht auf dem freien Markt gehandelt werden, können als Eigenkapital wie Aktien verwendet werden. Um Kursdaten hinzuzufügen, gehen Sie nach dem Hinzufügen des Symbols zur Seite mit den Kursdetails, öffnen Sie das Menü und klicken Sie auf \\'Benutzerdefinierte Preise hinzufügen\\'.",
     "fr": "Les symboles non listés peuvent être utilisés pour les fonds tels que ceux qui ne peuvent être échangés dans le marché ouvert. Pour ajouter des données de prix, allez dans la page des détails de la cotation après avoir ajouter le symbole, ouvrez le menu et cliquez \\'Ajouter des prix personnalisés\\'.",
     "tr": "Listelenmemiş semboller açık piyasada işlem görmeyen hisseler gibi özkaynaklar için kullanılabilir. Fiyat verisi eklemek için sembolü ekledikten sonra teklif ayrıntıları sayfasına gidin, menüyü açın ve \\'Özel Fiyatlar Ekle\\' seçeneğine tıklayın.",
-    "zh-Hant-TW": "未在公開市場交易顯示出的代碼仍可以加入內容例如股數。在加入該檔股票後，進入報價詳情頁，開啟目錄，點選 \\'加入手動價格\\'。"
+    "zh-Hant-TW": "未上市的代碼可用在未上市交易的股票。欲加入價格資訊，新增代碼後，前往報價細節，開啟目錄，點擊 \\'新增自訂價格\\'。"
   },
   "addQuote_enterSymbolPrompt": {
     "en": "Please enter a symbol",
@@ -670,23 +670,27 @@
     "en": "Price Alert",
     "de": "Kursalarm",
     "tr": "Fiyat Uyarısı",
-    "zh-Hant-TW": "到價通知"
+    "zh-Hant-TW": "新增到價通知"
   },
   "alert_validation_enterNumberLessThanPrice": {
     "en": "Please enter a number less than the current price",
-    "de": "Bitte geben Sie eine Zahl ein, die kleiner als der aktuelle Kurs ist"
+    "de": "Bitte geben Sie eine Zahl ein, die kleiner als der aktuelle Kurs ist",
+     "zh-Hant-TW": "請輸入低於現在價格的數字"
   },
   "alert_validation_enterNumberMoreThanPrice": {
     "en": "Please enter a number greater than the current price",
-    "de": "Bitte geben Sie eine Zahl ein, die größer als der aktuelle Kurs ist"
+    "de": "Bitte geben Sie eine Zahl ein, die größer als der aktuelle Kurs ist",
+     "zh-Hant-TW": "請輸入高於現在價格的數字"
   },
   "alert_validation_enterValidAmount": {
     "en": "Please enter a valid amount",
-    "de": "Bitte geben Sie einen gültigen Betrag ein"
+    "de": "Bitte geben Sie einen gültigen Betrag ein",
+     "zh-Hant-TW": "請輸入有效的數量"
   },
   "alert_validation_selectValidCondition": {
     "en": "Please select a valid condition",
-    "de": "Bitte wählen Sie eine gültige Bedingung"
+    "de": "Bitte wählen Sie eine gültige Bedingung",
+    "zh-Hant-TW": "請選擇有效的條件"
   },
   "alert_viewExistingAlerts": {
     "en": "View existing alerts",
@@ -2038,13 +2042,13 @@
     "en": "Send Test Notification",
     "de": "Testbenachrichtigung senden",
     "tr": "Test Bildirimi Gönder",
-    "zh-Hant-TW": "發送測試推播通知"
+    "zh-Hant-TW": "測試推播通知"
   },
   "generic_sendTestNotificationHelp": {
     "en": "Tap to send a test notification from our servers to check whether your phone is set up to receive notifications",
     "de": "Tippen um eine Testbenachrichtigung von unseren Servern zu senden, um zu prüfen, ob Ihr Telefon für den Empfang von Benachrichtigungen entsprechend konfiguriert ist.",
     "tr": "Telefonunuzun bildirim almaya ayarlı olup olmadığını kontrol etmek için sunucularımızdan bir test bildirimi göndermek üzere dokunun",
-    "zh-Hant-TW": "按下發送測試推播來檢查是否您的裝置已可正確收到來自我們伺服器的通知"
+    "zh-Hant-TW": "點擊測試推播，檢查裝置是否可以收到通知"
   },
   "generic_serverError": {
     "en": "Server error. Please try again later or contact customer support.",
@@ -4730,14 +4734,14 @@
     "de": "Zeige Währungssymbol auf der Registerkarte \"Notierungen\"",
     "fr": "Affiche le symbole monétaire dans l\\'onglet Cours",
     "tr": "Öneri sekmesinde para birimi Sembolünü göster",
-    "zh-Hant-TW": "顯示金錢符號在報價頁籤上"
+    "zh-Hant-TW": "顯示貨幣符號在報價頁籤上"
   },
   "settingsDisplay_showCurrencyOnQuotesTabHelp": {
     "en": "For example, $10. If off, then 10 (without currency symbol) will be shown.",
     "de": "Beispiel für $10. Wenn AUS, dann wird 10 (ohne Währungssymbol) angezeigt.",
     "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché.",
     "tr": "Örneğin, 10$. Kapalı ise, \"10\" (para birimi sembolü olmadan) gösterilecektir.",
-    "zh-Hant-TW": "例如，$10，若 Off，則 10（沒有金錢符號）會被顯示。"
+    "zh-Hant-TW": "例如，$10，若 Off，則 10（沒有貨幣符號）會被顯示。"
   },
   "settingsDisplay_showThumbnails": {
     "de": "Vorschaubilder anzeigen",
@@ -5150,14 +5154,14 @@
     "en": "Min precision (Auto increases)",
     "de": "Mindestgenauigkeit (automatische Erhöhung)",
     "tr": "Min Hassasiyet ( Otomatik)",
-    "zh-Hant-TW": "最小精度（自動增加）"
+    "zh-Hant-TW": "最小精度（無條件進位）"
   },
   "settings_precision": {
     "de": "Genauigkeit",
     "en": "Precision",
     "fr": "Précision",
     "tr": "Hassasiyet",
-    "zh-Hant-TW": "精度"
+    "zh-Hant-TW": "數值精度"
   },
   "settings_privacyPolicy": {
     "de": "Datenschutz",
@@ -5250,7 +5254,7 @@
     "fr": "Envoyer des commentaires",
     "tr": "Geri Bildirim Gönder",
     "zh": "发送意见回馈",
-    "zh-Hant-TW": "發送意見回饋"
+    "zh-Hant-TW": "意見與回饋"
   },
   "settings_sendFeedbackSubject": {
     "en": "MSP Feedback",
@@ -5264,7 +5268,7 @@
     "de": "Die App mit Freunden teilen",
     "fr": "Partagez l\\'application avec des amis",
     "tr": "Uygulamayı arkadaşlarınızla paylaşın",
-    "zh-Hant-TW": "與好友分享 App"
+    "zh-Hant-TW": "分享App給朋友"
   },
   "settings_shareTheApp": {
     "de": "App teilen",
@@ -5278,7 +5282,7 @@
     "de": "Zeige das Währungssymbol",
     "fr": "Afficher le symbole monétaire",
     "tr": "Para birimi sembolünü göster",
-    "zh-Hant-TW": "顯示金錢符號"
+    "zh-Hant-TW": "顯示貨幣符號"
   },
   "settings_showCurrencySymbolHelp": {
     "en": "For example, $10. If off, then 10 (without currency symbol) will be shown. This option is only used when a home currency is set.",
@@ -5332,14 +5336,14 @@
     "de": "Transparente Titelleiste",
     "fr": "Barre de titre transparente",
     "tr": "Şeffaf başlık çubuğu",
-    "zh-Hant-TW": "透明的標題列"
+    "zh-Hant-TW": "透明標題列"
   },
   "settings_transparentTitleBarDescription": {
     "en": "Make the title bar transparent",
     "de": "Erstellt eine transparente Titelleiste",
     "fr": "Rendre la barre de titre transparente",
     "tr": "Başlık çubuğunu şeffaflaştırır",
-    "zh-Hant-TW": "標題列透明化"
+    "zh-Hant-TW": "將標題欄設為透明"
   },
   "settings_widget": {
     "en": "Widget",
@@ -5353,21 +5357,21 @@
     "de": "Spaltenüberschriften ausblenden",
     "fr": "Masquer les en-têtes des colonnes",
     "tr": "Sütun başlıklarını gizle",
-    "zh-Hant-TW": "隱藏行標題"
+    "zh-Hant-TW": "隱藏列標題"
   },
   "settings_widgetHideColumnHeadersDescription": {
     "en": "Hide the tappable column headers for switching display type (i.e. daily/total).",
     "de": "Blendet die antippbaren Spaltenüberschriften zum Umschalten der Anzeigeart aus (z.B. täglich/Summe)",
     "fr": "Masquer les en-têtes cliquables des colonnes pour changer le type d\\'affichage (p.e. jour/total)",
     "tr": "Görüntüleme türünü değiştirmek için dokunulabilir sütun başlıklarını gizleyin (örn. günlük/toplam).",
-    "zh-Hant-TW": "隱藏可點選用來交換顯示（每日／總額）的行標題"
+    "zh-Hant-TW": "隱藏可點擊切換（每日／總額）的列標題"
   },
   "settings_widgetHideTitleBar": {
     "en": "Hide title bar",
     "de": "Titelleiste ausblenden",
     "fr": "Masquer la barre de titre",
     "tr": "Başlık çubuğunu gizle",
-    "zh-Hant-TW": "隱藏小工具標題"
+    "zh-Hant-TW": "隱藏標題欄"
   },
   "settings_widgetHideTitleBarDescription": {
     "en": "Hide the top title bar containing total numbers",
@@ -5415,12 +5419,14 @@
   "sync_allocationTags": {
     "en": "Allocation Tags",
     "de": "Zuordnung der Schlagwörter",
-    "tr": "Verilen Etiketler"
+    "tr": "Verilen Etiketler",
+    "zh-Hant-TW": "圓餅配置圖標籤"
   },
   "sync_autoSync": {
     "en": "Auto Sync",
     "de": "Auto-Synchronisation",
-    "tr": "Otomatik Senkronizasyon"
+    "tr": "Otomatik Senkronizasyon",
+     "zh-Hant-TW": "自動同步"
   },
   "sync_lastChange": {
     "en": "Last Change",
@@ -5431,35 +5437,40 @@
   "sync_deleteLocalDataBeforeSync": {
     "en": "Delete local data before syncing",
     "de": "Lokale Daten vor der Synchronisierung löschen",
-    "tr": "Senkronizasyondan önce yerel verileri sil"
+    "tr": "Senkronizasyondan önce yerel verileri sil",
+    "zh-Hant-TW": "在同步之前刪除手機端數據"
   },
   "sync_quotesAndPortfolioData": {
     "en": "Quotes and Portfolio Data",
     "de": "Kurse und Portfoliodaten",
-    "tr": "Öneriler ve Portföy Verileri"
+    "tr": "Öneriler ve Portföy Verileri",
+     "zh-Hant-TW": "報價和投資組合數據"
   },
   "sync_premiumAutoSync": {
     "en": "Subscribe to premium to enable auto sync of portfolio data? This supports real time sync of data between multiple devices.",
     "de": "Abonnieren Sie Premium-Version, um eine automatische Synchronisierung der Portfoliodaten zu aktivieren. Dies unterstützt die Echtzeit-Synchronisierung von Daten zwischen mehreren Geräten.",
-    "tr": "Portföy verilerinin otomatik senkronizasyonunu etkinleştirmek için premium\\'a abone olun? Bu, birden fazla cihaz arasında verilerin gerçek zamanlı senkronizasyonunu destekler."
+    "tr": "Portföy verilerinin otomatik senkronizasyonunu etkinleştirmek için premium\\'a abone olun? Bu, birden fazla cihaz arasında verilerin gerçek zamanlı senkronizasyonunu destekler.",
+    "zh-Hant-TW": "訂閱Premium會員以自動同步跨裝置投資組合數據"
   },
   "sync_restoreDataHelp": {
     "en": "If you wish to restore portfolio data that has been deleted from the server, click here to manage your account.",
     "de": "Wenn Sie Portfoliodaten wiederherstellen möchten, die vom Server gelöscht wurden, klicken Sie hier zur Verwaltung Ihres Kontos.",
-    "tr": "Sunucudan silinen portföy verilerini geri yüklemek isterseniz, buraya tıklayarak hesabınızı yönetebilirsiniz."
+    "tr": "Sunucudan silinen portföy verilerini geri yüklemek isterseniz, buraya tıklayarak hesabınızı yönetebilirsiniz.",
+     "zh-Hant-TW": "如果您希望恢復從伺服器上刪除的投資組合數據，請點擊這裡以管理您的帳戶。"
   },
   "sync_restoreDataHelpLink": {
     "_comment": "Substring of sync_restoreDataHelp that contains a clickable link",
     "en": "click here",
     "de": "klicken Sie hier",
-    "tr": "Buraya tıkla"
+    "tr": "Buraya tıkla",
+    "zh-Hant-TW": "點擊這裡"
   },
   "sync_signInToBackupAndSynchronize": {
     "en": "Sign in to backup and synchronize Portfolio data between devices.",
     "de": "Melden Sie sich an, um Portfolio-Daten zu sichern und zwischen Geräten zu synchronisieren.",
     "fr": "Connectez-vous pour sauvegarder et synchroniser les données de Portfolio entre les appareils.",
     "tr": "Portföy verilerini yedeklemek ve cihazlar arasında senkronize etmek için oturum açın.",
-    "zh-Hant-TW": "登入以同步跨不同裝置的資料"
+    "zh-Hant-TW": "登入以備份和同步跨裝置的資料"
   },
   "sync_startSync": {
     "en": "Synchronize with Server",
@@ -5471,12 +5482,14 @@
   "sync_warningLocalDataDeletedTitle": {
     "en": "Warning: All local data will be deleted",
     "de": "Achtung: Alle lokalen Daten werden gelöscht",
-    "tr": "Uyarı: Tüm yerel veriler silinecektir"
+    "tr": "Uyarı: Tüm yerel veriler silinecektir",
+    "zh-Hant-TW": "警告：所有手機端的數據將被刪除"
   },
   "sync_warningLocalDataDeletedMessage": {
     "en": "Are you sure you want to delete all your local portfolio data before syncing? This should only be done if you want to start over using the data stored on the server to avoid duplicates.",
     "de": "Sind Sie sicher, dass Sie alle Ihre lokalen Portfoliodaten vor der Synchronisierung löschen wollen? Dies sollten Sie nur machen, wenn Sie mit den auf dem Server gespeicherten Daten neu beginnen wollen, um Duplikate zu vermeiden.",
-    "tr": "Senkronizasyondan önce tüm yerel portföy verilerinizi silmek istediğinizden emin misiniz? Bu, yalnızca yinelemeleri önlemek için sunucuda depolanan verileri kullanarak baştan başlamak amacıyla yapılmalıdır."
+    "tr": "Senkronizasyondan önce tüm yerel portföy verilerinizi silmek istediğinizden emin misiniz? Bu, yalnızca yinelemeleri önlemek için sunucuda depolanan verileri kullanarak baştan başlamak amacıyla yapılmalıdır.",
+    "zh-Hant-TW": "您確定要在同步數據之前刪除所有儲存在手機端的投資組合數據嗎？這樣做只適用於您想要重新開始並使用伺服器上存儲的數據以避免重複的情況產生。"
   },
   "tab_more": {
     "en": "More",
@@ -5515,7 +5528,8 @@
     "_comment": "GDPR (EU) only",
     "en": "Due to data protection regulations in your country, please choose your preferred app experience:",
     "de": "Aufgrund der Datenschutzbestimmungen in Ihrem Land wählen Sie bitte Ihre bevorzugte App-Erfahrung:",
-    "tr": "Ülkenizdeki veri koruma düzenlemeleri kapsamında lütfen tercih ettiğiniz uygulama deneyimini seçin:"
+    "tr": "Ülkenizdeki veri koruma düzenlemeleri kapsamında lütfen tercih ettiğiniz uygulama deneyimini seçin:",
+    "zh-Hant-TW": "由於您所在國家的數據保護法規定，請選擇您偏好的app體驗："
   },
   "userConsent_descriptionLine2": {
     "_comment": "GDPR (EU) only",
@@ -5562,7 +5576,8 @@
   "userConsent_customDescription": {
     "_comment": "GDPR (EU) only",
     "en": "Please either Consent to advertising or select the following options at a minimum:",
-    "de": "Bitte stimmen Sie entweder der Werbung zu oder wählen Sie mindestens die folgenden Optionen aus:"
+    "de": "Bitte stimmen Sie entweder der Werbung zu oder wählen Sie mindestens die folgenden Optionen aus:",
+     "zh-Hant-TW": "請選擇同意放置廣告或選擇以下選項："
   },
   "userConsent_customLine1": {
     "_comment": "GDPR (EU) only",
