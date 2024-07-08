@@ -12,8 +12,8 @@
     "ja": "日本",
     "ko": "한국인",
     "tr": "Türkçe",
-    "zh": "例子",
-    "zh-Hant-TW": "例子"
+    "zh": "中文",
+    "zh-Hant-TW": "中文"
   },
   "accounting_addLots": {
     "en": "Add Lot(s)",
@@ -1724,12 +1724,14 @@
     "en": "Navigate up",
     "de": "Nach oben navigieren",
     "fr": "Naviguer vers le haut",
-    "tr": "Yukarı git"
+    "tr": "Yukarı git",
+    "zh-Hant-TW": "向上導覽"
   },
   "generic_navigationAppBarAccessibility": {
     "en": "Navigation Application Bar",
     "de": "Navigation der Anwendungsleiste",
-    "tr": "Uygulama Gezinti çubuğu"
+    "tr": "Uygulama Gezinti çubuğu",
+    "zh-Hant-TW": "導航應用程式欄"
   },
   "generic_navigationAccessibility": {
     "en": "Navigation",
@@ -2143,12 +2145,14 @@
   "generic_sort_alphabetical": {
     "en": "Alphabetical",
     "de": "Alphabetisch",
-    "tr": "Alfabetik"
+    "tr": "Alfabetik",
+    "zh-Hant-TW": "依照字母排序"
   },
   "generic_sort_manualSortOrder": {
     "en": "Manual Sort Order",
     "de": "Manuelle Sortierung",
-    "tr": "Manuel Sıralama Düzeni"
+    "tr": "Manuel Sıralama Düzeni",
+    "zh-Hant-TW": "手動排列"
   },
   "generic_sponsoredContent": {
     "en": "Sponsored Content"
@@ -3398,7 +3402,8 @@
   },
   "portfolio_noProfileInformationForQuote": {
     "en": "No profile information for this quote",
-    "de": "Keine Profilinformationen für dieses Angebot"
+    "de": "Keine Profilinformationen für dieses Angebot",
+    "zh-Hant-TW": "此報價沒有檔案資訊"
   },
   "portfolio_noQuotesHelp": {
     "en": "Add a new quote by tapping the Add button in the menu or by tapping here.",
@@ -3635,7 +3640,8 @@
   "portfolio_splitRatio": {
     "en": "Split Ratio",
     "de": "Splitverhältnis",
-    "tr": "Bölünme Oranı"
+    "tr": "Bölünme Oranı",
+    "zh-Hant-TW": "拆股比例"
   },
   "portfolio_previewCSV": {
     "en": "Preview CSV",
@@ -5440,7 +5446,8 @@
   "sync_autoSync": {
     "en": "Auto Sync",
     "de": "Auto-Synchronisation",
-    "tr": "Otomatik Senkronizasyon"
+    "tr": "Otomatik Senkronizasyon",
+    "zh-Hant-TW": "自動同步"
   },
   "sync_lastChange": {
     "en": "Last Change",
@@ -5456,23 +5463,27 @@
   "sync_quotesAndPortfolioData": {
     "en": "Quotes and Portfolio Data",
     "de": "Kurse und Portfoliodaten",
-    "tr": "Öneriler ve Portföy Verileri"
+    "tr": "Öneriler ve Portföy Verileri",
+    "zh-Hant-TW": "報價和投資組合數據"
   },
   "sync_premiumAutoSync": {
     "en": "Subscribe to premium to enable auto sync of portfolio data? This supports real time sync of data between multiple devices.",
     "de": "Abonnieren Sie Premium-Version, um eine automatische Synchronisierung der Portfoliodaten zu aktivieren. Dies unterstützt die Echtzeit-Synchronisierung von Daten zwischen mehreren Geräten.",
-    "tr": "Portföy verilerinin otomatik senkronizasyonunu etkinleştirmek için premium\\'a abone olun? Bu, birden fazla cihaz arasında verilerin gerçek zamanlı senkronizasyonunu destekler."
+    "tr": "Portföy verilerinin otomatik senkronizasyonunu etkinleştirmek için premium\\'a abone olun? Bu, birden fazla cihaz arasında verilerin gerçek zamanlı senkronizasyonunu destekler.",
+    "zh-Hant-TW": "訂閱Premium會員以自動同步跨裝置投資組合數據"
   },
   "sync_restoreDataHelp": {
     "en": "If you wish to restore portfolio data that has been deleted from the server, click here to manage your account.",
     "de": "Wenn Sie Portfoliodaten wiederherstellen möchten, die vom Server gelöscht wurden, klicken Sie hier zur Verwaltung Ihres Kontos.",
-    "tr": "Sunucudan silinen portföy verilerini geri yüklemek isterseniz, buraya tıklayarak hesabınızı yönetebilirsiniz."
+    "tr": "Sunucudan silinen portföy verilerini geri yüklemek isterseniz, buraya tıklayarak hesabınızı yönetebilirsiniz.",
+    "zh-Hant-TW": "如果您希望恢復從伺服器上刪除的投資組合數據，請點擊這裡以管理您的帳戶。"
   },
   "sync_restoreDataHelpLink": {
     "_comment": "Substring of sync_restoreDataHelp that contains a clickable link",
     "en": "click here",
     "de": "klicken Sie hier",
-    "tr": "Buraya tıkla"
+    "tr": "Buraya tıkla",
+    "zh-Hant-TW": "點擊這裡"
   },
   "sync_signInToBackupAndSynchronize": {
     "en": "Sign in to backup and synchronize Portfolio data between devices.",
@@ -5496,7 +5507,8 @@
   "sync_warningLocalDataDeletedMessage": {
     "en": "Are you sure you want to delete all your local portfolio data before syncing? This should only be done if you want to start over using the data stored on the server to avoid duplicates.",
     "de": "Sind Sie sicher, dass Sie alle Ihre lokalen Portfoliodaten vor der Synchronisierung löschen wollen? Dies sollten Sie nur machen, wenn Sie mit den auf dem Server gespeicherten Daten neu beginnen wollen, um Duplikate zu vermeiden.",
-    "tr": "Senkronizasyondan önce tüm yerel portföy verilerinizi silmek istediğinizden emin misiniz? Bu, yalnızca yinelemeleri önlemek için sunucuda depolanan verileri kullanarak baştan başlamak amacıyla yapılmalıdır."
+    "tr": "Senkronizasyondan önce tüm yerel portföy verilerinizi silmek istediğinizden emin misiniz? Bu, yalnızca yinelemeleri önlemek için sunucuda depolanan verileri kullanarak baştan başlamak amacıyla yapılmalıdır.",
+    "zh-Hant-TW": "您確定要在同步數據之前刪除所有儲存在手機端的投資組合數據嗎？這樣做只適用於您想要重新開始並使用伺服器上存儲的數據以避免重複的情況產生。"
   },
   "tab_more": {
     "en": "More",
@@ -5535,7 +5547,8 @@
     "_comment": "GDPR (EU) only",
     "en": "Due to data protection regulations in your country, please choose your preferred app experience:",
     "de": "Aufgrund der Datenschutzbestimmungen in Ihrem Land wählen Sie bitte Ihre bevorzugte App-Erfahrung:",
-    "tr": "Ülkenizdeki veri koruma düzenlemeleri kapsamında lütfen tercih ettiğiniz uygulama deneyimini seçin:"
+    "tr": "Ülkenizdeki veri koruma düzenlemeleri kapsamında lütfen tercih ettiğiniz uygulama deneyimini seçin:",
+    "zh-Hant-TW": "由於您所在國家的數據保護法規定，請選擇您偏好的app體驗："
   },
   "userConsent_descriptionLine2": {
     "_comment": "GDPR (EU) only",
@@ -5582,7 +5595,8 @@
   "userConsent_customDescription": {
     "_comment": "GDPR (EU) only",
     "en": "Please either Consent to advertising or select the following options at a minimum:",
-    "de": "Bitte stimmen Sie entweder der Werbung zu oder wählen Sie mindestens die folgenden Optionen aus:"
+    "de": "Bitte stimmen Sie entweder der Werbung zu oder wählen Sie mindestens die folgenden Optionen aus:",
+    "zh-Hant-TW": "請選擇同意放置廣告或選擇以下選項："
   },
   "userConsent_customLine1": {
     "_comment": "GDPR (EU) only",
