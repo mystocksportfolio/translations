@@ -1212,6 +1212,9 @@
     "tr": "İlave seçenekler",
     "zh-Hant-TW": "額外選項"
   },
+  "generic_alerts": {
+    "en": "Alerts"
+  },
   "generic_agreePrivacyPolicyAndTermsOfUse": {
     "_comment": "generic_termsOfUse and generic_privacyPolicy should exist in the translation",
     "en": "By continuing, you agree to the\\nPrivacy Policy and Terms of Use",
@@ -2146,6 +2149,9 @@
     "en": "Manual Sort Order",
     "de": "Manuelle Sortierung",
     "tr": "Manuel Sıralama Düzeni"
+  },
+  "generic_sponsoredContent": {
+    "en": "Sponsored Content"
   },
   "generic_subscribed": {
     "en": "Subscribed",
@@ -3335,7 +3341,21 @@
     "tr": "Kaybettirenler",
     "zh-Hant-TW": "大賠"
   },
+  "portfolio_copyToPortfolio": {
+    "en": "Copy to Portfolio",
+    "de": "kopieren ins Portfolio",
+    "fr": "Copie vers le portefeuille",
+    "tr": "Portföye Kopyala",
+    "zh-Hant-TW": "複製至投資組合"
+  },
   "portfolio_moveToPortfolio": {
+    "en": "Move to Portfolio",
+    "de": "verschieben ins Portfolio",
+    "fr": "Déplacer vers le portefeuille",
+    "tr": "Portföye Taşı",
+    "zh-Hant-TW": "移動至投資組合"
+  },
+  "portfolio_moveCopyToPortfolio": {
     "en": "Move/Copy to Portfolio",
     "de": "verschieben/kopieren ins Portfolio",
     "fr": "Déplacer/Copie vers le portefeuille",
@@ -6245,6 +6265,9 @@
     "fr": "Pour effectuer le réglage du widget (tels que la mise à jour automatique and la taille de la police), ouvrez l\\'application, Réglages and allez dans la rubrique Widget. Si vous redimensionnez le widget pour qu\\'il soit très petit, veillez à réduire la taille dans les réglages du widget pour que tout s\\'affiche correctement.",
     "tr": "Widget ayarlarını (otomatik yenileme ve yazı tipi boyutu gibi) yapılandırmak için uygulamayı, Ayarlar\\'ı açın ve Widget bölümüne gidin. Widget\\'i çok küçük olacak şekilde yeniden boyutlandırırsanız, her şeyin sığması için kullanıcı arayüzü boyutunu küçültmek üzere widget ayarlarını ziyaret ettiğinizden emin olun.\\n\\nLütfen iki tür widget olduğunu unutmayın - genel bakış ve tek portföy. önerilerinizi göremiyorsanız, tek portföy widget\\'ini sabitlemek istemiş ancak genel bakış widget\\'ini sabitlemiş olabilirsiniz.",
     "zh-Hant-TW": "若欲設定小工具（諸如自動重新整理和字體大小），開啟應用程式>設定>小工具選單。若您將小工具長寬設定非常小，請記得調整設定確保小工具可顯示出所有內容。\\n\\n提醒您有兩種小工具可使用 — 總覽和單一投資組合。如果有需要看到您的報價，建議使用單一投資組合而非總覽。"
+  },
+  "widget_configureHelp_troubleshooting": {
+    "en": "You may need to whitelist the widget to run in the background. Please see https://help.mystocksportfolio.app/troubleshooting/widget-issues for steps on how to whitelist widgets and other troubleshooting steps."
   },
   "widget_refreshing": {
     "en": "Refreshing Widget",
