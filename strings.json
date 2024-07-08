@@ -1216,6 +1216,9 @@
     "tr": "İlave seçenekler",
     "zh-Hant-TW": "額外選項"
   },
+  "generic_alerts": {
+    "en": "Alerts"
+  },
   "generic_agreePrivacyPolicyAndTermsOfUse": {
     "_comment": "generic_termsOfUse and generic_privacyPolicy should exist in the translation",
     "en": "By continuing, you agree to the\\nPrivacy Policy and Terms of Use",
@@ -1725,12 +1728,14 @@
     "en": "Navigate up",
     "de": "Nach oben navigieren",
     "fr": "Naviguer vers le haut",
-    "tr": "Yukarı git"
+    "tr": "Yukarı git",
+    "zh-Hant-TW": "向上導覽"
   },
   "generic_navigationAppBarAccessibility": {
     "en": "Navigation Application Bar",
     "de": "Navigation der Anwendungsleiste",
-    "tr": "Uygulama Gezinti çubuğu"
+    "tr": "Uygulama Gezinti çubuğu",
+    "zh-Hant-TW": "導航應用程式欄"
   },
   "generic_navigationAccessibility": {
     "en": "Navigation",
@@ -2144,12 +2149,17 @@
   "generic_sort_alphabetical": {
     "en": "Alphabetical",
     "de": "Alphabetisch",
-    "tr": "Alfabetik"
+    "tr": "Alfabetik",
+    "zh-Hant-TW": "依照字母排序"
   },
   "generic_sort_manualSortOrder": {
     "en": "Manual Sort Order",
     "de": "Manuelle Sortierung",
-    "tr": "Manuel Sıralama Düzeni"
+    "tr": "Manuel Sıralama Düzeni",
+    "zh-Hant-TW": "手動排列"
+  },
+  "generic_sponsoredContent": {
+    "en": "Sponsored Content"
   },
   "generic_subscribed": {
     "en": "Subscribed",
@@ -3339,7 +3349,21 @@
     "tr": "Kaybettirenler",
     "zh-Hant-TW": "大賠"
   },
+  "portfolio_copyToPortfolio": {
+    "en": "Copy to Portfolio",
+    "de": "kopieren ins Portfolio",
+    "fr": "Copie vers le portefeuille",
+    "tr": "Portföye Kopyala",
+    "zh-Hant-TW": "複製至投資組合"
+  },
   "portfolio_moveToPortfolio": {
+    "en": "Move to Portfolio",
+    "de": "verschieben ins Portfolio",
+    "fr": "Déplacer vers le portefeuille",
+    "tr": "Portföye Taşı",
+    "zh-Hant-TW": "移動至投資組合"
+  },
+  "portfolio_moveCopyToPortfolio": {
     "en": "Move/Copy to Portfolio",
     "de": "verschieben/kopieren ins Portfolio",
     "fr": "Déplacer/Copie vers le portefeuille",
@@ -3382,7 +3406,8 @@
   },
   "portfolio_noProfileInformationForQuote": {
     "en": "No profile information for this quote",
-    "de": "Keine Profilinformationen für dieses Angebot"
+    "de": "Keine Profilinformationen für dieses Angebot",
+    "zh-Hant-TW": "此報價沒有檔案資訊"
   },
   "portfolio_noQuotesHelp": {
     "en": "Add a new quote by tapping the Add button in the menu or by tapping here.",
@@ -3619,7 +3644,8 @@
   "portfolio_splitRatio": {
     "en": "Split Ratio",
     "de": "Splitverhältnis",
-    "tr": "Bölünme Oranı"
+    "tr": "Bölünme Oranı",
+    "zh-Hant-TW": "拆股比例"
   },
   "portfolio_previewCSV": {
     "en": "Preview CSV",
@@ -5426,7 +5452,7 @@
     "en": "Auto Sync",
     "de": "Auto-Synchronisation",
     "tr": "Otomatik Senkronizasyon",
-     "zh-Hant-TW": "自動同步"
+    "zh-Hant-TW": "自動同步"
   },
   "sync_lastChange": {
     "en": "Last Change",
@@ -5444,7 +5470,7 @@
     "en": "Quotes and Portfolio Data",
     "de": "Kurse und Portfoliodaten",
     "tr": "Öneriler ve Portföy Verileri",
-     "zh-Hant-TW": "報價和投資組合數據"
+    "zh-Hant-TW": "報價和投資組合數據"
   },
   "sync_premiumAutoSync": {
     "en": "Subscribe to premium to enable auto sync of portfolio data? This supports real time sync of data between multiple devices.",
@@ -5456,7 +5482,7 @@
     "en": "If you wish to restore portfolio data that has been deleted from the server, click here to manage your account.",
     "de": "Wenn Sie Portfoliodaten wiederherstellen möchten, die vom Server gelöscht wurden, klicken Sie hier zur Verwaltung Ihres Kontos.",
     "tr": "Sunucudan silinen portföy verilerini geri yüklemek isterseniz, buraya tıklayarak hesabınızı yönetebilirsiniz.",
-     "zh-Hant-TW": "如果您希望恢復從伺服器上刪除的投資組合數據，請點擊這裡以管理您的帳戶。"
+    "zh-Hant-TW": "如果您希望恢復從伺服器上刪除的投資組合數據，請點擊這裡以管理您的帳戶。"
   },
   "sync_restoreDataHelpLink": {
     "_comment": "Substring of sync_restoreDataHelp that contains a clickable link",
@@ -5577,7 +5603,7 @@
     "_comment": "GDPR (EU) only",
     "en": "Please either Consent to advertising or select the following options at a minimum:",
     "de": "Bitte stimmen Sie entweder der Werbung zu oder wählen Sie mindestens die folgenden Optionen aus:",
-     "zh-Hant-TW": "請選擇同意放置廣告或選擇以下選項："
+    "zh-Hant-TW": "請選擇同意放置廣告或選擇以下選項："
   },
   "userConsent_customLine1": {
     "_comment": "GDPR (EU) only",
@@ -6260,6 +6286,9 @@
     "fr": "Pour effectuer le réglage du widget (tels que la mise à jour automatique and la taille de la police), ouvrez l\\'application, Réglages and allez dans la rubrique Widget. Si vous redimensionnez le widget pour qu\\'il soit très petit, veillez à réduire la taille dans les réglages du widget pour que tout s\\'affiche correctement.",
     "tr": "Widget ayarlarını (otomatik yenileme ve yazı tipi boyutu gibi) yapılandırmak için uygulamayı, Ayarlar\\'ı açın ve Widget bölümüne gidin. Widget\\'i çok küçük olacak şekilde yeniden boyutlandırırsanız, her şeyin sığması için kullanıcı arayüzü boyutunu küçültmek üzere widget ayarlarını ziyaret ettiğinizden emin olun.\\n\\nLütfen iki tür widget olduğunu unutmayın - genel bakış ve tek portföy. önerilerinizi göremiyorsanız, tek portföy widget\\'ini sabitlemek istemiş ancak genel bakış widget\\'ini sabitlemiş olabilirsiniz.",
     "zh-Hant-TW": "若欲設定小工具（諸如自動重新整理和字體大小），開啟應用程式>設定>小工具選單。若您將小工具長寬設定非常小，請記得調整設定確保小工具可顯示出所有內容。\\n\\n提醒您有兩種小工具可使用 — 總覽和單一投資組合。如果有需要看到您的報價，建議使用單一投資組合而非總覽。"
+  },
+  "widget_configureHelp_troubleshooting": {
+    "en": "You may need to whitelist the widget to run in the background. Please see https://help.mystocksportfolio.app/troubleshooting/widget-issues for steps on how to whitelist widgets and other troubleshooting steps."
   },
   "widget_refreshing": {
     "en": "Refreshing Widget",
