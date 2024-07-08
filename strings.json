@@ -675,17 +675,17 @@
   "alert_validation_enterNumberLessThanPrice": {
     "en": "Please enter a number less than the current price",
     "de": "Bitte geben Sie eine Zahl ein, die kleiner als der aktuelle Kurs ist",
-     "zh-Hant-TW": "請輸入低於現在價格的數字"
+    "zh-Hant-TW": "請輸入低於現在價格的數字"
   },
   "alert_validation_enterNumberMoreThanPrice": {
     "en": "Please enter a number greater than the current price",
     "de": "Bitte geben Sie eine Zahl ein, die größer als der aktuelle Kurs ist",
-     "zh-Hant-TW": "請輸入高於現在價格的數字"
+    "zh-Hant-TW": "請輸入高於現在價格的數字"
   },
   "alert_validation_enterValidAmount": {
     "en": "Please enter a valid amount",
     "de": "Bitte geben Sie einen gültigen Betrag ein",
-     "zh-Hant-TW": "請輸入有效的數量"
+    "zh-Hant-TW": "請輸入有效的數量"
   },
   "alert_validation_selectValidCondition": {
     "en": "Please select a valid condition",
