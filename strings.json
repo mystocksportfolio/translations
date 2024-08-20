@@ -2977,6 +2977,9 @@
     "tr": "Günlük Sütun Ayarları",
     "zh-Hant-TW": "每日漲跌欄位設定"
   },
+  "portfolio_dataNotAvailableForExchange": {
+    "en": "Data not available for this stock exchange"
+  },
   "portfolio_defaultCurrency": {
     "en": "Default",
     "de": "Standardeinstellung",
