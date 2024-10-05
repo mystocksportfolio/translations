@@ -3309,7 +3309,7 @@
   "portfolio_interests": {
     "en": "Interests",
     "de": "Interessengebiete",
-    "tr": "İlgi Alanları",
+    "tr": "Faiz",
     "zh-Hant-TW": "利息"
   },
   "portfolio_lastKnownDailyChange": {
@@ -6080,7 +6080,7 @@
   "viewQuoteTransactions_interestsFromHoldingFormatted": {
     "_formatted": false,
     "en": "Interests from %s",
-    "tr": "%s \\'den ilgi alanları",
+    "tr": "%s \\'den faiz",
     "zh-Hant-TW": "從 %s 來的利息"
   },
   "viewQuoteTransactions_soldAmountFormatted": {
