@@ -570,6 +570,9 @@
     "tr": "Menüdeki Uyarı Ekle (Uyarı simgesi) öğesine veya buraya dokunarak bir uyarı ekleyebilirsiniz.",
     "zh-Hant-TW": "點擊選單中新增到價通知或點擊這裡新增"
   },
+  "alert_deleteTriggeredAlerts": {
+    "en": "Delete triggered alerts"
+  },
   "alert_enableAnnouncementPushNotifications": {
     "en": "Enable push notifications for important announcements",
     "de": "Push-Benachrichtigungen für wichtige Mitteilungen aktivieren",
@@ -2731,6 +2734,9 @@
     "fr": "Commissions",
     "tr": "Komisyonlar",
     "zh-Hant-TW": "手續費"
+  },
+  "portfolio_convertPriceToPence": {
+    "en": "Convert price to pence"
   },
   "portfolioAllocations_groupInOthers": {
     "en": "Group holding in \\'Others\\' when less than % of total",
