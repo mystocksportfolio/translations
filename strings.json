@@ -653,7 +653,8 @@
     "zh-Hant-TW": "點擊選單中新增到價通知或點擊這裡新增"
   },
   "alert_deleteTriggeredAlerts": {
-    "en": "Delete triggered alerts"
+    "en": "Delete triggered alerts",
+    "tr": "Tetiklenen uyarıları silme"
   },
   "alert_enableAnnouncementPushNotifications": {
     "en": "Enable push notifications for important announcements",
@@ -778,24 +779,28 @@
     "en": "Please enter a number less than the current price",
     "es": "Por favor, ingrese un número menor que el precio actual",
     "de": "Bitte geben Sie eine Zahl ein, die kleiner als der aktuelle Kurs ist",
+    "tr": "Lütfen mevcut fiyattan daha düşük bir fiyat girin",
     "zh-Hant-TW": "請輸入低於現在價格的數字"
   },
   "alert_validation_enterNumberMoreThanPrice": {
     "en": "Please enter a number greater than the current price",
     "es": "Por favor, ingrese un número mayor que el precio actual",
     "de": "Bitte geben Sie eine Zahl ein, die größer als der aktuelle Kurs ist",
+    "tr": "Lütfen mevcut fiyattan daha yüksek bir fiyat girin",
     "zh-Hant-TW": "請輸入高於現在價格的數字"
   },
   "alert_validation_enterValidAmount": {
     "en": "Please enter a valid amount",
     "es": "Por favor, ingrese una cantidad válida",
     "de": "Bitte geben Sie einen gültigen Betrag ein",
+    "tr": "Lütfen geçerli bir tutar girin",
     "zh-Hant-TW": "請輸入有效的數量"
   },
   "alert_validation_selectValidCondition": {
     "en": "Please select a valid condition",
     "es": "Por favor, seleccione una condición válida",
     "de": "Bitte wählen Sie eine gültige Bedingung",
+    "tr": "Lütfen geçerli bir koşul seçin",
     "zh-Hant-TW": "請選擇有效的條件"
   },
   "alert_viewExistingAlerts": {
@@ -1402,7 +1407,8 @@
   },
   "generic_alerts": {
     "en": "Alerts",
-    "es": "Alertas"
+    "es": "Alertas",
+    "tr": "Uyarılar"
   },
   "generic_agreePrivacyPolicyAndTermsOfUse": {
     "_comment": "generic_termsOfUse and generic_privacyPolicy should exist in the translation",
@@ -1565,7 +1571,8 @@
   "generic_contentsOfReport": {
     "en": "Contents of Report",
     "es": "Contenido del informe",
-    "de": "Inhalt des Berichts"
+    "de": "Inhalt des Berichts",
+    "tr": "Rapor İçeriği"
   },
   "generic_continue": {
     "en": "Continue",
@@ -1770,7 +1777,8 @@
   "generic_errorRunningAppFromExternalStorage": {
     "en": "It looks like you\\'re running the app from your SDCard / external storage. This may cause issues with graphics not loading, widgets not functioning, authentication failing, etc. Please move the app back to internal storage if you experience issues.",
     "es": "Parece que está ejecutando la aplicación desde su tarjeta SD / almacenamiento externo. Esto puede causar problemas con la carga de gráficos, widgets que no funcionan, fallos de autenticación, etc. Por favor, mueva la aplicación de nuevo al almacenamiento interno si experimenta problemas.",
-    "de": "Es sieht so aus, als ob Sie die App von Ihrer SDCard/externem Speicher ausführen. Dies kann zu Problemen mit nicht geladenen Grafiken, nicht funktionierenden Widgets, fehlgeschlagener Authentifizierung usw. führen. Bitte verschieben Sie die App zurück auf den internen Speicher, wenn Sie Probleme haben."
+    "de": "Es sieht so aus, als ob Sie die App von Ihrer SDCard/externem Speicher ausführen. Dies kann zu Problemen mit nicht geladenen Grafiken, nicht funktionierenden Widgets, fehlgeschlagener Authentifizierung usw. führen. Bitte verschieben Sie die App zurück auf den internen Speicher, wenn Sie Probleme haben.",
+    "tr": "Görünüşe göre uygulamayı SDCard'ınızdan / harici depolama alanınızdan çalıştırıyorsunuz. Bu, grafiklerin yüklenmemesi, widget'ların çalışmaması, kimlik doğrulamanın başarısız olması vb. sorunlara neden olabilir. Sorun yaşarsanız lütfen uygulamayı dahili depolamaya geri taşıyın."
   },
   "generic_errorWhileRestoring": {
     "en": "Error while restoring",
@@ -2487,7 +2495,8 @@
   },
   "generic_sponsoredContent": {
     "en": "Sponsored Content",
-    "es": "Contenido patrocinado"
+    "es": "Contenido patrocinado",
+    "tr": "Sponsorlu İçerik"
   },
   "generic_subscribed": {
     "en": "Subscribed",
@@ -3146,7 +3155,8 @@
   },
   "portfolio_convertPriceToPence": {
     "en": "Convert price to pence",
-    "es": "Convertir precio a peniques"
+    "es": "Convertir precio a peniques",
+    "tr": "Fiyatı peniye çevir"
   },
   "portfolioAllocations_groupInOthers": {
     "en": "Group holding in \\'Others\\' when less than % of total",
@@ -3432,7 +3442,8 @@
   },
   "portfolio_dataNotAvailableForExchange": {
     "en": "Data not available for this stock exchange",
-    "es": "Datos no disponibles para este mercado de valores"
+    "es": "Datos no disponibles para este mercado de valores",
+    "tr": "Bu borsa için veri bulunmamaktır"
   },
   "portfolio_defaultCurrency": {
     "en": "Default",
@@ -3701,6 +3712,7 @@
     "en": "Enter custom subtitle (Optional)",
     "es": "Introduce un subtítulo personalizado (Opcional)",
     "de": "Benutzerdefinierten Untertitel eingeben (optional)"
+    "tr": "Özel altyazı girin (İsteğe bağlı)"
   },
   "portfolio_generateReport_errorGeneric": {
     "en": "Error while generating report. If the issue persists, please contact customer support.",
@@ -6397,6 +6409,7 @@
     "_comment": "GDPR (EU) only",
     "en": "Please either Consent to advertising or select the following options at a minimum:",
     "de": "Bitte stimmen Sie entweder der Werbung zu oder wählen Sie mindestens die folgenden Optionen aus:",
+    "tr": "Lütfen ya reklamı onaylayın ya da en azından aşağıdaki seçenekleri belirleyin:",
     "zh-Hant-TW": "請選擇同意放置廣告或選擇以下選項："
   },
   "userConsent_customLine1": {
@@ -7083,6 +7096,7 @@
   },
   "widget_configureHelp_troubleshooting": {
     "en": "You may need to whitelist the widget to run in the background. Please see https://help.mystocksportfolio.app/troubleshooting/widget-issues for steps on how to whitelist widgets and other troubleshooting steps."
+    "tr": "Widget'ın arka planda çalışması için güvenilir adresler listesine almanız gerekebilir. Widget'ların nasıl güvenilir adresler listesine alınacağı ve diğer sorun giderme adımları için lütfen https://help.mystocksportfolio.app/troubleshooting/widget-issues adresine bakın."
   },
   "widget_refreshing": {
     "en": "Refreshing Widget",
