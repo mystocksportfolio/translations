@@ -509,7 +509,7 @@
     "en": "Unknown",
     "es": "Desconocido",
     "de": "Unbekannt",
-    "tr": "Biinmeyen",
+    "tr": "Bilinmeyen",
     "zh-Hant-TW": "未知"
   },
   "addQuoteTransaction_useCommissions": {
@@ -654,7 +654,7 @@
   },
   "alert_deleteTriggeredAlerts": {
     "en": "Delete triggered alerts",
-    "tr": "Tetiklenen uyarıları silme"
+    "tr": "Tetiklenen uyarıları sil"
   },
   "alert_enableAnnouncementPushNotifications": {
     "en": "Enable push notifications for important announcements",
@@ -3943,6 +3943,7 @@
     "en": "No profile information for this quote",
     "es": "No hay información de perfil para esta cotización",
     "de": "Keine Profilinformationen für dieses Angebot",
+    "tr": "Bu öneri için profil bilgisi bulunmamaktadır",
     "zh-Hant-TW": "此報價沒有檔案資訊"
   },
   "portfolio_noQuotesHelp": {
@@ -4622,7 +4623,8 @@
     "_formatted": false,
     "en": "This is a %s cash position",
     "es": "Esta es una posición de efectivo en %s",
-    "de": "Dies ist ein %s Bargeldbestand"
+    "de": "Dies ist ein %s Bargeldbestand",
+    "tr": "Bu bir %s nakit pozisyonudur"
   },
   "portfolio_ticker": {
     "en": "Ticker",
@@ -4859,7 +4861,7 @@
     "es": "Tienes la actualización premium de por vida, por lo que tienes beneficios de suscripción gratuita de por vida. Aún puedes apoyar la aplicación suscribiéndote.",
     "de": "Sie haben das lebenslange Premium-Upgrade, d. h. Sie haben lebenslang kostenlose Abonnementvorteile. Sie können die App weiterhin unterstützen, wenn Sie ein Abonnement abschließen.",
     "fr": "Vous avez une mise à jour Premium à vie, donc vous avez les bénéfices d\\'une souscription à vie. Vous pouvez encore supporter l\\'application en souscrivant.",
-    "tr": "Ömür boyu premium yükseltmeye sahipsiniz, bu nedenle ömür boyu ücretsiz abonelik avantajlarına sahipsiniz. Yine de abone olarak uygulamayı destekleyebilirsiniz.",
+    "tr": "Ömür boyu premiuma sahipsiniz, bu nedenle ömür boyu ücretsiz abonelik avantajlarına sahipsiniz. Yine de abone olarak uygulamayı destekleyebilirsiniz.",
     "zh-Hant-TW": "您已經擁有終身高級版升級，因此您終身享有免費訂閱權益。您仍然可以通過訂閱來支持該應用程式。"
   },
   "purchases_help": {
@@ -4899,7 +4901,7 @@
     "es": "¡Disfruta de una experiencia premium sin anuncios!",
     "de": "Genießen Sie die werbefrei Premium-Version",
     "fr": "Profitez d\\'une expérience premium sans publicité!",
-    "tr": "Premium reklamsız deneyimin tadını çıkarın!",
+    "tr": "Premium, reklamsız deneyimin tadını çıkarın!",
     "zh-Hant-TW": "祝你有個美好的無廣告 premium 體驗"
   },
   "purchases_promoServerAutoSync": {
@@ -5977,7 +5979,7 @@
     "es": "Abrir Play Store",
     "de": "Play Store öffnen",
     "fr": "Ouvrir Google Play Store",
-    "tr": "Play Store\\'yi aç",
+    "tr": "Play Store\\'u Aç",
     "zh-Hant-TW": "開啟 Play Store"
   },
   "settings_preferredPrecision": {
