@@ -1335,7 +1335,7 @@
     "en": "Please make sure you are logged into the account used to make the purchase and click \\'Restore Purchases\\'. If you can\\'t restore the purchase, please reach out to us via support.",
     "es": "Asegúrese de haber iniciado sesión en la cuenta utilizada para realizar la compra y haga clic en \\'Restaurar compras\\'. Si no puede restaurar la compra, comuníquese con nosotros a través del soporte.",
     "de": "Vergewissern Sie sich, dass Sie bei dem Konto angemeldet sind, mit dem Sie den Kauf getätigt haben, und klicken Sie auf \\'Käufe wiederherstellen\\'. Wenn Sie den Kauf nicht wiederherstellen können, wenden Sie sich bitte über den Support an uns.",
-    "tr": "Lütfen satın alma işleminde kullanılan hesapta oturum açtığınızdan emin olun ve \\'Satın Almaları Geri Yükle\\' seçeneğine tıklayın. Satın alma işlemini geri yükleyemiyorsanız lütfen destek aracılığıyla bize ulaşın.?",
+    "tr": "Lütfen satın alma işleminde kullanılan hesapta oturum açtığınızdan emin olun ve \\'Satın Almaları Geri Yükle\\' seçeneğine tıklayın. Satın alma işlemini geri yükleyemiyorsanız lütfen destek aracılığıyla bize ulaşın.",
     "zh-Hant-TW": "請確認您使用已購買過的帳號登入，並且按下 \\'復原我的購買\\'。若不成功請透過支援聯絡我們。"
   },
   "faq_whySubscriptionFee": {
@@ -1407,8 +1407,7 @@
   },
   "generic_alerts": {
     "en": "Alerts",
-    "es": "Alertas",
-    "tr": "Uyarılar"
+    "es": "Alertas"
   },
   "generic_agreePrivacyPolicyAndTermsOfUse": {
     "_comment": "generic_termsOfUse and generic_privacyPolicy should exist in the translation",
@@ -1571,8 +1570,7 @@
   "generic_contentsOfReport": {
     "en": "Contents of Report",
     "es": "Contenido del informe",
-    "de": "Inhalt des Berichts",
-    "tr": "Rapor İçeriği"
+    "de": "Inhalt des Berichts"
   },
   "generic_continue": {
     "en": "Continue",
@@ -1777,8 +1775,7 @@
   "generic_errorRunningAppFromExternalStorage": {
     "en": "It looks like you\\'re running the app from your SDCard / external storage. This may cause issues with graphics not loading, widgets not functioning, authentication failing, etc. Please move the app back to internal storage if you experience issues.",
     "es": "Parece que está ejecutando la aplicación desde su tarjeta SD / almacenamiento externo. Esto puede causar problemas con la carga de gráficos, widgets que no funcionan, fallos de autenticación, etc. Por favor, mueva la aplicación de nuevo al almacenamiento interno si experimenta problemas.",
-    "de": "Es sieht so aus, als ob Sie die App von Ihrer SDCard/externem Speicher ausführen. Dies kann zu Problemen mit nicht geladenen Grafiken, nicht funktionierenden Widgets, fehlgeschlagener Authentifizierung usw. führen. Bitte verschieben Sie die App zurück auf den internen Speicher, wenn Sie Probleme haben.",
-    "tr": "Görünüşe göre uygulamayı SDCard'ınızdan / harici depolama alanınızdan çalıştırıyorsunuz. Bu, grafiklerin yüklenmemesi, widget'ların çalışmaması, kimlik doğrulamanın başarısız olması vb. sorunlara neden olabilir. Sorun yaşarsanız lütfen uygulamayı dahili depolamaya geri taşıyın."
+    "de": "Es sieht so aus, als ob Sie die App von Ihrer SDCard/externem Speicher ausführen. Dies kann zu Problemen mit nicht geladenen Grafiken, nicht funktionierenden Widgets, fehlgeschlagener Authentifizierung usw. führen. Bitte verschieben Sie die App zurück auf den internen Speicher, wenn Sie Probleme haben."
   },
   "generic_errorWhileRestoring": {
     "en": "Error while restoring",
@@ -2495,8 +2492,7 @@
   },
   "generic_sponsoredContent": {
     "en": "Sponsored Content",
-    "es": "Contenido patrocinado",
-    "tr": "Sponsorlu İçerik"
+    "es": "Contenido patrocinado"
   },
   "generic_subscribed": {
     "en": "Subscribed",
@@ -2744,7 +2740,7 @@
     "de": "Es konnte keine Verbindung zum Hilfeserver hergestellt werden. Schicken Sie dem Entwickler eine E-Mail mit Ihrer Frage",
     "fr": "Impossible de se connecter au serveur d\\'aide. Envoyez un email au développeur avec votre question ?",
     "tr": "Yardım sunucusuna bağlanılamadı. Geliştiriciye sorunuzla ilgili e-posta mı gönderiyorsunuz?",
-    "zh-Hant-TW": "ˊ無法連接至幫助中心。Email 給開發者您的問題？"
+    "zh-Hant-TW": "無法連接至幫助中心。Email 給開發者您的問題？"
   },
   "help_dontSeeMyAnswer": {
     "en": "I don\\'t see my answer…",
@@ -3155,8 +3151,7 @@
   },
   "portfolio_convertPriceToPence": {
     "en": "Convert price to pence",
-    "es": "Convertir precio a peniques",
-    "tr": "Fiyatı peniye çevir"
+    "es": "Convertir precio a peniques"
   },
   "portfolioAllocations_groupInOthers": {
     "en": "Group holding in \\'Others\\' when less than % of total",
@@ -3442,8 +3437,7 @@
   },
   "portfolio_dataNotAvailableForExchange": {
     "en": "Data not available for this stock exchange",
-    "es": "Datos no disponibles para este mercado de valores",
-    "tr": "Bu borsa için veri bulunmamaktır"
+    "es": "Datos no disponibles para este mercado de valores"
   },
   "portfolio_defaultCurrency": {
     "en": "Default",
@@ -3710,8 +3704,8 @@
   },
   "portfolio_generateReport_enterCustomSubtitleOptional": {
     "en": "Enter custom subtitle (Optional)",
+    "de": "Benutzerdefinierten Untertitel eingeben (optional)",
     "es": "Introduce un subtítulo personalizado (Opcional)",
-    "de": "Benutzerdefinierten Untertitel eingeben (optional)"
     "tr": "Özel altyazı girin (İsteğe bağlı)"
   },
   "portfolio_generateReport_errorGeneric": {
@@ -3816,31 +3810,31 @@
     "zh-Hant-TW": "預設幣別"
   },
   "portfolio_homeCurrencyHelp": {
-    "de": "Ihre Bestände werden umgerechnet und in dieser Währung angezeigt. Hinweis: Bisherige Performance-Chartdaten werden gelöscht",
     "en": "Your holdings will be converted to display in this currency. Note: historical performance chart data will be cleared.",
+    "de": "Ihre Bestände werden umgerechnet und in dieser Währung angezeigt. Hinweis: Bisherige Performance-Chartdaten werden gelöscht",
     "es": "Tus participaciones se convertirán para mostrarse en esta moneda. Nota: los datos del gráfico de rendimiento histórico se borrarán.",
     "fr": "Vos avoirs seront convertis et affichés dans cette devise",
     "tr": "Varlıklarınız bu para biriminde görüntülenecek şekilde dönüştürülecektir. Not: geçmiş performans grafiği verileri silinecektir.",
     "zh-Hant-TW": "您的投資組合會被轉換成以此貨幣顯示。注意: 歷史績效圖資料會被清除。"
   },
   "portfolio_interests": {
-    "de": "Interessengebiete",
     "en": "Interests",
+    "de": "Interessengebiete",
     "es": "Intereses",
     "tr": "Faiz",
     "zh-Hant-TW": "利息"
   },
   "portfolio_lastKnownDailyChange": {
-    "de": "Letzte bekannte tägliche Änderung",
     "en": "Last Known Daily Change",
+    "de": "Letzte bekannte tägliche Änderung",
     "es": "Último Cambio Diario Conocido",
     "fr": "Dernier cours connu",
     "tr": "Bilinen Son Günlük Değişim",
     "zh-Hant-TW": "最後交易日價格變動"
   },
   "portfolio_lastPrice": {
-    "de": "Letzter Preis",
     "en": "Last Price",
+    "de": "Letzter Preis",
     "es": "Último Precio",
     "fr": "Cours",
     "tr": "Son Fiyat",
@@ -3855,9 +3849,9 @@
     "zh-Hant-TW": "未加入任何交易"
   },
   "portfolio_marketNews": {
-    "de": "Börsennachrichten",
     "en": "Market News",
     "es": "Noticias del Mercado",
+    "de": "Börsennachrichten",
     "fr": "Actualités du marché",
     "tr": "Piyasa Haberleri",
     "zh-Hant-TW": "市場新聞"
@@ -4623,8 +4617,7 @@
     "_formatted": false,
     "en": "This is a %s cash position",
     "es": "Esta es una posición de efectivo en %s",
-    "de": "Dies ist ein %s Bargeldbestand",
-    "tr": "Bu bir %s nakit pozisyonudur"
+    "de": "Dies ist ein %s Bargeldbestand"
   },
   "portfolio_ticker": {
     "en": "Ticker",
@@ -5892,8 +5885,8 @@
     "en": "Import/Export and Sync Data",
     "es": "Importar/Exportar y Sincronizar Datos",
     "de": "Import/Export und Datensychronisation",
-    "tr": "Verileri İçe/Dışa Aktar ve Senkronize Et",
     "fr": "Importer/Exporter and synchronizer les données",
+    "tr": "Verileri İçe/Dışa Aktar ve Senkronize Et",
     "zh-Hant-TW": "匯入／匯出資料"
   },
   "settings_importExportCustomPrices": {
@@ -7042,7 +7035,7 @@
   },
   "welcome_welcomeMessage": {
     "en": "Thank you for downloading My Stocks Portfolio (MSP)!\\n\\nA sample portfolio has been created. Please visit the help section for questions.",
-    "de": "Vielen Dank für das Herunterladen von My Stocks Portfolio (MSP)!\\\n\\nEin Musterportfolio wurde erstellt. Bei Fragen besuchen Sie bitte den Hilfebereich.",
+    "de": "Vielen Dank für das Herunterladen von My Stocks Portfolio (MSP)!\\n\\nEin Musterportfolio wurde erstellt. Bei Fragen besuchen Sie bitte den Hilfebereich.",
     "fr": "Merci d\\'avoir téléchargé cette application !\\n\\nUn exemple de portefeuille a été créé.",
     "tr": "My Stocks Portfolio (MSP) indirdiğiniz için teşekkür ederiz! Örnek bir portföy oluşturulmuştur. Sorularınız için lütfen yardım bölümünü ziyaret edin.",
     "zh-Hant-TW": "感謝您下載 My Stocks Portfolio（MSP）！一個用作範例的投資組合已經被建立。如遇到任何問題請從幫助頁面中尋求協助。"
