@@ -502,7 +502,7 @@
     "en": "Unknown",
     "es": "Desconocido",
     "de": "Unbekannt",
-    "tr": "Biinmeyen",
+    "tr": "Bilinmeyen",
     "zh-Hant-TW": "未知"
   },
   "addQuoteTransaction_useCommissions": {
@@ -646,7 +646,8 @@
     "zh-Hant-TW": "點擊選單中新增到價通知或點擊這裡新增"
   },
   "alert_deleteTriggeredAlerts": {
-    "en": "Delete triggered alerts"
+    "en": "Delete triggered alerts",
+    "tr": "Tetiklenen uyarıları sil"
   },
   "alert_enableAnnouncementPushNotifications": {
     "en": "Enable push notifications for important announcements",
@@ -771,24 +772,28 @@
     "en": "Please enter a number less than the current price",
     "es": "Por favor, ingrese un número menor que el precio actual",
     "de": "Bitte geben Sie eine Zahl ein, die kleiner als der aktuelle Kurs ist",
+    "tr": "Lütfen mevcut fiyattan daha düşük bir fiyat girin",
     "zh-Hant-TW": "請輸入低於現在價格的數字"
   },
   "alert_validation_enterNumberMoreThanPrice": {
     "en": "Please enter a number greater than the current price",
     "es": "Por favor, ingrese un número mayor que el precio actual",
     "de": "Bitte geben Sie eine Zahl ein, die größer als der aktuelle Kurs ist",
+    "tr": "Lütfen mevcut fiyattan daha yüksek bir fiyat girin",
     "zh-Hant-TW": "請輸入高於現在價格的數字"
   },
   "alert_validation_enterValidAmount": {
     "en": "Please enter a valid amount",
     "es": "Por favor, ingrese una cantidad válida",
     "de": "Bitte geben Sie einen gültigen Betrag ein",
+    "tr": "Lütfen geçerli bir tutar girin",
     "zh-Hant-TW": "請輸入有效的數量"
   },
   "alert_validation_selectValidCondition": {
     "en": "Please select a valid condition",
     "es": "Por favor, seleccione una condición válida",
     "de": "Bitte wählen Sie eine gültige Bedingung",
+    "tr": "Lütfen geçerli bir koşul seçin",
     "zh-Hant-TW": "請選擇有效的條件"
   },
   "alert_viewExistingAlerts": {
@@ -3694,6 +3699,7 @@
     "en": "Enter custom subtitle (Optional)",
     "es": "Introduce un subtítulo personalizado (Opcional)",
     "de": "Benutzerdefinierten Untertitel eingeben (optional)"
+    "tr": "Özel altyazı girin (İsteğe bağlı)"
   },
   "portfolio_generateReport_errorGeneric": {
     "en": "Error while generating report. If the issue persists, please contact customer support.",
@@ -3800,6 +3806,8 @@
     "en": "Your holdings will be converted to display in this currency. Note: historical performance chart data will be cleared.",
     "es": "Tus participaciones se convertirán para mostrarse en esta moneda. Nota: los datos del gráfico de rendimiento histórico se borrarán.",
     "de": "Ihre Bestände werden umgerechnet und in dieser Währung angezeigt. Hinweis: Bisherige Performance-Chartdaten werden gelöscht",
+    "en": "Your holdings will be converted to display in this currency. Note: historical performance chart data will be cleared.",
+    "es": "Tus participaciones se convertirán para mostrarse en esta moneda. Nota: los datos del gráfico de rendimiento histórico se borrarán.",
     "fr": "Vos avoirs seront convertis et affichés dans cette devise",
     "tr": "Varlıklarınız bu para biriminde görüntülenecek şekilde dönüştürülecektir. Not: geçmiş performans grafiği verileri silinecektir.",
     "zh-Hant-TW": "您的投資組合會被轉換成以此貨幣顯示。注意: 歷史績效圖資料會被清除。"
@@ -3808,6 +3816,8 @@
     "en": "Interests",
     "es": "Intereses",
     "de": "Interessengebiete",
+    "en": "Interests",
+    "es": "Intereses",
     "tr": "Faiz",
     "zh-Hant-TW": "利息"
   },
@@ -3847,6 +3857,7 @@
     "en": "Gainers",
     "es": "Ganadores",
     "de": "Gewinner",
+    "es": "Ganadores",
     "tr": "Kazandıranlar",
     "zh-Hant-TW": "大賺"
   },
@@ -3854,6 +3865,7 @@
     "en": "Losers",
     "es": "Perdedores",
     "de": "Verlierer",
+    "es": "Perdedores",
     "tr": "Kaybettirenler",
     "zh-Hant-TW": "大賠"
   },
@@ -3861,6 +3873,7 @@
     "en": "Copy to Portfolio",
     "es": "Copiar a Portafolio",
     "de": "kopieren ins Portfolio",
+    "es": "Copiar a Portafolio",
     "fr": "Copie vers le portefeuille",
     "tr": "Portföye Kopyala",
     "zh-Hant-TW": "複製至投資組合"
@@ -3869,6 +3882,7 @@
     "en": "Move to Portfolio",
     "es": "Mover a Portafolio",
     "de": "verschieben ins Portfolio",
+    "es": "Mover a Portafolio",
     "fr": "Déplacer vers le portefeuille",
     "tr": "Portföye Taşı",
     "zh-Hant-TW": "移動至投資組合"
@@ -3877,6 +3891,7 @@
     "en": "Move/Copy to Portfolio",
     "es": "Mover/Copiar a Portafolio",
     "de": "verschieben/kopieren ins Portfolio",
+    "es": "Mover/Copiar a Portafolio",
     "fr": "Déplacer/Copie vers le portefeuille",
     "tr": "Portföye Taşı/Kopyala",
     "zh-Hant-TW": "移動／複製至投資組合"
@@ -3885,6 +3900,7 @@
     "en": "Moving to portfolio…",
     "es": "Moviendo a portafolio…",
     "de": "wird ins Portfolio verschoben…",
+    "es": "Moviendo a portafolio…",
     "fr": "Déplacement vers le portefeuille…",
     "tr": "Portföye taşınıyor…",
     "zh-Hant-TW": "移動至投資組合中…"
@@ -3924,6 +3940,7 @@
     "en": "No profile information for this quote",
     "es": "No hay información de perfil para esta cotización",
     "de": "Keine Profilinformationen für dieses Angebot",
+    "tr": "Bu öneri için profil bilgisi bulunmamaktadır",
     "zh-Hant-TW": "此報價沒有檔案資訊"
   },
   "portfolio_noQuotesHelp": {
@@ -4840,7 +4857,7 @@
     "es": "Tienes la actualización premium de por vida, por lo que tienes beneficios de suscripción gratuita de por vida. Aún puedes apoyar la aplicación suscribiéndote.",
     "de": "Sie haben das lebenslange Premium-Upgrade, d. h. Sie haben lebenslang kostenlose Abonnementvorteile. Sie können die App weiterhin unterstützen, wenn Sie ein Abonnement abschließen.",
     "fr": "Vous avez une mise à jour Premium à vie, donc vous avez les bénéfices d\\'une souscription à vie. Vous pouvez encore supporter l\\'application en souscrivant.",
-    "tr": "Ömür boyu premium yükseltmeye sahipsiniz, bu nedenle ömür boyu ücretsiz abonelik avantajlarına sahipsiniz. Yine de abone olarak uygulamayı destekleyebilirsiniz.",
+    "tr": "Ömür boyu premiuma sahipsiniz, bu nedenle ömür boyu ücretsiz abonelik avantajlarına sahipsiniz. Yine de abone olarak uygulamayı destekleyebilirsiniz.",
     "zh-Hant-TW": "您已經擁有終身高級版升級，因此您終身享有免費訂閱權益。您仍然可以通過訂閱來支持該應用程式。"
   },
   "purchases_help": {
@@ -4880,7 +4897,7 @@
     "es": "¡Disfruta de una experiencia premium sin anuncios!",
     "de": "Genießen Sie die werbefrei Premium-Version",
     "fr": "Profitez d\\'une expérience premium sans publicité!",
-    "tr": "Premium reklamsız deneyimin tadını çıkarın!",
+    "tr": "Premium, reklamsız deneyimin tadını çıkarın!",
     "zh-Hant-TW": "祝你有個美好的無廣告 premium 體驗"
   },
   "purchases_promoServerAutoSync": {
@@ -5958,7 +5975,7 @@
     "es": "Abrir Play Store",
     "de": "Play Store öffnen",
     "fr": "Ouvrir Google Play Store",
-    "tr": "Play Store\\'yi aç",
+    "tr": "Play Store\\'u Aç",
     "zh-Hant-TW": "開啟 Play Store"
   },
   "settings_preferredPrecision": {
@@ -6390,6 +6407,7 @@
     "_comment": "GDPR (EU) only",
     "en": "Please either Consent to advertising or select the following options at a minimum:",
     "de": "Bitte stimmen Sie entweder der Werbung zu oder wählen Sie mindestens die folgenden Optionen aus:",
+    "tr": "Lütfen ya reklamı onaylayın ya da en azından aşağıdaki seçenekleri belirleyin:",
     "zh-Hant-TW": "請選擇同意放置廣告或選擇以下選項："
   },
   "userConsent_customLine1": {
@@ -7076,6 +7094,7 @@
   },
   "widget_configureHelp_troubleshooting": {
     "en": "You may need to whitelist the widget to run in the background. Please see https://help.mystocksportfolio.app/troubleshooting/widget-issues for steps on how to whitelist widgets and other troubleshooting steps."
+    "tr": "Widget'ın arka planda çalışması için güvenilir adresler listesine almanız gerekebilir. Widget'ların nasıl güvenilir adresler listesine alınacağı ve diğer sorun giderme adımları için lütfen https://help.mystocksportfolio.app/troubleshooting/widget-issues adresine bakın."
   },
   "widget_refreshing": {
     "en": "Refreshing Widget",

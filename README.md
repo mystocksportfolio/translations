@@ -1,20 +1,20 @@
 This repository contains translations for the My Stocks Portfolio (MSP) application.
 
-Progress (947 strings):
+Progress (955 strings):
 
-![Progress](https://progress-bar.dev/100?title=en&width=120) 949/947 - English
+957/955 - English
 
-![Progress](https://progress-bar.dev/99?title=de&width=120) 938/947 - German
+940/955 - German
 
-![Progress](https://progress-bar.dev/99?title=tr&width=120) 937/947 - Turkish
+789/955 - Spanish
 
-![Progress](https://progress-bar.dev/97?title=zh-Hant-TW&width=120) 919/947 - Traditional Chinese
+939/955 - Turkish
 
-![Progress](https://progress-bar.dev/56?title=fr&width=120) 531/947 - French
+939/955 - Traditional Chinese
 
-![Progress](https://progress-bar.dev/2?title=zh&width=120) 20/947 - Simplified Chinese
+533/955 - French
 
-![Progress](https://progress-bar.dev/0?title=es&width=120) 1/947 - Spanish
+20/955 - Simplified Chinese
 
 To make translation suggestions, you can edit the localization file [strings.json](https://github.com/mystocksportfolio/translations/blob/main/strings.json) (see screenshots below). If your language is not listed yet, you may add a new entry for your language.
 
@@ -25,7 +25,6 @@ Step 1: Click the edit button from the link [strings.json](https://github.com/my
 Step 2: Make your edits and click 'commit changes' (top right)
 
 Step 3: Click 'Create pull request'
-
 
 You may also open a ticket (Issues tab) or email info@mystocksportfolio.app with your suggested changes or translation bug reports, and we will try to make the change the next time the app releases.
 
