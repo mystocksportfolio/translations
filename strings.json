@@ -6951,12 +6951,19 @@
     "tr": " %s hakkında daha fazla haber için ➔",
     "zh-Hant-TW": "更多新聞關於 %s ➔"
   },
-  "viewQuote_newTickerChange": {
+  "viewQuote_newTicker": {
     "_formatted": false,
-    "en": "Ticker has changed %s\\nTap here to change to the new one",
-    "de": "Der Ticker hat sich geändert %s\\nTippen Sie hier, um zum neuen Ticker zu wechseln",
-    "tr": "%s sembolu değişti \\nYenisine geçmek için buraya dokunun",
-    "zh-Hant-TW": "代碼／標的已被改變。點選這裡來使用新的"
+    "en": "Ticker has changed %s",
+    "de": "Der Ticker hat sich geändert %s",
+    "tr": "%s sembolu değişti",
+    "zh-Hant-TW": "代碼／標的已被改變：%s"
+  },
+  "viewQuote_newTickerTapToChange": {
+    "_formatted": false,
+    "en": "Tap here to change to the new one",
+    "de": "Tippen Sie hier, um zum neuen Ticker zu wechseln",
+    "tr": "Yenisine geçmek için buraya dokunun",
+    "zh-Hant-TW": "點選這裡來使用新的"
   },
   "viewQuote_noData": {
     "en": "No Data",
@@ -7090,8 +7097,8 @@
     "zh-Hant-TW": "若欲設定小工具（諸如自動重新整理和字體大小），開啟應用程式>設定>小工具選單。若您將小工具長寬設定非常小，請記得調整設定確保小工具可顯示出所有內容。\\n\\n提醒您有兩種小工具可使用 — 總覽和單一投資組合。如果有需要看到您的報價，建議使用單一投資組合而非總覽。"
   },
   "widget_configureHelp_troubleshooting": {
-    "en": "You may need to whitelist the widget to run in the background. Please see https://help.mystocksportfolio.app/troubleshooting/widget-issues for steps on how to whitelist widgets and other troubleshooting steps."
-    "tr": "Widget'ın arka planda çalışması için güvenilir adresler listesine almanız gerekebilir. Widget'ların nasıl güvenilir adresler listesine alınacağı ve diğer sorun giderme adımları için lütfen https://help.mystocksportfolio.app/troubleshooting/widget-issues adresine bakın."
+    "en": "You may need to whitelist the widget to run in the background. Please see https://help.mystocksportfolio.app/troubleshooting/widget-issues for steps on how to whitelist widgets and other troubleshooting steps.",
+    "tr": "Widget\\'ın arka planda çalışması için güvenilir adresler listesine almanız gerekebilir. Widget\\'ların nasıl güvenilir adresler listesine alınacağı ve diğer sorun giderme adımları için lütfen https://help.mystocksportfolio.app/troubleshooting/widget-issues adresine bakın."
   },
   "widget_refreshing": {
     "en": "Refreshing Widget",
