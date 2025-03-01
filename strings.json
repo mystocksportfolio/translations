@@ -4205,7 +4205,7 @@
     "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4.",
     "es": "Ejemplos:\\n\\nUna división de 4 por 1 multiplicará las acciones poseídas por 4 y dividirá el costo pagado por acción por 4.\\n\\nUna división inversa de 1 por 4 dividirá las acciones poseídas por 4 y multiplicará el costo por acción por 4.",
     "de": "Beispiele:\\n\\nEin Split im Verhältnis 1:4 multipliziert die eigenen Aktien mit 4 und teilt die Kosten pro Aktie durch 4.\\n\\nEin umgekehrter Split im Verhältnis 1:4 teilt die eigenen Aktien mit 4 und teilt die Kosten pro Aktie durch 4.",
-    "tr": "Örnekler:\\n\\n%400 bölünme, sahip olunan hisseleri 4 ile çarpacak ve hisse başına ödenen maliyeti 4\\'e bölecektir.\\n\\n%400 ters bölünme, sahip olunan hisseleri 4\\'e bölecek ve hisse başına maliyeti 4\\'e katlayacaktır.",
+    "tr": "Örnekler:\\n\\n1\\'e 4\\'lük bölünme, sahip olunan hisse sayısını 4\\'e çarpacak ve hisse başına ödenen maliyeti 4\\'e bölecektir.\\n\\n1\\'e 4 ters bölünme, sahip olunan hisseleri 4\\'e ve çoklu hisse başına maliyeti 4\\'e bölecektir.",
     "zh-Hant-TW": "例子:\\n\\n一個 4 對 1 的股票分割會將所擁有的股份乘以 4，並將每股支付的成本除以 4。\\n\\n一個 1 對 4 的反向股票分割會將所擁有的股份除以 4，並將每股成本乘以 4。"
   },
   "portfolio_splitRatio": {
