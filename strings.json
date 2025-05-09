@@ -2125,6 +2125,14 @@
     "tr": "Tamam",
     "zh-Hant-TW": "確定"
   },
+  "generic_oneNumerical": {
+    "en": "1",
+    "es": "1",
+    "de": "1",
+    "fr": "1",
+    "tr": "1",
+    "zh-Hant-TW": "一"
+  },
   "generic_openDrawerAccessibility": {
     "en": "Open navigation drawer",
     "es": "Abrir el cajón de navegación",
@@ -2154,6 +2162,14 @@
     "de": "Aus Zwischenablage einfügen",
     "tr": "Panodan Yapıştır",
     "zh-Hant-TW": "從備忘錄貼上"
+  },
+  "generic_perMonthAbbrev": {
+    "en": "/ mo",
+    "es": "/ mes",
+    "de": "/ Monat",
+    "fr": "/ mois",
+    "tr": "/ Ay",
+    "zh-Hant-TW": "／月"
   },
   "generic_perMonthShort": {
     "en": "/month",
@@ -5018,6 +5034,14 @@
     "fr": "Votre compte est suspendu à cause d\\'un problème avec votre méthode de paiement. Tapez ici pour résoudre le problème.",
     "tr": "Ödeme yönteminizle ilgili bir sorun olduğu için hesabınız bekletiliyor. Sorunu çözmek için buraya dokunun.",
     "zh-Hant-TW": "您的帳戶因為有個付款的問題而被擱置。請按這解決問題。"
+  },
+  "purchases_subscriptionAutoRenew": {
+    "en": "Your subscription will be automatically renewed before it expires. You may cancel any time by tapping the Manage Subscriptions link or opening the Google Play app.",
+    "es": "Tu suscripción se renovará automáticamente antes de que expire. Puedes cancelarla en cualquier momento tocando el enlace Administrar Suscripciones o abriendo la aplicación de Google Play.",
+    "de": "Ihr Abonnement wird automatisch vor Ablauf verlängert. Sie können es jederzeit kündigen, indem Sie auf den Link 'Abonnements verwalten' tippen oder die Google Play App öffnen.",
+    "fr": "Votre abonnement sera automatiquement renouvelé avant son expiration. Vous pouvez l'annuler à tout moment en appuyant sur le lien Gérer les abonnements ou en ouvrant l'application Google Play.",
+    "tr": "Aboneliğiniz süresi dolmadan önce otomatik olarak yenilenecektir. İstediğiniz zaman Abonelikleri Yönet bağlantısına dokunarak veya Google Play uygulamasını açarak iptal edebilirsiniz.",
+    "zh-Hant-TW": "您的訂閱將會在到期前自動續約。您可以隨時點擊「管理訂閱」連結或開啟 Google Play 應用程式來取消訂閱。"
   },
   "purchases_subscriptionTransfer": {
     "en": "A different account is already using your subscription, but you can transfer your subscription to this account. Tap here to transfer the subscription.",
