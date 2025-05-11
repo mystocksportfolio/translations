@@ -4853,6 +4853,70 @@
     "tr": "+1 yıllık veriler için 1 günlük ayrıntı düzeyini hesaplayın (yavaş)",
     "zh-Hant-TW": "超過一年以上的資料以每日為單位計算（較慢）"
   },
+  "purchases_alreadyPurchased": {
+    "en": "Already purchased",
+    "es": "Ya comprado",
+    "de": "Bereits gekauft",
+    "fr": "Déjà acheté",
+    "tr": "Zaten satın alınmış",
+    "zh-Hant-TW": "已經買入"
+  },
+  "purchases_couldNotFetchPurchases": {
+    "en": "Could not fetch in-app purchases. Please try again later.",
+    "es": "No se pudieron recuperar las compras en la aplicación. Por favor, inténtelo de nuevo más tarde.",
+    "de": "In-App-Käufe konnten nicht abgerufen werden. Bitte versuchen Sie es später noch einmal.",
+    "fr": "Impossible de récupérer les achats. Veuillez réessayer plus tard.",
+    "tr": "Uygulama içi satın alımlar getirilemedi. Lütfen daha sonra tekrar deneyin.",
+    "zh-Hant-TW": "無法獲取購買狀態。請稍後再試。"
+  },
+  "purchases_errorPurchasing": {
+    "en": "Error purchasing",
+    "es": "Error en la compra",
+    "de": "Fehler beim Kauf",
+    "fr": "Erreur lors de l\\'achat",
+    "tr": "Satın alma hatası",
+    "zh-Hant-TW": "購買時錯誤"
+  },
+  "purchases_freeLifetime": {
+    "en": "You have the lifetime premium upgrade, so you have free subscription benefits for life. You can still support the app by subscribing.",
+    "es": "Tienes la actualización premium de por vida, por lo que tienes beneficios de suscripción gratuita de por vida. Aún puedes apoyar la aplicación suscribiéndote.",
+    "de": "Sie haben das lebenslange Premium-Upgrade, d. h. Sie haben lebenslang kostenlose Abonnementvorteile. Sie können die App weiterhin unterstützen, wenn Sie ein Abonnement abschließen.",
+    "fr": "Vous avez une mise à jour Premium à vie, donc vous avez les bénéfices d\\'une souscription à vie. Vous pouvez encore supporter l\\'application en souscrivant.",
+    "tr": "Ömür boyu premiuma sahipsiniz, bu nedenle ömür boyu ücretsiz abonelik avantajlarına sahipsiniz. Yine de abone olarak uygulamayı destekleyebilirsiniz.",
+    "zh-Hant-TW": "您已經擁有終身高級版升級，因此您終身享有免費訂閱權益。您仍然可以通過訂閱來支持該應用程式。"
+  },
+  "purchases_help": {
+    "en": "Purchases are lifetime, linked to your google account and other devices using the same google account. Please contact us if you are having issues with any purchase such as transferring to a new device.",
+    "es": "Las compras son de por vida, vinculadas a tu cuenta de Google y otros dispositivos que usan la misma cuenta de Google. Por favor, contáctenos si tienes problemas con alguna compra, como transferir a un nuevo dispositivo.",
+    "de": "Einkäufe sind lebenslang gültig und mit Ihrem Google-Konto und anderen Geräten, die dasselbe Google-Konto verwenden, verknüpft. Bitte kontaktieren Sie uns, wenn Sie Probleme mit einem Kauf haben, z. B. beim Übertragen auf ein neues Gerät.",
+    "fr": "Les achats sont à vie, liés à votre compte Google et à d\\'autres appareils utilisant le même compte Google. Contactez-nous si vous rencontrez des problèmes avec un achat tel que le transfert vers un nouvel appareil.",
+    "tr": "Satın alımlar ömür boyu geçerlidir, google hesabınızla ve aynı google hesabını kullanan diğer cihazlarla bağlantılıdır. Yeni bir cihaza aktarma gibi herhangi bir satın alma işlemiyle ilgili sorun yaşıyorsanız lütfen bizimle iletişime geçin.",
+    "zh-Hant-TW": "購買是終身的，與您的 Google 帳戶關聯可跨裝置使用。如遇到任何問題請聯絡我們。"
+  },
+  "purchases_manageSubscriptions": {
+    "en": "Manage Subscriptions",
+    "es": "Gestionar Suscripciones",
+    "de": "Abonnements verwalten",
+    "fr": "Gérer les Souscriptions",
+    "tr": "Abonelikleri Yönet",
+    "zh-Hant-TW": "管理訂閱"
+  },
+  "purchases_notSignedIn": {
+    "en": "Please open the Google Play Store app and verify that you are signed in",
+    "es": "Por favor, abre la aplicación Google Play Store y verifica que has iniciado sesión",
+    "de": "Bitte öffnen Sie die Google Play Store-App und überprüfen Sie, ob Sie angemeldet sind",
+    "fr": "Veuillez ouvrez Google Play Store et vérifier que vous êtes authentifiés.",
+    "tr": "Lütfen Google Play Store uygulamasını açın ve oturum açtığınızı doğrulayın",
+    "zh-Hant-TW": "請打開 Google Play 商店 app 登入並且進行驗證"
+  },
+  "purchases_pleaseRetryInFewSeconds": {
+    "en": "Please retry in a few seconds",
+    "es": "Por favor, inténtelo de nuevo en unos segundos",
+    "de": "Bitte versuchen Sie es in ein paar Sekunden erneut.",
+    "fr": "Veuillez réessayer dans quelques secondes",
+    "tr": "Lütfen birkaç saniye sonra tekrar deneyin",
+    "zh-Hant-TW": "請稍後再試"
+  },
   "purchases_promoText": {
     "en": "Enjoy a premium ad-free experience!",
     "es": "¡Disfruta de una experiencia premium sin anuncios!",
