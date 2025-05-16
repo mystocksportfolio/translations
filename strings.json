@@ -5770,6 +5770,21 @@
     "tr": "Hesaplamalar",
     "zh-Hant-TW": "金額計算"
   },
+  "settings_closedQuotes_hide": {
+    "en": "Hide closed quotes",
+    "es": "Ocultar cotizaciones cerradas",
+    "de": "geschlossene Kurse ausblenden",
+    "tr": "Kapatılmış önerileri gizle",
+    "zh-Hant-TW": "隱藏已平倉報價"
+  },
+  "settings_closedPositions_hide": {
+    "en": "Hide closed positions",
+    "es": "Ocultar posiciones cerradas",
+    "de": "geschlossene Positionen ausblenden",
+    "fr": "Masquer les positions fermées",
+    "tr": "Kapatılmış posizyonları gizle",
+    "zh-Hant-TW": "隱藏已平倉部位"
+  },
   "settings_couldNotStartEmailApp": {
     "en": "Could not start email app. Have you set up email on your device?",
     "es": "No se pudo iniciar la app de correo electrónico. ¿Has configurado el correo en tu dispositivo?",
@@ -5872,14 +5887,6 @@
     "tr": "Yardım ve Geri Bildirim",
     "zh-Hant-TW": "幫助與回饋"
   },
-  "settings_hideClosedPositions": {
-    "en": "Hide closed positions",
-    "es": "Ocultar posiciones cerradas",
-    "de": "geschlossene Positionen ausblenden",
-    "fr": "Masquer les positions fermées",
-    "tr": "Kapatılmış posizyonları gizle",
-    "zh-Hant-TW": "隱藏已平倉部位"
-  },
   "settings_hideClosedPositionsSummary": {
     "en": "Holdings with 0 shares remaining will be hidden on the Holdings view",
     "es": "Las tenencias con 0 acciones restantes se ocultarán en la vista de tenencias",
@@ -5887,13 +5894,6 @@
     "fr": "Les positions avec 0 actions restantes seront masquées dans la vue des positions",
     "tr": "Hisse sayısı 0 olursa varlıklar bölümünde gizlenecektir",
     "zh-Hant-TW": "股數為 0 的持股將在持股頁面中隱藏"
-  },
-  "settings_hideClosedQuotes": {
-    "en": "Hide closed quotes",
-    "es": "Ocultar cotizaciones cerradas",
-    "de": "geschlossene Kurse ausblenden",
-    "tr": "Kapatılmış önerileri gizle",
-    "zh-Hant-TW": "隱藏已平倉報價"
   },
   "settings_holdingsIfAny": {
     "en": "Holdings (if any)",
