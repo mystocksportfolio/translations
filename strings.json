@@ -2205,6 +2205,14 @@
     "tr": "%s:",
     "zh-Hant-TW": "%s："
   },
+  "generic_placeholderColonPlaceholder": {
+    "_formatted": false,
+    "en": "%s: %s",
+    "es": "%s: %s",
+    "fr": "%s : %s",
+    "tr": "%s: %s",
+    "zh-Hant-TW": "%s：%s"
+  },
   "generic_placeholderAndPlaceholder": {
     "_formatted": false,
     "_translatable": false,
@@ -5050,8 +5058,8 @@
   "purchases_subscriptionAutoRenew": {
     "en": "Your subscription will be automatically renewed before it expires. You may cancel any time by tapping the Manage Subscriptions link or opening the Google Play app.",
     "es": "Tu suscripción se renovará automáticamente antes de que expire. Puedes cancelarla en cualquier momento tocando el enlace Administrar Suscripciones o abriendo la aplicación de Google Play.",
-    "de": "Ihr Abonnement wird automatisch vor Ablauf verlängert. Sie können es jederzeit kündigen, indem Sie auf den Link 'Abonnements verwalten' tippen oder die Google Play App öffnen.",
-    "fr": "Votre abonnement sera automatiquement renouvelé avant son expiration. Vous pouvez l'annuler à tout moment en appuyant sur le lien Gérer les abonnements ou en ouvrant l'application Google Play.",
+    "de": "Ihr Abonnement wird automatisch vor Ablauf verlängert. Sie können es jederzeit kündigen, indem Sie auf den Link \\'Abonnements verwalten\\' tippen oder die Google Play App öffnen.",
+    "fr": "Votre abonnement sera automatiquement renouvelé avant son expiration. Vous pouvez l\\'annuler à tout moment en appuyant sur le lien Gérer les abonnements ou en ouvrant l\\'application Google Play.",
     "tr": "Aboneliğiniz süresi dolmadan önce otomatik olarak yenilenecektir. İstediğiniz zaman Abonelikleri Yönet bağlantısına dokunarak veya Google Play uygulamasını açarak iptal edebilirsiniz.",
     "zh-Hant-TW": "您的訂閱將於到期前自動續訂。您可隨時點選「管理訂閱」或開啟 Google Play App 取消訂閱。"
   },
@@ -6261,11 +6269,12 @@
     "zh-Hant-TW": "同步錯誤。如問題持續，請嘗試登出 Google 並重新登入。"
   },
   "sync_help": {
-    "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.\\n\\nTo see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export.",
-    "de": "Bei der Synchronisierung werden Ihr Telefon und der Server auf den neuesten Stand gebracht: Alle lokalen Daten, die Sie seit der letzten Synchronisierung geändert oder hinzugefügt haben, werden auf den Server hochgeladen, die neuesten Serverdaten werden heruntergeladen und alle lokalen Daten, die Sie von einem anderen Gerät gelöscht haben, werden gelöscht. Sie können über mehrere Geräte hinweg synchronisieren.\\n\\nUm weitere Sicherungsoptionen wie Google Drive, E-Mail oder externen Speicher zu sehen, besuchen Sie die App-Einstellungen, Import/Export.",
-    "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d\\'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\\n\\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.\\n\\nVous pouvez aussi utiliser l\\'approche d\\'import/export dans les réglages de l\\'application, sauvegarder, import/export.",
-    "tr": "Senkronizasyon telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.\\n\\nGoogle Drive, e-posta veya harici depolama gibi daha fazla yedekleme seçeneği görmek için uygulama ayarları, içe/dışa aktarma bölümünü ziyaret edebilirsiniz.",
-    "zh-Hant-TW": "同步會將您的手機與伺服器更新至最新狀態：會將您自上次同步後修改或新增的本地資料上傳至伺服器、下載最新伺服器資料，並刪除您在其他裝置刪除的本地資料。您可以在多個裝置間同步。\\n\\n如需更多備份選項（如 Google Drive、Email 或外部儲存），請至應用程式設定的匯入／匯出頁面。"
+    "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.",
+    "de": "Bei der Synchronisierung werden Ihr Telefon und der Server auf den neuesten Stand gebracht: Alle lokalen Daten, die Sie seit der letzten Synchronisierung geändert oder hinzugefügt haben, werden auf den Server hochgeladen, die neuesten Serverdaten werden heruntergeladen und alle lokalen Daten, die Sie von einem anderen Gerät gelöscht haben, werden gelöscht. Sie können über mehrere Geräte hinweg synchronisieren.",
+    "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d\\'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\n\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.",
+    "tr": "Senkronizasyon telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.",
+    "zh-Hant-TW": "同步會將您的手機與伺服器更新至最新狀態：會將您自上次同步後修改或新增的本地資料上傳至伺服器、下載最新伺服器資料，並刪除您在其他裝置刪除的本地資料。您可以在多個裝置間同步。"
+  },
   },
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
