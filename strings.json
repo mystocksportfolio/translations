@@ -6992,9 +6992,9 @@
   },
   "viewQuote_newTicker": {
     "_formatted": false,
-    "en": "Ticker has changed %s",
-    "de": "Der Ticker hat sich geändert %s",
-    "tr": "%s sembolu değişti",
+    "en": "Ticker has changed: %s",
+    "de": "Der Ticker hat sich geändert: %s",
+    "tr": "Sembolu değişti: %s",
     "zh-Hant-TW": "代碼已變更：%s"
   },
   "viewQuote_newTickerTapToChange": {
