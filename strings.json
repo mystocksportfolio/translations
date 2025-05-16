@@ -706,6 +706,18 @@
     "tr": "Daha çok",
     "zh-Hant-TW": "高於"
   },
+  "alert_stateTriggered": {
+    "en": "Triggered (Inactive)",
+    "zh-Hant-TW": "已觸發（未啟用）"
+  },
+  "alert_stateDisabled": {
+    "en": "Disabled",
+    "zh-Hant-TW": "已禁用"
+  },
+  "alert_stateUnknown": {
+    "en": "Unknown",
+    "zh-Hant-TW": "未知"
+  },
   "alert_testNotificationReceived": {
     "en": "Test notification received",
     "es": "Notificación de prueba recibida",
@@ -1466,6 +1478,10 @@
     "tr": "Otomatik yenileme başlangıç zamanı",
     "zh-Hant-TW": "自動重新整理開始時間"
   },
+  "generic_backgroundColor": {
+    "en": "Background Color",
+    "zh-Hant-TW": "背景顏色"
+  },
   "generic_backup": {
     "en": "Backup",
     "es": "Respaldo",
@@ -1679,6 +1695,10 @@
     "tr": "Düzenle",
     "zh-Hant-TW": "編輯"
   },
+  "generic_editAlert": {
+    "en": "Edit Alert",
+    "zh-Hant-TW": "編輯通知"
+  },
   "generic_email": {
     "en": "Email",
     "es": "Correo electrónico",
@@ -1860,6 +1880,10 @@
     "fr": "Filtre",
     "tr": "Filtre",
     "zh-Hant-TW": "篩選"
+  },
+  "generic_fontColor": {
+    "en": "Font Color",
+    "zh-Hant-TW": "字體顏色"
   },
   "generic_fontSize": {
     "de": "Schriftgröße",
@@ -2081,6 +2105,26 @@
     "fr": "Aucun résultat",
     "tr": "Sonuç Yok",
     "zh-Hant-TW": "沒有結果"
+  },
+  "generic_notifications_alarmsAndReminders_android_openSettingstoEnable": {
+    "en": "Alarms & reminders are not enabled for this app. Please go into the app settings, Alarms & Reminders, and enable it. Open settings to enable it?",
+    "zh-Hant-TW": "此應用程式尚未啟用鬧鐘與提醒功能。請前往應用程式設定中的『鬧鐘與提醒』，並將其啟用。是否要開啟設定以啟用？"
+  },
+  "generic_notifications_android_openSettingsToEnable": {
+    "en": "Notifications are not enabled for this app. Please go into the app settings, Notifications, and enable all alerts. Open settings to enable them?",
+    "zh-Hant-TW": "此應用程式尚未啟用通知。請前往應用程式設定中的『通知』，並啟用所有提醒。是否要開啟設定以啟用？"
+  },
+  "generic_notifications_portfolio_android_openSettingsToEnable": {
+    "en": "Portfolio value notifications are not enabled for this app. Please go into the app settings, Notifications, and enable Portfolio value notifications. Open settings to enable them?",
+    "zh-Hant-TW": "此應用程式尚未啟用投資組合價值通知。請前往應用程式設定中的『通知』，並啟用投資組合價值通知。是否要開啟設定以啟用？"
+  },
+  "generic_notificationsAreDisabled": {
+    "en": "Notifications are disabled",
+    "zh-Hant-TW": "通知已被停用"
+  },
+  "generic_notificationsTapToEnable": {
+    "en": "To enable notifications, please tap here",
+    "zh-Hant-TW": "如要啟用通知，請點擊此處"
   },
   "generic_notificationTestInProgress": {
     "en": "You should receive a test notification in a few seconds",
@@ -2330,6 +2374,10 @@
     "de": "Erforderlich",
     "tr": "Gerekli",
     "zh-Hant-TW": "必要的"
+  },
+  "generic_requiresAppRestart": {
+    "en": "Requires app restart",
+    "zh-Hant-TW": "需重新啟動"
   },
   "generic_retry": {
     "en": "Retry",
@@ -2712,6 +2760,10 @@
     "tr": "Güncelleniyor",
     "zh-Hant-TW": "更新中"
   },
+  "generic_viewHelpGuideAndFAQ": {
+    "en": "View Help Guide and FAQ",
+    "zh-Hant-TW": "查看說明指南與常見問題"
+  },
   "generic_year": {
     "en": "Year",
     "es": "Año",
@@ -3049,6 +3101,10 @@
     "fr": "Actualités",
     "tr": "Haberler",
     "zh-Hant-TW": "新聞"
+  },
+  "passcode_enable": {
+    "en": "Enable Passcode",
+    "zh-Hant-TW": "啟用通行碼"
   },
   "password_confirmPassword": {
     "en": "Confirm Password",
@@ -3568,6 +3624,10 @@
     "de": "Aktivität anzeigen",
     "tr": "Aktiviteyi görüntüle",
     "zh-Hant-TW": "檢視活動"
+  },
+  "portfolio_display_changeDisplayMode": {
+    "en": "Change Display Mode",
+    "zh-Hant-TW": "切換顯示模式"
   },
   "portfolio_displayLocalCurrency": {
     "en": "Display local currency instead of home currency for:",
@@ -4662,6 +4722,14 @@
     "tr": "Sembol",
     "zh-Hant-TW": "代碼"
   },
+  "portfolio_top_daily_gainers_us": {
+    "en": "Top Daily Gainers (US)",
+    "zh-Hant-TW": "美國每日漲幅榜"
+  },
+  "portfolio_top_daily_losers_us": {
+    "en": "Top Daily Losers (US)",
+    "zh-Hant-TW": "美國每日跌幅榜"
+  },
   "portfolio_top_daily_movers_us": {
     "en": "Top Daily Movers (US)",
     "es": "Principales Movimientos Diarios (EE. UU.)",
@@ -4832,6 +4900,11 @@
     "de": "XIRR",
     "tr": "İGO",
     "zh-Hant-TW": "XIRR"
+  },
+  "portfolio_xrate": {
+    "_comment": "Abbreviation for exchange rate",
+    "en": "X-Rate",
+    "zh-Hant-TW": "匯率"
   },
   "portfolio_ytdStart": {
     "en": "YTD Start",
@@ -5785,6 +5858,10 @@
     "tr": "Kapatılmış önerileri gizle",
     "zh-Hant-TW": "隱藏已平倉報價"
   },
+  "settings_closedQuotes_show": {
+    "en": "Show closed quotes",
+    "zh-Hant-TW": "顯示已平倉報價"
+  },
   "settings_closedPositions_hide": {
     "en": "Hide closed positions",
     "es": "Ocultar posiciones cerradas",
@@ -5792,6 +5869,10 @@
     "fr": "Masquer les positions fermées",
     "tr": "Kapatılmış posizyonları gizle",
     "zh-Hant-TW": "隱藏已平倉部位"
+  },
+  "settings_closedPositions_show": {
+    "en": "Show closed positions",
+    "zh-Hant-TW": "顯示已平倉部位"
   },
   "settings_couldNotStartEmailApp": {
     "en": "Could not start email app. Have you set up email on your device?",
@@ -6275,6 +6356,16 @@
     "tr": "Senkronizasyon telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.",
     "zh-Hant-TW": "同步會將您的手機與伺服器更新至最新狀態：會將您自上次同步後修改或新增的本地資料上傳至伺服器、下載最新伺服器資料，並刪除您在其他裝置刪除的本地資料。您可以在多個裝置間同步。"
   },
+  "sync_help_seeMore_android": {
+    "en": "To see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export.",
+    "de": "Um weitere Sicherungsoptionen wie Google Drive, E-Mail oder externen Speicher zu sehen, besuchen Sie die App-Einstellungen, Import/Export.",
+    "fr": "nVous pouvez aussi utiliser l\\'approche d\\'import/export dans les réglages de l\\'application, sauvegarder, import/export.",
+    "tr": "Google Drive, e-posta veya harici depolama gibi daha fazla yedekleme seçeneği görmek için uygulama ayarları, içe/dışa aktarma bölümünü ziyaret edebilirsiniz.",
+    "zh-Hant-TW": "如需更多備份選項（如 Google Drive、Email 或外部儲存），請至應用程式設定的匯入／匯出頁面。"
+  },
+  "sync_help_seeMore_ios": {
+    "en": "To see more backup options, you can visit the app settings, backup.",
+    "zh-Hant-TW": "如需更多備份選項，請至應用程式設定的備份頁面。"
   },
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
