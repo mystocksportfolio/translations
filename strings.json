@@ -5007,7 +5007,7 @@
     "zh-Hant-TW": "要計算歷史績效嗎？\\n\\n注意：如果您修改了過去的交易，可能需要清除歷史儲存並重新計算。如果缺少歷史報價價格，可前往報價詳情頁面，從上方選單新增自訂歷史價格。"
   },
   "portfolioHistorical_dataGranularity": {
-    "en": "Data granularity:\\nWithin 1 year - 1 day\\n1-3 years - 1 week\\n3+ years - 1 month",
+    "en": "Data granularity:\\nWithin 1 year – 1 day\\n1–3 years - 1 week\\n3+ years - 1 month",
     "zh-Hant-TW": "數據粒度：\\n一年以內 - 1 天\\n1 至 3 年 - 1 週\\n超過 3 年 - 1 個月"
   },
   "portfolioHistorical_disableDataGranularity": {
