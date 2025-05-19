@@ -10,7 +10,7 @@ Progress (1024 strings):
 
 958/1024 - Turkish
 
-1024/1024 - Traditional Chinese
+1024/1024 - Traditional Chinese, Taiwan
 
 541/1024 - French
 
