@@ -1,6 +1,6 @@
 {
   "example": {
-    "_comment": "If a translation exists for en-US (US English), it will override the one for en (default English). You can use the region specific code if there are any region specific differences (Such as Canadian French vs. European French).",
+    "_comment": "If a translation exists for en-US (US English), it will override the one for en (default English). You can use the region specific code if there are any regional differences (Such as Canadian French vs. European French).",
     "_formatted": false,
     "_formatted_comment": "Include this if there are placeholders such as %s",
     "_translatable": false,
