@@ -1,19 +1,26 @@
 {
   "example": {
+    "_comment": "If a translation exists for en-US (US English), it will override the one for en (default English). You can use the region specific code if there are any region specific differences (Such as Canadian French vs. European French).",
     "_formatted": false,
     "_formatted_comment": "Include this if there are placeholders such as %s",
     "_translatable": false,
     "_translatable_comment": "Include this if the string is not translatable",
     "en": "English",
+    "en-US": "English (US)",
+    "en-GB": "English (UK)",
     "de": "Deutsch",
     "es": "Español",
+    "es-ES": "Español (ES)",
     "fr": "Français",
+    "fr-CA": "Français (CA)",
+    "fr-FR": "Français (FR)",
     "it": "Italiano",
     "ja": "日本",
     "ko": "한국인",
     "tr": "Türkçe",
     "zh": "中文",
-    "zh-Hant-TW": "中文"
+    "zh-Hant-HK": "中文 (HK)",
+    "zh-Hant-TW": "中文 (TW)"
   },
   "accounting_addLots": {
     "en": "Add Lot(s)",
