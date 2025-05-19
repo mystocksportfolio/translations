@@ -360,15 +360,15 @@
   },
   "addQuoteTransaction_enterValidCommissionOrBlank": {
     "en": "Please enter a valid commission or leave it blank",
-    "zh-Hant-TW": "請輸入有效的佣金或留空"
+    "zh-Hant-TW": "請輸入有效的手續費或留空"
   },
   "addQuoteTransaction_enterValidCostPerShareOrBlank": {
     "en": "Please enter a valid number for cost per share or leave it blank",
-    "zh-Hant-TW": "請輸入每股成本的有效數字，或留空不填"
+    "zh-Hant-TW": "請輸入有效的每股成本數字或留空"
   },
   "addQuoteTransaction_enterValidExchangeRateAtPurchaseOrBlank": {
     "en": "Please enter a valid exchange rate at time of transaction or leave it blank",
-    "zh-Hant-TW": "請在交易時輸入有效的匯率，或留空不填"
+    "zh-Hant-TW": "請輸入交易當時的匯率或留空"
   },
   "addQuoteTransaction_enterValidSharesOrBlank": {
     "en": "Please enter a valid number of shares",
@@ -376,7 +376,7 @@
   },
   "addQuoteTransaction_enterValidSplit": {
     "en": "Please enter a valid split (for example, 2 for 1)",
-    "zh-Hant-TW": "請輸入有效的拆分比例（例如，2 表示 1）"
+    "zh-Hant-TW": "請輸入有效的拆分比例（例如 2 對 1）"
   },
   "addQuoteTransaction_enterValidTransactionTime": {
     "en": "Please enter a valid Transaction Time",
@@ -1936,6 +1936,13 @@
     "fr": "Taille de police",
     "tr": "Yazı Tipi Boyutu",
     "zh-Hant-TW": "字體大小"
+  },
+  "generic_generating": {
+    "en": "Generating",
+    "es": "Generando",
+    "de": "wird erstellt",
+    "tr": "Açık varlıklar",
+    "zh-Hant-TW": "產生中"
   },
   "generic_from": {
     "en": "From",
@@ -3514,7 +3521,7 @@
   },
   "portfolio_costBasis_description": {
     "en": "Cost basis for realized + unrealized positions",
-    "zh-Hant-TW": "已實現與未實現部位的成本基礎"
+    "zh-Hant-TW": "已實現與未實現部位的成本"
   },
   "portfolio_costPerShare": {
     "en": "Cost Per Share",
@@ -3928,13 +3935,6 @@
     "de": "Die in diesem Bericht angegebenen Zahlen entsprechen möglicherweise nicht den tatsächlichen Beständen. Für die tatsächlichen Bestände wenden Sie sich bitte an Ihren Makler.",
     "tr": "Bu raporda gösterilen rakamlar gerçek varlıkları temsil etmeyebilir. Gerçek varlıklar için lütfen aracı kurumunuzla iletişime geçin.",
     "zh-Hant-TW": "本報告所顯示的數字可能不代表實際持股。實際持股請洽您的券商。"
-  },
-  "portfolio_generateReport_generating": {
-    "en": "Generating",
-    "es": "Generando",
-    "de": "wird erstellt",
-    "tr": "Açık varlıklar",
-    "zh-Hant-TW": "產生中"
   },
   "portfolio_hideDetails": {
     "de": "Details",
@@ -5556,8 +5556,8 @@
     "zh-Hant-TW": "對調漲跌顏色。價格下跌顯示綠色，上漲顯示紅色"
   },
   "settingsDisplay_lastCalculatedPrice": {
-    "en": "Last Calculated Price (Settings, Calculations, Holdings calculated using)",
-    "zh-Hant-TW": "最後計算價格（設定、計算、持有量計算所使用）"
+    "en": "Last Calculated Price (Settings > Calculations > Holdings calculated using)",
+    "zh-Hant-TW": "最後計算的金額（設定 > 金額計算 > 持股計算方式）"
   },
   "settingsDisplay_lastTradedPrice": {
     "en": "Last Open Market Price",
