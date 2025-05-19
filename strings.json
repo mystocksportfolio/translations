@@ -720,6 +720,19 @@
     "tr": "Daha Düşük Fiyat",
     "zh-Hant-TW": "價格低於"
   },
+  "alert_freeUserLimit": {
+    "_formatted": false,
+    "en": "You can have a maximum of %s price alert(s) as a free user",
+    "zh-Hant-TW": "您作為免費用戶最多可以設定 %s 個價格提醒"
+  },
+  "alert_freeUserLimit_explain": {
+    "en": "We check for triggered alerts in real time on our servers so they do not consume your device battery, but must pay cloud bills to keep them running. Alerts can be deleted from the manage alerts screen.",
+    "zh-Hant-TW": "我們會在伺服器上即時檢查觸發的警示，這樣就不會消耗您裝置的電池，但必須支付雲端費用以維持運作。您可以在「管理警示」畫面中刪除警示。"
+  },
+  "alert_freeUserLimit_subscribe": {
+    "en": "Subscribe to premium for an unlimited experience",
+    "zh-Hant-TW": "訂閱高級版，享受無限體驗"
+  },
   "alert_lessThan": {
     "de": "weniger als",
     "en": "less than",
@@ -733,6 +746,10 @@
     "es": "mayor que",
     "tr": "Daha çok",
     "zh-Hant-TW": "高於"
+  },
+  "alert_enterSymbolWithPrice": {
+    "en": "Enter a symbol that shows a price",
+    "zh-Hant-TW": "請輸入顯示價格的符號"
   },
   "alert_stateTriggered": {
     "en": "Triggered (Inactive)",
@@ -1280,6 +1297,16 @@
     "tr": "İçe aktarıldı",
     "zh-Hant-TW": "已匯入"
   },
+  "csvImport_imported_customPrices": {
+    "_formatted": false,
+    "en": "Imported %s custom prices",
+    "zh-Hant-TW": "匯入 %s 自訂價格"
+  },
+  "csvImport_imported_priceAlerts": {
+    "_formatted": false,
+    "en": "Imported %s price alerts",
+    "zh-Hant-TW": "匯入 %s 價格提醒"
+  },
   "csvImport_importedQuotesAndHoldingsFormatted": {
     "_formatted": false,
     "en": "Successfully imported %s quotes and %s holdings",
@@ -1461,8 +1488,8 @@
     "zh-Hant-TW": "如要繼續，您需要同意隱私權政策與使用條款"
   },
   "generic_appLockHelp": {
-    "de": "Wenn Sie die App-Sperre aktivieren, werden Sie beim Start der App zur Eingabe eines Codes, Gesichtserkennung oder Entsperrmuster aufgefordert. Wenn Sie Ihren Code vergessen, müssen Sie die App neu installieren.",
     "en": "Enabling App Lock will prompt for a Passcode or Face ID/Touch ID when the app is launched. If you lose your Passcode, you will need to re-install the app.",
+    "de": "Wenn Sie die App-Sperre aktivieren, werden Sie beim Start der App zur Eingabe eines Codes, Gesichtserkennung oder Entsperrmuster aufgefordert. Wenn Sie Ihren Code vergessen, müssen Sie die App neu installieren.",
     "es": "Activar el bloqueo de la aplicación solicitará un código de acceso o Face ID/Touch ID cuando se inicie la aplicación. Si pierdes tu código de acceso, tendrás que reinstalar la aplicación.",
     "tr": "Uygulama Kilidi etkinleştirildiğinde, uygulama başlatıldığında Parola veya Face ID/Touch ID istenecektir. Parolanızı kaybederseniz, uygulamayı yeniden yüklemeniz gerekecektir.",
     "zh-Hant-TW": "啟用應用程式安全鎖會在啟動時要求輸入密碼或使用生物特徵（Face ID/Touch ID）。如果您遺失密碼，需重新安裝應用程式。"
@@ -1524,6 +1551,18 @@
     "tr": "İçe aktaryamaya başla",
     "zh-Hant-TW": "開始匯入"
   },
+  "generic_biometrics_disabled": {
+    "en": "Could not use Face ID/Touch ID. Please check your phone settings to ensure the app has permission to use Biometrics.",
+    "zh-Hant-TW": "無法使用 Face ID/Touch ID。請檢查您的手機設定，確保應用程式已獲得使用生物辨識的權限。"
+  },
+  "generic_biometrics_login": {
+    "en": "Biometrics Login",
+    "zh-Hant-TW": "生物辨識登入"
+  },
+  "generic_biometrics_loginSubtitle": {
+    "en": "Log in using your Biometrics credentials",
+    "zh-Hant-TW": "使用您的生物識別憑證登入"
+  },
   "generic_calculate": {
     "en": "Calculate",
     "es": "Calcular",
@@ -1546,6 +1585,10 @@
     "tr": "İptal",
     "zh": "取消",
     "zh-Hant-TW": "取消"
+  },
+  "generic_cancelled": {
+    "en": "Cancelled",
+    "zh-Hant-TW": "已取消"
   },
   "generic_cant_send_email_error": {
     "en": "Can\\'t send email. Please check that email has been set up properly on your device.",
@@ -1910,6 +1953,10 @@
     "tr": "Sıkça Sorulan Sorular",
     "zh-Hant-TW": "常見問題"
   },
+  "generic_failedToDelete": {
+    "en": "Failed to delete",
+    "zh-Hant-TW": "刪除失敗"
+  },
   "generic_failedToOpenBrowser": {
     "en": "Could not open your web browser. Please check that you have one installed.",
     "es": "No se pudo abrir su navegador web. Por favor, verifique que tenga uno instalado.",
@@ -2262,6 +2309,32 @@
     "tr": "Panodan Yapıştır",
     "zh-Hant-TW": "從剪貼簿貼上"
   },
+  "generic_paymentTerms_ios": {
+    "en": "Payment will be charged to your iTunes account at confirmation of purchase. Your subscription will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current subscription period. Your account will be charged for renewal within 24-hours prior to the end of the current subscription period. Automatic renewals will cost the same price you were originally charged for the subscription. You can manage your subscriptions and turn off auto-renewal by going to your Account Settings on the App Store after purchase. Read our terms of use and privacy policy for more information.",
+    "de": "Die Zahlung wird bei Kaufbestätigung Ihrem iTunes-Konto belastet. Ihr Abonnement wird automatisch verlängert, sofern die automatische Verlängerung nicht mindestens 24 Stunden vor Ablauf des aktuellen Abonnementzeitraums deaktiviert wird. Ihr Konto wird innerhalb von 24 Stunden vor Ablauf des aktuellen Abonnementzeitraums für die Verlängerung belastet. Die automatische Verlängerung kostet denselben Preis, der ursprünglich für das Abonnement berechnet wurde. Sie können Ihre Abonnements verwalten und die automatische Verlängerung nach dem Kauf in den Kontoeinstellungen des App Stores deaktivieren. Weitere Informationen finden Sie in unseren Nutzungsbedingungen und der Datenschutzbestimmungen.",
+    "es": "El pago se cargará a su cuenta de iTunes al confirmar la compra. Su suscripción se renovará automáticamente a menos que la renovación automática se desactive al menos 24 horas antes del final del período de suscripción actual. Su cuenta será cargada por la renovación dentro de las 24 horas previas al final del período de suscripción actual. Las renovaciones automáticas tendrán el mismo costo que el precio original de la suscripción. Puede gestionar sus suscripciones y desactivar la renovación automática yendo a la Configuración de su cuenta en la App Store después de la compra. Lea nuestros términos de uso y la política de privacidad para más información.",
+    "fr": "Le paiement sera facturé sur votre compte iTunes lors de la confirmation de l\\'achat. Votre abonnement sera automatiquement renouvelé, sauf si le renouvellement automatique est désactivé au moins 24 heures avant la fin de la période d\\'abonnement en cours. Votre compte sera débité pour le renouvellement dans les 24 heures précédant la fin de la période d\\'abonnement en cours. Les renouvellements automatiques seront facturés au même prix que celui initialement appliqué pour l\\'abonnement. Vous pouvez gérer vos abonnements et désactiver le renouvellement automatique en accédant aux paramètres de votre compte sur l\\'App Store après l\\'achat. Veuillez consulter nos conditions d\\'utilisation et notre politique de confidentialité pour plus d\\'informations.",
+    "tr": "Ödeme, satın alma onayı sırasında iTunes hesabınıza yansıtılacaktır. Aboneliğiniz, mevcut abonelik dönemi bitmeden en az 24 saat önce otomatik yenileme kapatılmadığı sürece otomatik olarak yenilenecektir. Mevcut abonelik dönemi bitmeden önceki 24 saat içinde hesabınız yenileme için ücretlendirilecektir. Otomatik yenilemeler, abonelik için ilk kez ödediğiniz fiyatla aynı tutarda olacaktır. Satın alma işleminden sonra Aboneliklerinizi yönetmek ve otomatik yenilemeyi kapatmak için App Store’daki Hesap Ayarlarınıza gidebilirsiniz. Daha fazla bilgi için kullanım koşulları ve gizlilik politikası.",
+    "zh-Hant-TW": "付款將在確認購買時從您的 iTunes 帳戶扣款。除非您在目前訂閱期間結束前至少 24 小時關閉自動續訂，否則您的訂閱將自動續訂。您的帳戶將在目前訂閱期間結束前 24 小時內被扣款以進行續訂。自動續訂的費用將與您最初訂閱時的費用相同。您可以在購買後前往 App Store 的帳戶設定管理訂閱並關閉自動續訂。欲了解更多資訊，請閱讀我們的使用條款與隱私權政策。"
+  },
+  "generic_paymentTerms_ios_termsOfUse_substring": {
+    "_comment": "The app will search for this text in 'generic_paymentTerms_ios' and underline it",
+    "en": "terms of use",
+    "de": "Nutzungsbedingungen",
+    "es": "términos de uso",
+    "fr": "conditions d\\'utilisation",
+    "tr": "kullanım koşulları",
+    "zh-Hant-TW": "使用條款"
+  },
+  "generic_paymentTerms_ios_privacyPolicy_substring": {
+    "_comment": "The app will search for this text in 'generic_paymentTerms_ios' and underline it",
+    "en": "privacy policy",
+    "de": "Datenschutzbestimmungen",
+    "es": "política de privacidad",
+    "fr": "politique de confidentialité",
+    "tr": "gizlilik politikası",
+    "zh-Hant-TW": "隱私權政策"
+  },
   "generic_perMonthAbbrev": {
     "en": "/ mo",
     "es": "/ mes",
@@ -2270,19 +2343,19 @@
     "tr": "/ Ay",
     "zh-Hant-TW": "／月"
   },
-  "generic_perMonthShort": {
-    "en": "/month",
-    "es": "/mes",
-    "de": "/Monat",
-    "fr": "/mois",
-    "tr": "/Ay",
+  "generic_perMonth": {
+    "en": "/ month",
+    "es": "/ mes",
+    "de": "/ Monat",
+    "fr": "/ mois",
+    "tr": "/ Ay",
     "zh-Hant-TW": "／月"
   },
-  "generic_perYearShort": {
-    "en": "/year",
-    "es": "/año",
-    "de": "/Jahr",
-    "tr": "/Yıl",
+  "generic_perYear": {
+    "en": "/ year",
+    "es": "/ año",
+    "de": "/ Jahr",
+    "tr": "/ Yıl",
     "zh-Hant-TW": "／年"
   },
   "generic_pickAFile": {
@@ -2333,6 +2406,10 @@
     "fr": "Veuillez accepter la Politique de confidentialité et les conditions d\\'utilisation avant de continuer",
     "tr": "Lütfen devam etmeden önce Gizlilik Politikası ve Kullanım Koşullarını kabul edin",
     "zh-Hant-TW": "若要繼續，請同意隱私權政策與使用規範"
+  },
+  "generic_pleaseWaitSecondsBeforeRetrying": {
+    "_formatted": false,
+    "en": "Please wait %s seconds before retrying"
   },
   "generic_premium": {
     "de": "Premium",
@@ -2672,8 +2749,8 @@
     "zh-Hant-TW": "點選編輯"
   },
   "generic_termsOfUse": {
-    "de": "Nutzungsbedingungen",
     "en": "Terms of Use",
+    "de": "Nutzungsbedingungen",
     "es": "Términos de uso",
     "fr": "Conditions d\\'utilisation",
     "tr": "Kullanım Koşulları",
@@ -2816,6 +2893,10 @@
     "fr": "Mise à jour",
     "tr": "Güncelleniyor",
     "zh-Hant-TW": "更新中"
+  },
+  "generic_usePasswordInstead": {
+    "en": "Use password instead",
+    "zh-Hant-TW": "改用密碼"
   },
   "generic_viewHelpGuideAndFAQ": {
     "en": "View Help Guide and FAQ",
@@ -5082,12 +5163,19 @@
     "zh-Hant-TW": "請稍後再試"
   },
   "purchases_promoText": {
-    "en": "Enjoy a premium ad-free experience!",
-    "es": "¡Disfruta de una experiencia premium sin anuncios!",
-    "de": "Genießen Sie die werbefrei Premium-Version",
-    "fr": "Profitez d\\'une expérience premium sans publicité!",
-    "tr": "Premium, reklamsız deneyimin tadını çıkarın!",
-    "zh-Hant-TW": "享受無廣告的 Premium 體驗！"
+    "en": "Enjoy a premium ad-free experience and support the development of the app!",
+    "es": "¡Disfruta de una experiencia premium sin anuncios y apoya el desarrollo de la aplicación!",
+    "de": "Genießen Sie die werbefrei Premium-Version und unterstützen Sie die Weiterentwicklung der App",
+    "fr": "Profitez d\\'une expérience premium sans publicité et soutenez le développement de l'application !",
+    "tr": "Premium, reklamsız deneyimin tadını çıkarın ve uygulamanın gelişimini destekleyin!",
+    "zh-Hant-TW": "享受無廣告的 Premium 體驗，並支持應用程式的開發！"
+  },
+  "purchases_promoText2": {
+    "en": "We are an online service and must pay for our servers, data feeds, news sources, respond to customer support, and regularly ship new features. Your support really helps!",
+    "es": "Somos un servicio en línea y debemos pagar por nuestros servidores, fuentes de datos, fuentes de noticias, responder al soporte al cliente y lanzar nuevas funciones regularmente. ¡Tu apoyo realmente ayuda!",
+    "de": "Wir sind ein Online-Dienst und müssen für unsere Server, Datenfeeds, Nachrichtenquellen bezahlen, Kundenanfragen beantworten und regelmäßig neue Funktionen bereitstellen. Ihre Unterstützung hilft uns wirklich sehr!",
+    "tr": "Biz çevrimiçi bir hizmetiz ve sunucularımız, veri akışlarımız, haber kaynaklarımız için ödeme yapmamız, müşteri desteğine yanıt vermemiz ve düzenli olarak yeni özellikler sunmamız gerekiyor. Desteğiniz gerçekten çok yardımcı oluyor!",
+    "zh-Hant-TW": "我們是線上服務，需支付伺服器、數據來源、新聞來源、客服維運等費用，並持續開發新功能。您的支持真的很有幫助！"
   },
   "purchases_promoServerAutoSync": {
     "en": "Auto sync data across devices",
@@ -5179,6 +5267,10 @@
     "tr": "Satın almalar geri yüklendi",
     "zh-Hant-TW": "購買紀錄已復原"
   },
+  "purchases_restricted": {
+    "en": "Your account is not authorized to make payments. This might happen if, for example, you are part of a family plan that has restricted your ability to purchase content.",
+    "zh-Hant-TW": "您的帳戶無權進行付款。例如，若您是家庭共享方案的一員，且該方案限制了您的購買內容權限，可能會發生此情況。"
+  },
   "purchases_signInToSyncPurchases": {
     "en": "Please sign in with your Google account so we can remember your purchases and make them available on your other Android devices.",
     "es": "Por favor, inicia sesión con tu cuenta de Google para que podamos recordar tus compras y hacerlas disponibles en tus otros dispositivos Android.",
@@ -5186,6 +5278,10 @@
     "fr": "Veuillez vous connecter avec votre compte Google pour pouvoir synchroniser vos achats entre vos appareils.",
     "tr": "Satın aldıklarınızı hatırlayabilmemiz ve diğer Android cihazlarınızda da kullanabilmeniz için lütfen Google hesabınızla oturum açın.",
     "zh-Hant-TW": "請登入 Google 帳戶，以便我們記錄您的購買，並讓您在其他 Android 裝置上使用。"
+  },
+  "purchases_stillLoading": {
+    "en": "Premium products are still loading. Please check back later. If this issue persists, please check your internet connection or contact support.",
+    "zh-Hant-TW": "高級產品仍在載入中。請稍後再試。如果問題持續，請檢查您的網路連線或聯絡客服。"
   },
   "purchases_subscriptionActive": {
     "en": "Subscription is active\\n\\nThanks for subscribing!",
@@ -5212,12 +5308,12 @@
     "zh-Hant-TW": "您的帳戶因付款方式有問題而被暫停。請點擊這裡解決問題。"
   },
   "purchases_subscriptionAutoRenew": {
-    "en": "Your subscription will be automatically renewed before it expires. You may cancel any time by tapping the Manage Subscriptions link or opening the Google Play app.",
-    "es": "Tu suscripción se renovará automáticamente antes de que expire. Puedes cancelarla en cualquier momento tocando el enlace Administrar Suscripciones o abriendo la aplicación de Google Play.",
-    "de": "Ihr Abonnement wird automatisch vor Ablauf verlängert. Sie können es jederzeit kündigen, indem Sie auf den Link \\'Abonnements verwalten\\' tippen oder die Google Play App öffnen.",
-    "fr": "Votre abonnement sera automatiquement renouvelé avant son expiration. Vous pouvez l\\'annuler à tout moment en appuyant sur le lien Gérer les abonnements ou en ouvrant l\\'application Google Play.",
-    "tr": "Aboneliğiniz süresi dolmadan önce otomatik olarak yenilenecektir. İstediğiniz zaman Abonelikleri Yönet bağlantısına dokunarak veya Google Play uygulamasını açarak iptal edebilirsiniz.",
-    "zh-Hant-TW": "您的訂閱將於到期前自動續訂。您可隨時點選「管理訂閱」或開啟 Google Play App 取消訂閱。"
+    "en": "Your subscription will automatically renew before it expires. You may cancel any time by tapping \\'Manage Subscriptions\\'.",
+    "es": "Tu suscripción se renovará automáticamente antes de que expire. Puedes cancelarla en cualquier momento tocando el enlace Administrar Suscripciones.",
+    "de": "Ihr Abonnement wird automatisch vor Ablauf verlängert. Sie können es jederzeit kündigen, indem Sie auf den Link \\'Abonnements verwalten\\' tippen.",
+    "fr": "Votre abonnement sera automatiquement renouvelé avant son expiration. Vous pouvez l\\'annuler à tout moment en appuyant sur le lien Gérer les abonnements.",
+    "tr": "Aboneliğiniz süresi dolmadan otomatik olarak yenilenecektir. İstediğiniz zaman \\'Abonelikleri Yönet\\' seçeneğine dokunarak iptal edebilirsiniz.",
+    "zh-Hant-TW": "您的訂閱將於到期前自動續訂。您可隨時點選「管理訂閱」 取消訂閱。"
   },
   "purchases_subscriptionTransfer": {
     "en": "A different account is already using your subscription, but you can transfer your subscription to this account. Tap here to transfer the subscription.",
@@ -6566,6 +6662,10 @@
     "de": "Portfolio",
     "tr": "Portföy",
     "zh-Hant-TW": "投資組合"
+  },
+  "userConsent_appTrackingDisabled_ios": {
+    "_comment": "GDPR (EU) only",
+    "en": "If you\\'ve disabled App Tracking via your phone settings (Privacy & Security > Tracking), then that setting will take precedence."
   },
   "userConsent_consentToAdvertising": {
     "_comment": "GDPR (EU) only",
