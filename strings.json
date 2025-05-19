@@ -358,6 +358,34 @@
     "tr": "Lütfen hisse adedini girin",
     "zh-Hant-TW": "請輸入股數"
   },
+  "addQuoteTransaction_enterValidCommissionOrBlank": {
+    "en": "Please enter a valid commission or leave it blank",
+    "zh-Hant-TW": "請輸入有效的手續費或留空"
+  },
+  "addQuoteTransaction_enterValidCostPerShareOrBlank": {
+    "en": "Please enter a valid number for cost per share or leave it blank",
+    "zh-Hant-TW": "請輸入有效的每股成本數字或留空"
+  },
+  "addQuoteTransaction_enterValidExchangeRateAtPurchaseOrBlank": {
+    "en": "Please enter a valid exchange rate at time of transaction or leave it blank",
+    "zh-Hant-TW": "請輸入交易當時的匯率或留空"
+  },
+  "addQuoteTransaction_enterValidSharesOrBlank": {
+    "en": "Please enter a valid number of shares",
+    "zh-Hant-TW": "請輸入有效的股票數量"
+  },
+  "addQuoteTransaction_enterValidSplit": {
+    "en": "Please enter a valid split (for example, 2 for 1)",
+    "zh-Hant-TW": "請輸入有效的拆分比例（例如 2 對 1）"
+  },
+  "addQuoteTransaction_enterValidTransactionTime": {
+    "en": "Please enter a valid Transaction Time",
+    "zh-Hant-TW": "請輸入有效的交易時間"
+  },
+  "addQuoteTransaction_enterValidTransactionTime_notFuture": {
+    "en": "Transaction Date should not be in the future",
+    "zh-Hant-TW": "交易日期不得為未來日期"
+  },
   "addQuoteTransaction_enterValidDate": {
     "en": "Please enter a valid transaction date",
     "es": "Por favor, ingrese una fecha de transacción válida",
@@ -1548,11 +1576,11 @@
     "zh-Hant-TW": "歡迎體驗 My Stocks Portfolio，一個幫助您追蹤股票與投資組合的應用程式！"
   },
   "generic_clientOutOfDate": {
-    "en": "It looks like your app version is out of date, so this type is unrecognized. Please update to the latest version of the app.",
-    "es": "Parece que la versión de su aplicación está desactualizada, por lo que este tipo no se reconoce. Actualice a la última versión de la aplicación.",
-    "de": "Es sieht so aus, als ob Ihre App-Version veraltet ist, so dass dieser Typ nicht erkannt wird. Bitte aktualisieren Sie auf die neueste Version der App.",
-    "tr": "Uygulama sürümünüz güncel değil gibi görünüyor, bu nedenle bu tür tanınmıyor. Lütfen uygulamayı en son sürümüne güncelleyin.",
-    "zh-Hant-TW": "您的應用程式版本已過期，無法辨識此類型。請更新至最新版本。"
+    "en": "It looks like your app version is out of date. Please update to the latest version of the app.",
+    "es": "Parece que la versión de su aplicación está desactualizada. Actualice a la última versión de la aplicación.",
+    "de": "Es sieht so aus, als ob Ihre App-Version veraltet ist. Bitte aktualisieren Sie auf die neueste Version der App.",
+    "tr": "Uygulama sürümünüz güncel değil gibi görünüyor. Lütfen uygulamayı en son sürümüne güncelleyin.",
+    "zh-Hant-TW": "您的應用程式版本已過期。請更新至最新版本。"
   },
   "generic_closeDrawerAccessibility": {
     "en": "Close navigation drawer",
@@ -1612,6 +1640,14 @@
     "de": "in die Zwischenablage kopieren",
     "tr": "Panoya Kopyala",
     "zh-Hant-TW": "複製至剪貼簿"
+  },
+  "generic_couldNotImportCSV": {
+    "en": "Could not import CSV",
+    "zh-Hant-TW": "無法匯入 CSV"
+  },
+  "generic_couldNotExportCSV": {
+    "en": "Could not export CSV",
+    "zh-Hant-TW": "無法匯出 CSV"
   },
   "generic_date": {
     "en": "Date",
@@ -1748,6 +1784,14 @@
     "es": "Introducir código",
     "tr": "Parolayı girin",
     "zh-Hant-TW": "輸入密碼"
+  },
+  "generic_enterValidDate": {
+    "en": "Please enter a valid date",
+    "zh-Hant-TW": "請輸入有效的日期"
+  },
+  "generic_enterValidPrice": {
+    "en": "Please enter a valid price",
+    "zh-Hant-TW": "請輸入有效的價格"
   },
   "generic_enterValueBetween0And100": {
     "en": "Enter a value between 0–100",
@@ -1892,6 +1936,13 @@
     "fr": "Taille de police",
     "tr": "Yazı Tipi Boyutu",
     "zh-Hant-TW": "字體大小"
+  },
+  "generic_generating": {
+    "en": "Generating",
+    "es": "Generando",
+    "de": "wird erstellt",
+    "tr": "Açık varlıklar",
+    "zh-Hant-TW": "產生中"
   },
   "generic_from": {
     "en": "From",
@@ -2531,6 +2582,7 @@
     "zh-Hant-TW": "登入帳戶即可跨裝置同步"
   },
   "generic_sincePlaceholder": {
+    "_formatted": false,
     "en": "Since %s",
     "es": "Desde %s",
     "de": "vor %s",
@@ -2570,6 +2622,11 @@
     "en": "Sponsored Content",
     "es": "Contenido patrocinado",
     "zh-Hant-TW": "贊助內容"
+  },
+  "generic_storageUsedMB": {
+    "_formatted": false,
+    "en": "Current storage used: %s MB",
+    "zh-Hant-TW": "目前使用的儲存空間：%s MB"
   },
   "generic_subscribed": {
     "en": "Subscribed",
@@ -3352,6 +3409,10 @@
     "tr": "Tüm Zaman Değişimi",
     "zh-Hant-TW": "總損益"
   },
+  "portfolio_allTimeChange_description": {
+    "en": "P&L for realized + unrealized positions",
+    "zh-Hant-TW": "已實現及未實現部位損益"
+  },
   "portfolio_allTimeChangePercent": {
     "en": "All-Time Change Percent",
     "es": "Porcentaje de Cambio de Todo el Tiempo",
@@ -3457,6 +3518,10 @@
     "fr": "Cout de base",
     "tr": "Maliyete göre",
     "zh-Hant-TW": "成本"
+  },
+  "portfolio_costBasis_description": {
+    "en": "Cost basis for realized + unrealized positions",
+    "zh-Hant-TW": "已實現與未實現部位的成本"
   },
   "portfolio_costPerShare": {
     "en": "Cost Per Share",
@@ -3871,13 +3936,6 @@
     "tr": "Bu raporda gösterilen rakamlar gerçek varlıkları temsil etmeyebilir. Gerçek varlıklar için lütfen aracı kurumunuzla iletişime geçin.",
     "zh-Hant-TW": "本報告所顯示的數字可能不代表實際持股。實際持股請洽您的券商。"
   },
-  "portfolio_generateReport_generating": {
-    "en": "Generating",
-    "es": "Generando",
-    "de": "wird erstellt",
-    "tr": "Açık varlıklar",
-    "zh-Hant-TW": "產生中"
-  },
   "portfolio_hideDetails": {
     "de": "Details",
     "en": "Hide Details",
@@ -4167,6 +4225,15 @@
     "tr": "Portföy Değeri",
     "zh-Hant-TW": "投資組合市值"
   },
+  "portfolio_portfolioValue_description": {
+    "en": "Value of unrealized positions",
+    "zh-Hant-TW": "未實現部位價值"
+  },
+  "portfolio_quote_for": {
+    "_formatted": false,
+    "en": "Quote for %s",
+    "zh-Hant-TW": "%s 的報價"
+  },
   "portfolio_quotes": {
     "en": "Quotes",
     "es": "Cotizaciones",
@@ -4294,6 +4361,14 @@
     "fr": ":",
     "tr": ":",
     "zh-Hant-TW": "對"
+  },
+  "portfolio_split_from_help": {
+    "en": "X Shares (i.e. 4)",
+    "zh-Hant-TW": "X 股（即 4 股）"
+  },
+  "portfolio_split_to_help": {
+    "en": "For Y Shares (i.e. 1)",
+    "zh-Hant-TW": "針對 Y 股（即 1 股）"
   },
   "portfolio_splitsHelp": {
     "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4.",
@@ -4863,6 +4938,10 @@
     "tr": "Değer Değişimi %",
     "zh-Hant-TW": "市值變動百分比"
   },
+  "portfolio_valueChangePercent_description": {
+    "en": "(All-Time Change) divided by (Cost Basis)",
+    "zh-Hant-TW": "（總損益）除以（成本）"
+  },
   "portfolio_valueAndCost": {
     "en": "Value/Cost",
     "es": "Valor/Costo",
@@ -4926,6 +5005,10 @@
     "de": "Vergangene Performance berechnen?\\n\\nHinweis: Wenn Sie vorherige Transaktionen ändern, müssen Sie möglicherweise den bisherigen Cache löschen und die Berechnung neu durchführen. Wenn vorgangene Kurse fehlen, können Sie zur Seite mit den Kursdetails gehen und benutzerdefinierte bisherige Kurse aus dem oberen Menü hinzufügen.",
     "tr": "Geçmiş performansı hesaplayın\\n\\nNot: Önceki işlemleri değiştirirseniz, geçmiş depolamayı temizlemeniz ve yeniden hesaplamanız gerekebilir. Geçmiş teklif fiyatları eksikse, teklif ayrıntıları sayfasına gidebilir ve üst menüden özel geçmiş fiyatlar ekleyebilirsiniz.",
     "zh-Hant-TW": "要計算歷史績效嗎？\\n\\n注意：如果您修改了過去的交易，可能需要清除歷史儲存並重新計算。如果缺少歷史報價價格，可前往報價詳情頁面，從上方選單新增自訂歷史價格。"
+  },
+  "portfolioHistorical_dataGranularity": {
+    "en": "Data granularity:\\nWithin 1 year - 1 day\\n1-3 years - 1 week\\n3+ years - 1 month",
+    "zh-Hant-TW": "數據粒度：\\n一年以內 - 1 天\\n1 至 3 年 - 1 週\\n超過 3 年 - 1 個月"
   },
   "portfolioHistorical_disableDataGranularity": {
     "en": "Calculate 1 day granularity for 1+ year old data (slow)",
@@ -5471,6 +5554,10 @@
     "fr": "Inverser les couleurs des baisses/hausses. Cela fera apparaître les baisses de prix en vert et les hausses en rouge.",
     "tr": "Düşüş/yükseliş renklerini ters çevirir. Bu, fiyattaki bir düşüşün yeşil, fiyattaki bir artışın ise kırmızı görünmesini sağlayacaktır.",
     "zh-Hant-TW": "對調漲跌顏色。價格下跌顯示綠色，上漲顯示紅色"
+  },
+  "settingsDisplay_lastCalculatedPrice": {
+    "en": "Last Calculated Price (Settings > Calculations > Holdings calculated using)",
+    "zh-Hant-TW": "最後計算的金額（設定 > 金額計算 > 持股計算方式）"
   },
   "settingsDisplay_lastTradedPrice": {
     "en": "Last Open Market Price",
@@ -6341,6 +6428,10 @@
     "fr": "Synchronisation terminée",
     "tr": "Senkronizasyon tamamlandı",
     "zh-Hant-TW": "同步完成"
+  },
+  "sync_errorOutOfSync": {
+    "en": "Your client is out of sync. Please do a fresh sync (from the Server Sync screen) before trying to delete an item off the server, or sign out if you don\\'t want to use server sync.",
+    "zh-Hant-TW": "您的用戶端資料不同步。請先在「伺服器同步」畫面進行全新同步，然後再嘗試從伺服器刪除項目；如果您不想使用伺服器同步，請登出。"
   },
   "sync_errorPleaseTrySignOut": {
     "en": "Sync error. If the problem persists, try signing out of Google and signing back in.",
