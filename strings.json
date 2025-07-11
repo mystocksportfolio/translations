@@ -100,7 +100,7 @@
     "zh-Hant-TW": "找不到持有的紀錄"
   },
   "accounting_noLotsFoundHelp": {
-    "en": "Couldn\\'t find any valid lots (transactions) to select before this transaction\\'s date",
+    "en": "Couldn't find any valid lots (transactions) to select before this transaction's date",
     "es": "No se pudieron encontrar lotes válidos (transacciones) para seleccionar antes de la fecha de esta transacción",
     "de": "Es können keine gültigen Lots (Transaktionen) vor diesem Transaktionsdatum zur Auswahl gefunden werden",
     "tr": "Seçilen işlem tarihinden önce geçerli lotlar (işlemler) bulunamadı",
@@ -135,11 +135,11 @@
     "zh-Hant-TW": "特定交易紀錄"
   },
   "accounting_specificLotsHelp": {
-    "en": "To use the \\'Specific Lots\\' execution type, please add the quote first and then go to the quote details page, transactions tab, and add the transaction from there so the app knows which lots can be used.",
-    "es": "Para usar el tipo de ejecución \\'Lotes Específicos\\', por favor agregue primero la cotización y luego vaya a la página de detalles de la cotización, pestaña de transacciones, y agregue la transacción desde allí para que la aplicación sepa qué lotes se pueden usar.",
-    "de": "Um die Ausführungsart \\'Spezifische Lots\\' zu verwenden, fügen Sie bitte zuerst die Notierung hinzu und gehen Sie dann auf die Angebotsdetailseite, Registerkarte Transaktionen, und fügen Sie die Transaktion von dort aus hinzu, damit die Anwendung weiß, welche Lots verwendet werden können.",
-    "tr": "\\'Belirli Lotlar\\' uygulama türünü kullanmak için lütfen önce önerilere ekleyin ve ardından öneriler ayrıntıları sayfasına, işlemler sekmesine gidin ve işlemi buradan ekleyin, böylece uygulama hangi lotların kullanılabileceğini bilir.",
-    "zh-Hant-TW": "要使用 \\'特定交易\\' 執行類型，請先新增報價，然後前往報價詳細資料頁面，選擇交易分頁，並從那裡新增交易，以便應用程式知道可以使用哪些交易紀錄。"
+    "en": "To use the 'Specific Lots' execution type, please add the quote first and then go to the quote details page, transactions tab, and add the transaction from there so the app knows which lots can be used.",
+    "es": "Para usar el tipo de ejecución 'Lotes Específicos', por favor agregue primero la cotización y luego vaya a la página de detalles de la cotización, pestaña de transacciones, y agregue la transacción desde allí para que la aplicación sepa qué lotes se pueden usar.",
+    "de": "Um die Ausführungsart 'Spezifische Lots' zu verwenden, fügen Sie bitte zuerst die Notierung hinzu und gehen Sie dann auf die Angebotsdetailseite, Registerkarte Transaktionen, und fügen Sie die Transaktion von dort aus hinzu, damit die Anwendung weiß, welche Lots verwendet werden können.",
+    "tr": "'Belirli Lotlar' uygulama türünü kullanmak için lütfen önce önerilere ekleyin ve ardından öneriler ayrıntıları sayfasına, işlemler sekmesine gidin ve işlemi buradan ekleyin, böylece uygulama hangi lotların kullanılabileceğini bilir.",
+    "zh-Hant-TW": "要使用 '特定交易' 執行類型，請先新增報價，然後前往報價詳細資料頁面，選擇交易分頁，並從那裡新增交易，以便應用程式知道可以使用哪些交易紀錄。"
   },
   "accounting_specificLotsDescription": {
     "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction.",
@@ -159,7 +159,7 @@
     "en": "Upgrade to Premium and enjoy an Ad-free experience",
     "es": "Actualiza a Premium y disfruta de una experiencia sin anuncios",
     "de": "Upgraden Sie auf die Premium-Version und genießen Sie die Werbefreiheit",
-    "fr": "Mettre à jour vers Premium et profiter d\\'une expérience sans publicité",
+    "fr": "Mettre à jour vers Premium et profiter d'une expérience sans publicité",
     "tr": "Premiuma yükselt ve reklamsız uygulamanın keyfini çıkar",
     "zh-Hant-TW": "升級至 Premium，享受無廣告體驗"
   },
@@ -217,7 +217,7 @@
     "en": "Please enter a cash amount",
     "es": "Por favor, ingrese una cantidad de efectivo",
     "de": "Bitte einen Barbetrag eingeben",
-    "fr": "Veuillez entrer un montant d\\'espèces",
+    "fr": "Veuillez entrer un montant d'espèces",
     "tr": "Lütfen nakit tutarı girin",
     "zh-Hant-TW": "請輸入金額"
   },
@@ -249,8 +249,8 @@
   "addQuoteCrypto_help": {
     "en": "Prices are aggregated across exchanges (Source: CoinGecko). If you cannot find a coin, you may contact us via support@peeksoft.co to get it registered.",
     "es": "Los precios se agregan a través de los intercambios (Fuente: CoinGecko). Si no puede encontrar una moneda, puede contactarnos a través de support@peeksoft.co para registrarla.",
-    "de": "Die Kurse werden börsenübergreifend zusammengestellt (Quelle: CoinGecko). Wenn Sie eine \\'Coin\\' nicht finden, können Sie uns über support@peeksoft.co kontaktieren, um diese registrieren zu lassen.",
-    "fr": "Les prix sont agrégés entre les bourses (Source : CoinGecko). Si vous ne trouvez pas une pièce, vous pouvez nous contacter via support@peeksoft.co pour l\\'enregistrer.",
+    "de": "Die Kurse werden börsenübergreifend zusammengestellt (Quelle: CoinGecko). Wenn Sie eine 'Coin' nicht finden, können Sie uns über support@peeksoft.co kontaktieren, um diese registrieren zu lassen.",
+    "fr": "Les prix sont agrégés entre les bourses (Source : CoinGecko). Si vous ne trouvez pas une pièce, vous pouvez nous contacter via support@peeksoft.co pour l'enregistrer.",
     "tr": "Fiyatlar borsalar arasında toplanmıştır (Kaynak: CoinGecko). Bir coin bulamazsanız kaydettirmek için support@peeksoft.co üzerinden bizimle iletişime geçebilirsiniz.",
     "zh-Hant-TW": "價格是從多個交易所中擷取而來（來源：CoinGecko）。 若您找不到對應幣種，歡迎聯絡我們 support@peeksoft.co 來協助加入"
   },
@@ -314,7 +314,7 @@
     "es": "%s a %s",
     "de": "%s zu %s",
     "fr": "%s à %s",
-    "tr": "%s\\'dan %s\\'ye",
+    "tr": "%s'dan %s'ye",
     "zh-Hant-TW": "%s 至 %s"
   },
   "addQuoteTransaction_currencyToHomeCurrencyFormatted": {
@@ -323,7 +323,7 @@
     "es": "%s a Moneda Local",
     "de": "%s in Heimatwährung",
     "fr": "%s à la devise préférée",
-    "tr": "%s\\'dan Ana Para Birimine",
+    "tr": "%s'dan Ana Para Birimine",
     "zh-Hant-TW": "%s 至 預設幣別"
   },
   "addQuoteTransaction_date": {
@@ -338,7 +338,7 @@
     "en": "Deposit cash to portfolio from dividends",
     "es": "Depositar efectivo en el portafolio desde dividendos",
     "de": "Einzahlung von Bargeld in das Portfolio aus Dividenden",
-    "fr": "Dépôt d\\'espèces au portefeuille lors des dividendes",
+    "fr": "Dépôt d'espèces au portefeuille lors des dividendes",
     "tr": "Temettülerden portföye yatan nakit",
     "zh-Hant-TW": "股利入金至投資組合"
   },
@@ -353,7 +353,7 @@
     "en": "Deposit cash to portfolio from sale",
     "es": "Depositar efectivo en el portafolio desde ventas",
     "de": "Einzahlung von Bargeld aus Verkäufen in das Portfolio",
-    "fr": "Dépôt d\\'espèces au portefeuille lors de la vente",
+    "fr": "Dépôt d'espèces au portefeuille lors de la vente",
     "tr": "Satıştan elde edilen nakdin portföye yatırılması",
     "zh-Hant-TW": "賣出後現金計入投資組合"
   },
@@ -361,7 +361,7 @@
     "en": "Please enter the number of shares",
     "es": "Por favor, ingrese el número de acciones",
     "de": "Bitte geben Sie die Anzahl der Aktien ein",
-    "fr": "S\\'il vous plaît entrez le nombre d\\'actions",
+    "fr": "S'il vous plaît entrez le nombre d'actions",
     "tr": "Lütfen hisse adedini girin",
     "zh-Hant-TW": "請輸入股數"
   },
@@ -435,16 +435,16 @@
     "en": "Purchase Date",
     "es": "Fecha de Compra",
     "de": "Datum des Kaufs",
-    "fr": "Date d\\'achat",
+    "fr": "Date d'achat",
     "tr": "Satın Alma Tarihi",
     "zh-Hant-TW": "購買日期"
   },
   "addQuoteTransaction_purchaseExchangeRateHelp": {
-    "en": "Exchange Rate at time of Transaction (Stock\\'s Currency to Home Currency). For example, 1.5 means $1 of the stock\\'s currency exchanges to $1.5 of your home currency. You can change the Home Currency by tapping Currency on the holdings screen. Leave blank to use today\\'s exchange rate.",
+    "en": "Exchange Rate at time of Transaction (Stock's Currency to Home Currency). For example, 1.5 means $1 of the stock's currency exchanges to $1.5 of your home currency. You can change the Home Currency by tapping Currency on the holdings screen. Leave blank to use today's exchange rate.",
     "es": "Tipo de Cambio al momento de la Transacción (Moneda de la Acción a Moneda Local). Por ejemplo, 1.5 significa que $1 de la moneda de la acción se convierte en $1.5 de su moneda local. Puede cambiar la Moneda Local tocando Moneda en la pantalla de tenencias. Deje en blanco para usar el tipo de cambio de hoy.",
     "de": "Wechselkurs zum Zeitpunkt der Transaktion (Aktie(n) Währung zu Landeswährung). Zum Beispiel bedeutet 1,5, dass 1 $ der Lagerwährung in 1,5 $ Ihrer Landeswährung umgetauscht wird. Sie können die Landeswährung ändern, indem Sie auf dem Bildschirm mit den Beständen auf Währung tippen. Lassen Sie das Feld leer, um den Wechselkurs von heute zu verwenden.",
-    "fr": "Taux de change au moment de la transaction (Devise du titre à la devise préférée). Par exemple, 1.5 signifie qu\\'1 dans la devises du titre vaut 1.5 dans la devise préférée. Vous pouvez changer la Devise préférée en appuyant sur Devise sur l\\'écran des positions. Laissez vide pour utiliser le taux de change du jour.",
-    "tr": "İşlem sırasındaki Döviz Kuru (Hisse Senedi Para Birimi - Ana Para Birimi). Örneğin 1.5, 1 $\\'lık hisse senedi para biriminin 1,5 $\\'lık ana para biriminize dönüştüğü anlamına gelir. Ana Para Birimini varlıklar ekranında Para Birimi öğesine dokunarak değiştirebilirsiniz. Güncel döviz kurunu kullanmak için boş bırakın.",
+    "fr": "Taux de change au moment de la transaction (Devise du titre à la devise préférée). Par exemple, 1.5 signifie qu'1 dans la devises du titre vaut 1.5 dans la devise préférée. Vous pouvez changer la Devise préférée en appuyant sur Devise sur l'écran des positions. Laissez vide pour utiliser le taux de change du jour.",
+    "tr": "İşlem sırasındaki Döviz Kuru (Hisse Senedi Para Birimi - Ana Para Birimi). Örneğin 1.5, 1 $'lık hisse senedi para biriminin 1,5 $'lık ana para biriminize dönüştüğü anlamına gelir. Ana Para Birimini varlıklar ekranında Para Birimi öğesine dokunarak değiştirebilirsiniz. Güncel döviz kurunu kullanmak için boş bırakın.",
     "zh-Hant-TW": "成交匯率（股票幣別 至 預設幣別）。舉例來說，1.5 表示 1 元的股票幣別對應到 1.5 元您的預設幣別。您可以在投資組合持有選單中點選貨幣來更改，將其留白來自動使用當天的匯率。"
   },
   "addQuoteTransaction_time": {
@@ -566,17 +566,17 @@
     "en": "Withdraw cash from portfolio to purchase",
     "es": "Retirar efectivo del portafolio para comprar",
     "de": "Entnahme von Bargeld aus dem Portfolio zum Kauf",
-    "fr": "Retirer de l\\'argent du portefeuille à l\\'achat",
+    "fr": "Retirer de l'argent du portefeuille à l'achat",
     "tr": "Portföyden nakit çekerek satın al",
     "zh-Hant-TW": "買入時自動從投資組合出金"
   },
   "addQuote_addUnlistedSymbolHelp": {
-    "en": "Unlisted symbols can be used for equity such as shares that do not trade on the open market. To add price data, go to the quote details page after adding the symbol, open the menu, and click \\'Add Custom Prices\\'.",
-    "es": "Los símbolos no cotizados pueden usarse para acciones que no se negocian en el mercado abierto. Para agregar datos de precios, ve a la página de detalles de la cotización después de agregar el símbolo, abre el menú y haz clic en \\'Agregar precios personalizados\\'.",
-    "de": "Nicht börsennotierte Symbole, die nicht auf dem freien Markt gehandelt werden, können als Eigenkapital wie Aktien verwendet werden. Um Kursdaten hinzuzufügen, gehen Sie nach dem Hinzufügen des Symbols zur Seite mit den Kursdetails, öffnen Sie das Menü und klicken Sie auf \\'Benutzerdefinierte Preise hinzufügen\\'.",
-    "fr": "Les symboles non listés peuvent être utilisés pour les fonds tels que ceux qui ne peuvent être échangés dans le marché ouvert. Pour ajouter des données de prix, allez dans la page des détails de la cotation après avoir ajouter le symbole, ouvrez le menu et cliquez \\'Ajouter des prix personnalisés\\'.",
-    "tr": "Listelenmemiş semboller açık piyasada işlem görmeyen hisseler gibi özkaynaklar için kullanılabilir. Fiyat verisi eklemek için sembolü ekledikten sonra teklif ayrıntıları sayfasına gidin, menüyü açın ve \\'Özel Fiyatlar Ekle\\' seçeneğine tıklayın.",
-    "zh-Hant-TW": "未在公開市場交易顯示出的代碼仍可以加入內容例如股數。在加入該檔股票後，進入報價詳情頁，開啟目錄，點選 \\'加入手動價格\\'。"
+    "en": "Unlisted symbols can be used for equity such as shares that do not trade on the open market. To add price data, go to the quote details page after adding the symbol, open the menu, and click 'Add Custom Prices'.",
+    "es": "Los símbolos no cotizados pueden usarse para acciones que no se negocian en el mercado abierto. Para agregar datos de precios, ve a la página de detalles de la cotización después de agregar el símbolo, abre el menú y haz clic en 'Agregar precios personalizados'.",
+    "de": "Nicht börsennotierte Symbole, die nicht auf dem freien Markt gehandelt werden, können als Eigenkapital wie Aktien verwendet werden. Um Kursdaten hinzuzufügen, gehen Sie nach dem Hinzufügen des Symbols zur Seite mit den Kursdetails, öffnen Sie das Menü und klicken Sie auf 'Benutzerdefinierte Preise hinzufügen'.",
+    "fr": "Les symboles non listés peuvent être utilisés pour les fonds tels que ceux qui ne peuvent être échangés dans le marché ouvert. Pour ajouter des données de prix, allez dans la page des détails de la cotation après avoir ajouter le symbole, ouvrez le menu et cliquez 'Ajouter des prix personnalisés'.",
+    "tr": "Listelenmemiş semboller açık piyasada işlem görmeyen hisseler gibi özkaynaklar için kullanılabilir. Fiyat verisi eklemek için sembolü ekledikten sonra teklif ayrıntıları sayfasına gidin, menüyü açın ve 'Özel Fiyatlar Ekle' seçeneğine tıklayın.",
+    "zh-Hant-TW": "未在公開市場交易顯示出的代碼仍可以加入內容例如股數。在加入該檔股票後，進入報價詳情頁，開啟目錄，點選 '加入手動價格'。"
   },
   "addQuote_enterSymbolPrompt": {
     "en": "Please enter a symbol",
@@ -598,7 +598,7 @@
     "en": "After entering the symbol/ticker, a price preview should show up.\\n\\nClick on the price preview to view the quote without adding it to your portfolio.",
     "es": "Después de ingresar el símbolo, debería aparecer una vista previa del precio.\\n\\nHaz clic en la vista previa del precio para ver la cotización sin agregarla a tu portafolio.",
     "de": "Nach der Eingabe des Symbols/Tickers wird eine Kursvorschau angezeigt.\\n\\nKlicken Sie auf die Kursvorschau, um den Wert anzusehen, ohne diesen Ihrem Portfolio hinzuzufügen.",
-    "fr": "Après avoir saisi le nom du symbole, cliquez sur le clavier ou sélectionnez un symbole depuis la liste d\\'auto-complétion.\\n\\nSi une prévisualisation du prix the la cotation surgit sous le champ du symbole, vous pouvez cliquer dessus pour prévisualiser la cotation et les actualités sans l\\'ajouter à votre portefeuille.",
+    "fr": "Après avoir saisi le nom du symbole, cliquez sur le clavier ou sélectionnez un symbole depuis la liste d'auto-complétion.\\n\\nSi une prévisualisation du prix the la cotation surgit sous le champ du symbole, vous pouvez cliquer dessus pour prévisualiser la cotation et les actualités sans l'ajouter à votre portefeuille.",
     "tr": "Sembolü/etiketi girdikten sonra bir fiyat önizlemesi görünecektir.\\n\\nPortföyünüze eklemeden fiyatı görüntülemek için fiyat önizlemesine tıklayın.",
     "zh-Hant-TW": "進入名稱／代碼之後應會顯示價格預覽。\\n\\n在不用加入投資組合的情況下點選價格預覽來顯示報價。"
   },
@@ -628,7 +628,7 @@
     "en": "Symbol display override",
     "es": "Sobrescribir visualización del símbolo",
     "de": "Symbolanzeige überschreiben",
-    "fr": "Remplacement du symbole d\\'affichage",
+    "fr": "Remplacement du symbole d'affichage",
     "tr": "Sembol ekranını geçersiz kıl",
     "zh-Hant-TW": "更改顯示"
   },
@@ -1239,7 +1239,7 @@
     "en": "To export, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nYou can choose to export to SDCard or local storage (open the side menu in the file picker), or Google Drive. If you export to Google Drive, your file will be accessible from your computer at https://drive.google.com.",
     "es": "Para exportar, debe tener instalada la aplicación Drive (esta es instalada por la mayoría de los fabricantes de Android y se puede descargar desde la tienda).\\n\\nPuede elegir exportar a la tarjeta SD o almacenamiento local (abra el menú lateral en el selector de archivos), o Google Drive. Si exporta a Google Drive, su archivo estará accesible desde su computadora en https://drive.google.com.",
     "de": "Zum Exportieren, müssen Sie die Drive-App installiert haben (diese ist von den meisten Android-Herstellern vorinstalliert oder kann aus dem Store heruntergeladen werden).\\n\\nSie können wählen, ob Sie auf SD-Karte oder lokalen Speicher (öffnen Sie das Seitenmenü in der Dateiauswahl) oder auf Google Drive exportieren möchten. Wenn Sie zum Google Drive exportieren, können Sie von Ihrem Computer aus auf Ihre Datei zugreifen: https://drive.google.com.",
-    "tr": "Dışa aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\n SDCard\\'a veya yerel depolama alanına (dosya seçicideki yan menüyü açın) ya da Google Drive\\'a aktarmayı seçebilirsiniz. Google Drive\\'a aktarırsanız, dosyanıza bilgisayarınızdan https://drive.google.com adresinden erişilebilir.",
+    "tr": "Dışa aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\n SDCard'a veya yerel depolama alanına (dosya seçicideki yan menüyü açın) ya da Google Drive'a aktarmayı seçebilirsiniz. Google Drive'a aktarırsanız, dosyanıza bilgisayarınızdan https://drive.google.com adresinden erişilebilir.",
     "zh-Hant-TW": "若要匯出，您必須已安裝 Drive 應用程式（多數 Android 裝置已內建，或可從商店下載）。\\n\\n您可以選擇匯出至 SD 卡、本機儲存空間（於檔案選擇器開啟側邊選單），或 Google Drive。若匯出至 Google Drive，您的檔案可從電腦端 https://drive.google.com 存取。"
   },
   "csvExport_externalStorageUploaded": {
@@ -1262,7 +1262,7 @@
     "es": "Copie y pegue el texto que contiene los datos CSV en el campo de texto a continuación. Asegúrese de copiar y pegar también los encabezados. Cada línea del CSV debe estar en una línea separada.",
     "de": "Kopieren Sie den Text, der die CSV-Daten enthält und fügen ihn in das unten stehende Textfeld ein. Achten Sie darauf, dass Sie auch die Überschriften kopieren und einfügen. Jede Zeile der CSV-Datei sollte in einer eigenen Zeile stehen.",
     "fr": "Copiez et collez le texte contenant les données CSV dans le champ de texte ci-dessous. Assurez-vous de copier et coller les en-têtes également. Chaque ligne du fichier CSV doit être sur une ligne distincte.",
-    "tr": "CSV verilerini içeren metni kopyalayıp aşağıdaki metin alanına yapıştırın. Başlıkları da kopyalayıp yapıştırdığınızdan emin olun. CSV\\'nin her satırı ayrı bir satırda olmalıdır.",
+    "tr": "CSV verilerini içeren metni kopyalayıp aşağıdaki metin alanına yapıştırın. Başlıkları da kopyalayıp yapıştırdığınızdan emin olun. CSV'nin her satırı ayrı bir satırda olmalıdır.",
     "zh-Hant-TW": "請將包含 CSV 資料的文字複製並貼到下方文字欄位。請務必連同標題一起複製貼上，每一筆資料請分行。"
   },
   "csvImport_couldNotFindData": {
@@ -1285,7 +1285,7 @@
     "en": "To import, you must have the Drive app installed (this is installed by most Android manufacturers and can be downloaded from the store).\\n\\nTo view your Google Drive files from your computer, you can visit https://drive.google.com. You can also import from your SDCard or any other external storage (open the side menu in the file picker).",
     "es": "Para importar, debe tener instalada la aplicación Drive (esta es instalada por la mayoría de los fabricantes de Android y se puede descargar desde la tienda).\\n\\nPara ver sus archivos de Google Drive desde su computadora, puede visitar https://drive.google.com. También puede importar desde su tarjeta SD o cualquier otro almacenamiento externo (abra el menú lateral en el selector de archivos).",
     "de": "Zum Importieren müssen Sie die Drive-App installiert haben (diese ist von den meisten Android-Herstellern vorinstalliert oder kann aus dem Store heruntergeladen werden).\\\n\\nUm Ihre Google Drive-Dateien auf Ihrem Computer anzuzeigen, können Sie https://drive.google.com besuchen. Sie können auch von Ihrer SD-Karte oder einem anderen externen Speicher importieren (öffnen Sie das Seitenmenü in der Dateiauswahl).",
-    "tr": "İçe aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\nGoogle Drive dosyalarınızı bilgisayarınızdan görüntülemek için https://drive.google.com adresini ziyaret edebilirsiniz. SDCard\\'ınızdan veya başka bir harici depolama alanından da içe aktarabilirsiniz (dosya seçicideki yan menüyü açın).",
+    "tr": "İçe aktarmak için Drive uygulamasının yüklü olması gerekir (bu uygulama çoğu Android üreticisi tarafından yüklenir ve mağazadan indirilebilir).\\n\\nGoogle Drive dosyalarınızı bilgisayarınızdan görüntülemek için https://drive.google.com adresini ziyaret edebilirsiniz. SDCard'ınızdan veya başka bir harici depolama alanından da içe aktarabilirsiniz (dosya seçicideki yan menüyü açın).",
     "zh-Hant-TW": "若要匯入，您必須已安裝 Drive 應用程式（多數 Android 裝置已內建，或可從商店下載）。\\n\\n您可以從電腦端造訪 https://drive.google.com 檢視 Google Drive 檔案。也可以從 SD 卡或其他外部儲存空間（於檔案選擇器開啟側邊選單）匯入。"
   },
   "csvImport_importAndOverwrite": {
@@ -1351,7 +1351,7 @@
     "en": "Use File option if you have a lot of data, since Android has a 1 MB size restriction for Clipboard/Email.",
     "es": "Use la opción de archivo si tiene muchos datos, ya que Android tiene una restricción de tamaño de 1 MB para el portapapeles/correo electrónico.",
     "de": "Wenn die Datenmenge zu groß ist, verwenden Sie die Dateiauswahl, da Android eine Größenbeschränkung von 1 MB für die Zwischenablage/E-Mail besitzt.",
-    "tr": "Android\\'de Pano/E-posta için 1 MB boyut sınırlaması olduğundan çok fazla veriniz varsa dosya seçeneğini kullanın.",
+    "tr": "Android'de Pano/E-posta için 1 MB boyut sınırlaması olduğundan çok fazla veriniz varsa dosya seçeneğini kullanın.",
     "zh-Hant-TW": "如果資料量很大，請使用檔案選項，因為 Android 剪貼簿／Email 有 1MB 大小限制。"
   },
   "csvImport_recognizedHeadersHelp": {
@@ -1407,10 +1407,10 @@
     "zh-Hant-TW": "我已經付費，但 app 沒有記住或認得我的購買紀錄"
   },
   "faq_paidAlreadyAnswer": {
-    "en": "Please make sure you are logged into the account used to make the purchase and click \\'Restore Purchases\\'. If you can\\'t restore the purchase, please reach out to us via support.",
-    "es": "Asegúrese de haber iniciado sesión en la cuenta utilizada para realizar la compra y haga clic en \\'Restaurar compras\\'. Si no puede restaurar la compra, comuníquese con nosotros a través del soporte.",
-    "de": "Vergewissern Sie sich, dass Sie bei dem Konto angemeldet sind, mit dem Sie den Kauf getätigt haben, und klicken Sie auf \\'Käufe wiederherstellen\\'. Wenn Sie den Kauf nicht wiederherstellen können, wenden Sie sich bitte über den Support an uns.",
-    "tr": "Lütfen satın alma işleminde kullanılan hesapta oturum açtığınızdan emin olun ve \\'Satın Almaları Geri Yükle\\' seçeneğine tıklayın. Satın alma işlemini geri yükleyemiyorsanız lütfen destek aracılığıyla bize ulaşın.",
+    "en": "Please make sure you are logged into the account used to make the purchase and click 'Restore Purchases'. If you can't restore the purchase, please reach out to us via support.",
+    "es": "Asegúrese de haber iniciado sesión en la cuenta utilizada para realizar la compra y haga clic en 'Restaurar compras'. Si no puede restaurar la compra, comuníquese con nosotros a través del soporte.",
+    "de": "Vergewissern Sie sich, dass Sie bei dem Konto angemeldet sind, mit dem Sie den Kauf getätigt haben, und klicken Sie auf 'Käufe wiederherstellen'. Wenn Sie den Kauf nicht wiederherstellen können, wenden Sie sich bitte über den Support an uns.",
+    "tr": "Lütfen satın alma işleminde kullanılan hesapta oturum açtığınızdan emin olun ve 'Satın Almaları Geri Yükle' seçeneğine tıklayın. Satın alma işlemini geri yükleyemiyorsanız lütfen destek aracılığıyla bize ulaşın.",
     "zh-Hant-TW": "請確認您已登入購買時所用的帳號，並點選「復原購買」。若仍無法復原，請聯絡我們的客服支援。"
   },
   "faq_whySubscriptionFee": {
@@ -1490,7 +1490,7 @@
     "en": "By continuing, you agree to the\\nPrivacy Policy and Terms of Use",
     "es": "Al continuar, aceptas la Política de Privacidad y los Términos de Uso",
     "de": "Wenn Sie fortfahren, erklären Sie sich mit der Datenschutzbestimmungen und den Nutzungsbedingungen einverstanden",
-    "fr": "En continuant, vous acceptez les\\nConditions d\\'utilisation et Politique de confidentialité",
+    "fr": "En continuant, vous acceptez les\\nConditions d'utilisation et Politique de confidentialité",
     "tr": "Devam ederek Gizlilik Politikasını ve Kullanım Koşullarını\\nkabul etmiş olursunuz",
     "zh-Hant-TW": "如要繼續，您需要同意隱私權政策與使用條款"
   },
@@ -1598,7 +1598,7 @@
     "zh-Hant-TW": "已取消"
   },
   "generic_cant_send_email_error": {
-    "en": "Can\\'t send email. Please check that email has been set up properly on your device.",
+    "en": "Can't send email. Please check that email has been set up properly on your device.",
     "es": "No se puede enviar correo electrónico. Verifique que el correo electrónico esté configurado correctamente en su dispositivo.",
     "de": "Kann keine E-Mail senden. Bitte überprüfen Sie, ob die E-Mail-Funktion auf Ihrem Gerät richtig eingerichtet ist.",
     "tr": "E-posta gönderilemiyor. Lütfen cihazınızda e-postanın doğru şekilde kurulup kurulmadığını kontrol edin.",
@@ -1622,7 +1622,7 @@
     "en": "Check out My Stocks Portfolio, an app for monitoring your stocks and portfolios!",
     "es": "¡Mira My Stocks Portfolio, una aplicación para monitorear tus acciones y carteras!",
     "de": "Schauen Sie sich My Stocks Portfolio an, eine App zur Überwachung Ihrer Aktien und Portfolios",
-    "tr": "Hisse senetlerinizi ve portföylerinizi izlemek için bir uygulama olan My Stocks Portfolio\\'ya göz atın!",
+    "tr": "Hisse senetlerinizi ve portföylerinizi izlemek için bir uygulama olan My Stocks Portfolio'ya göz atın!",
     "zh-Hant-TW": "歡迎體驗 My Stocks Portfolio，一個幫助您追蹤股票與投資組合的應用程式！"
   },
   "generic_clientOutOfDate": {
@@ -1810,7 +1810,7 @@
     "de": "Aktiviere Gesichtserkennung / Berührungsidentifikation",
     "en": "Enable Face ID/Touch ID",
     "es": "Activar Face ID/Touch ID",
-    "tr": "Face ID/Touch ID\\'yi etkinleştirin",
+    "tr": "Face ID/Touch ID'yi etkinleştirin",
     "zh-Hant-TW": "啟用 Face ID／Touch ID"
   },
   "generic_enableWidgetLock": {
@@ -1878,7 +1878,7 @@
     "en": "Error Image",
     "es": "Imagen de error",
     "de": "Fehlerbild",
-    "fr": "Image d\\'erreur",
+    "fr": "Image d'erreur",
     "tr": "Hata Görüntüsü",
     "zh-Hant-TW": "錯誤圖片"
   },
@@ -1890,7 +1890,7 @@
     "zh-Hant-TW": "取得結果時發生錯誤，請稍後再試。"
   },
   "generic_errorRunningAppFromExternalStorage": {
-    "en": "It looks like you\\'re running the app from your SDCard / external storage. This may cause issues with graphics not loading, widgets not functioning, authentication failing, etc. Please move the app back to internal storage if you experience issues.",
+    "en": "It looks like you're running the app from your SDCard / external storage. This may cause issues with graphics not loading, widgets not functioning, authentication failing, etc. Please move the app back to internal storage if you experience issues.",
     "es": "Parece que está ejecutando la aplicación desde su tarjeta SD / almacenamiento externo. Esto puede causar problemas con la carga de gráficos, widgets que no funcionan, fallos de autenticación, etc. Por favor, mueva la aplicación de nuevo al almacenamiento interno si experimenta problemas.",
     "de": "Es sieht so aus, als ob Sie die App von Ihrer SDCard/externem Speicher ausführen. Dies kann zu Problemen mit nicht geladenen Grafiken, nicht funktionierenden Widgets, fehlgeschlagener Authentifizierung usw. führen. Bitte verschieben Sie die App zurück auf den internen Speicher, wenn Sie Probleme haben.",
     "zh-Hant-TW": "您似乎正在從 SD 卡或外部儲存空間執行應用程式。這可能導致圖形無法載入、小工具無法運作、驗證失敗等問題。如遇問題，請將應用程式移回內部儲存空間。"
@@ -2183,7 +2183,7 @@
     "en": "Please upgrade to the newest version of the app for important bug fixes.",
     "es": "Por favor, actualice a la versión más reciente de la aplicación para corregir errores importantes.",
     "de": "Bitte aktualisieren Sie auf die neueste Version der App, um wichtige Fehlerkorrekturen zu beheben.",
-    "fr": "Veuillez mettre à jour vers la dernière version de l\\'application pour bénéficier de correctifs importants.",
+    "fr": "Veuillez mettre à jour vers la dernière version de l'application pour bénéficier de correctifs importants.",
     "tr": "Önemli hata düzeltmeleri için lütfen uygulamanın en yeni sürümüne yükseltin.",
     "zh-Hant-TW": "修復重大程式錯誤，請更新至最新版本"
   },
@@ -2191,7 +2191,7 @@
     "en": "There is a new version of the app available and it is recommended to update. Download the update?",
     "es": "Hay una nueva versión de la aplicación disponible y se recomienda actualizar. ¿Descargar la actualización?",
     "de": "Es ist eine neue Version der App verfügbar und es wird empfohlen, sie zu aktualisieren. Laden Sie das Update herunter?",
-    "fr": "Il existe une nouvelle version de l\\'application disponible et il est recommandé de la mettre à jour. Télécharger la mise à jour?",
+    "fr": "Il existe une nouvelle version de l'application disponible et il est recommandé de la mettre à jour. Télécharger la mise à jour?",
     "tr": "Uygulamanın yeni bir sürümü mevcut ve güncellemeniz önerilir. Güncelleme indirilsin mi?",
     "zh-Hant-TW": "新版本已釋出，建議更新至最新版本。要下載最新版本嗎？"
   },
@@ -2320,7 +2320,7 @@
     "en": "Payment will be charged to your iTunes account at confirmation of purchase. Your subscription will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current subscription period. Your account will be charged for renewal within 24-hours prior to the end of the current subscription period. Automatic renewals will cost the same price you were originally charged for the subscription. You can manage your subscriptions and turn off auto-renewal by going to your Account Settings on the App Store after purchase. Read our terms of use and privacy policy for more information.",
     "de": "Die Zahlung wird bei Kaufbestätigung Ihrem iTunes-Konto belastet. Ihr Abonnement wird automatisch verlängert, sofern die automatische Verlängerung nicht mindestens 24 Stunden vor Ablauf des aktuellen Abonnementzeitraums deaktiviert wird. Ihr Konto wird innerhalb von 24 Stunden vor Ablauf des aktuellen Abonnementzeitraums für die Verlängerung belastet. Die automatische Verlängerung kostet denselben Preis, der ursprünglich für das Abonnement berechnet wurde. Sie können Ihre Abonnements verwalten und die automatische Verlängerung nach dem Kauf in den Kontoeinstellungen des App Stores deaktivieren. Weitere Informationen finden Sie in unseren Nutzungsbedingungen und der Datenschutzbestimmungen.",
     "es": "El pago se cargará a su cuenta de iTunes al confirmar la compra. Su suscripción se renovará automáticamente a menos que la renovación automática se desactive al menos 24 horas antes del final del período de suscripción actual. Su cuenta será cargada por la renovación dentro de las 24 horas previas al final del período de suscripción actual. Las renovaciones automáticas tendrán el mismo costo que el precio original de la suscripción. Puede gestionar sus suscripciones y desactivar la renovación automática yendo a la Configuración de su cuenta en la App Store después de la compra. Lea nuestros términos de uso y la política de privacidad para más información.",
-    "fr": "Le paiement sera facturé sur votre compte iTunes lors de la confirmation de l\\'achat. Votre abonnement sera automatiquement renouvelé, sauf si le renouvellement automatique est désactivé au moins 24 heures avant la fin de la période d\\'abonnement en cours. Votre compte sera débité pour le renouvellement dans les 24 heures précédant la fin de la période d\\'abonnement en cours. Les renouvellements automatiques seront facturés au même prix que celui initialement appliqué pour l\\'abonnement. Vous pouvez gérer vos abonnements et désactiver le renouvellement automatique en accédant aux paramètres de votre compte sur l\\'App Store après l\\'achat. Veuillez consulter nos conditions d\\'utilisation et notre politique de confidentialité pour plus d\\'informations.",
+    "fr": "Le paiement sera facturé sur votre compte iTunes lors de la confirmation de l'achat. Votre abonnement sera automatiquement renouvelé, sauf si le renouvellement automatique est désactivé au moins 24 heures avant la fin de la période d'abonnement en cours. Votre compte sera débité pour le renouvellement dans les 24 heures précédant la fin de la période d'abonnement en cours. Les renouvellements automatiques seront facturés au même prix que celui initialement appliqué pour l'abonnement. Vous pouvez gérer vos abonnements et désactiver le renouvellement automatique en accédant aux paramètres de votre compte sur l'App Store après l'achat. Veuillez consulter nos conditions d'utilisation et notre politique de confidentialité pour plus d'informations.",
     "tr": "Ödeme, satın alma onayı sırasında iTunes hesabınıza yansıtılacaktır. Aboneliğiniz, mevcut abonelik dönemi bitmeden en az 24 saat önce otomatik yenileme kapatılmadığı sürece otomatik olarak yenilenecektir. Mevcut abonelik dönemi bitmeden önceki 24 saat içinde hesabınız yenileme için ücretlendirilecektir. Otomatik yenilemeler, abonelik için ilk kez ödediğiniz fiyatla aynı tutarda olacaktır. Satın alma işleminden sonra Aboneliklerinizi yönetmek ve otomatik yenilemeyi kapatmak için App Store’daki Hesap Ayarlarınıza gidebilirsiniz. Daha fazla bilgi için kullanım koşulları ve gizlilik politikası.",
     "zh-Hant-TW": "付款將在確認購買時從您的 iTunes 帳戶扣款。除非您在目前訂閱期間結束前至少 24 小時關閉自動續訂，否則您的訂閱將自動續訂。您的帳戶將在目前訂閱期間結束前 24 小時內被扣款以進行續訂。自動續訂的費用將與您最初訂閱時的費用相同。您可以在購買後前往 App Store 的帳戶設定管理訂閱並關閉自動續訂。欲了解更多資訊，請閱讀我們的使用條款與隱私權政策。"
   },
@@ -2329,7 +2329,7 @@
     "en": "terms of use",
     "de": "Nutzungsbedingungen",
     "es": "términos de uso",
-    "fr": "conditions d\\'utilisation",
+    "fr": "conditions d'utilisation",
     "tr": "kullanım koşulları",
     "zh-Hant-TW": "使用條款"
   },
@@ -2410,7 +2410,7 @@
     "en": "Please agree to the Privacy Policy and Terms of Use before continuing",
     "es": "Por favor, acepte la Política de Privacidad y los Términos de Uso antes de continuar",
     "de": "Bitte stimmen Sie der Datenschutzerklärung und den Nutzungsbedingungen zu, bevor Sie fortfahren.",
-    "fr": "Veuillez accepter la Politique de confidentialité et les conditions d\\'utilisation avant de continuer",
+    "fr": "Veuillez accepter la Politique de confidentialité et les conditions d'utilisation avant de continuer",
     "tr": "Lütfen devam etmeden önce Gizlilik Politikası ve Kullanım Koşullarını kabul edin",
     "zh-Hant-TW": "若要繼續，請同意隱私權政策與使用規範"
   },
@@ -2454,7 +2454,7 @@
     "es": "Ver Preguntas Frecuentes",
     "de": "FAQ anzeigen",
     "fr": "Voir FAQ",
-    "tr": "SSS\\'ları görüntüle",
+    "tr": "SSS'ları görüntüle",
     "zh-Hant-TW": "查看常見問題"
   },
   "generic_rangeTwoYearsCompact": {
@@ -2527,7 +2527,7 @@
     "en": "Rotate Screen",
     "es": "Rotar pantalla",
     "de": "Bildschirm drehen",
-    "fr": "Rotation de l\\'écran",
+    "fr": "Rotation de l'écran",
     "tr": "Ekranı Döndür",
     "zh-Hant-TW": "旋轉螢幕"
   },
@@ -2671,7 +2671,7 @@
     "en": "Since %s",
     "es": "Desde %s",
     "de": "vor %s",
-    "tr": "%s\\'den beri",
+    "tr": "%s'den beri",
     "zh-Hant-TW": "自從 %s"
   },
   "generic_smaller": {
@@ -2729,7 +2729,7 @@
   },
   "generic_suggestTranslationsHelp": {
     "de": "Wenn Sie Korrekturvorschläge oder Änderungen an Übersetzungen vornehmen möchten",
-    "en": "If you\\'d like to make suggested fixes or changes with translations",
+    "en": "If you'd like to make suggested fixes or changes with translations",
     "es": "Si desea realizar sugerencias de corrección o cambios con traducciones",
     "tr": "İsterseniz çevirilerle ilgili düzeltme veya değişiklik önerilerinde bulunabilirsiniz",
     "zh-Hant-TW": "如果你想提供翻譯修正或建議"
@@ -2760,7 +2760,7 @@
     "en": "Terms of Use",
     "de": "Nutzungsbedingungen",
     "es": "Términos de uso",
-    "fr": "Conditions d\\'utilisation",
+    "fr": "Conditions d'utilisation",
     "tr": "Kullanım Koşulları",
     "zh-Hant-TW": "使用條款"
   },
@@ -2859,7 +2859,7 @@
     "de": "Heute",
     "en": "Today",
     "es": "Hoy",
-    "fr": "Aujourd\\'hui",
+    "fr": "Aujourd'hui",
     "tr": "Bugün",
     "zh-Hant-TW": "今天"
   },
@@ -2884,7 +2884,7 @@
     "en": "Reach out to us on Twitter",
     "es": "Contáctanos en Twitter",
     "fr": "Nous joindre sur Twitter",
-    "tr": "Bize Twitter\\'dan ulaşın",
+    "tr": "Bize Twitter'dan ulaşın",
     "zh-Hant-TW": "在 Twitter 聯繫我們"
   },
   "generic_type": {
@@ -2936,18 +2936,18 @@
     "en": "Your account data is kept encrypted, anonymized, and stored on our private servers in North America.",
     "es": "Sus datos de cuenta se mantienen encriptados, anonimos y almacenados en nuestros servidores privados en América del Norte.",
     "de": "Ihre Kontodaten werden verschlüsselt, anonymisiert und auf unseren privaten Servern in Nordamerika gespeichert.",
-    "tr": "Hesap verileriniz şifrelenir, anonim hale getirilir ve Kuzey Amerika\\'daki özel sunucularımızda saklanır.",
+    "tr": "Hesap verileriniz şifrelenir, anonim hale getirilir ve Kuzey Amerika'daki özel sunucularımızda saklanır.",
     "zh-Hant-TW": "您的帳戶資料會被加密、匿名化，並儲存在我們位於北美的私人伺服器上"
   },
   "generic_yourAccountData_deleteDataMobile": {
-    "en": "You may request to delete your account and/or data. Your data includes all data stored on our servers such as portfolio data you uploaded to our servers (see the server sync page). It doesn\\'t include data on your mobile device. To delete data on your mobile device, you can uninstall the app.",
+    "en": "You may request to delete your account and/or data. Your data includes all data stored on our servers such as portfolio data you uploaded to our servers (see the server sync page). It doesn't include data on your mobile device. To delete data on your mobile device, you can uninstall the app.",
     "es": "Puede solicitar la eliminación de su cuenta y/o datos. Sus datos incluyen todos los datos almacenados en nuestros servidores, como los datos de su portafolio que subió a nuestros servidores (consulte la página de sincronización del servidor). No incluye datos en su dispositivo móvil. Para eliminar datos en su dispositivo móvil, puede desinstalar la aplicación.",
     "de": "Sie können eine Löschung Ihres Kontos und/oder Ihrer Daten beantragen. Ihre Daten umfassen alle auf unseren Servern gespeicherten Daten, wie z. B. Portfoliodaten, die Sie auf unsere Server hochgeladen haben (siehe die Seite zur Serversynkronisation). Dazu gehören nicht die Daten auf Ihrem Mobilgerät. Um die Daten auf Ihrem Mobilgerät zu löschen, deinstallieren Sie die App.",
     "tr": "Hesabınızı ve/veya verilerinizi silmeyi talep edebilirsiniz. Verileriniz, sunucularımıza yüklediğiniz portföy verileri gibi sunucularımızda depolanan tüm verileri içerir (sunucu senkronizasyonu sayfasına bakın). Mobil cihazınızdaki verileri içermez. Mobil cihazınızdaki verileri silmek için uygulamayı kaldırabilirsiniz.",
     "zh-Hant-TW": "您可以要求刪除您的帳戶或資料。您的資料包含所有儲存在我們伺服器上的資料，例如您上傳的投資組合（請參見伺服器同步頁面），但不包含您手機上的資料。若要刪除手機上的資料，請解除安裝本應用程式。"
   },
   "generic_yourAccountData_deleteDataWarning": {
-    "en": "If you delete your account or data, they will be permanently deleted and we cannot undelete it. To make a backup of your data, please visit the mobile application\\'s settings, export page.",
+    "en": "If you delete your account or data, they will be permanently deleted and we cannot undelete it. To make a backup of your data, please visit the mobile application's settings, export page.",
     "es": "Si elimina su cuenta o datos, se eliminarán permanentemente y no podremos restaurarlos. Para hacer una copia de seguridad de sus datos, visite la página de configuración, exportación de la aplicación móvil.",
     "de": "Wenn Sie die Löschung des Kontos oder der Daten beantragen, sind alle Vorgänge unwiderruflich. Um eine Sicherungskopie Ihrer Daten zu erstellen, besuchen Sie bitte die Seite „Einstellungen, Export“ dieser Anwendung.",
     "tr": "Hesabınızı veya verilerinizi silerseniz, bunlar kalıcı olarak silinir ve geri alamayız. Verilerinizin yedeğini almak için lütfen mobil uygulamanın ayarlar, dışa aktarma sayfasını ziyaret edin.",
@@ -2965,12 +2965,12 @@
     "en": "Could not connect to the Help server. Email the developer with your question?",
     "es": "No se pudo conectar al servidor de ayuda. ¿Enviar un correo electrónico al desarrollador con su pregunta?",
     "de": "Es konnte keine Verbindung zum Hilfeserver hergestellt werden. Schicken Sie dem Entwickler eine E-Mail mit Ihrer Frage",
-    "fr": "Impossible de se connecter au serveur d\\'aide. Envoyez un email au développeur avec votre question ?",
+    "fr": "Impossible de se connecter au serveur d'aide. Envoyez un email au développeur avec votre question ?",
     "tr": "Yardım sunucusuna bağlanılamadı. Geliştiriciye sorunuzla ilgili e-posta mı gönderiyorsunuz?",
     "zh-Hant-TW": "無法連線至說明伺服器。是否要將您的問題 Email 給開發者？"
   },
   "help_dontSeeMyAnswer": {
-    "en": "I don\\'t see my answer…",
+    "en": "I don't see my answer…",
     "es": "No veo mi respuesta…",
     "de": "Ich sehe keine Antwort…",
     "fr": "Je ne vois pas ma réponse…",
@@ -2989,7 +2989,7 @@
     "en": "Need more help?",
     "es": "¿Necesitas más ayuda?",
     "de": "Benötigen Sie weitere Hilfe?",
-    "fr": "Besoin d\\'aide ?",
+    "fr": "Besoin d'aide ?",
     "tr": "Daha fazla yardıma mı ihtiyacınız var?",
     "zh-Hant-TW": "需要更多協助嗎？"
   },
@@ -2997,7 +2997,7 @@
     "en": "Sorry, we could not find an answer to your question.",
     "es": "Lo siento, no pudimos encontrar una respuesta a su pregunta.",
     "de": "Wir konnten leider keine Antwort auf Ihre Frage finden.",
-    "fr": "Désolé, nous n\\'avons pas trouvé de réponse à votre question.",
+    "fr": "Désolé, nous n'avons pas trouvé de réponse à votre question.",
     "tr": "Üzgünüz, sorunuza bir cevap bulamadık.",
     "zh-Hant-TW": "很抱歉，找不到您的問題的答案"
   },
@@ -3038,7 +3038,7 @@
     "es": "No se pudo conectar a Google. Por favor, inténtelo de nuevo más tarde.",
     "de": "Es konnte keine Verbindung zu Google hergestellt werden. Bitte versuchen Sie es später noch einmal.",
     "fr": "Impossible de se connecter à Google. Veuillez réessayer plus tard.",
-    "tr": "Google\\'a bağlanılamadı. Lütfen daha sonra tekrar deneyin.",
+    "tr": "Google'a bağlanılamadı. Lütfen daha sonra tekrar deneyin.",
     "zh-Hant-TW": "無法連線至 Google，請稍後再試"
   },
   "logInOut_googleSignInFailed": {
@@ -3054,7 +3054,7 @@
     "es": "Error al cerrar sesión en Google",
     "de": "Fehler bei der Abmeldung von Google",
     "fr": "Erreur lors de la déconnexion de Google",
-    "tr": "Google\\'dan çıkış yaparken hata oluştu",
+    "tr": "Google'dan çıkış yaparken hata oluştu",
     "zh-Hant-TW": "登出 Google 時發生錯誤"
   },
   "logInOut_signInWithYourGoogleAccount": {
@@ -3076,7 +3076,7 @@
     "en": "Sign in to share purchases on the cloud? Click No if you want to use your local Google Play account. (If you have multiple accounts on your phone, Google Play sometimes restores it from the incorrect account. You should sign in to the correct account to workaround that issue.).\\n\\nNote: If your purchases are shared on the cloud and you are not signed in, they will be transferred from the cloud to your local account, and other signed in devices using purchases from the cloud will lose access to that purchase. To share purchases on the cloud, sign in, and then click restore, to transfer purchases from your local device to the cloud.",
     "es": "¿Iniciar sesión para compartir compras en la nube? Haga clic en No si desea usar su cuenta local de Google Play. (Si tiene varias cuentas en su teléfono, Google Play a veces las restaura desde la cuenta incorrecta. Debería iniciar sesión en la cuenta correcta para solucionar ese problema).\\n\\nNota: Si sus compras se comparten en la nube y no ha iniciado sesión, se transferirán de la nube a su cuenta local y otros dispositivos que usen compras desde la nube perderán el acceso a esa compra. Para compartir compras en la nube, inicie sesión y luego haga clic en restaurar para transferir las compras desde su dispositivo local a la nube.",
     "de": "Anmelden, um Einkäufe in der Cloud zu teilen? Klicken Sie auf Nein, wenn Sie Ihr lokales Google Play-Konto verwenden möchten. (Wenn Sie mehrere Konten auf Ihrem Telefon haben, stellt Google Play es manchmal mit dem falschen Konto wieder her. Sie sollten sich beim richtigen Konto anmelden, um dieses Problem zu umgehen.).\\n\\nHinweis: Wenn Ihre Einkäufe in der Cloud freigegeben werden und Sie nicht angemeldet sind, werden sie von der Cloud auf Ihr lokales Konto übertragen und andere angemeldete Geräte, die Einkäufe aus der Cloud verwenden, verlieren den Zugriff auf diese Einkäufe. Um Einkäufe in der Cloud freizugeben, melden Sie sich an und klicken Sie dann auf Wiederherstellen, um Einkäufe von Ihrem lokalen Gerät in die Cloud zu übertragen.",
-    "tr": "Satın alımları bulutta paylaşmak için oturum açın. Yerel Google Play hesabınızı kullanmak istiyorsanız Hayır\\'a tıklayın. (Telefonunuzda birden fazla hesabınız varsa, Google Play bazen yanlış hesaptan geri yükler. Bu sorunu çözmek için doğru hesapta oturum açmalısınız).\\n\\nNot: Satın alımlarınız bulutta paylaşılıyorsa ve oturum açmadıysanız, buluttan yerel hesabınıza aktarılır ve buluttan satın alımları kullanan diğer oturum açmış cihazlar bu satın alımlara erişimini kaybeder. Satın alımları bulutta paylaşmak için oturum açın ve ardından satın alımları yerel cihazınızdan buluta aktarmak için geri yükle\\'ye tıklayın.",
+    "tr": "Satın alımları bulutta paylaşmak için oturum açın. Yerel Google Play hesabınızı kullanmak istiyorsanız Hayır'a tıklayın. (Telefonunuzda birden fazla hesabınız varsa, Google Play bazen yanlış hesaptan geri yükler. Bu sorunu çözmek için doğru hesapta oturum açmalısınız).\\n\\nNot: Satın alımlarınız bulutta paylaşılıyorsa ve oturum açmadıysanız, buluttan yerel hesabınıza aktarılır ve buluttan satın alımları kullanan diğer oturum açmış cihazlar bu satın alımlara erişimini kaybeder. Satın alımları bulutta paylaşmak için oturum açın ve ardından satın alımları yerel cihazınızdan buluta aktarmak için geri yükle'ye tıklayın.",
     "zh-Hant-TW": "要登入以在雲端分享購買紀錄嗎？如果您想使用本機 Google Play 帳戶，請點選「否」。(若您的手機有多個帳戶，Google Play 有時會從錯誤帳戶還原，請登入正確帳戶以避免此問題。)\\n\\n注意：如果您的購買紀錄已在雲端分享且您未登入，將會從雲端轉移到本機帳戶，其他登入裝置將無法再存取該購買。若要在雲端分享購買紀錄，請先登入，然後點選「還原」，將購買紀錄從本機轉移到雲端。"
   },
   "logInOut_signOutOfGoogle": {
@@ -3084,7 +3084,7 @@
     "es": "Cerrar sesión de Google",
     "de": "Abmelden bei Google",
     "fr": "Se déconnecter de Google",
-    "tr": "Google\\'dan Çıkış Yapın",
+    "tr": "Google'dan Çıkış Yapın",
     "zh-Hant-TW": "登出 Google"
   },
   "logInOut_signOutOrSwitchAccount": {
@@ -3100,7 +3100,7 @@
     "es": "Iniciando sesión en Google…",
     "de": "Bei Google anmelden…",
     "fr": "Connexion à Google…",
-    "tr": "Google\\'da oturum açıyorum…",
+    "tr": "Google'da oturum açıyorum…",
     "zh-Hant-TW": "正在登入 Google…"
   },
   "logInOut_signingOutOfGoogle": {
@@ -3108,7 +3108,7 @@
     "es": "Cerrando sesión de Google…",
     "de": "Von Google abmelden…",
     "fr": "Déconnexion de Google…",
-    "tr": "Google\\'dan çıkış yapıyorum…",
+    "tr": "Google'dan çıkış yapıyorum…",
     "zh-Hant-TW": "正在登出 Google…"
   },
   "logInOut_switchAccount": {
@@ -3162,7 +3162,7 @@
     "en": "Failed to fetch news. Please check that you have internet connection and try again later.",
     "es": "No se pudo obtener noticias. Verifique que tiene conexión a Internet e inténtelo de nuevo más tarde.",
     "de": "Die Nachrichten konnten nicht abgerufen werden. Bitte prüfen Sie, ob Sie eine Internetverbindung haben und versuchen Sie es später noch einmal.",
-    "fr": "Impossible d\\'aller chercher l\\'actualité. Veuillez vérifier que vous avez une connexion Internet et réessayer plus tard.",
+    "fr": "Impossible d'aller chercher l'actualité. Veuillez vérifier que vous avez une connexion Internet et réessayer plus tard.",
     "tr": "Haberler alınamadı. Lütfen internet bağlantınızın olup olmadığını kontrol edin ve daha sonra tekrar deneyin.",
     "zh-Hant-TW": "無法取得新聞。請確認網路連線後再試一次。"
   },
@@ -3172,14 +3172,14 @@
     "es": "¿Filtrar noticias de %s?",
     "de": "Nachrichten von %s filtern?",
     "fr": "Filtrer les nouvelles de %s ?",
-    "tr": "%s \\'dan gelen haberleri filtreleyelim mi?",
+    "tr": "%s 'dan gelen haberleri filtreleyelim mi?",
     "zh-Hant-TW": "要篩選來自 %s 的新聞嗎？"
   },
   "news_filterNewsSourcesHelp": {
     "en": "To filter a news source, press-hold on it from the news listings page. To remove a filter, click on it below.",
     "es": "Para filtrar una fuente de noticias, mantén pulsado en ella desde la página de listado de noticias. Para eliminar un filtro, haz clic en él abajo.",
     "de": "Um eine Nachrichtenquelle zu filtern, halten Sie diese auf der Nachrichtenliste gedrückt. Um einen Filter zu entfernen, klicken Sie ihn unten an",
-    "fr": "Pour filtrer une source d\\'actualités, faites un clic long à partir de la page des nouvelles. Pour supprimer un filtre, cliquez ci-dessous.",
+    "fr": "Pour filtrer une source d'actualités, faites un clic long à partir de la page des nouvelles. Pour supprimer un filtre, cliquez ci-dessous.",
     "tr": "Bir haber kaynağını filtrelemek için haber listeleri sayfasından üzerine basılı tutun. Aşağıdaki bir filtreyi kaldırmak için üzerine tıklayın.",
     "zh-Hant-TW": "在新聞列表頁長按來源可將其加入篩選，下方點擊可移除篩選。"
   },
@@ -3187,7 +3187,7 @@
     "en": "Filtered News Sources",
     "es": "Fuentes de Noticias Filtradas",
     "de": "gefilterte Nachrichtenquellen",
-    "fr": "Sources d\\'informations filtrées",
+    "fr": "Sources d'informations filtrées",
     "tr": "Filtrelenmiş Haber Kaynakları",
     "zh-Hant-TW": "已篩選的新聞來源"
   },
@@ -3203,7 +3203,7 @@
     "en": "News Image",
     "es": "Imagen de Noticias",
     "de": "Nachrichten-Bild",
-    "fr": "Image de l\\'actualité",
+    "fr": "Image de l'actualité",
     "tr": "Haber Görüntüsü",
     "zh-Hant-TW": "新聞影像"
   },
@@ -3233,7 +3233,7 @@
     "zh-Hant-TW": "透過 %s 分享"
   },
   "news_sorryCouldNotOpenNewsArticle": {
-    "en": "Sorry, we couldn\\'t open that news article.",
+    "en": "Sorry, we couldn't open that news article.",
     "es": "Lo siento, no pudimos abrir ese artículo de noticias.",
     "de": "Wir konnten den Nachrichten-Artikel leider nicht öffnen.",
     "fr": "Désolé, nous ne pouvons pas ouvrir cet article.",
@@ -3272,7 +3272,7 @@
     "en": "Enabling password protection will prompt for a password when the app is launched. If you lose your password, you will need to re-install the app.\\n\\nSetting a password does not protect your data if your device is stolen. Google provides ways to remotely wipe your device: https://www.google.com/#q=android+remotely+wipe+phone",
     "es": "Activar la protección por contraseña solicitará una contraseña cuando se inicie la aplicación. Si pierde su contraseña, necesitará reinstalar la aplicación.\\n\\nEstablecer una contraseña no protege sus datos si su dispositivo es robado. Google ofrece formas de borrar su dispositivo de forma remota: https://www.google.com/#q=android+remotely+wipe+phone",
     "de": "Wenn Sie den Kennwortschutz aktivieren, werden Sie beim Starten der App zur Eingabe eines Kennworts aufgefordert. Wenn Sie Ihr Kennwort verlieren, müssen Sie die App neu installieren.\\n\\nDas Festlegen eines Kennworts schützt Ihre Daten nicht, wenn Ihr Gerät gestohlen wird. Google bietet Möglichkeiten, ihr Gerät aus der Ferne zu löschen: https://www.google.com/#q=android+remotely+wipe+phone",
-    "fr": "L\\'activation de la protection par mot de passe nécessitera la saisie d\\'un mot de passe au lancement de l\\'application. Si vous perdez votre mot de passe, vous devrez réinstaller l\\'application.\\n\\nLa définition d\\'un mot de passe ne protège pas vos données si votre appareil est volé. Google propose des moyens d\\'effacer à distance votre appareil : https://www.google.com/#q=android+remotely+wipe+phone",
+    "fr": "L'activation de la protection par mot de passe nécessitera la saisie d'un mot de passe au lancement de l'application. Si vous perdez votre mot de passe, vous devrez réinstaller l'application.\\n\\nLa définition d'un mot de passe ne protège pas vos données si votre appareil est volé. Google propose des moyens d'effacer à distance votre appareil : https://www.google.com/#q=android+remotely+wipe+phone",
     "tr": "Parola korumasını etkinleştirirseniz uygulama başlatıldığında bir parola isteyecektir. Şifrenizi kaybederseniz uygulamayı yeniden yüklemeniz gerekecektir.\\n\\nŞifre belirlemek, cihazınızın çalınması durumunda verilerinizi korumaz. Google, cihazınızı uzaktan silmenin yollarını sunar: https://www.google.com/#q=android+remotely+wipe+phone",
     "zh-Hant-TW": "啟用密碼保護後，啟動應用程式時會要求輸入密碼。如果您遺失密碼，需重新安裝應用程式。\\n\\n設定密碼無法在裝置遺失或遭竊時保護您的資料。Google 提供遠端清除裝置的方法：https://www.google.com/#q=android+remotely+wipe+phone"
   },
@@ -3296,7 +3296,7 @@
     "en": "Please enter a valid password timeout (integer between 5 to 3600)",
     "es": "Por favor, ingrese un tiempo de espera de contraseña válido (entero entre 5 y 3600)",
     "de": "Bitte geben Sie für das Kennworts eine gültige Zeitüberschreitung ein (ganze Zahl zwischen 5 und 3600)",
-    "fr": "Veuillez entrer un délai d\\'expiration de mot de passe valide (entier compris entre 5 et 3600)",
+    "fr": "Veuillez entrer un délai d'expiration de mot de passe valide (entier compris entre 5 et 3600)",
     "tr": "Lütfen geçerli bir parola zaman aşımı girin (5 ila 3600 arasında tamsayı)",
     "zh-Hant-TW": "請輸入有效的密碼逾時秒數（5~3600 的整數）"
   },
@@ -3328,7 +3328,7 @@
     "en": "Please confirm your password",
     "es": "Por favor, confirme su contraseña",
     "de": "Bitte bestätigen Sie Ihr Kennwort",
-    "fr": "S\\'il vous plaît confirmez votre mot de passe",
+    "fr": "S'il vous plaît confirmez votre mot de passe",
     "tr": "Lütfen şifrenizi onaylayın",
     "zh-Hant-TW": "請再次輸入密碼"
   },
@@ -3337,7 +3337,7 @@
     "es": "Mostrar información del portafolio en el widget",
     "de": "Portfolio-Informationen im Widget anzeigen",
     "fr": "Afficher les informations de portefeuille sur le widget",
-    "tr": "Widget\\'ta portföy bilgilerini göster",
+    "tr": "Widget'ta portföy bilgilerini göster",
     "zh-Hant-TW": "在小工具顯示投資組合資訊"
   },
   "password_showQuotesListOnWidget": {
@@ -3345,14 +3345,14 @@
     "en": "Show quotes list on widget",
     "es": "Mostrar lista de cotizaciones en el widget",
     "fr": "Afficher la liste des cours sur le widget",
-    "tr": "Widget\\'ta öneriler listesini göster",
+    "tr": "Widget'ta öneriler listesini göster",
     "zh-Hant-TW": "在小工具顯示報價清單"
   },
   "password_timeoutInSeconds": {
     "de": "Zeitüberschreitung in Sekunden",
     "en": "Timeout in Seconds",
     "es": "Tiempo de espera en segundos",
-    "fr": "Délai d\\'attente en Secondes",
+    "fr": "Délai d'attente en Secondes",
     "tr": "Saniye cinsinden zaman aşımı",
     "zh-Hant-TW": "逾時秒數"
   },
@@ -3386,19 +3386,19 @@
     "zh-Hant-TW": "價格轉換為便士"
   },
   "portfolioAllocations_groupInOthers": {
-    "en": "Group holding in \\'Others\\' when less than % of total",
-    "es": "Agrupar tenencias en \\'Otros\\' cuando sean menos del % del total",
-    "de": "Konzernbeteiligung an \\'Anderen\\', wenn weniger als % des Gesamtbetrags",
-    "fr": "Grouper les position sous \\'Autres\\' quand ils représentent moins que % du total",
-    "tr": "Toplamın %\\'sinden az ise varlıkların \\'Diğerleri\\ grubundaki payı",
-    "zh-Hant-TW": "低於此百分比的持股將會歸類到\\'其他\\'"
+    "en": "Group holding in 'Others' when less than % of total",
+    "es": "Agrupar tenencias en 'Otros' cuando sean menos del % del total",
+    "de": "Konzernbeteiligung an 'Anderen', wenn weniger als % des Gesamtbetrags",
+    "fr": "Grouper les position sous 'Autres' quand ils représentent moins que % du total",
+    "tr": "Toplamın %'sinden az ise varlıkların 'Diğerleri\\ grubundaki payı",
+    "zh-Hant-TW": "低於此百分比的持股將會歸類到'其他'"
   },
   "portfolioAnalysis_changeSettings": {
     "en": "To change, open Settings, Calculations",
     "es": "Para cambiar, abra Configuración, Cálculos",
     "de": "zum Ändern Einstellungen Berechnungen öffnen ",
     "fr": "Pour modifier, ouvrer Réglages, Calculs",
-    "tr": "Değiştirmek için Ayarlar, Hesaplamalar\\'ı açın",
+    "tr": "Değiştirmek için Ayarlar, Hesaplamalar'ı açın",
     "zh-Hant-TW": "如需變更，請至設定 > 金額統計"
   },
   "portfolio_absoluteMagnitude": {
@@ -3448,7 +3448,7 @@
   "portfolio_allocation_categoryTagHelp": {
     "en": "To assign category tags, click on the labels button (bottom right of an item). The allocation chart can be configured to show the symbol on the 1st level, and the category tag on the 2nd level.",
     "es": "Para asignar etiquetas de categoría, haga clic en el botón de etiquetas (abajo a la derecha de un elemento). El gráfico de asignación se puede configurar para mostrar el símbolo en el primer nivel y la etiqueta de categoría en el segundo nivel.",
-    "de": "Um Kategorieschlagwörter zuzuweisen, klicken Sie auf die Schaltfläche \\'Labels\\' (unten rechts neben einem Artikel). Das Zuordnungsdiagramm kann so konfiguriert werden, dass das Symbol auf der ersten Ebene und das Kategorielabel auf der zweiten Ebene angezeigt wird",
+    "de": "Um Kategorieschlagwörter zuzuweisen, klicken Sie auf die Schaltfläche 'Labels' (unten rechts neben einem Artikel). Das Zuordnungsdiagramm kann so konfiguriert werden, dass das Symbol auf der ersten Ebene und das Kategorielabel auf der zweiten Ebene angezeigt wird",
     "tr": "Kategori etiketleri atamak için etiketler düğmesine tıklayın (bir öğenin sağ alt köşesi). Tahsisat tablosu 1. seviyede sembolü ve 2. seviyede kategori etiketini gösterecek şekilde yapılandırılabilir.",
     "zh-Hant-TW": "要指派分類標籤，請點選項目右下角的標籤按鈕。分佈圖可設定為第一層顯示代碼，第二層顯示分類標籤。"
   },
@@ -3570,10 +3570,10 @@
     "zh-Hant-TW": "券商設定"
   },
   "portfolio_cantManuallySortWhenAutoSortOn": {
-    "en": "Can\\'t manually sort when a column header is locked to a sort. Please tap the locked column header and choose \"Manual Sort\".",
+    "en": "Can't manually sort when a column header is locked to a sort. Please tap the locked column header and choose \"Manual Sort\".",
     "es": "No se puede ordenar manualmente cuando un encabezado de columna está bloqueado para una ordenación. Toque el encabezado de la columna bloqueada y elija \"Orden Manual\".",
     "de": "Kann nicht manuell sortieret werden, wenn eine Spaltenüberschrift für eine Sortierung gesperrt ist. Bitte tippen Sie auf die gesperrte Spaltenüberschrift und wählen Sie \"Manuell sortieren\".",
-    "fr": "Impossible de trier manuellement lorsque qu\\'une colonne est utilisée pour trier. Tapez sur l\\'en-tête de colonne et choisissez \"Manual Sort\".",
+    "fr": "Impossible de trier manuellement lorsque qu'une colonne est utilisée pour trier. Tapez sur l'en-tête de colonne et choisissez \"Manual Sort\".",
     "tr": "Bir sütun başlığı sıralamaya kilitlendiğinde manuel olarak sıralama yapılamaz. Lütfen kilitli sütun başlığına dokunun ve \"Manuel Sırala\" seçeneğini seçin.",
     "zh-Hant-TW": "當欄位標題被鎖定以進行排序時，無法手動進行排序。請點擊鎖定的欄位標題，然後選擇「手動排序」。"
   },
@@ -3670,8 +3670,8 @@
   "portfolio_dailyColumnSettings": {
     "en": "Daily Column Settings",
     "es": "Configuración de la Columna Diario",
-    "de": "Spalteneinstellungen \\'Heute\\'",
-    "fr": "Paramètres de la colonne \\'jour\\'",
+    "de": "Spalteneinstellungen 'Heute'",
+    "fr": "Paramètres de la colonne 'jour'",
     "tr": "Günlük Sütun Ayarları",
     "zh-Hant-TW": "每日漲跌欄位設定"
   },
@@ -3803,7 +3803,7 @@
     "en": "Aggregate totals in this portfolio: All quotes in this portfolio must be the same currency. Aggregate totals refers to the totals at top and bottom of screen.",
     "es": "Totales agregados en este portafolio: Todas las cotizaciones en este portafolio deben estar en la misma moneda. Los totales agregados se refieren a los totales en la parte superior e inferior de la pantalla.",
     "de": "Gesamtbeträge in diesem Portfolio: Alle Notierungen in diesem Portfolio müssen dieselbe Währung aufweisen. Die Gesamtsumme bezieht sich auf die Summen am oberen und unteren Rand der Anzeige.",
-    "fr": "Totaux agrégés dans ce portefeuille : Tous les cours dans ce portefeuille doivent avoir la même devise. Les totaux agrégés font référence aux totaux en haut et en bas de l\\'écran.",
+    "fr": "Totaux agrégés dans ce portefeuille : Tous les cours dans ce portefeuille doivent avoir la même devise. Les totaux agrégés font référence aux totaux en haut et en bas de l'écran.",
     "tr": "Bu portföydeki toplamlar: Bu portföydeki tüm öneriler-varlıklar aynı para biriminde olmalıdır. Toplamlar, ekranın üst ve altındaki toplamları ifade eder.",
     "zh-Hant-TW": "此投資組合的總額會以單一貨幣加總顯示：所有報價必須為同一種貨幣。總額指的是畫面上下方的加總數值。"
   },
@@ -3827,28 +3827,28 @@
     "en": "If OFF, dividends not reinvested will be omitted from your total calculations. Dividends reinvested will be reflected with a cost basis as if you purchased again with cash. This is the accounting method used at most exchanges. If ON, dividends in both cases are added to your total calculations at no cost basis.",
     "es": "Si está APAGADO, los dividendos no reinvertidos se omitirán de tus cálculos totales. Los dividendos reinvertidos se reflejarán con un costo base como si los hubieras comprado nuevamente con efectivo. Este es el método contable utilizado en la mayoría de las bolsas. Si está ENCENDIDO, los dividendos en ambos casos se suman a tus cálculos totales sin costo base.",
     "de": "Wenn AUS gewählt wird, werden nicht reinvestierte Dividenden nicht in Ihre Gesamtberechnung einbezogen. Reinvestierte Dividenden werden mit einer Kostenbasis berücksichtigt, als ob Sie erneut mit Bargeld gekauft hätten. Dies ist die Rechnungslegungsmethode, die an den meisten Börsen verwendet wird. Wenn AN, werden Dividenden in beiden Fällen kostenlos zu Ihren Gesamtberechnungen hinzugefügt.",
-    "fr": "Si OFF, les dividendes non réinvestis seront omis du calcul du total. Les dividendes réinvestis apparaîtront avec un cout de base comme si vous achetiez à nouveau avec des espèces. C\\'est la méthode de calcul utilisée dans la plupart des échanges. Si ON, les dividendes sont ajoutés dans les deux cas au calcul du total sans cout de base.",
+    "fr": "Si OFF, les dividendes non réinvestis seront omis du calcul du total. Les dividendes réinvestis apparaîtront avec un cout de base comme si vous achetiez à nouveau avec des espèces. C'est la méthode de calcul utilisée dans la plupart des échanges. Si ON, les dividendes sont ajoutés dans les deux cas au calcul du total sans cout de base.",
     "tr": "KAPALI ise, yeniden yatırılmayan temettüler toplam hesaplamalarınızdan çıkarılacaktır. Yeniden yatırılan temettüler, tekrar nakit ile satın almışsınız gibi maliyet esası ile yansıtılacaktır. Bu, çoğu borsada kullanılan muhasebe yöntemidir. AÇIK ise, her iki durumda da temettüler maliyet esası olmaksızın toplam hesaplamalarınıza eklenir.",
     "zh-Hant-TW": "若關閉，未再投資的股利將不會計入總額。再投資的股利會以現金再買入的成本計入（這是多數交易所的會計方式）。若開啟，無論是否再投資，所有股利都會以零成本計入總額。"
   },
   "portfolio_dividendsNotReinvestedHelp": {
-    "en": "Dividends that are not part of a dividend reinvestment plan (DRIP) and converted to cash. If you re-invest these later, you should add a new BUY transaction. Amount should be in stock\\'s local currency. You can change how dividends are reflected in your total calculations in the app Settings under Calculations.",
+    "en": "Dividends that are not part of a dividend reinvestment plan (DRIP) and converted to cash. If you re-invest these later, you should add a new BUY transaction. Amount should be in stock's local currency. You can change how dividends are reflected in your total calculations in the app Settings under Calculations.",
     "es": "Dividendos que no forman parte de un plan de reinversión de dividendos (DRIP) y se convierten en efectivo. Si los reinviertes más tarde, debes agregar una nueva transacción de COMPRA. El monto debe estar en la moneda local de la acción. Puedes cambiar cómo se reflejan los dividendos en tus cálculos totales en la configuración de la aplicación en Cálculos.",
     "de": "Dividenden, die nicht Teil eines Dividenden-Reinvestitionsplans (DRIP) sind und in Bargeld umgewandelt wurden. Wenn Sie diese später wieder anlegen, sollten Sie eine neue Kauf-Transaktion hinzufügen. Der Betrag sollte in der Landeswährung der Aktie sein. Sie können in den App-Einstellungen unter Berechnungen ändern, wie Dividenden in Ihren Gesamtberechnungen berücksichtigt werden.",
-    "fr": "Dividendes qui ne font pas partie d\\'un régime de réinvestissement des dividendes (RRD) et convertis en espèces. Si vous les réinvestissez plus tard, vous devez ajouter une nouvelle transaction ACHETER. Le montant doit être dans la devise du titre. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs.",
-    "tr": "Bir temettü yeniden yatırım planının (DRIP) parçası olmayan ve nakde dönüştürülen temettüler. Bunları daha sonra yeniden yatırırsanız, yeni bir AL işlemi eklemelisiniz. Tutar, hisse senedinin yerel para birimi cinsinden olmalıdır. Temettülerin toplam hesaplamalarınıza nasıl yansıtılacağını Uygulama Ayarları\\'nda Hesaplamalar bölümünden değiştirebilirsiniz.",
+    "fr": "Dividendes qui ne font pas partie d'un régime de réinvestissement des dividendes (RRD) et convertis en espèces. Si vous les réinvestissez plus tard, vous devez ajouter une nouvelle transaction ACHETER. Le montant doit être dans la devise du titre. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l'application dans Calculs.",
+    "tr": "Bir temettü yeniden yatırım planının (DRIP) parçası olmayan ve nakde dönüştürülen temettüler. Bunları daha sonra yeniden yatırırsanız, yeni bir AL işlemi eklemelisiniz. Tutar, hisse senedinin yerel para birimi cinsinden olmalıdır. Temettülerin toplam hesaplamalarınıza nasıl yansıtılacağını Uygulama Ayarları'nda Hesaplamalar bölümünden değiştirebilirsiniz.",
     "zh-Hant-TW": "未參與股利再投資計畫（DRIP）的股利會自動轉為現金。若您之後再投資，請新增一筆買入交易。金額應以股票的本地貨幣計價。您可在設定 > 計算中調整股利如何計入總額。"
   },
   "portfolio_dividendsReinvestedHelp": {
     "en": "Dividends part of a dividend reinvestment plan (DRIP). You do not need to add a separate transaction for the dividends to cash conversion. You can change how dividends are reflected in your total calculations in the app Settings under Calculations.",
     "es": "Dividendos parte de un plan de reinversión de dividendos (DRIP). No necesitas agregar una transacción separada para la conversión de dividendos a efectivo. Puedes cambiar cómo se reflejan los dividendos en tus cálculos totales en la configuración de la aplicación en Cálculos.",
     "de": "Dividenden, die Teil eines Dividenden-Reinvestitionsplans (DRIP) sind. Sie müssen keine separate Transaktion für die Umwandlung von Dividenden in Bargeld hinzufügen. Sie können in den App-Einstellungen unter Berechnungen eingeben, wie Dividenden in Ihren Gesamtberechnungen berücksichtigt werden.",
-    "fr": "Dividendes faisant partie d\\'un régime de réinvestissement des dividendes (RRD). Vous n\\'avez pas besoin d\\'ajouter une transaction séparée pour la conversion des dividendes en espèces. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l\\'application dans Calculs.",
-    "tr": "Temettüler, temettü yeniden yatırım planının (DRIP) bir parçasıdır. Temettüleri nakde dönüştürmek için ayrı bir işlem eklemenize gerek yoktur. Temettülerin toplam hesaplamalarınıza nasıl yansıtılacağını Uygulama Ayarları\\'nda Hesaplamalar bölümünden değiştirebilirsiniz.",
+    "fr": "Dividendes faisant partie d'un régime de réinvestissement des dividendes (RRD). Vous n'avez pas besoin d'ajouter une transaction séparée pour la conversion des dividendes en espèces. Vous pouvez modifier la façon dont les dividendes sont reflétés dans vos calculs totaux dans les paramètres de l'application dans Calculs.",
+    "tr": "Temettüler, temettü yeniden yatırım planının (DRIP) bir parçasıdır. Temettüleri nakde dönüştürmek için ayrı bir işlem eklemenize gerek yoktur. Temettülerin toplam hesaplamalarınıza nasıl yansıtılacağını Uygulama Ayarları'nda Hesaplamalar bölümünden değiştirebilirsiniz.",
     "zh-Hant-TW": "參與股利再投資計畫（DRIP）的股利不需額外新增現金轉換交易。您可在設定 > 計算中調整股利如何計入總額。"
   },
   "portfolio_doNotAddToTotals": {
-    "en": "Don\\'t add to totals on Portfolios Overview screen",
+    "en": "Don't add to totals on Portfolios Overview screen",
     "es": "No agregar a los totales en la pantalla de Resumen de Portafolios",
     "de": "Fügt keine Summen der Portfolio-Übersicht hinzu",
     "tr": "Portföy genel görünümünde toplamlar eklenmesin",
@@ -3963,7 +3963,7 @@
     "zh-Hant-TW": "產生報告時發生錯誤。若問題持續，請聯絡客服支援。"
   },
   "portfolio_generateReport_errorNoHoldings": {
-    "en": "You don\\'t have any portfolio holdings. Please record some transactions before generating a portfolio report.",
+    "en": "You don't have any portfolio holdings. Please record some transactions before generating a portfolio report.",
     "es": "No tienes ninguna participación en el portafolio. Por favor, registra algunas transacciones antes de generar un informe de portafolio.",
     "de": "Sie haben keine Portfoliobestände. Bitte erfassen Sie einige Transaktionen, bevor Sie einen Portfolioreport erstellen.",
     "tr": "Herhangi bir portföy varlığınız yok. Lütfen bir portföy raporu oluşturmadan önce bazı işlemleri kaydedin.",
@@ -4143,10 +4143,10 @@
     "zh-Hant-TW": "正在移動到投資組合…"
   },
   "portfolio_multipleCurrenciesNoHomeCurrency": {
-    "en": "Multiple currencies detected but a home currency is not set, so totals can\\'t be calculated. Please tap here to set a home currency.",
+    "en": "Multiple currencies detected but a home currency is not set, so totals can't be calculated. Please tap here to set a home currency.",
     "es": "Se detectaron múltiples monedas pero no se ha configurado una moneda base, por lo que no se pueden calcular los totales. Por favor, toca aquí para configurar una moneda base.",
     "de": "Es wurden mehrere Währungen erkannt, aber es wurde keine Heimatwährung festgelegt, so dass die Summen nicht berechnet werden können. Bitte tippen Sie hier, um eine Heimatwährung festzulegen.",
-    "fr": "Plusieurs monnaies sont détectées mais aucune devise préférée n\\'est définie. Les totaux ne peuvent donc pas être calculés. S\\'il vous plaît appuyez ici pour définir une devise préférée.",
+    "fr": "Plusieurs monnaies sont détectées mais aucune devise préférée n'est définie. Les totaux ne peuvent donc pas être calculés. S'il vous plaît appuyez ici pour définir une devise préférée.",
     "tr": "Birden fazla para birimi algılandı ancak bir ana para birimi ayarlanmadı, bu nedenle toplamlar hesaplanamıyor. Ana para birimini ayarlamak için lütfen buraya dokunun.",
     "zh-Hant-TW": "偵測到多種貨幣但未設定預設貨幣，無法計算總額。請點此設定預設貨幣。"
   },
@@ -4183,14 +4183,14 @@
   "portfolio_noQuotesHelp": {
     "en": "Add a new quote by tapping the Add button in the menu or by tapping here.",
     "es": "Agrega una nueva cotización tocando el botón Agregar en el menú o tocando aquí.",
-    "de": "Fügen Sie ein neue Notierung hinzu, indem Sie im Menü auf die Schaltfläche \\'Hinzufügen\\' oder hier tippen.",
+    "de": "Fügen Sie ein neue Notierung hinzu, indem Sie im Menü auf die Schaltfläche 'Hinzufügen' oder hier tippen.",
     "tr": "Menüdeki Ekle düğmesine dokunarak veya buraya dokunarak yeni bir öneriyi takip edin.",
     "zh-Hant-TW": "請點擊選單中的新增按鈕或這裡，新增報價"
   },
   "portfolio_noTransactionsHelp": {
     "en": "Track a new transaction by tapping the Add button in the menu or by tapping here.",
     "es": "Rastrea una nueva transacción tocando el botón Agregar en el menú o tocando aquí.",
-    "de": "Erfassen Sie eine neue Transaktion, indem Sie auf die Schaltfläche \\'Hinzufügen\\' im Menü oder hier tippen.",
+    "de": "Erfassen Sie eine neue Transaktion, indem Sie auf die Schaltfläche 'Hinzufügen' im Menü oder hier tippen.",
     "tr": "Menüdeki Ekle düğmesine dokunarak veya buraya dokunarak yeni bir işlemi takip edin.",
     "zh-Hant-TW": "請點擊選單中的新增按鈕或這裡，新增交易"
   },
@@ -4284,10 +4284,10 @@
     "zh-Hant-TW": "投資組合圖示"
   },
   "portfolio_portfolioMultipleCurrenciesNoHomeCurrency": {
-    "en": "This portfolio has different currencies but a home currency is not set, so totals can\\'t be calculated. Please tap here to set currency settings.",
+    "en": "This portfolio has different currencies but a home currency is not set, so totals can't be calculated. Please tap here to set currency settings.",
     "es": "Este portafolio tiene diferentes monedas pero no se ha configurado una moneda base, por lo que no se pueden calcular los totales. Por favor, toca aquí para configurar los ajustes de la moneda.",
     "de": "Dieses Portfolio hat verschiedene Währungen. Es ist aber keine lokale Währung eingestellt, so können keine Summen berechnet werden. Bitte tippen Sie hier, um in den Einstellungen die Währung festzulegen.",
-    "fr": "Ce portefeuille a différentes devises mais aucune devise préférée n\\'est définie. Les totaux ne peuvent donc pas être calculés. S\\'il vous plaît appuyez ici pour définir les paramètres de devise.",
+    "fr": "Ce portefeuille a différentes devises mais aucune devise préférée n'est définie. Les totaux ne peuvent donc pas être calculés. S'il vous plaît appuyez ici pour définir les paramètres de devise.",
     "tr": "Bu portföyün farklı para birimleri vardır ancak bir ana para birimi ayarlanmamıştır. Bu nedenle toplamlar hesaplanamaz. Para birimi ayarlarını yapmak için lütfen buraya dokunun.",
     "zh-Hant-TW": "此投資組合有多種幣別但未設定預設貨幣，無法計算總額。請點此設定貨幣。"
   },
@@ -4463,7 +4463,7 @@
     "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4.",
     "es": "Ejemplos:\\n\\nUna división de 4 por 1 multiplicará las acciones poseídas por 4 y dividirá el costo pagado por acción por 4.\\n\\nUna división inversa de 1 por 4 dividirá las acciones poseídas por 4 y multiplicará el costo por acción por 4.",
     "de": "Beispiele:\\n\\nEin Split im Verhältnis 1:4 multipliziert die eigenen Aktien mit 4 und teilt die Kosten pro Aktie durch 4.\\n\\nEin umgekehrter Split im Verhältnis 1:4 teilt die eigenen Aktien mit 4 und teilt die Kosten pro Aktie durch 4.",
-    "tr": "Örnekler:\\n\\n1\\'e 4\\'lük bölünme, sahip olunan hisse sayısını 4\\'e çarpacak ve hisse başına ödenen maliyeti 4\\'e bölecektir.\\n\\n1\\'e 4 ters bölünme, sahip olunan hisseleri 4\\'e ve çoklu hisse başına maliyeti 4\\'e bölecektir.",
+    "tr": "Örnekler:\\n\\n1'e 4'lük bölünme, sahip olunan hisse sayısını 4'e çarpacak ve hisse başına ödenen maliyeti 4'e bölecektir.\\n\\n1'e 4 ters bölünme, sahip olunan hisseleri 4'e ve çoklu hisse başına maliyeti 4'e bölecektir.",
     "zh-Hant-TW": "範例：\\n\\n4 對 1 股票分割會將持有股數乘以 4，每股成本除以 4。\\n\\n1 對 4 反向分割會將持有股數除以 4，每股成本乘以 4。"
   },
   "portfolio_splitRatio": {
@@ -5006,7 +5006,7 @@
     "zh-Hant-TW": "未實現市值"
   },
   "portfolio_useTodayChange": {
-    "en": "Today\\'s Change (New day time configurable in Settings, Calculations)",
+    "en": "Today's Change (New day time configurable in Settings, Calculations)",
     "es": "Cambio de Hoy (Nueva hora del día configurable en Configuración, Cálculos)",
     "de": "Heutige Veränderung (Neue Tageszeit konfigurierbar in Einstellungen, Berechnungen)",
     "fr": "Taux de change du jour, Réinitialisé à:\\nminuit",
@@ -5126,7 +5126,7 @@
     "en": "Error purchasing",
     "es": "Error en la compra",
     "de": "Fehler beim Kauf",
-    "fr": "Erreur lors de l\\'achat",
+    "fr": "Erreur lors de l'achat",
     "tr": "Satın alma hatası",
     "zh-Hant-TW": "購買時錯誤"
   },
@@ -5134,7 +5134,7 @@
     "en": "You have the lifetime premium upgrade, so you have free subscription benefits for life. You can still support the app by subscribing.",
     "es": "Tienes la actualización premium de por vida, por lo que tienes beneficios de suscripción gratuita de por vida. Aún puedes apoyar la aplicación suscribiéndote.",
     "de": "Sie haben das lebenslange Premium-Upgrade, d. h. Sie haben lebenslang kostenlose Abonnementvorteile. Sie können die App weiterhin unterstützen, wenn Sie ein Abonnement abschließen.",
-    "fr": "Vous avez une mise à jour Premium à vie, donc vous avez les bénéfices d\\'une souscription à vie. Vous pouvez encore supporter l\\'application en souscrivant.",
+    "fr": "Vous avez une mise à jour Premium à vie, donc vous avez les bénéfices d'une souscription à vie. Vous pouvez encore supporter l'application en souscrivant.",
     "tr": "Ömür boyu premiuma sahipsiniz, bu nedenle ömür boyu ücretsiz abonelik avantajlarına sahipsiniz. Yine de abone olarak uygulamayı destekleyebilirsiniz.",
     "zh-Hant-TW": "您已經擁有終身高級版升級，因此您終身享有免費訂閱權益。您仍然可以通過訂閱來支持該應用程式。"
   },
@@ -5142,7 +5142,7 @@
     "en": "Purchases are lifetime, linked to your google account and other devices using the same google account. Please contact us if you are having issues with any purchase such as transferring to a new device.",
     "es": "Las compras son de por vida, vinculadas a tu cuenta de Google y otros dispositivos que usan la misma cuenta de Google. Por favor, contáctenos si tienes problemas con alguna compra, como transferir a un nuevo dispositivo.",
     "de": "Einkäufe sind lebenslang gültig und mit Ihrem Google-Konto und anderen Geräten, die dasselbe Google-Konto verwenden, verknüpft. Bitte kontaktieren Sie uns, wenn Sie Probleme mit einem Kauf haben, z. B. beim Übertragen auf ein neues Gerät.",
-    "fr": "Les achats sont à vie, liés à votre compte Google et à d\\'autres appareils utilisant le même compte Google. Contactez-nous si vous rencontrez des problèmes avec un achat tel que le transfert vers un nouvel appareil.",
+    "fr": "Les achats sont à vie, liés à votre compte Google et à d'autres appareils utilisant le même compte Google. Contactez-nous si vous rencontrez des problèmes avec un achat tel que le transfert vers un nouvel appareil.",
     "tr": "Satın alımlar ömür boyu geçerlidir, google hesabınızla ve aynı google hesabını kullanan diğer cihazlarla bağlantılıdır. Yeni bir cihaza aktarma gibi herhangi bir satın alma işlemiyle ilgili sorun yaşıyorsanız lütfen bizimle iletişime geçin.",
     "zh-Hant-TW": "購買是終身的，與您的 Google 帳戶關聯可跨裝置使用。如遇到任何問題請聯絡我們。"
   },
@@ -5174,7 +5174,7 @@
     "en": "Enjoy a premium ad-free experience and support the development of the app!",
     "es": "¡Disfruta de una experiencia premium sin anuncios y apoya el desarrollo de la aplicación!",
     "de": "Genießen Sie die werbefrei Premium-Version und unterstützen Sie die Weiterentwicklung der App",
-    "fr": "Profitez d\\'une expérience premium sans publicité et soutenez le développement de l\\'application !",
+    "fr": "Profitez d'une expérience premium sans publicité et soutenez le développement de l'application !",
     "tr": "Premium, reklamsız deneyimin tadını çıkarın ve uygulamanın gelişimini destekleyin!",
     "zh-Hant-TW": "享受無廣告的 Premium 體驗，並支持應用程式的開發！"
   },
@@ -5295,32 +5295,32 @@
     "en": "Subscription is active\\n\\nThanks for subscribing!",
     "es": "La suscripción está activa\\n\\n¡Gracias por suscribirte!",
     "de": "Das Abonnement ist aktiv.\\n\\nVielen Dank für Ihr Abonnement!",
-    "fr": "La souscription est active\\n\\nMerci d\\'avoir souscrit !",
+    "fr": "La souscription est active\\n\\nMerci d'avoir souscrit !",
     "tr": "Abonelik aktif\\n\\Abone olduğunuz için teşekkürler!",
     "zh-Hant-TW": "訂閱已啟用\\n\\n感謝您的訂閱！"
   },
   "purchases_subscriptionIssue": {
-    "en": "Something\\'s wrong with your subscription, but you\\'ve still got access during a temporary grace period. Tap here to fix the problem.",
+    "en": "Something's wrong with your subscription, but you've still got access during a temporary grace period. Tap here to fix the problem.",
     "es": "Hay un problema con tu suscripción, pero aún tienes acceso durante un período de gracia temporal. Toca aquí para solucionar el problema.",
     "de": "Mit Ihrem Abonnement stimmt etwas nicht, aber Sie haben vorübergehenden noch Zugang. Tippen Sie hier, um das Problem zu beheben.",
-    "fr": "Quelque chose pose problème à votre souscription mais vous avez toujours l\\'accès durant une période de grâce temporaire. Tapez ici pour résoudre le problème.",
+    "fr": "Quelque chose pose problème à votre souscription mais vous avez toujours l'accès durant une période de grâce temporaire. Tapez ici pour résoudre le problème.",
     "tr": "Aboneliğinizle ilgili bir sorun var ancak geçici bir ödemesiz dönem boyunca hala erişiminiz bulunmaktadır. Sorunu çözmek için buraya dokunun.",
     "zh-Hant-TW": "您的訂閱有問題，但在臨時寬限期內仍可使用。請點擊這裡解決問題。"
   },
   "purchases_subscriptionOnHold": {
-    "en": "Your account is on hold because there\\'s a problem with your payment method. Tap here to fix the problem.",
+    "en": "Your account is on hold because there's a problem with your payment method. Tap here to fix the problem.",
     "es": "Tu cuenta está en espera porque hay un problema con tu método de pago. Toca aquí para solucionar el problema.",
     "de": "Ihr Konto ist in der Wartephase weil es ein Problem mit Ihrer Zahlungsmethode gibt. Tippen Sie hier, um das Problem zu beheben.",
-    "fr": "Votre compte est suspendu à cause d\\'un problème avec votre méthode de paiement. Tapez ici pour résoudre le problème.",
+    "fr": "Votre compte est suspendu à cause d'un problème avec votre méthode de paiement. Tapez ici pour résoudre le problème.",
     "tr": "Ödeme yönteminizle ilgili bir sorun olduğu için hesabınız bekletiliyor. Sorunu çözmek için buraya dokunun.",
     "zh-Hant-TW": "您的帳戶因付款方式有問題而被暫停。請點擊這裡解決問題。"
   },
   "purchases_subscriptionAutoRenew": {
-    "en": "Your subscription will automatically renew before it expires. You may cancel any time by tapping \\'Manage Subscriptions\\'.",
+    "en": "Your subscription will automatically renew before it expires. You may cancel any time by tapping 'Manage Subscriptions'.",
     "es": "Tu suscripción se renovará automáticamente antes de que expire. Puedes cancelarla en cualquier momento tocando el enlace Administrar Suscripciones.",
-    "de": "Ihr Abonnement wird automatisch vor Ablauf verlängert. Sie können es jederzeit kündigen, indem Sie auf den Link \\'Abonnements verwalten\\' tippen.",
-    "fr": "Votre abonnement sera automatiquement renouvelé avant son expiration. Vous pouvez l\\'annuler à tout moment en appuyant sur le lien Gérer les abonnements.",
-    "tr": "Aboneliğiniz süresi dolmadan otomatik olarak yenilenecektir. İstediğiniz zaman \\'Abonelikleri Yönet\\' seçeneğine dokunarak iptal edebilirsiniz.",
+    "de": "Ihr Abonnement wird automatisch vor Ablauf verlängert. Sie können es jederzeit kündigen, indem Sie auf den Link 'Abonnements verwalten' tippen.",
+    "fr": "Votre abonnement sera automatiquement renouvelé avant son expiration. Vous pouvez l'annuler à tout moment en appuyant sur le lien Gérer les abonnements.",
+    "tr": "Aboneliğiniz süresi dolmadan otomatik olarak yenilenecektir. İstediğiniz zaman 'Abonelikleri Yönet' seçeneğine dokunarak iptal edebilirsiniz.",
     "zh-Hant-TW": "您的訂閱將於到期前自動續訂。您可隨時點選「管理訂閱」 取消訂閱。"
   },
   "purchases_subscriptionTransfer": {
@@ -5335,7 +5335,7 @@
     "en": "Thank you for upgrading!",
     "es": "¡Gracias por actualizar!",
     "de": "Danke für das Upgrade!",
-    "fr": "Merci d\\'avoir procédé à la mise à niveau !",
+    "fr": "Merci d'avoir procédé à la mise à niveau !",
     "tr": "Yükseltme için teşekkür ederiz!",
     "zh-Hant-TW": "感謝您的升級支持！"
   },
@@ -5375,7 +5375,7 @@
     "en": "How would you rate the app?",
     "es": "¿Cómo calificarías la aplicación?",
     "de": "Wie würden Sie die App bewerten?",
-    "fr": "Comment évalueriez-vous l\\'application ?",
+    "fr": "Comment évalueriez-vous l'application ?",
     "tr": "Uygulamayı nasıl değerlendiriyorsunuz?",
     "zh-Hant-TW": "您會給這個 App 幾分？"
   },
@@ -5383,7 +5383,7 @@
     "en": "I love it!",
     "es": "¡Me encanta!",
     "de": "Gefällt mir!",
-    "fr": "J\\'adore ça!",
+    "fr": "J'adore ça!",
     "tr": "Beğendim!",
     "zh-Hant-TW": "很喜歡！"
   },
@@ -5391,7 +5391,7 @@
     "en": "Rate app",
     "es": "Califica la app",
     "de": "App bewerten",
-    "fr": "Evaluer l\\'application",
+    "fr": "Evaluer l'application",
     "tr": "Uygualamayı Değerlendir",
     "zh-Hant-TW": "替 App 評分"
   },
@@ -5415,7 +5415,7 @@
     "en": "Take a moment to rate the app? 5 ⭐ ratings help the app to attract more customers and improve.",
     "es": "¿Te tomarías un momento para calificar la app? Las calificaciones de 5 ⭐ ayudan a la app a atraer más clientes y mejorar.",
     "de": "Nehmen Sie sich einen Moment Zeit, um die App zu bewerten? 5 ⭐ Bewertungen helfen uns, mehr Kunden zu gewinnen und uns zu verbessern.",
-    "fr": "Prenez un moment pour évaluer l\\'application ? 5 ⭐ aident l\\'application à attirer plus de clients et à l\\'améliorer.",
+    "fr": "Prenez un moment pour évaluer l'application ? 5 ⭐ aident l'application à attirer plus de clients et à l'améliorer.",
     "tr": "Uygulamayı değerlendirmek için bir dakikanızı ayırır mısınız? 5 ⭐ derecelendirme, uygulamanın daha fazla müşteri çekmesine ve gelişmesine yardımcı olur.",
     "zh-Hant-TW": "願意花一點時間幫我們評分嗎？5 星好評能幫助我們吸引更多用戶並持續改進。"
   },
@@ -5423,7 +5423,7 @@
     "en": "What do you think about the app?",
     "es": "¿Qué piensas de la app?",
     "de": "Was denken Sie über die App?",
-    "fr": "Que pensez-vous de l\\'application ?",
+    "fr": "Que pensez-vous de l'application ?",
     "tr": "Uygulama hakkında düşünceleriniz nelerdir?",
     "zh-Hant-TW": "您對這個 App 有什麼想法？"
   },
@@ -5506,7 +5506,7 @@
     "en": "Average Price per Share",
     "es": "Precio promedio por acción",
     "de": "Durchschnittspreis pro Aktie",
-    "fr": "Affiche Nombre d\\'actions @ Prix moyen par action",
+    "fr": "Affiche Nombre d'actions @ Prix moyen par action",
     "tr": "Hisse başı Ortalama Fiyat",
     "zh-Hant-TW": "每股平均價格"
   },
@@ -5602,7 +5602,7 @@
     "en": "Adjust application font size",
     "es": "Ajustar tamaño de fuente en la aplicación",
     "de": "Schriftgröße der Anwendung anpassen",
-    "fr": "Ajuste la taille de la police dans l\\'application",
+    "fr": "Ajuste la taille de la police dans l'application",
     "tr": "Uygulama yazı tipi boyutunu ayarlar",
     "zh-Hant-TW": "調整應用程式字體大小"
   },
@@ -5630,10 +5630,10 @@
     "zh-Hant-TW": "內嵌今年已實現損益"
   },
   "settingsDisplay_inlineAllTimeAndRealizedYtdHelp": {
-    "en": "Shows YTD returns (for tax loss harvesting). Requires \\'Inline all-time and realized gains\\' to be enabled.",
-    "es": "Muestra devoluciones YTD (para la recolección de pérdidas fiscales). Requiere que se habilite \\'Devoluciones históricas e implementadas en línea\\'.",
-    "de": "Zeigt YTD-Renditen (für die steuerliche Verlustabschöpfung). Erfordert die Aktivierung von \\'Inline Allzeithoch und realisierte Renditen\\'",
-    "tr": "YTD getirilerini gösterir (vergi kaybı için). \\'Satır içi tüm zamanlar ve gerçekleşen kazançlar\\' seçeneğinin etkinleştirilmesini gerektirir.",
+    "en": "Shows YTD returns (for tax loss harvesting). Requires 'Inline all-time and realized gains' to be enabled.",
+    "es": "Muestra devoluciones YTD (para la recolección de pérdidas fiscales). Requiere que se habilite 'Devoluciones históricas e implementadas en línea'.",
+    "de": "Zeigt YTD-Renditen (für die steuerliche Verlustabschöpfung). Erfordert die Aktivierung von 'Inline Allzeithoch und realisierte Renditen'",
+    "tr": "YTD getirilerini gösterir (vergi kaybı için). 'Satır içi tüm zamanlar ve gerçekleşen kazançlar' seçeneğinin etkinleştirilmesini gerektirir.",
     "zh-Hant-TW": "顯示今年已實現損益（用於稅務損失收割）。需啟用「內嵌總損益與已實現損益」"
   },
   "settingsDisplay_inlineSharesAndAveragePricePerShare": {
@@ -5712,15 +5712,15 @@
     "en": "Show one line per item on the single portfolio widget. Tap the cell to toggle between absolute and percentage.",
     "es": "Mostrar una línea por artículo en el widget de portafolio único. Toque la celda para alternar entre absoluto y porcentaje.",
     "de": "Zeige eine Zeile pro Element im Einzelportfolio -Widget. Tippen Sie auf die Zelle, um zwischen absolutem und prozentualem Wert zu wechseln.",
-    "fr": "Afficher uniquement une ligne par élément dans la liste du porte-feuille du widget. Tapez la dernière colonne d\\'une cellule pour basculer l\\'affichage.",
-    "tr": "Tek portföy widget\\'inde öğe başına bir satır gösterin. Mutlak ve yüzde arasında geçiş yapmak için hücreye dokunun.",
+    "fr": "Afficher uniquement une ligne par élément dans la liste du porte-feuille du widget. Tapez la dernière colonne d'une cellule pour basculer l'affichage.",
+    "tr": "Tek portföy widget'inde öğe başına bir satır gösterin. Mutlak ve yüzde arasında geçiş yapmak için hücreye dokunun.",
     "zh-Hant-TW": "單一投資組合小工具每個項目僅顯示一行。點擊可切換絕對值與百分比。"
   },
   "settingsDisplay_miniModeHoldingsHelp": {
     "en": "Show one line per holding. Tap the cell to toggle between absolute and percentage.",
     "es": "Mostrar una línea por tenencia. Toque la celda para alternar entre absoluto y porcentaje.",
     "de": "Zeigt eine Zeile pro Notierung. Tippen Sie auf die Zelle, um zwischen absolut und prozentual zu wechseln.",
-    "fr": "Affiche uniquement une line sur l\\'onglet Positions. Taper la valeur de la variation pour basculer entre valeur et pourcentage.",
+    "fr": "Affiche uniquement une line sur l'onglet Positions. Taper la valeur de la variation pour basculer entre valeur et pourcentage.",
     "tr": "Varlık başına bir satır gösterin. Mutlak ve yüzde arasında geçiş yapmak için hücreye dokunun.",
     "zh-Hant-TW": "每個持股僅顯示一行。點擊可切換絕對值與百分比。"
   },
@@ -5728,7 +5728,7 @@
     "en": "Show one line per quote. Tap the cell to toggle between absolute and percentage.",
     "es": "Mostrar una línea por cotización. Toque la celda para alternar entre absoluto y porcentaje.",
     "de": "Zeigt eine Zeile pro Bestand. Tippen Sie auf die Zelle, um zwischen absolut und prozentual zu wechseln.",
-    "fr": "Affiche uniquement une line sur l\\'onglet Cours. Taper la valeur de la variation (dernière colonne) pour basculer entre valeur et pourcentage.",
+    "fr": "Affiche uniquement une line sur l'onglet Cours. Taper la valeur de la variation (dernière colonne) pour basculer entre valeur et pourcentage.",
     "tr": "Öneri başına bir satır gösterin. Mutlak ve yüzde arasında geçiş yapmak için hücreye dokunun.",
     "zh-Hant-TW": "每個報價僅顯示一行。點擊可切換絕對值與百分比。"
   },
@@ -5736,7 +5736,7 @@
     "en": "Number of Shares",
     "es": "Número de Acciones",
     "de": "Anzahl der Anteile",
-    "fr": "Nombre d\\'actions",
+    "fr": "Nombre d'actions",
     "tr": "Hisselerin sayısı",
     "zh-Hant-TW": "持有股數"
   },
@@ -5744,7 +5744,7 @@
     "en": "Number of shares min precision",
     "es": "Precisión mínima del número de acciones",
     "de": "Anzahl der Aktien min. Genauigkeit",
-    "fr": "Précision du nombre d\\'actions",
+    "fr": "Précision du nombre d'actions",
     "tr": "Hisse sayısı min hassasiyet",
     "zh-Hant-TW": "股數最小顯示精度"
   },
@@ -5800,7 +5800,7 @@
     "en": "Show currency symbol on Quotes tab",
     "es": "Mostrar símbolo de moneda en la pestaña de cotizaciones",
     "de": "Zeige Währungssymbol auf der Registerkarte \"Notierungen\"",
-    "fr": "Affiche le symbole monétaire dans l\\'onglet Cours",
+    "fr": "Affiche le symbole monétaire dans l'onglet Cours",
     "tr": "Öneri sekmesinde para birimi Sembolünü göster",
     "zh-Hant-TW": "在報價分頁顯示幣別符號"
   },
@@ -5836,7 +5836,7 @@
   "settingsDisplay_showNotesHoldingsTabHelp": {
     "en": "Display up to 5 lines of notes on the Holdings tab",
     "es": "Mostrar hasta 5 líneas de notas en la pestaña de tenencias",
-    "de": "Zeigt bis zu 5 Notizzeilen auf der Registerkarte \\'Bestände\\'",
+    "de": "Zeigt bis zu 5 Notizzeilen auf der Registerkarte 'Bestände'",
     "tr": "Varlıklar sekmesinde 5 satıra kadar not görüntülenir",
     "zh-Hant-TW": "在持股分頁最多顯示 5 行備註"
   },
@@ -5851,8 +5851,8 @@
   "settingsDisplay_showNotesQuoteTabHelp": {
     "en": "Display up to 5 lines of notes on Quotes tab",
     "es": "Mostrar hasta 5 líneas de notas en la pestaña de cotizaciones",
-    "de": "Zeigt bis zu 5 Notizzeilen auf der Registerkarte \\'Notierungen\\'",
-    "fr": "Afficher jusqu\\'à 5 lignes de notes dans l\\'onglet des cours",
+    "de": "Zeigt bis zu 5 Notizzeilen auf der Registerkarte 'Notierungen'",
+    "fr": "Afficher jusqu'à 5 lignes de notes dans l'onglet des cours",
     "tr": "Öneriler sekmesinde 5 satıra kadar not görüntülenir",
     "zh-Hant-TW": "在報價分頁最多顯示 5 行備註"
   },
@@ -5866,7 +5866,7 @@
   "settingsDisplay_showNotesTransactionsTabHelp": {
     "en": "Display up to 5 lines of notes on the Transactions tab",
     "es": "Mostrar hasta 5 líneas de notas en la pestaña de transacciones",
-    "de": "Zeigt bis zu 5 Notizzeilen auf der Registerkarte \\'Transaktionen\\'",
+    "de": "Zeigt bis zu 5 Notizzeilen auf der Registerkarte 'Transaktionen'",
     "tr": "İşlemler sekmesinde 5 satıra kadar not görüntülenir",
     "zh-Hant-TW": "在交易分頁最多顯示 5 行備註"
   },
@@ -5874,7 +5874,7 @@
     "en": "Show Avg Price Per Share and Number of Shares below each holding",
     "es": "Mostrar Precio Promedio por Acción y Número de Acciones debajo de cada tenencia",
     "de": "Zeigt Anzahl und den durchschnittlichen Kurs pro Aktie unter jedem Bestand an",
-    "fr": "Afficher Prix moyen par action et Nombre d\\'actions sous chaque position",
+    "fr": "Afficher Prix moyen par action et Nombre d'actions sous chaque position",
     "tr": "Her bir varlığın altında Hisse Başına Ortalama Fiyatı ve Hisse Sayısını göster",
     "zh-Hant-TW": "每個持股下方顯示每股均價與持有股數"
   },
@@ -5974,10 +5974,10 @@
     "zh-Hant-TW": "盤後時段（Premium）"
   },
   "settingsWidget_extendedHoursHelp": {
-    "en": "Show extended hours on portfolio\\'s quotes tab (Premium subscription required)",
+    "en": "Show extended hours on portfolio's quotes tab (Premium subscription required)",
     "es": "Mostrar horas extendidas en la pestaña de cotizaciones del portafolio (se requiere suscripción Premium)",
-    "de": "Ausserbörslichen Handel auf der Angebotsregisterkarte der Portfolio\\'s anzeigen (Premium-Abonnement erforderlich)",
-    "tr": "Portföy\\'ün fiyat teklifleri sekmesinde uzatılmış saatleri gösterin (Premium abonelik gereklidir)",
+    "de": "Ausserbörslichen Handel auf der Angebotsregisterkarte der Portfolio's anzeigen (Premium-Abonnement erforderlich)",
+    "tr": "Portföy'ün fiyat teklifleri sekmesinde uzatılmış saatleri gösterin (Premium abonelik gereklidir)",
     "zh-Hant-TW": "在投資組合報價分頁顯示盤後時段（需 Premium）"
   },
   "settingsWidget_extendedHoursIndicator": {
@@ -5988,10 +5988,10 @@
     "zh-Hant-TW": "顯示盤後時段指示"
   },
   "settingsWidget_extendedHoursIndicatorHelp": {
-    "en": "(For single line mode) Show an \\'ext\\' label for extended prices when extended hours are enabled",
-    "es": "(Para modo de una sola línea) Mostrar una etiqueta \\'ext\\' para precios extendidos cuando las horas extendidas están habilitadas",
-    "de": "(Für Einzelzeilenmodus) Zeigen Sie ein \\'ext\\' Label für ausserbörsliche Kurse an, wenn ausserbörslich aktiviert ist.",
-    "tr": "(Tek satır modu için) Uzatılmış saatler etkinleştirildiğinde uzatılmış fiyatlar için bir \\'ext\\' etiketi göster",
+    "en": "(For single line mode) Show an 'ext' label for extended prices when extended hours are enabled",
+    "es": "(Para modo de una sola línea) Mostrar una etiqueta 'ext' para precios extendidos cuando las horas extendidas están habilitadas",
+    "de": "(Für Einzelzeilenmodus) Zeigen Sie ein 'ext' Label für ausserbörsliche Kurse an, wenn ausserbörslich aktiviert ist.",
+    "tr": "(Tek satır modu için) Uzatılmış saatler etkinleştirildiğinde uzatılmış fiyatlar için bir 'ext' etiketi göster",
     "zh-Hant-TW": "（單行模式）盤後時段顯示「ext」標籤"
   },
   "settingsWidget_singleLineMode": {
@@ -6006,7 +6006,7 @@
     "en": "Widget UI size",
     "es": "Tamaño de la interfaz del widget",
     "de": "Größe der Widget-Oberfläche",
-    "fr": "Taille de l\\'IHM du widget",
+    "fr": "Taille de l'IHM du widget",
     "tr": "Widget Arayüz boyutu",
     "zh-Hant-TW": "小工具介面大小"
   },
@@ -6022,7 +6022,7 @@
     "en": "About App (MSP - My Stocks Portfolio)",
     "es": "Acerca de la app (MSP - My Stocks Portfolio)",
     "de": "über die App (MSP - My Stocks Portfolio)",
-    "fr": "À propos de l\\'application (MSP - My Stocks Portfolio)",
+    "fr": "À propos de l'application (MSP - My Stocks Portfolio)",
     "tr": "Uygulama Hakkında (MSP - My Stocks Portfolio)",
     "zh-Hant-TW": "關於本 App（MSP - My Stocks Portfolio）"
   },
@@ -6030,7 +6030,7 @@
     "en": "App version",
     "es": "Versión de la app",
     "de": "App Version",
-    "fr": "Version de l\\'application",
+    "fr": "Version de l'application",
     "tr": "Uygulama versiyonu",
     "zh-Hant-TW": "App 版本"
   },
@@ -6069,7 +6069,7 @@
     "en": "Could not start email app. Have you set up email on your device?",
     "es": "No se pudo iniciar la app de correo electrónico. ¿Has configurado el correo en tu dispositivo?",
     "de": "Die E-Mail-App konnte nicht gestartet werden. Haben Sie E-Mail auf Ihrem Gerät eingerichtet?",
-    "fr": "Impossible de lancer l\\'application email. Avez-vous configuré votre email sur votre appareil ?",
+    "fr": "Impossible de lancer l'application email. Avez-vous configuré votre email sur votre appareil ?",
     "tr": "E-posta uygulaması başlatılamadı. Cihazınızda e-posta kurulumu yaptınız mı?",
     "zh-Hant-TW": "無法啟動 Email app。您已經設定好 Email 嗎？"
   },
@@ -6120,35 +6120,35 @@
     "en": "Import from CSV",
     "es": "Importar desde CSV",
     "de": "von CSV importieren",
-    "tr": "CSV\\'den içe aktar",
+    "tr": "CSV'den içe aktar",
     "zh-Hant-TW": "從 CSV 匯入"
   },
   "settings_csvImportCustomPrices": {
     "en": "Import Custom Prices from CSV",
     "es": "Importar Precios Personalizados desde CSV",
     "de": "Benutzerdefinierte Kurse von CSV importieren",
-    "tr": "Özel Fiyatları CSV\\'den içe aktar",
+    "tr": "Özel Fiyatları CSV'den içe aktar",
     "zh-Hant-TW": "從 CSV 匯入手動價格"
   },
   "settings_csvImportPortfolios": {
     "en": "Import Portfolios from CSV",
     "es": "Importar Portafolios desde CSV",
     "de": "Portfolios von CSV importieren",
-    "tr": "Portföyleri CSV\\'den içe aktar",
+    "tr": "Portföyleri CSV'den içe aktar",
     "zh-Hant-TW": "從 CSV 匯入投資組合"
   },
   "settings_csvImportPortfoliosHelp": {
     "en": "Import from Google Drive / SDCard / External Storage / Email / Clipboard",
     "es": "Importar desde Google Drive / SDCard / Almacenamiento Externo / Email / Portapapeles",
     "de": "Importieren von Google Drive / SD-Karte / Externer Speicher / E-Mail / Zwischenablage",
-    "tr": "Google Drive / SDCard / Harici Depolama / E-posta / Pano\\'dan içe aktar",
+    "tr": "Google Drive / SDCard / Harici Depolama / E-posta / Pano'dan içe aktar",
     "zh-Hant-TW": "從 Google Drive／SD 卡／外部儲存空間／Email／剪貼簿 匯入"
   },
   "settings_csvImportPriceAlerts": {
     "en": "Import Price Alerts from CSV",
     "es": "Importar Alertas de Precios desde CSV",
     "de": "Kursalarme von CSV importieren",
-    "tr": "Fiyat Uyarılarını CSV\\'den içe aktar",
+    "tr": "Fiyat Uyarılarını CSV'den içe aktar",
     "zh-Hant-TW": "從 CSV 匯入到價通知"
   },
   "settings_general": {
@@ -6170,7 +6170,7 @@
   "settings_hideClosedPositionsSummary": {
     "en": "Holdings with 0 shares remaining will be hidden on the Holdings view",
     "es": "Las tenencias con 0 acciones restantes se ocultarán en la vista de tenencias",
-    "de": "Bestände mit 0 verbleibenden Anteilen werden in der Ansicht \\'Bestände\\' ausgeblendet",
+    "de": "Bestände mit 0 verbleibenden Anteilen werden in der Ansicht 'Bestände' ausgeblendet",
     "fr": "Les positions avec 0 actions restantes seront masquées dans la vue des positions",
     "tr": "Hisse sayısı 0 olursa varlıklar bölümünde gizlenecektir",
     "zh-Hant-TW": "股數為 0 的持股將在持股頁面中隱藏"
@@ -6256,7 +6256,7 @@
     "zh-Hant-TW": "啟用每日投資組合摘要"
   },
   "settings_notifications_eodPortfolioSummaryEnabledHelp": {
-    "en": "If you don\\'t see an end of day push notification summarizing your portfolio changes, check https://dontkillmyapp.com for troubleshooting",
+    "en": "If you don't see an end of day push notification summarizing your portfolio changes, check https://dontkillmyapp.com for troubleshooting",
     "es": "Si no ves una notificación push de fin de día que resuma los cambios en tu portafolio, consulta https://dontkillmyapp.com para solucionar problemas",
     "de": "Wenn Sie am Ende des Tages keine Push-Benachrichtigung sehen, die Ihre Portfolioänderungen zusammenfasst, testen Sie zur Fehlerbehebung https://dontkillmyapp.com.",
     "tr": "Portföy değişikliklerinizi özetleyen bir gün sonu anlık bildirimi görmüyorsanız, sorun giderme için https://dontkillmyapp.com adresini kontrol edin",
@@ -6288,7 +6288,7 @@
     "es": "Abrir Play Store",
     "de": "Play Store öffnen",
     "fr": "Ouvrir Google Play Store",
-    "tr": "Play Store\\'u Aç",
+    "tr": "Play Store'u Aç",
     "zh-Hant-TW": "開啟 Play 商店"
   },
   "settings_preferredPrecision": {
@@ -6319,7 +6319,7 @@
     "en": "Auto-refresh (when app is open)",
     "es": "Actualización automática (cuando la aplicación está abierta)",
     "de": "Auto-Aktualisierung (bei geöffneter App)",
-    "fr": "Rafraîchissement automatique (quand l\\'application est ouverte)",
+    "fr": "Rafraîchissement automatique (quand l'application est ouverte)",
     "tr": "Otomatik yenileme (uygulama açıkken)",
     "zh-Hant-TW": "自動更新（App 開啟時）"
   },
@@ -6383,7 +6383,7 @@
   "settings_reviewAppHelp": {
     "de": "Eine Bewertung für die App schreiben",
     "en": "Write a review for the app",
-    "fr": "Rédiger un avis pour l\\'application",
+    "fr": "Rédiger un avis pour l'application",
     "tr": "Uygulama için değerlendirmede bulunun",
     "zh-Hant-TW": "幫 App 撰寫評論"
   },
@@ -6412,14 +6412,14 @@
   "settings_shareAppWithFriends": {
     "en": "Share the App with friends",
     "de": "Die App mit Freunden teilen",
-    "fr": "Partagez l\\'application avec des amis",
+    "fr": "Partagez l'application avec des amis",
     "tr": "Uygulamayı arkadaşlarınızla paylaşın",
     "zh-Hant-TW": "與好友分享 App"
   },
   "settings_shareTheApp": {
     "de": "App teilen",
     "en": "Share the App",
-    "fr": "Partagez l\\'application",
+    "fr": "Partagez l'application",
     "tr": "Uygulamayı paylaş",
     "zh-Hant-TW": "分享 App"
   },
@@ -6433,7 +6433,7 @@
   "settings_showCurrencySymbolHelp": {
     "en": "For example, $10. If off, then 10 (without currency symbol) will be shown. This option is only used when a home currency is set.",
     "de": "Zum Beispiel, $10. Wenn AUS, dann wird 10 (ohne Währungssymbol) angezeigt. Diese Option wird nur verwendet, wenn eine Heimatwährung festgelegt worden ist",
-    "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché. Cette option n\\'est utilisée que lorsqu\\'une devise préférée est définie.",
+    "fr": "Par exemple, \"$10\". Si off, alors \"10\" (sans symbole monétaire) sera affiché. Cette option n'est utilisée que lorsqu'une devise préférée est définie.",
     "tr": "Örneğin, 10$. Kapalı ise 10 şeklinde (para birimi sembolü olmadan) gösterilecektir. Bu seçenek yalnızca bir ana para birimi ayarlandığında kullanılır.",
     "zh-Hant-TW": "例如 $10。若關閉則僅顯示 10（不含幣別符號）。此選項僅在已設定預設幣別時有效。"
   },
@@ -6508,7 +6508,7 @@
   "settings_widgetHideColumnHeadersDescription": {
     "en": "Hide the tappable column headers for switching display type (i.e. daily/total).",
     "de": "Blendet die antippbaren Spaltenüberschriften zum Umschalten der Anzeigeart aus (z.B. täglich/Summe)",
-    "fr": "Masquer les en-têtes cliquables des colonnes pour changer le type d\\'affichage (p.e. jour/total)",
+    "fr": "Masquer les en-têtes cliquables des colonnes pour changer le type d'affichage (p.e. jour/total)",
     "tr": "Görüntüleme türünü değiştirmek için dokunulabilir sütun başlıklarını gizleyin (örn. günlük/toplam).",
     "zh-Hant-TW": "隱藏可點擊切換顯示類型（如每日／總額）的欄位標題"
   },
@@ -6534,7 +6534,7 @@
     "zh-Hant-TW": "同步完成"
   },
   "sync_errorOutOfSync": {
-    "en": "Your client is out of sync. Please do a fresh sync (from the Server Sync screen) before trying to delete an item off the server, or sign out if you don\\'t want to use server sync.",
+    "en": "Your client is out of sync. Please do a fresh sync (from the Server Sync screen) before trying to delete an item off the server, or sign out if you don't want to use server sync.",
     "zh-Hant-TW": "您的用戶端資料不同步。請先在「伺服器同步」畫面進行全新同步，然後再嘗試從伺服器刪除項目；如果您不想使用伺服器同步，請登出。"
   },
   "sync_errorPleaseTrySignOut": {
@@ -6547,14 +6547,14 @@
   "sync_help": {
     "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.",
     "de": "Bei der Synchronisierung werden Ihr Telefon und der Server auf den neuesten Stand gebracht: Alle lokalen Daten, die Sie seit der letzten Synchronisierung geändert oder hinzugefügt haben, werden auf den Server hochgeladen, die neuesten Serverdaten werden heruntergeladen und alle lokalen Daten, die Sie von einem anderen Gerät gelöscht haben, werden gelöscht. Sie können über mehrere Geräte hinweg synchronisieren.",
-    "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d\\'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\n\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.",
+    "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\n\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.",
     "tr": "Senkronizasyon telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.",
     "zh-Hant-TW": "同步會將您的手機與伺服器更新至最新狀態：會將您自上次同步後修改或新增的本地資料上傳至伺服器、下載最新伺服器資料，並刪除您在其他裝置刪除的本地資料。您可以在多個裝置間同步。"
   },
   "sync_help_seeMore_android": {
     "en": "To see more backup options such as Google Drive, email or external storage, you can visit the app settings, import/export.",
     "de": "Um weitere Sicherungsoptionen wie Google Drive, E-Mail oder externen Speicher zu sehen, besuchen Sie die App-Einstellungen, Import/Export.",
-    "fr": "nVous pouvez aussi utiliser l\\'approche d\\'import/export dans les réglages de l\\'application, sauvegarder, import/export.",
+    "fr": "nVous pouvez aussi utiliser l'approche d'import/export dans les réglages de l'application, sauvegarder, import/export.",
     "tr": "Google Drive, e-posta veya harici depolama gibi daha fazla yedekleme seçeneği görmek için uygulama ayarları, içe/dışa aktarma bölümünü ziyaret edebilirsiniz.",
     "zh-Hant-TW": "如需更多備份選項（如 Google Drive、Email 或外部儲存），請至應用程式設定的匯入／匯出頁面。"
   },
@@ -6610,7 +6610,7 @@
   "sync_premiumAutoSync": {
     "en": "Subscribe to premium to enable auto sync of portfolio data? This supports real time sync of data between multiple devices.",
     "de": "Abonnieren Sie Premium-Version, um eine automatische Synchronisierung der Portfoliodaten zu aktivieren. Dies unterstützt die Echtzeit-Synchronisierung von Daten zwischen mehreren Geräten.",
-    "tr": "Portföy verilerinin otomatik senkronizasyonunu etkinleştirmek için premium\\'a abone olun? Bu, birden fazla cihaz arasında verilerin gerçek zamanlı senkronizasyonunu destekler.",
+    "tr": "Portföy verilerinin otomatik senkronizasyonunu etkinleştirmek için premium'a abone olun? Bu, birden fazla cihaz arasında verilerin gerçek zamanlı senkronizasyonunu destekler.",
     "zh-Hant-TW": "訂閱 Premium 以啟用投資組合資料自動同步。此功能支援多裝置間即時同步。"
   },
   "sync_restoreDataHelp": {
@@ -6673,7 +6673,7 @@
   },
   "userConsent_appTrackingDisabled_ios": {
     "_comment": "GDPR (EU) only",
-    "en": "If you\\'ve disabled App Tracking via your phone settings (Privacy & Security > Tracking), then that setting will take precedence.",
+    "en": "If you've disabled App Tracking via your phone settings (Privacy & Security > Tracking), then that setting will take precedence.",
     "zh-Hant-TW": "如果你已在手機設定中（「隱私與安全性」>「追蹤」）停用 App 追蹤，那麼該設定將會優先生效。"
   },
   "userConsent_consentToAdvertising": {
@@ -6736,7 +6736,7 @@
     "_comment": "GDPR (EU) only",
     "en": "Upgrade to Premium",
     "de": "Upgrade zur Premium-Version",
-    "tr": "Premium\\'a Yükselt",
+    "tr": "Premium'a Yükselt",
     "zh-Hant-TW": "升級為 Premium"
   },
   "userConsent_customDescription": {
@@ -6785,7 +6785,7 @@
     "_comment": "GDPR (EU) only",
     "en": "From the vendor list, consent to Google Advertising Products (this is hard to find since the list is not alphabetized, but we cannot customize this list)",
     "de": "Stimmen Sie in der Anbieterliste den Google-Werbeprodukten zu (dies ist nicht ganz einfach zu finden, da die Liste nicht alphabetisch geordnet ist, leider können wir diese Liste nicht anpassen)",
-    "tr": "Sağlayıcı listesinden Google Advertising Products\\'a onay verin (liste alfabetik olarak sıralanmadığı için bunu bulmak zor olabilir. Maalesef bu listeyi özelleştiremiyoruz",
+    "tr": "Sağlayıcı listesinden Google Advertising Products'a onay verin (liste alfabetik olarak sıralanmadığı için bunu bulmak zor olabilir. Maalesef bu listeyi özelleştiremiyoruz",
     "zh-Hant-TW": "請在供應商清單中同意 Google 廣告產品（此清單未依字母排序，較難尋找，且無法自訂）"
   },
   "userConsent_customMissingOptions": {
@@ -6833,7 +6833,7 @@
   "viewQuoteStats_askHelp": {
     "en": "Ask price",
     "de": "Nachfrage Preis",
-    "fr": "Prix de l\\'offre",
+    "fr": "Prix de l'offre",
     "tr": "Alış Fiyatı",
     "zh-Hant-TW": "賣價"
   },
@@ -6847,7 +6847,7 @@
   "viewQuoteStats_askSizeHelp": {
     "en": "Ask lot size",
     "de": "Nachfage Größe Lot",
-    "fr": "Nombre d\\'actions à ce prix (offre)",
+    "fr": "Nombre d'actions à ce prix (offre)",
     "tr": "Satış lot sayısı",
     "zh-Hant-TW": "賣出每手數量"
   },
@@ -6874,7 +6874,7 @@
   "viewQuoteStats_betaHelp": {
     "en": "Measure of the risk of a stock",
     "de": "Maßstab für das Risiko einer Aktie",
-    "fr": "Mesure du risque d\\'un titre",
+    "fr": "Mesure du risque d'un titre",
     "tr": "Bir hisse senedinin risk ölçüsüdür",
     "zh-Hant-TW": "股票風險評估"
   },
@@ -6895,7 +6895,7 @@
   "viewQuoteStats_bidSizeHelp": {
     "en": "Bid lot size",
     "de": "Angebotsmenge Lot",
-    "fr": "Nombre d\\'actions à ce prix (demande)",
+    "fr": "Nombre d'actions à ce prix (demande)",
     "tr": "Alış Lot sayısı",
     "zh-Hant-TW": "買價每手數量"
   },
@@ -6954,7 +6954,7 @@
   "viewQuoteStats_epsHelp": {
     "en": "Net income over last 4 quarters divided by total outstanding shares",
     "de": "Nettogewinn der letzten 4 Quartale dividiert durch die Gesamtzahl der ausstehenden Aktien",
-    "fr": "Résultat net sur les 4 derniers trimestres divisé par le nombre total d\\'actions en circulation",
+    "fr": "Résultat net sur les 4 derniers trimestres divisé par le nombre total d'actions en circulation",
     "tr": "Son 4 çeyrekteki net gelirin toplam tedavüldeki hisselere bölünmesi",
     "zh-Hant-TW": "過去4季度的淨利除上總流通在外股數"
   },
@@ -6978,7 +6978,7 @@
   "viewQuoteStats_forwardEPSHelp": {
     "en": "Predicted net income over upcoming 4 quarters divided by total outstanding shares",
     "de": "Prognostizierter Nettogewinn in den kommenden 4 Quartalen geteilt durch die Gesamtzahl der ausstehenden Aktien",
-    "fr": "Revenu net prévu au cours des 4 prochains trimestres divisé par le nombre total d\\'actions en circulation",
+    "fr": "Revenu net prévu au cours des 4 prochains trimestres divisé par le nombre total d'actions en circulation",
     "tr": "Önümüzdeki 4 çeyrek için öngörülen net gelirin toplam tedavüldeki hisselere bölünmesidir",
     "zh-Hant-TW": "預估未來4季度的淨利除以總流通在外股數"
   },
@@ -6991,7 +6991,7 @@
   "viewQuoteStats_forwardPERatioHelp": {
     "en": "Share price divided by predicted earnings per share",
     "de": "Aktienkurs dividiert durch den prognostizierten Gewinn je Aktie",
-    "fr": "Le cours de l\\'action divisé par le bénéfice prévu par action",
+    "fr": "Le cours de l'action divisé par le bénéfice prévu par action",
     "tr": "Hisse fiyatının tahmini hisse başı kazanca bölünmesidir",
     "zh-Hant-TW": "每股價格除以預估每股盈餘"
   },
@@ -7033,7 +7033,7 @@
   "viewQuoteStats_marketCapHelp": {
     "en": "Total value of the company. Calculated by multiplying current share price by total outstanding shares.",
     "de": "Gesamtwert des Unternehmens. Berechnet durch Multiplikation des aktuellen Aktienkurses mit der Gesamtzahl der ausstehenden Aktien.",
-    "fr": "Valeur totale de l\\'entreprise calculée en multipliant le cours actuel de l\\'action par le nombre total d\\'actions en circulation.",
+    "fr": "Valeur totale de l'entreprise calculée en multipliant le cours actuel de l'action par le nombre total d'actions en circulation.",
     "tr": "Şirketin toplam değeri. Mevcut hisse fiyatı ile tedavüldeki toplam hisselerin çarpılmasıyla hesaplanır.",
     "zh-Hant-TW": "公司總價值。計算方式為目前股價乘以流通在外總股數。"
   },
@@ -7061,7 +7061,7 @@
   "viewQuoteStats_openHelp": {
     "en": "Open price in the latest trading day",
     "de": "Eröffnungskurs des letzten Handelstags",
-    "fr": "Prix d\\'ouverture la veille",
+    "fr": "Prix d'ouverture la veille",
     "tr": "Son işlem günündeki açılış fiyatı",
     "zh-Hant-TW": "最新交易日的開盤價"
   },
@@ -7074,25 +7074,25 @@
   "viewQuoteStats_shortPercentFloat": {
     "en": "Short% Float",
     "de": "Leerverkaufsangebot",
-    "tr": "Açığa satış halka açıklık %\\'si",
+    "tr": "Açığa satış halka açıklık %'si",
     "zh-Hant-TW": "放空佔流通股比"
   },
   "viewQuoteStats_shortPercentFloatHelp": {
     "en": "Short % of float. Data is delayed.",
     "de": "% Anteil der Leerverkäufe. Die Daten sind verzögert.",
-    "tr": "Açığa satışların halka açıklık %\\'si. Veriler gecikmelidir.",
+    "tr": "Açığa satışların halka açıklık %'si. Veriler gecikmelidir.",
     "zh-Hant-TW": "放空佔流通股比。資料有延遲。"
   },
   "viewQuoteStats_shortPercentShares": {
     "en": "Short% Shares",
     "de": "% Anteil Leerverkäufe",
-    "tr": "Açığa satılan hisselerinin %\\'si.",
+    "tr": "Açığa satılan hisselerinin %'si.",
     "zh-Hant-TW": "放空佔總股比"
   },
   "viewQuoteStats_shortPercentSharesHelp": {
     "en": "Short % of outstanding shares. Data is delayed.",
     "de": "Leerverkauf % der ausstehenden Aktien. Die Daten werden verzögert angezeigt.",
-    "tr": "Tedavüldeki hisselerin açığa satış %\\'si. Veriler gecikmelidir.",
+    "tr": "Tedavüldeki hisselerin açığa satış %'si. Veriler gecikmelidir.",
     "zh-Hant-TW": "放空佔總發行股數百分比。資料有延遲。"
   },
   "viewQuoteStats_shortRatio": {
@@ -7153,7 +7153,7 @@
   "viewQuoteStats_peRatioHelp": {
     "en": "Share price divided by earnings per share",
     "de": "Aktienkurs geteilt durch den Gewinn je Aktie",
-    "fr": "Prix de l\\'action divisé par le bénéfice par action",
+    "fr": "Prix de l'action divisé par le bénéfice par action",
     "tr": "Hisse fiyatının hisse başı kazanca bölünmesidir",
     "zh-Hant-TW": "每股價格除以每股盈餘"
   },
@@ -7198,7 +7198,7 @@
   "viewQuoteStats_volumeHelp": {
     "en": "Number of shares trading in latest trading day",
     "de": "Anzahl der am Handelstag zuletzt gehandelten Aktien",
-    "fr": "Nombre d\\'actions négociées la veille",
+    "fr": "Nombre d'actions négociées la veille",
     "tr": "Son işlem gününde işlem yapılan hisse sayısı",
     "zh-Hant-TW": "最新交易日成交股數"
   },
@@ -7215,13 +7215,13 @@
     "en": "Dividends from %s",
     "de": "Dividenden von %s",
     "fr": "Dividendes de %s",
-    "tr": "%s \\'den Temettüler",
+    "tr": "%s 'den Temettüler",
     "zh-Hant-TW": "來自 %s 的股利"
   },
   "viewQuoteTransactions_interestsFromHoldingFormatted": {
     "_formatted": false,
     "en": "Interests from %s",
-    "tr": "%s \\'den faiz",
+    "tr": "%s 'den faiz",
     "zh-Hant-TW": "來自 %s 的利息"
   },
   "viewQuoteTransactions_soldAmountFormatted": {
@@ -7286,7 +7286,7 @@
     "_formatted": false,
     "en": "More news about %s ➔",
     "de": "Mehr Nachrichten über %s ➔",
-    "fr": "Plus d\\'actualités à propos de %s ➔",
+    "fr": "Plus d'actualités à propos de %s ➔",
     "tr": " %s hakkında daha fazla haber için ➔",
     "zh-Hant-TW": "更多關於 %s 的新聞 ➔"
   },
@@ -7382,7 +7382,7 @@
   "welcome_welcomeMessage": {
     "en": "Thank you for downloading My Stocks Portfolio (MSP)!\\n\\nA sample portfolio has been created. Please visit the help section for questions.",
     "de": "Vielen Dank für das Herunterladen von My Stocks Portfolio (MSP)!\\n\\nEin Musterportfolio wurde erstellt. Bei Fragen besuchen Sie bitte den Hilfebereich.",
-    "fr": "Merci d\\'avoir téléchargé cette application !\\n\\nUn exemple de portefeuille a été créé.",
+    "fr": "Merci d'avoir téléchargé cette application !\\n\\nUn exemple de portefeuille a été créé.",
     "tr": "My Stocks Portfolio (MSP) indirdiğiniz için teşekkür ederiz! Örnek bir portföy oluşturulmuştur. Sorularınız için lütfen yardım bölümünü ziyaret edin.",
     "zh-Hant-TW": "感謝您下載 My Stocks Portfolio（MSP）！一個用作範例的投資組合已經被建立。如遇到任何問題請從幫助頁面中尋求協助。"
   },
@@ -7411,7 +7411,7 @@
     "en": "Configure Quotes Widget",
     "de": "Widget der Bestände konfigurieren",
     "fr": "Configurer le widget des cours",
-    "tr": "Öneriler Widget\\'ini yapılandır",
+    "tr": "Öneriler Widget'ini yapılandır",
     "zh-Hant-TW": "設定小工具報價"
   },
   "widgetPortfolio_title": {
@@ -7424,20 +7424,20 @@
   "widgetPortfolio_youDoNotHaveAnyPortfolios": {
     "en": "You do not have any portfolios",
     "de": "Sie haben keine Portfolios",
-    "fr": "Vous n\\'avez aucun portefeuille",
+    "fr": "Vous n'avez aucun portefeuille",
     "tr": "Herhangi bir portföyünüz yok",
     "zh-Hant-TW": "您尚未建立任何投資組合"
   },
   "widget_configureHelp": {
     "en": "To configure widget settings (such as auto-refresh and font size), open the app, Settings, and go to the Widget section. If you resize the widget to be very small, be sure to visit widget settings to reduce the UI size so everything fits.\\n\\nPlease note that there are two types of widgets - overview and single portfolio. If you do not see your quotes, you may have meant to pin the single portfolio widget but pinned the overview widget.",
     "de": "Um Widget-Einstellungen (z.B. automatisches Aktualisieren und Schriftgröße) zu konfigurieren, öffnen Sie die App-Einstellungen und gehen zum Punkt Widget. Wenn Sie die Größe des Widgets auf sehr klein ändern, passen Sie auch die Widget-Einstellungen an, um die Größe der Benutzeroberfläche zu verringern, damit alles zu sehen ist.\\n\\nBitte beachten Sie, dass es zwei Arten von Widgets gibt - Übersicht und Einzelportfolio. Wenn Sie Ihre Bestände nicht sehen, haben sie möglicherweise das Übersichts-Widget angeheftet, müssen aber das Einzelportfolio-Widget erstellen",
-    "fr": "Pour effectuer le réglage du widget (tels que la mise à jour automatique and la taille de la police), ouvrez l\\'application, Réglages and allez dans la rubrique Widget. Si vous redimensionnez le widget pour qu\\'il soit très petit, veillez à réduire la taille dans les réglages du widget pour que tout s\\'affiche correctement.",
-    "tr": "Widget ayarlarını (otomatik yenileme ve yazı tipi boyutu gibi) yapılandırmak için uygulamayı, Ayarlar\\'ı açın ve Widget bölümüne gidin. Widget\\'i çok küçük olacak şekilde yeniden boyutlandırırsanız, her şeyin sığması için kullanıcı arayüzü boyutunu küçültmek üzere widget ayarlarını ziyaret ettiğinizden emin olun.\\n\\nLütfen iki tür widget olduğunu unutmayın - genel bakış ve tek portföy. önerilerinizi göremiyorsanız, tek portföy widget\\'ini sabitlemek istemiş ancak genel bakış widget\\'ini sabitlemiş olabilirsiniz.",
+    "fr": "Pour effectuer le réglage du widget (tels que la mise à jour automatique and la taille de la police), ouvrez l'application, Réglages and allez dans la rubrique Widget. Si vous redimensionnez le widget pour qu'il soit très petit, veillez à réduire la taille dans les réglages du widget pour que tout s'affiche correctement.",
+    "tr": "Widget ayarlarını (otomatik yenileme ve yazı tipi boyutu gibi) yapılandırmak için uygulamayı, Ayarlar'ı açın ve Widget bölümüne gidin. Widget'i çok küçük olacak şekilde yeniden boyutlandırırsanız, her şeyin sığması için kullanıcı arayüzü boyutunu küçültmek üzere widget ayarlarını ziyaret ettiğinizden emin olun.\\n\\nLütfen iki tür widget olduğunu unutmayın - genel bakış ve tek portföy. önerilerinizi göremiyorsanız, tek portföy widget'ini sabitlemek istemiş ancak genel bakış widget'ini sabitlemiş olabilirsiniz.",
     "zh-Hant-TW": "若要設定小工具（如自動重新整理和字體大小），請開啟應用程式，進入設定，然後前往小工具區塊。若您將小工具縮得很小，請務必到小工具設定中調整 UI 大小，確保所有內容都能顯示。\\n\\n請注意有兩種小工具－總覽和單一投資組合。如果您沒看到報價，可能是將總覽小工具釘選到桌面，請改用單一投資組合小工具。"
   },
   "widget_configureHelp_troubleshooting": {
     "en": "You may need to whitelist the widget to run in the background. Please see https://help.mystocksportfolio.app/troubleshooting/widget-issues for steps on how to whitelist widgets and other troubleshooting steps.",
-    "tr": "Widget\\'ın arka planda çalışması için güvenilir adresler listesine almanız gerekebilir. Widget\\'ların nasıl güvenilir adresler listesine alınacağı ve diğer sorun giderme adımları için lütfen https://help.mystocksportfolio.app/troubleshooting/widget-issues adresine bakın.",
+    "tr": "Widget'ın arka planda çalışması için güvenilir adresler listesine almanız gerekebilir. Widget'ların nasıl güvenilir adresler listesine alınacağı ve diğer sorun giderme adımları için lütfen https://help.mystocksportfolio.app/troubleshooting/widget-issues adresine bakın.",
     "zh-Hant-TW": "您可能需要將小工具加入白名單以允許其在背景執行。請參考 https://help.mystocksportfolio.app/troubleshooting/widget-issues 了解如何將小工具加入白名單及其他疑難排解步驟。"
   },
   "widget_refreshing": {
