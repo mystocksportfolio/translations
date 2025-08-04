@@ -5700,6 +5700,12 @@
     "tr": "Uzatılmış Piyasa saati işlemlerini göster (tek satır modu kapalıysa 3. satır olarak gösterilir, tek satır modu açıksa aynı satırda gösterilir)",
     "zh-Hant-TW": "顯示盤後交易（若關閉單行模式則顯示於第三行，開啟單行模式則顯示於同一行）"
   },
+  "settingsDisplay_extendedHoursLabel": {
+    "en": "Label for extended hours"
+  },
+  "settingsDisplay_extendedHoursLabelHelp": {
+    "en": "(For single line mode) Show an 'ext' label for extended prices on single line mode when extended hours are enabled"
+  },
   "settingsDisplay_miniMode": {
     "en": "Single-line mode",
     "es": "Modo de una sola línea",
@@ -6343,35 +6349,57 @@
     "en": "2 minutes",
     "fr": "2 minutes",
     "tr": "2 dakika",
-    "zh-Hant-TW": "2分鐘"
+    "zh-Hant-TW": "2 分鐘"
   },
   "settings_refreshIntervalMinutes5": {
     "de": "5 Minuten",
     "en": "5 minutes",
     "fr": "5 minutes",
     "tr": "5 dakika",
-    "zh-Hant-TW": "5分鐘"
+    "zh-Hant-TW": "5 分鐘"
+  },
+  "settings_refreshIntervalMinutes15": {
+    "de": "15 Minuten",
+    "en": "15 minutes",
+    "fr": "15 minutes",
+    "tr": "15 dakika",
+    "zh-Hant-TW": "15 分鐘"
+  },
+  "settings_refreshIntervalMinutes30": {
+    "de": "30 Minuten",
+    "en": "30 minutes",
+    "fr": "30 minutes",
+    "tr": "30 dakika",
+    "zh-Hant-TW": "30 分鐘"
+  },
+  "settings_refreshIntervalHour1": {
+    "en": "1 hour",
+    "zh-Hant-TW": "1 小時"
+  },
+  "settings_refreshIntervalHour2": {
+    "en": "2 hours",
+    "zh-Hant-TW": "2 小時"
   },
   "settings_refreshIntervalSeconds10": {
     "de": "10 Sekunden",
     "en": "10 seconds",
     "fr": "10 secondes",
     "tr": "10 saniye",
-    "zh-Hant-TW": "10秒"
+    "zh-Hant-TW": "10 秒"
   },
   "settings_refreshIntervalSeconds30": {
     "de": "30 Sekunden",
     "en": "30 seconds",
     "fr": "30 secondes",
     "tr": "30 saniye",
-    "zh-Hant-TW": "30秒"
+    "zh-Hant-TW": "30 秒"
   },
   "settings_refreshIntervalSeconds5": {
     "de": "5 Sekunden",
     "en": "5 seconds",
     "fr": "5 secondes",
     "tr": "5 saniye",
-    "zh-Hant-TW": "5秒"
+    "zh-Hant-TW": "5 秒"
   },
   "settings_reviewApp": {
     "en": "Review",
