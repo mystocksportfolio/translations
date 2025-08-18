@@ -2953,6 +2953,9 @@
     "tr": "Hesabınızı veya verilerinizi silerseniz, bunlar kalıcı olarak silinir ve geri alamayız. Verilerinizin yedeğini almak için lütfen mobil uygulamanın ayarlar, dışa aktarma sayfasını ziyaret edin.",
     "zh-Hant-TW": "如果您刪除帳戶或資料，這些資料將永久刪除且無法復原。若要備份您的資料，請前往應用程式的設定頁面並使用匯出功能。"
   },
+  "generic_yourAccountHasBeenDeleted": {
+    "en": "Your account data has been deleted"
+  },
   "help_announcements": {
     "de": "Mitteilungen",
     "en": "Announcements",
