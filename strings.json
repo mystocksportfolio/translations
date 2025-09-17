@@ -4062,7 +4062,7 @@
   },
   "portfolio_interests": {
     "en": "Interests",
-    "de": "Interessengebiete",
+    "de": "Zinsen",
     "es": "Intereses",
     "tr": "Faiz",
     "zh-Hant-TW": "利息"
@@ -4077,7 +4077,7 @@
   },
   "portfolio_lastPrice": {
     "en": "Last Price",
-    "de": "Letzter Preis",
+    "de": "Letzte Notierung",
     "es": "Último Precio",
     "fr": "Cours",
     "tr": "Son Fiyat",
@@ -4115,7 +4115,7 @@
   },
   "portfolio_copyToPortfolio": {
     "en": "Copy to Portfolio",
-    "de": "kopieren ins Portfolio",
+    "de": "Ins Portfolio kopieren",
     "es": "Copiar a Portafolio",
     "fr": "Copie vers le portefeuille",
     "tr": "Portföye Kopyala",
@@ -4266,7 +4266,7 @@
   "portfolio_performanceReport": {
     "en": "Performance Report",
     "es": "Informe de Desempeño",
-    "de": "Performance-Bericht",
+    "de": "Performancebericht",
     "tr": "Performans Raporu",
     "zh-Hant-TW": "績效報告"
   },
@@ -4337,7 +4337,7 @@
   "portfolio_realized": {
     "en": "Realized",
     "es": "Realizado",
-    "de": "realisiert",
+    "de": "Realisiert",
     "fr": "Réalisé",
     "tr": "Gerçekleşen",
     "zh-Hant-TW": "已實現"
@@ -4345,42 +4345,42 @@
   "portfolio_realizedChange": {
     "en": "Realized Change",
     "es": "Cambio Realizado",
-    "de": "realisierte Veränderung",
+    "de": "Realisierte Veränderung",
     "tr": "Gerçekleşen Değişim",
     "zh-Hant-TW": "已實現損益"
   },
   "portfolio_realizedChangePercent": {
     "en": "Realized Change Percent",
     "es": "Porcentaje de Cambio Realizado",
-    "de": "realisierte Veränderung in Prozent",
+    "de": "Realisierte Veränderung in Prozent",
     "tr": "Gerçekleşen değişim Yüzdesi",
     "zh-Hant-TW": "已實現損益比"
   },
   "portfolio_realizedCostBasis": {
     "en": "Realized Cost Basis",
     "es": "Costo Base Realizado",
-    "de": "realisierte Kostenbasis",
+    "de": "Realisierte Kostenbasis",
     "tr": "Maliyete göre Gerçekleşen",
     "zh-Hant-TW": "已實現成本"
   },
   "portfolio_realizedValue": {
     "en": "Realized Value",
     "es": "Valor Realizado",
-    "de": "realisierter Wert",
+    "de": "Realisierter Wert",
     "tr": "Gerçekleşen Değer",
     "zh-Hant-TW": "已實現市值"
   },
   "portfolio_realizedYTD": {
     "en": "Realized YTD",
     "es": "Realizado YTD",
-    "de": "realisierte YTD",
+    "de": "Realisierte YTD",
     "tr": "Gerçekleşen YTD",
     "zh-Hant-TW": "今年已實現"
   },
   "portfolio_realizedYTDChange": {
     "en": "Realized YTD Change",
     "es": "Cambio Realizado YTD",
-    "de": "realisierte YTD Veränderung",
+    "de": "Realisierte YTD Veränderung",
     "tr": "Gerçekleşen YTD Değişimi",
     "zh-Hant-TW": "今年已實現損益"
   },
@@ -4394,7 +4394,7 @@
   "portfolio_realizedYTDShort": {
     "en": "Rlzd YTD",
     "es": "Realizado YTD",
-    "de": "real. YTD",
+    "de": "Real. YTD",
     "tr": "Grçklşn YTD",
     "zh-Hant-TW": "今年已實現"
   },
@@ -4900,7 +4900,7 @@
   "portfolio_top_daily_movers_us": {
     "en": "Top Daily Movers (US)",
     "es": "Principales Movimientos Diarios (EE. UU.)",
-    "de": "Täglichen Aktien Top-Bewegungen (US)",
+    "de": "Tägliche Aktien Top-Bewegungen (US)",
     "tr": "Günlük En Çok Hareket Edenler (ABD)",
     "zh-Hant-TW": "美國每日漲跌榜"
   },
@@ -4940,7 +4940,7 @@
     "_formatted": false,
     "en": "Unannualized %s",
     "es": "No anualizado %s",
-    "de": "nicht auf Jahresbasis %s",
+    "de": "Nicht auf Jahresbasis %s",
     "tr": "Yıllıklandırılmamış %s",
     "zh-Hant-TW": "未年化 %s"
   },
@@ -5176,7 +5176,7 @@
   "purchases_promoText": {
     "en": "Enjoy a premium ad-free experience and support the development of the app!",
     "es": "¡Disfruta de una experiencia premium sin anuncios y apoya el desarrollo de la aplicación!",
-    "de": "Genießen Sie die werbefrei Premium-Version und unterstützen Sie die Weiterentwicklung der App",
+    "de": "Genießen Sie die werbefreie Premium-Version und unterstützen Sie die Weiterentwicklung der App",
     "fr": "Profitez d'une expérience premium sans publicité et soutenez le développement de l'application !",
     "tr": "Premium, reklamsız deneyimin tadını çıkarın ve uygulamanın gelişimini destekleyin!",
     "zh-Hant-TW": "享受無廣告的 Premium 體驗，並支持應用程式的開發！"
@@ -5227,7 +5227,7 @@
   "purchases_promoFullScreenHistoricals": {
     "en": "Portfolio historical performance",
     "es": "Rendimiento histórico del portafolio",
-    "de": "bisherige Entwicklung des Portfolios",
+    "de": "Bisherige Entwicklung des Portfolios",
     "tr": "Portföyün tarihsel performansı",
     "zh-Hant-TW": "投資組合歷史績效"
   },
@@ -5257,7 +5257,7 @@
   "purchases_restoringPurchases": {
     "en": "Restoring Purchases…",
     "es": "Restaurando compras…",
-    "de": "wiederherstellen von Käufen…",
+    "de": "Wiederherstellen von Käufen…",
     "fr": "Restoration des achats…",
     "tr": "Satın Almalar Geri Yükleniyor…",
     "zh-Hant-TW": "正在復原購買紀錄…"
@@ -5369,7 +5369,7 @@
   "reviewPrompt_emailFeedbackOnHowToImprove": {
     "en": "Email us feedback on how to improve?",
     "es": "¿Nos envías un correo electrónico con comentarios sobre cómo mejorar?",
-    "de": "Senden Sie uns ein Rückmeldungen, wie wir uns verbessern können?",
+    "de": "Senden Sie uns ein Rückmeldung, wie wir uns verbessern können?",
     "fr": "Envoyez-nous vos commentaires afin de nous améliorer",
     "tr": "Nasıl geliştirebileceğimize dair geri bildiriminizi bize e-posta ile göndermek ister misiniz?",
     "zh-Hant-TW": "歡迎來信提供改進建議"
@@ -5401,7 +5401,7 @@
   "reviewPrompt_rateFiveStars": {
     "en": "Rate 5 ⭐",
     "es": "Calificar 5 ⭐",
-    "de": "mit 5 ⭐ bewerten",
+    "de": "Mit 5 ⭐ bewerten",
     "fr": "Evaluer à 5 ⭐",
     "tr": "5 ⭐",
     "zh-Hant-TW": "5 ⭐ 好評"
@@ -5409,7 +5409,7 @@
   "reviewPrompt_rateFourStarsOrLess": {
     "en": "Rate 4 ⭐ or less",
     "es": "Calificar 4 ⭐ o menos",
-    "de": "mit 4 ⭐ oder weniger bewerten",
+    "de": "Mit 4 ⭐ oder weniger bewerten",
     "fr": "Evaluer à 4 ⭐ ou moins",
     "tr": "4 ⭐ veya daha az",
     "zh-Hant-TW": "4 ⭐ 或更低"
@@ -5692,7 +5692,7 @@
   "settingsDisplay_extendedHours": {
     "en": "Extended hours",
     "es": "Horas extendidas",
-    "de": "außerbörslicher Handel",
+    "de": "Außerbörslicher Handel",
     "tr": "Uzatılmış piyasa saatleri",
     "zh-Hant-TW": "盤後時段"
   },
@@ -5890,7 +5890,7 @@
   "settingsDisplay_theme": {
     "en": "Theme",
     "es": "Tema",
-    "de": "Theme",
+    "de": "Thema",
     "fr": "Thème",
     "tr": "Tema",
     "zh-Hant-TW": "主題"
@@ -5898,7 +5898,7 @@
   "settingsDisplay_themeBlack": {
     "en": "Black",
     "es": "Negro",
-    "de": "schwarz",
+    "de": "Schwarz",
     "fr": "Noir",
     "tr": "Siyah",
     "zh-Hant-TW": "黑色"
@@ -5906,7 +5906,7 @@
   "settingsDisplay_themeDark": {
     "en": "Dark",
     "es": "Oscuro",
-    "de": "dunkel",
+    "de": "Dunkel",
     "fr": "Sombre",
     "tr": "Koyu",
     "zh-Hant-TW": "深色"
@@ -5914,7 +5914,7 @@
   "settingsDisplay_themeLight": {
     "en": "Light",
     "es": "Claro",
-    "de": "hell",
+    "de": "Hell",
     "fr": "Clair",
     "tr": "Açık",
     "zh-Hant-TW": "亮色"
@@ -6030,7 +6030,7 @@
   "settings_about": {
     "en": "About App (MSP - My Stocks Portfolio)",
     "es": "Acerca de la app (MSP - My Stocks Portfolio)",
-    "de": "über die App (MSP - My Stocks Portfolio)",
+    "de": "Über die App (MSP - My Stocks Portfolio)",
     "fr": "À propos de l'application (MSP - My Stocks Portfolio)",
     "tr": "Uygulama Hakkında (MSP - My Stocks Portfolio)",
     "zh-Hant-TW": "關於本 App（MSP - My Stocks Portfolio）"
@@ -6054,7 +6054,7 @@
   "settings_closedQuotes_hide": {
     "en": "Hide closed quotes",
     "es": "Ocultar cotizaciones cerradas",
-    "de": "geschlossene Kurse ausblenden",
+    "de": "Geschlossene Kurse ausblenden",
     "tr": "Kapatılmış önerileri gizle",
     "zh-Hant-TW": "隱藏已平倉報價"
   },
@@ -6065,7 +6065,7 @@
   "settings_closedPositions_hide": {
     "en": "Hide closed positions",
     "es": "Ocultar posiciones cerradas",
-    "de": "geschlossene Positionen ausblenden",
+    "de": "Geschlossene Positionen ausblenden",
     "fr": "Masquer les positions fermées",
     "tr": "Kapatılmış posizyonları gizle",
     "zh-Hant-TW": "隱藏已平倉部位"
@@ -6093,7 +6093,7 @@
   "settings_csvExport": {
     "en": "Export as CSV",
     "es": "Exportar como CSV",
-    "de": "als CSV exportieren",
+    "de": "Als CSV exportieren",
     "tr": "CSV olarak dışa aktar",
     "zh-Hant-TW": "匯出至 CSV"
   },
@@ -6128,7 +6128,7 @@
   "settings_csvImport": {
     "en": "Import from CSV",
     "es": "Importar desde CSV",
-    "de": "von CSV importieren",
+    "de": "Von CSV importieren",
     "tr": "CSV'den içe aktar",
     "zh-Hant-TW": "從 CSV 匯入"
   },
@@ -6171,7 +6171,7 @@
   "settings_helpAndFeedback": {
     "en": "Help & Feedback",
     "es": "Ayuda y Comentarios",
-    "de": "Hilfe & Rückmeldung",
+    "de": "Hilfe und Rückmeldung",
     "fr": "Aide et commentaires",
     "tr": "Yardım ve Geri Bildirim",
     "zh-Hant-TW": "幫助與回饋"
@@ -6653,7 +6653,7 @@
   "sync_restoreDataHelpLink": {
     "_comment": "Substring of sync_restoreDataHelp that contains a clickable link",
     "en": "click here",
-    "de": "klicken Sie hier",
+    "de": "Klicken Sie hier",
     "tr": "Buraya tıkla",
     "zh-Hant-TW": "點擊這裡"
   },
@@ -6877,7 +6877,7 @@
   },
   "viewQuoteStats_askSizeHelp": {
     "en": "Ask lot size",
-    "de": "Nachfage Größe Lot",
+    "de": "Nachfrage Größe Lot",
     "fr": "Nombre d'actions à ce prix (offre)",
     "tr": "Satış lot sayısı",
     "zh-Hant-TW": "賣出每手數量"
@@ -6951,7 +6951,7 @@
   },
   "viewQuoteStats_dividendAndYield": {
     "en": "Div/Yld",
-    "de": "Div/Yld",
+    "de": "Div/Zins",
     "fr": "Div/Rdt",
     "tr": "YT/YTV",
     "zh-Hant-TW": "股利／殖利率"
@@ -6991,6 +6991,7 @@
   },
   "viewQuoteStats_exDividendDate": {
     "en": "Ex Div",
+    "de": "Ex Div",
     "tr": "Önceki Temettü",
     "zh-Hant-TW": "除息日"
   },
@@ -7300,7 +7301,7 @@
   },
   "viewQuote_extendedHours": {
     "en": "Extended",
-    "de": "Ausserbörslich",
+    "de": "Außerbörslich",
     "fr": "Après clôture",
     "tr": "Genişletilmiş",
     "zh-Hant-TW": "盤後"
