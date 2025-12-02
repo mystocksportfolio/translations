@@ -1,20 +1,20 @@
 This repository contains translations for the My Stocks Portfolio (MSP) application.
 
-Progress (1024 strings):
+Progress (1036 strings):
 
-1024/1024 - English
+1038/1036 - English
 
-949/1024 - German
+953/1036 - German
 
-797/1024 - Spanish
+798/1036 - Spanish
 
-958/1024 - Turkish
+961/1036 - Turkish
 
-1024/1024 - Traditional Chinese, Taiwan
+1029/1036 - Traditional Chinese
 
-541/1024 - French
+544/1036 - French
 
-20/1024 - Simplified Chinese
+20/1036 - Simplified Chinese
 
 To make translation suggestions, you can edit the localization file [strings.json](https://github.com/mystocksportfolio/translations/blob/main/strings.json) (see screenshots below). If your language is not listed yet, you may add a new entry for your language.
 

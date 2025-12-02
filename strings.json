@@ -912,6 +912,9 @@
     "tr": "Klavuz Çizgileri",
     "zh-Hant-TW": "網格線"
   },
+  "chart_includePrePostData": {
+    "en": "Include Pre/Post Data"
+  },
   "chart_indicators": {
     "en": "Indicators",
     "es": "Indicadores",
@@ -2270,6 +2273,10 @@
     "tr": "Notlar",
     "zh-Hant-TW": "備註"
   },
+  "generic_notesLessThanCharacters": {
+    "_formatted": false,
+    "en": "Notes should be less than %s characters"
+  },
   "generic_ok": {
     "en": "OK",
     "es": "OK",
@@ -2909,6 +2916,15 @@
   "generic_viewHelpGuideAndFAQ": {
     "en": "View Help Guide and FAQ",
     "zh-Hant-TW": "查看說明指南與常見問題"
+  },
+  "generic_xOutOfX": {
+    "_formatted": false,
+    "en": "%s / %s",
+    "es": "%s / %s",
+    "de": "%s / %s",
+    "fr": "%s / %s",
+    "tr": "%s / %s",
+    "zh-Hant-TW": "%s / %s"
   },
   "generic_year": {
     "en": "Year",
@@ -3683,6 +3699,9 @@
     "es": "Datos no disponibles para este mercado de valores",
     "zh-Hant-TW": "此交易所無資料"
   },
+  "portfolio_defaultAccountingMethod": {
+    "en": "Default accounting method"
+  },
   "portfolio_defaultCurrency": {
     "en": "Default",
     "es": "Predeterminado",
@@ -4320,6 +4339,9 @@
   "portfolio_portfolioValue_description": {
     "en": "Value of unrealized positions",
     "zh-Hant-TW": "未實現部位價值"
+  },
+  "portfolio_quote_exists": {
+    "en": "Quote already exists in this portfolio. Merging with the existing one."
   },
   "portfolio_quote_for": {
     "_formatted": false,
