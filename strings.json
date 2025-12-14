@@ -5551,6 +5551,9 @@
     "tr": "Gündüz yazı tipi rengi",
     "zh-Hant-TW": "白天模式字體顏色"
   },
+  "settingsDisplay_daylightFontColorHelp": {
+    "en": "Changes red font color to bright yellow font color and green font color to bright green font color so that font colors are easier to see under bright sunlight."
+  },
   "settingsDisplay_decimalPlaces0": {
     "en": "0 decimal places",
     "es": "0 decimales",
