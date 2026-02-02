@@ -2771,6 +2771,10 @@
     "tr": "Kullanım Koşulları",
     "zh-Hant-TW": "使用條款"
   },
+  "generic_time": {
+    "en": "Time",
+    "zh-Hant-TW": "時間"
+  },
   "generic_time_justNow": {
     "en": "Just now",
     "es": "Ahora mismo",
@@ -3448,6 +3452,9 @@
     "de": "zu Portfolio hinzufügen",
     "tr": "Portföye Ekle",
     "zh-Hant-TW": "新增至投資組合"
+  },
+  "portfolio_addTransactionToQuote": {
+    "en": "To add transactions to an existing quote: Open the Quote Details page, switch to the Transactions tab, and click the add button."
   },
   "portfolio_addingToPortfolio": {
     "en": "Adding to portfolio…",
@@ -4156,6 +4163,9 @@
     "tr": "Portföye Taşı/Kopyala",
     "zh-Hant-TW": "移動／複製到投資組合"
   },
+  "portfolio_moveCopyToPortfolioKeepCopy": {
+    "en": "Keep copy in original portfolio"
+  },
   "portfolio_movingToPortfolio": {
     "en": "Moving to portfolio…",
     "de": "wird ins Portfolio verschoben…",
@@ -4342,6 +4352,9 @@
   },
   "portfolio_quote_exists": {
     "en": "Quote already exists in this portfolio. Merging with the existing one."
+  },
+  "portfolio_quote_exists_hidden": {
+    "en": "Quote already exists in this portfolio but is hidden because you have chosen to hide closed quotes. Please edit the portfolio and disable hide closed quotes if you want to see the quote."
   },
   "portfolio_quote_for": {
     "_formatted": false,
