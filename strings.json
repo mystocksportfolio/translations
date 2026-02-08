@@ -2511,6 +2511,10 @@
     "tr": "Yenile",
     "zh-Hant-TW": "重新載入"
   },
+  "generic_remainingPlaceholder": {
+    "_formatted": false,
+    "en": "Remaining: %s"
+  },
   "generic_required": {
     "en": "Required",
     "es": "Requerido",
