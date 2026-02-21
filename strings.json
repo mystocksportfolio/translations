@@ -125,7 +125,7 @@
     "es": "La base del costo se calcula utilizando el costo no realizado actual por acción",
     "de": "Die Berechnungsgrundlage ist der aktuelle nicht realisierter Wert pro Aktie",
     "tr": "Maliyet esası, hisse başına cari gerçekleşmemiş maliyet kullanılarak hesaplanır",
-    "zh-Hant-TW": "成本計算使用現有庫存股每股均價計算"
+    "zh-Hant-TW": "成本以目前持股的未實現每股均價計算"
   },
   "accounting_specificLots": {
     "en": "Specific Lots",
@@ -576,7 +576,7 @@
     "de": "Nicht börsennotierte Symbole, die nicht auf dem freien Markt gehandelt werden, können als Eigenkapital wie Aktien verwendet werden. Um Kursdaten hinzuzufügen, gehen Sie nach dem Hinzufügen des Symbols zur Seite mit den Kursdetails, öffnen Sie das Menü und klicken Sie auf 'Benutzerdefinierte Preise hinzufügen'.",
     "fr": "Les symboles non listés peuvent être utilisés pour les fonds tels que ceux qui ne peuvent être échangés dans le marché ouvert. Pour ajouter des données de prix, allez dans la page des détails de la cotation après avoir ajouter le symbole, ouvrez le menu et cliquez 'Ajouter des prix personnalisés'.",
     "tr": "Listelenmemiş semboller açık piyasada işlem görmeyen hisseler gibi özkaynaklar için kullanılabilir. Fiyat verisi eklemek için sembolü ekledikten sonra teklif ayrıntıları sayfasına gidin, menüyü açın ve 'Özel Fiyatlar Ekle' seçeneğine tıklayın.",
-    "zh-Hant-TW": "未在公開市場交易顯示出的代碼仍可以加入內容例如股數。在加入該檔股票後，進入報價詳情頁，開啟目錄，點選 '加入手動價格'。"
+    "zh-Hant-TW": "未上市代碼可用於非公開交易的標的（如未上市股票）。新增代碼後，前往報價詳情頁，開啟選單，點選「加入手動報價」即可新增價格資料。"
   },
   "addQuote_enterSymbolPrompt": {
     "en": "Please enter a symbol",
@@ -614,7 +614,7 @@
     "es": "Para rastrear una criptomoneda, ingrese el par (ej. BTC-USD). Si no puede encontrar un par, puede contactarnos en support@peeksoft.co para registrarlo. Los precios se agregan a través de los intercambios (Fuente: CoinGecko).",
     "de": "Um eine Kryptowährung zu erfassen, geben Sie das Paar ein (z. B. BTC-USD). Wenn Sie ein Paar nicht finden können, kontaktieren Sie uns unter support@peeksoft.co, um dieses registrieren zu lassen. Die Kurse werden börsenübergreifend zusammengestellt (Quelle: CoinGecko).",
     "tr": "Bir kriptoyu takip etmek için eşleşme girin (örneğin BTC-USD). Bir eşleşme bulamazsanız kaydettirmek için support@peeksoft.co adresinden bizimle iletişime geçebilirsiniz. Fiyatlar borsalar arasında toplanmıştır (Kaynak: CoinGecko).",
-    "zh-Hant-TW": "輸入貨幣對（例如 BTC-USD）來追縱。如果您找不到該貨幣對，歡迎聯絡我們 support@peeksoft.co 來協助加入。價格是從多個交易所而來（來源: CoinGecko）。"
+    "zh-Hant-TW": "輸入貨幣對（例如 BTC-USD）來追蹤。如果您找不到該貨幣對，歡迎聯絡我們 support@peeksoft.co 來協助加入。價格是從多個交易所而來（來源: CoinGecko）。"
   },
   "addQuote_symbol": {
     "en": "Symbol",
@@ -678,7 +678,7 @@
     "de": "Nicht börsennotiert",
     "fr": "Non listé",
     "tr": "Listelenmeyen",
-    "zh-Hant-TW": "其他"
+    "zh-Hant-TW": "未上市"
   },
   "alert_alertPageEmptyHelp": {
     "en": "Add an alert by tapping Add Alert (Alert icon) in the menu, or by tapping here.",
@@ -730,7 +730,7 @@
   "alert_freeUserLimit": {
     "_formatted": false,
     "en": "You can have a maximum of %s price alert(s) as a free user",
-    "zh-Hant-TW": "您作為免費用戶最多可以設定 %s 個價格提醒"
+    "zh-Hant-TW": "您作為免費用戶最多可以設定 %s 個到價通知"
   },
   "alert_freeUserLimit_explain": {
     "en": "We check for triggered alerts in real time on our servers so they do not consume your device battery, but must pay cloud bills to keep them running. Alerts can be deleted from the manage alerts screen.",
@@ -738,7 +738,7 @@
   },
   "alert_freeUserLimit_subscribe": {
     "en": "Subscribe to premium for an unlimited experience",
-    "zh-Hant-TW": "訂閱高級版，享受無限體驗"
+    "zh-Hant-TW": "訂閱 Premium，享受無限體驗"
   },
   "alert_lessThan": {
     "de": "weniger als",
@@ -913,7 +913,8 @@
     "zh-Hant-TW": "網格線"
   },
   "chart_includePrePostData": {
-    "en": "Include Pre/Post Data"
+    "en": "Include Pre/Post Data",
+    "zh-Hant-TW": "包含盤前／盤後資料"
   },
   "chart_indicators": {
     "en": "Indicators",
@@ -1924,7 +1925,7 @@
     "es": "Exportar…",
     "de": "Exportiert…",
     "tr": "Dışa aktar…?",
-    "zh-Hant-TW": "匯出中…"
+    "zh-Hant-TW": "匯出…"
   },
   "generic_exportCSV": {
     "de": "Export CSV",
@@ -2046,7 +2047,7 @@
     "es": "Importar…",
     "de": "Wird importiert…",
     "tr": "İçe aktar…",
-    "zh-Hant-TW": "匯入中…"
+    "zh-Hant-TW": "匯入…"
   },
   "generic_importCSV": {
     "de": "Import CSV",
@@ -2275,7 +2276,8 @@
   },
   "generic_notesLessThanCharacters": {
     "_formatted": false,
-    "en": "Notes should be less than %s characters"
+    "en": "Notes should be less than %s characters",
+    "zh-Hant-TW": "備註應少於 %s 個字元"
   },
   "generic_ok": {
     "en": "OK",
@@ -2501,7 +2503,7 @@
     "de": "aktualisieren",
     "fr": "Rafraîchir",
     "tr": "Yenile",
-    "zh-Hant-TW": "重新載入"
+    "zh-Hant-TW": "重新整理"
   },
   "generic_refreshAccessibility": {
     "en": "Refresh",
@@ -2509,11 +2511,12 @@
     "de": "aktualisieren",
     "fr": "Actualiser",
     "tr": "Yenile",
-    "zh-Hant-TW": "重新載入"
+    "zh-Hant-TW": "重新整理"
   },
   "generic_remainingPlaceholder": {
     "_formatted": false,
-    "en": "Remaining: %s"
+    "en": "Remaining: %s",
+    "zh-Hant-TW": "剩餘：%s"
   },
   "generic_required": {
     "en": "Required",
@@ -2643,7 +2646,7 @@
     "es": "Habilitar cuenta de Google Drive",
     "de": "Google Drive-Konto aktivieren",
     "tr": "Google Drive hesabını etkinleştirin",
-    "zh-Hant-TW": "使用 Google 雲端雲端硬碟帳戶"
+    "zh-Hant-TW": "使用 Google 雲端硬碟帳戶"
   },
   "generic_signInSignOut": {
     "en": "Sign in / Sign out",
@@ -2978,7 +2981,8 @@
     "zh-Hant-TW": "如果您刪除帳戶或資料，這些資料將永久刪除且無法復原。若要備份您的資料，請前往應用程式的設定頁面並使用匯出功能。"
   },
   "generic_yourAccountHasBeenDeleted": {
-    "en": "Your account data has been deleted"
+    "en": "Your account data has been deleted",
+    "zh-Hant-TW": "您的帳號資料已刪除"
   },
   "help_announcements": {
     "de": "Mitteilungen",
@@ -3458,7 +3462,8 @@
     "zh-Hant-TW": "新增至投資組合"
   },
   "portfolio_addTransactionToQuote": {
-    "en": "To add transactions to an existing quote: Open the Quote Details page, switch to the Transactions tab, and click the add button."
+    "en": "To add transactions to an existing quote: Open the Quote Details page, switch to the Transactions tab, and click the add button.",
+    "zh-Hant-TW": "若要為現有報價新增交易紀錄：請開啟報價詳情頁，切換至交易紀錄分頁，然後點擊新增按鈕。"
   },
   "portfolio_addingToPortfolio": {
     "en": "Adding to portfolio…",
@@ -3711,7 +3716,8 @@
     "zh-Hant-TW": "此交易所無資料"
   },
   "portfolio_defaultAccountingMethod": {
-    "en": "Default accounting method"
+    "en": "Default accounting method",
+    "zh-Hant-TW": "預設記帳方式"
   },
   "portfolio_defaultCurrency": {
     "en": "Default",
@@ -4168,7 +4174,8 @@
     "zh-Hant-TW": "移動／複製到投資組合"
   },
   "portfolio_moveCopyToPortfolioKeepCopy": {
-    "en": "Keep copy in original portfolio"
+    "en": "Keep copy in original portfolio",
+    "zh-Hant-TW": "在原始投資組合中保留副本"
   },
   "portfolio_movingToPortfolio": {
     "en": "Moving to portfolio…",
@@ -4355,10 +4362,12 @@
     "zh-Hant-TW": "未實現部位價值"
   },
   "portfolio_quote_exists": {
-    "en": "Quote already exists in this portfolio. Merging with the existing one."
+    "en": "Quote already exists in this portfolio. Merging with the existing one.",
+    "zh-Hant-TW": "此投資組合中已有該報價，將與現有報價合併。"
   },
   "portfolio_quote_exists_hidden": {
-    "en": "Quote already exists in this portfolio but is hidden because you have chosen to hide closed quotes. Please edit the portfolio and disable hide closed quotes if you want to see the quote."
+    "en": "Quote already exists in this portfolio but is hidden because you have chosen to hide closed quotes. Please edit the portfolio and disable hide closed quotes if you want to see the quote.",
+    "zh-Hant-TW": "此投資組合中已有該報價，但因您選擇了隱藏已平倉報價而未顯示。如需查看該報價，請編輯投資組合並停用「隱藏已平倉報價」。"
   },
   "portfolio_quote_for": {
     "_formatted": false,
@@ -5569,7 +5578,8 @@
     "zh-Hant-TW": "白天模式字體顏色"
   },
   "settingsDisplay_daylightFontColorHelp": {
-    "en": "Adjusts font colors so they are easier to see under sunlight. Under dark theme, red font color changes to yellow."
+    "en": "Adjusts font colors so they are easier to see under sunlight. Under dark theme, red font color changes to yellow.",
+    "zh-Hant-TW": "調整字體顏色，使其在陽光下更容易閱讀。在深色主題下，紅色字體會變為黃色。"
   },
   "settingsDisplay_decimalPlaces0": {
     "en": "0 decimal places",
@@ -5746,10 +5756,12 @@
     "zh-Hant-TW": "顯示盤後交易（若關閉單行模式則顯示於第三行，開啟單行模式則顯示於同一行）"
   },
   "settingsDisplay_extendedHoursLabel": {
-    "en": "Label for extended hours"
+    "en": "Label for extended hours",
+    "zh-Hant-TW": "延長交易時段標籤"
   },
   "settingsDisplay_extendedHoursLabelHelp": {
-    "en": "(For single line mode) Show an 'ext' label for extended prices on single line mode when extended hours are enabled"
+    "en": "(For single line mode) Show an 'ext' label for extended prices on single line mode when extended hours are enabled",
+    "zh-Hant-TW": "（單行模式）啟用延長交易時段時，在單行模式中顯示「ext」標籤以標示延長交易時段價格"
   },
   "settingsDisplay_miniMode": {
     "en": "Single-line mode",
@@ -6158,7 +6170,7 @@
     "es": "Exportar a Google Drive / SDCard / Almacenamiento Externo / Email / Portapapeles",
     "de": "Exportieren zu Google Drive / SD-Karte / Externer Speicher / E-Mail / Zwischenablage",
     "tr": "Google Drive / SDCard / Harici Depolama / E-posta / Panoya Aktar",
-    "zh-Hant-TW": "匯出至 Google 雲端硬碟／SD 卡／外接儲存裝置／Email／備忘錄"
+    "zh-Hant-TW": "匯出至 Google 雲端硬碟／SD 卡／外接儲存裝置／Email／剪貼簿"
   },
   "settings_csvExportPriceAlerts": {
     "en": "Export Price Alerts as CSV",
@@ -6901,7 +6913,7 @@
     "de": "Nachfage",
     "fr": "Offre",
     "tr": "Alış",
-    "zh-Hant-TW": "賣出"
+    "zh-Hant-TW": "賣價"
   },
   "viewQuoteStats_askHelp": {
     "en": "Ask price",
