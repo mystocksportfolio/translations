@@ -1106,7 +1106,7 @@
     "fr": "Chargement du graphique…",
     "tr": "Grafik Yükleniyor…",
     "zh-Hant-TW": "載入圖表中…",
-    "zh": "正在加载图表..."
+    "zh": "正在加载图表…"
   },
   "chart_logarithmic": {
     "en": "Log",
@@ -1508,7 +1508,7 @@
     "fr": "Importation…",
     "tr": "İçe aktarılıyor…",
     "zh-Hant-TW": "匯入中…",
-    "zh": "正在导入..."
+    "zh": "正在导入…"
   },
   "csvImport_pasteDataHere": {
     "en": "Paste data here",
@@ -1542,7 +1542,7 @@
     "de": "Erkannte CSV-Kopfzeilen:\\n\\nSymbol: Symbolname (z. B. BB)\\nPortfolio: Portfolio, zu dem die Notierung gehört\\nShares: Aktien im Besitz\\nTyp: Kauf, Verkauf, Deckungskauf, Leerverkauf\\nPreis: Kosten pro Aktie\\nCommission: Gesamtprovision\\nDatum: Datum der Transaktion (JJJJ-MM-TT GMT+HH:MM), d. h. 2017-05-25 GMT+01:00\\\nNotizen: Zusätzliche Hinweise\\n\\nUm ein CSV-Beispiel zu sehen, können Sie eine CSV aus der App exportieren.\\n\\nDas Datumsformat muss korrekt sein, sonst wird das Datum nicht importiert. Wenn Sie Excel verwenden, können Sie das Format der generierten Daten anpassen. 2016-11-25 GMT-08:00 ist ein gültiges Datum, 11-25-2017 ist dagegen nicht.",
     "tr": "Tanınan CSV Başlıkları:\\n\\nSembol: Sembol adı (örneğin BB)\\nPortföy: Önerilerin ait olduğu portföy\\nHisseler: Sahip olunan hisseler\\nTür: Al, Sat, Kapatmak için Al, Açığa Sat\\nFiyat: Hisse başı maliyet\\nKomisyon: Toplam komisyon\\nTarih: İşlem tarihi (YYY–MM–DD GMT+H:MM), örneğin 2017–05–25 GMT+01:00\\nNotlar: Ek notlar\\n\\nÖrnek bir CSV görmek için uygulamadan bir CSV dışa aktarabilirsiniz.\\n\\nTarih biçimi doğru olmalıdır, aksi takdirde tarih içe aktarılmayacaktır. Excel kullanıyorsanız oluşturulan tarihlerin biçimini özelleştirebilirsiniz. 2016–11–25 GMT–08:00 geçerli bir tarihtir, 11–25–2017 geçerli değildir.",
     "zh-Hant-TW": "支援的 CSV 標題：\\n\\n代碼：股票代碼（如 BB）\\n組合：報價所屬投資組合\\n股數：持有股數\\n類型：買、賣、空單回補、賣空\\n價格：每股成本\\n手續費：總手續費\\n日期：交易日期（YYYY-MM-DD GMT+HH:MM），如 2017–05–25 GMT+01:00\\n備註：附註說明\\n\\n可於 app 匯出 CSV 來參考範例格式。\\n\\n日期格式必須正確，否則該筆資料不會匯入。若使用 Excel，可自訂日期格式。2016–11–25 GMT-08:00 為有效日期，11–25–2017 則無法匯入。",
-    "zh": "支持的 CSV 表头：\\n\\nSymbol: 代码 (如 BB)\\nPortfolio: 所属投资组合\\nShares: 持股数\\nType: Buy (买入), Sell (卖出), Buy to Cover (空单回补), Sell Short (卖空)\\nPrice: 每股成本\\nCommission: 总佣金\\nDate: 交易日期 (YYYY-MM-DD GMT+HH:MM)\\nNotes: 备注\\n\\n日期格式必须正确，否则无法导入。例如 2016-11-25 GMT-08:00 是有效格式。"
+    "zh": "支持的 CSV 表头：\\n\\nSymbol: 代码 (如 BB)\\nPortfolio: 所属投资组合\\nShares: 持股数\\nType: Buy (买入), Sell (卖出), Buy to Cover (空单回补), Sell Short (卖空)\\nPrice: 每股成本\\nCommission: 总佣金\\nDate: 交易日期 (YYYY–MM–DD GMT+HH:MM)\\nNotes: 备注\\n\\n日期格式必须正确，否则无法导入。例如 2016–11–25 GMT-08:00 是有效格式。"
   },
   "csvImport_unableToDownload": {
     "en": "Unable to download CSV file",
@@ -1796,7 +1796,7 @@
     "de": "berechne…",
     "tr": "Hesaplanıyor…",
     "zh-Hant-TW": "計算中…",
-    "zh": "正在计算..."
+    "zh": "正在计算…"
   },
   "generic_cancel": {
     "de": "Abbrechen",
@@ -2181,7 +2181,7 @@
     "de": "Exportiert…",
     "tr": "Dışa aktar…?",
     "zh-Hant-TW": "匯出…",
-    "zh": "导出..."
+    "zh": "导出…"
   },
   "generic_exportCSV": {
     "de": "Export CSV",
@@ -2318,7 +2318,7 @@
     "de": "Wird importiert…",
     "tr": "İçe aktar…",
     "zh-Hant-TW": "匯入…",
-    "zh": "导入..."
+    "zh": "导入…"
   },
   "generic_importCSV": {
     "de": "Import CSV",
@@ -2368,7 +2368,7 @@
     "de": "Lädt…",
     "tr": "Yükleniyor…",
     "zh-Hant-TW": "讀取中…",
-    "zh": "加载中..."
+    "zh": "加载中…"
   },
   "generic_manageAlerts": {
     "de": "Alarme erstellen",
@@ -2984,7 +2984,7 @@
     "de": "Teilen mit…",
     "tr": "…Kullanarak paylaş",
     "zh-Hant-TW": "分享",
-    "zh": "分享至..."
+    "zh": "分享至…"
   },
   "generic_show": {
     "en": "Show",
@@ -3407,7 +3407,7 @@
     "fr": "Je ne vois pas ma réponse…",
     "tr": "Cevabımı göremiyorum…",
     "zh-Hant-TW": "我沒有找到答案…",
-    "zh": "没找到我要的答案..."
+    "zh": "没找到我要的答案…"
   },
   "help_howCanWeHelp": {
     "en": "How can we help?",
@@ -3549,7 +3549,7 @@
     "fr": "Connexion à Google…",
     "tr": "Google'da oturum açıyorum…",
     "zh-Hant-TW": "正在登入 Google…",
-    "zh": "正在登录 Google..."
+    "zh": "正在登录 Google…"
   },
   "logInOut_signingOutOfGoogle": {
     "en": "Signing out of Google…",
@@ -3558,7 +3558,7 @@
     "fr": "Déconnexion de Google…",
     "tr": "Google'dan çıkış yapıyorum…",
     "zh-Hant-TW": "正在登出 Google…",
-    "zh": "正在退出 Google..."
+    "zh": "正在退出 Google…"
   },
   "logInOut_switchAccount": {
     "en": "Switch Account",
@@ -3675,7 +3675,7 @@
     "fr": "Chargement des actualités…",
     "tr": "Haberler Yükleniyor…",
     "zh-Hant-TW": "載入新聞中…",
-    "zh": "正在加载新闻..."
+    "zh": "正在加载新闻…"
   },
   "news_share": {
     "en": "Share",
@@ -3931,7 +3931,7 @@
     "de": "Wird Portfolio hinzugefügt…",
     "tr": "Portföye Ekleniyor…",
     "zh-Hant-TW": "新增至投資組合中…",
-    "zh": "正在加入投资组合..."
+    "zh": "正在加入投资组合…"
   },
   "portfolio_allocation_categoryTagsForSymbol": {
     "_formatted": false,
@@ -4740,7 +4740,7 @@
     "fr": "Déplacement vers le portefeuille…",
     "tr": "Portföye taşınıyor…",
     "zh-Hant-TW": "正在移動到投資組合…",
-    "zh": "正在移动至投资组合..."
+    "zh": "正在移动至投资组合…"
   },
   "portfolio_multipleCurrenciesNoHomeCurrency": {
     "en": "Multiple currencies detected but a home currency is not set, so totals can't be calculated. Please tap here to set a home currency.",
@@ -5564,7 +5564,7 @@
     "fr": "Trier par…",
     "tr": "Şuna göre sırala…",
     "zh-Hant-TW": "排序依據…",
-    "zh": "排序方式..."
+    "zh": "排序方式…"
   },
   "portfolio_syncBrokerage": {
     "en": "Sync Brokerage",
@@ -6016,7 +6016,7 @@
     "fr": "Restoration des achats…",
     "tr": "Satın Almalar Geri Yükleniyor…",
     "zh-Hant-TW": "正在復原購買紀錄…",
-    "zh": "正在恢复购买..."
+    "zh": "正在恢复购买…"
   },
   "purchases_restorePurchasesHelp": {
     "en": "Restores previous purchases made using your currently signed in Google account",
@@ -6250,7 +6250,7 @@
     "fr": "Les variations du jour sur les positions utilisent…",
     "tr": "Varlıkların günlük değişimlerini kullan…",
     "zh-Hant-TW": "持股每日變動依據…",
-    "zh": "持仓当日涨跌依据..."
+    "zh": "持仓当日涨跌依据…"
   },
   "settingsCalculations_holdingsCalculatedUsing": {
     "en": "Holdings calculated using…",
@@ -6259,7 +6259,7 @@
     "fr": "Positions calculées avec…",
     "tr": "Hesaplamada varlıklar kullanılıyor…",
     "zh-Hant-TW": "持股計算方式…",
-    "zh": "持仓计算依据..."
+    "zh": "持仓计算依据…"
   },
   "settingsCalculations_yearToDateBegins": {
     "en": "Year-to-Date (YTD) begins on…",
@@ -6267,7 +6267,7 @@
     "de": "Jahr-zu-Tag (YTD) beginnt am…",
     "tr": "Yıldan Tarihe (YTD) şöyle başlıyor…",
     "zh-Hant-TW": "年初至今（YTD）開始於…",
-    "zh": "年初至今 (YTD) 起点..."
+    "zh": "年初至今 (YTD) 起点…"
   },
   "settingsCalculations_omitCashFromPercentages": {
     "en": "Omit cash from % returns",
@@ -7343,7 +7343,7 @@
     "fr": "Envoyer un courriel…",
     "tr": "E-posta gönder…",
     "zh-Hant-TW": "發送 Email …",
-    "zh": "发送邮件..."
+    "zh": "发送邮件…"
   },
   "settings_sendFeedback": {
     "de": "Rückmeldung senden",
@@ -7542,7 +7542,7 @@
     "fr": "Synchronisation des portefeuilles…",
     "tr": "Portföyler sunucu ile senkronize ediliyor…",
     "zh-Hant-TW": "正在與伺服器同步投資組合…",
-    "zh": "正在与服务器同步投资组合..."
+    "zh": "正在与服务器同步投资组合…"
   },
   "sync_lastSynchronizedTimeFormatted": {
     "_formatted": false,
