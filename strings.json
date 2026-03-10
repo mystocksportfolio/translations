@@ -309,6 +309,15 @@
     "zh-Hant-TW": "日曆",
     "zh-Hans": "日历"
   },
+  "addQuoteTransaction_cantFindSymbol": {
+    "en": "Can't find a symbol? Click here",
+    "es": "¿No encuentras el símbolo? Haz clic aquí",
+    "de": "Symbol nicht gefunden? Hier klicken",
+    "fr": "Symbole introuvable ? Cliquez ici",
+    "tr": "Sembol bulamıyor musun? Buraya tıkla",
+    "zh-Hant-TW": "找不到符號？點這裡",
+    "zh-Hans": "找不到符号？点击这里"
+  },
   "addQuoteTransaction_commission": {
     "en": "Commission",
     "es": "Comisión",
@@ -317,6 +326,24 @@
     "tr": "Komisyon",
     "zh-Hant-TW": "手續費",
     "zh-Hans": "佣金/手续费"
+  },
+  "addQuoteTransaction_commissionsForNewTransactions": {
+    "en": "Add commission for new transactions (excluding dividends and interests)",
+    "es": "Añadir comisión para nuevas transacciones (excluyendo dividendos e intereses)",
+    "de": "Provision für neue Transaktionen hinzufügen (Dividenden und Zinsen ausgenommen)",
+    "fr": "Ajouter une commission pour les nouvelles transactions (à l'exclusion des dividendos et intérêts)",
+    "tr": "Yeni işlemler için komisyon ekle (temettü ve faizler hariç)",
+    "zh-Hant-TW": "新交易新增手續費（不含股利及利息）",
+    "zh-Hans": "新交易新增手续费（不含股利及利息）"
+  },
+  "addQuoteTransaction_commissionsUsePercent": {
+    "en": "Use percentage commissions by default",
+    "es": "Usar comisiones por porcentaje de forma predeterminada",
+    "de": "Prozentuale Provisionen standardmäßig verwenden",
+    "fr": "Utiliser des commissions en pourcentage par défaut",
+    "tr": "Varsayılan olarak yüzde komisyonları kullan",
+    "zh-Hant-TW": "預設使用百分比佣金",
+    "zh-Hans": "默认使用百分比佣金"
   },
   "addQuoteTransaction_couldNotDetectCurrency": {
     "en": "Could not detect currency for this quote, so cannot use cash conversion method. Please uncheck the cash conversion checkbox.",
@@ -502,6 +529,15 @@
     "tr": "İşlem sırasındaki Döviz Kuru (Hisse Senedi Para Birimi - Ana Para Birimi). Örneğin 1.5, 1 $'lık hisse senedi para biriminin 1,5 $'lık ana para biriminize dönüştüğü anlamına gelir. Ana Para Birimini varlıklar ekranında Para Birimi öğesine dokunarak değiştirebilirsiniz. Güncel döviz kurunu kullanmak için boş bırakın.",
     "zh-Hant-TW": "成交匯率（股票幣別 至 預設幣別）。舉例來說，1.5 表示 1 元的股票幣別對應到 1.5 元您的預設幣別。您可以在投資組合持有選單中點選貨幣來更改，將其留白來自動使用當天的匯率。",
     "zh-Hans": "交易时的汇率（股票币种至本地货币）。例如，1.5 表示 1 单位股票币种可兑换 1.5 单位本地货币。您可以在持仓页面点击“币种”更改本地货币。留空则使用今日汇率。"
+  },
+  "addQuoteTransaction_setAsDefault": {
+    "en": "Set as default for new transactions",
+    "es": "Establecer como predeterminado para nuevas transacciones",
+    "de": "Als Standard für neue Transaktionen festlegen",
+    "fr": "Définir par défaut pour les nouvelles transactions",
+    "tr": "Yeni işlemler için varsayılan olarak ayarla",
+    "zh-Hant-TW": "設為新交易的預設值",
+    "zh-Hans": "设为新交易默认值"
   },
   "addQuoteTransaction_time": {
     "en": "Transaction Time",
