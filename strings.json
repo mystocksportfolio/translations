@@ -1795,6 +1795,24 @@
     "zh-Hant-TW": "備份",
     "zh-Hans": "备份"
   },
+  "generic_backupReminder": {
+    "en": "Please remember to periodically backup your account data via the settings, backup section.",
+    "es": "Por favor, recuerda hacer copias de seguridad periódicas de los datos de tu cuenta a través de la sección de respaldo en los ajustes.",
+    "de": "Bitte erinnern Sie sich daran, die Kontodaten regelmäßig über den Abschnitt \"Backup\" in den Einstellungen zu sichern.",
+    "fr": "Veuillez vous souvenir de sauvegarder périodiquement les données de votre compte via la section sauvegarde dans les paramètres.",
+    "tr": "Lütfen hesap verilerinizi ayarlar, yedekleme bölümünden periyodik olarak yedeklemeyi unutmayın.",
+    "zh-Hant-TW": "請記得定期透過設定中的備份區段備份您的帳戶資料。",
+    "zh-Hans": "请记得定期通过设置中的备份区段备份您的账户数据。"
+  },
+  "generic_backupReminderAutoSync": {
+    "en": "Your account data is not automatically uploaded to the cloud unless you enable auto server sync.",
+    "es": "Sus datos de cuenta no se cargan automáticamente en la nube a menos que active la sincronización automática con el servidor.",
+    "de": "Ihre Konto-Daten werden nicht automatisch in die Cloud hochgeladen, es sei denn, Sie aktivieren die automatische Server-Synchronisation.",
+    "fr": "Vos données de compte ne sont pas téléchargées automatiquement vers le cloud sauf si vous activez la synchronisation automatique avec le serveur.",
+    "tr": "Hesap verileriniz, otomatik sunucu senkronizasyonunu etkinleştirmedikçe buluta otomatik olarak yüklenmez.",
+    "zh-Hant-TW": "您的帳戶資料不會自動上傳至雲端，除非您啟用自動伺服器同步。",
+    "zh-Hans": "您的账户数据不会自动上传到云端，除非您启用自动服务器同步。"
+  },
   "generic_beginImport": {
     "en": "Begin Import",
     "es": "Iniciar importación",
