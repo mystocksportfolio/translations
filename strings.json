@@ -10558,7 +10558,7 @@
     "zh-Hant-TW": "您可能需要將小工具加入白名單以允許其在背景執行。請參考 https://help.mystocksportfolio.app/troubleshooting/widget-issues 了解如何將小工具加入白名單及其他疑難排解步驟。",
     "zh-Hans": "您可能需要将小组件加入后台运行白名单。请参阅 help.mystocksportfolio.app 了解详细步骤。",
     "es": "Es posible que deba incluir el widget en la lista blanca para que funcione en segundo plano. Consulte https://help.mystocksportfolio.app/troubleshooting/widget-issues para ver los pasos y otras acciones de solución de problemas.",
-    "fr": "Vous may need à whitelist le widget à run dans le background. Veuillez see https://aide.mystocksportfolio.application/troubleshooting/widget-issues pour steps activé how à whitelist widgets et other troubleshooting steps."
+    "fr": "Vous devrez peut-être autoriser le widget à fonctionner en arrière-plan. Veuillez consulter https://help.mystocksportfolio.app/troubleshooting/widget-issues pour savoir comment autoriser les widgets et accéder à d’autres étapes de dépannage."
   },
   "widget_refreshing": {
     "en": "Refreshing Widget",
