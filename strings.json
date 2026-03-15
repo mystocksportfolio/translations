@@ -3404,7 +3404,9 @@
     "de": "%s %s",
     "zh-Hans": "%s %s",
     "es": "%s %s",
-    "fr": "%s %s"
+    "fr": "%s %s",
+    "tr": "%s %s",
+    "zh-Hant-TW": "%s %s"
   },
   "generic_placeholderAndPlaceholderNoSpace": {
     "_formatted": false,
@@ -3414,7 +3416,9 @@
     "de": "%s%s",
     "zh-Hans": "%s%s",
     "es": "%s%s",
-    "fr": "%s%s"
+    "fr": "%s%s",
+    "tr": "%s%s",
+    "zh-Hant-TW": "%s%s"
   },
   "generic_placeholderInBrackets": {
     "_formatted": false,

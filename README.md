@@ -8,9 +8,9 @@ Progress (1050 strings):
 
 1050/1050 - Spanish
 
-1048/1050 - Turkish
+1050/1050 - Turkish
 
-1048/1050 - Traditional Chinese
+1050/1050 - Traditional Chinese
 
 1050/1050 - Simplified Chinese
 
