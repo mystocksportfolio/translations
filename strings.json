@@ -1533,7 +1533,7 @@
     "es": "Se importaron correctamente %s cotizaciones y %s acciones",
     "de": "Erfolgreich importierte %s Bestände und %s Notierungen",
     "fr": "Importation réussie de %s cours et %s positions",
-    "tr": "%S Öneriler ve %s Varlıklar içe aktarıldı",
+    "tr": "%s Öneriler ve %s Varlıklar içe aktarıldı",
     "zh-Hant-TW": "成功匯入 %s 筆報價與 %s 筆持股",
     "zh-Hans": "成功导入 %s 条报价和 %s 条持股记录"
   },
