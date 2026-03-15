@@ -123,7 +123,7 @@
   },
   "accounting_noLotsFoundHelp": {
     "en": "Couldn't find any valid lots (transactions) to select before this transaction's date",
-    "fr-CA": "Impossible de trouver des lots (transactions) valides à sélectionner avant la date de cette transaction",
+    "fr-CA": "Couldn't trouver any valide lots (transactions) à sélectionner avant ce transaction's date",
     "es": "No se pudieron encontrar lotes válidos (transacciones) para seleccionar antes de la fecha de esta transacción",
     "de": "Es können keine gültigen Lots (Transaktionen) vor diesem Transaktionsdatum zur Auswahl gefunden werden",
     "tr": "Seçilen işlem tarihinden önce geçerli lotlar (işlemler) bulunamadı",
@@ -150,7 +150,7 @@
   },
   "accounting_weightedAverageDescription": {
     "en": "The cost basis is calculated using the current unrealized cost per share",
-    "fr-CA": "Le coût de base est calculé à partir du coût non réalisé actuel par action",
+    "fr-CA": "Le cost basis est calculated en utilisant le actuel unrealized cost per partager",
     "es": "La base del costo se calcula utilizando el costo no realizado actual por acción",
     "de": "Die Berechnungsgrundlage ist der aktuelle nicht realisierter Wert pro Aktie",
     "tr": "Maliyet esası, hisse başına cari gerçekleşmemiş maliyet kullanılarak hesaplanır",
@@ -168,7 +168,7 @@
   },
   "accounting_specificLotsHelp": {
     "en": "To use the 'Specific Lots' execution type, please add the quote first and then go to the quote details page, transactions tab, and add the transaction from there so the app knows which lots can be used.",
-    "fr-CA": "Pour utiliser le type d'exécution « Lots spécifiques », ajoutez d'abord la cotation, puis allez à la page de détails de la cotation, onglet Transactions, et ajoutez la transaction à partir de là afin que l'application sache quels lots peuvent être utilisés.",
+    "fr-CA": "À utiliser le 'Lots spécifiques' execution type, veuillez ajouter le quote premier et then go à le quote détails page, transactions tab, et ajouter le transaction de there so le application knows which lots peut be utilisé.",
     "es": "Para usar el tipo de ejecución 'Lotes Específicos', por favor agregue primero la cotización y luego vaya a la página de detalles de la cotización, pestaña de transacciones, y agregue la transacción desde allí para que la aplicación sepa qué lotes se pueden usar.",
     "de": "Um die Ausführungsart 'Spezifische Lots' zu verwenden, fügen Sie bitte zuerst die Notierung hinzu und gehen Sie dann auf die Angebotsdetailseite, Registerkarte Transaktionen, und fügen Sie die Transaktion von dort aus hinzu, damit die Anwendung weiß, welche Lots verwendet werden können.",
     "tr": "'Belirli Lotlar' uygulama türünü kullanmak için lütfen önce önerilere ekleyin ve ardından öneriler ayrıntıları sayfasına, işlemler sekmesine gidin ve işlemi buradan ekleyin, böylece uygulama hangi lotların kullanılabileceğini bilir.",
@@ -177,7 +177,7 @@
   },
   "accounting_specificLotsDescription": {
     "en": "Choose lots to execute against, in order of priority.\\n\\nTo re-order: Press-hold and drag up/down. The transactions at the top of the list will be used first.\\n\\nTo remove: Tap on the lot/transaction.",
-    "fr-CA": "Choisissez les lots à exécuter par ordre de priorité.\n\nPour réordonner : maintenez appuyé et glissez vers le haut/bas. Les transactions en tête de liste seront utilisées en premier.\n\nPour retirer : touchez le lot/la transaction.",
+    "fr-CA": "Choisir lots à execute against, dans ordre de priority.\\n\\nTo re-ordre: Press-hold et drag haut/down. Le transactions à le principaux de le list will be utilisé premier.\\n\\nTo remove: Tap activé le lot/transaction.",
     "es": "Elija los lotes para ejecutar, en orden de prioridad.\\n\\nPara reordenar: Mantenga presionado y arrastre hacia arriba/abajo. Las transacciones en la parte superior de la lista se utilizarán primero.\\n\\nPara eliminar: Toque el lote/transacción.",
     "de": "Wählen Sie die auszuführenden Lots in der Reihenfolge ihrer Priorität.\\n\\n Um die Reihenfolge zu ändern: Halten Sie die Taste gedrückt und ziehen Sie nach oben/unten. Die Transaktionen am Anfang der Liste werden zuerst ausgeführt.\\n\\nZum Entfernen: Tippen Sie auf Lot/Transaktion.",
     "tr": "Öncelik sırasına göre işlenecek lotları seçin.\\n\\nYeniden sıralamak için: Basılı tutun ve yukarı/aşağı sürükleyin. Listenin en üstündeki işlemler önce kullanılacaktır.\\n\\nKaldırmak için: Lotun/işlemin üzerine dokunun.",
@@ -790,7 +790,7 @@
     "es": "Después de ingresar el símbolo, debería aparecer una vista previa del precio.\\n\\nHaz clic en la vista previa del precio para ver la cotización sin agregarla a tu portafolio.",
     "de": "Nach der Eingabe des Symbols/Tickers wird eine Kursvorschau angezeigt.\\n\\nKlicken Sie auf die Kursvorschau, um den Wert anzusehen, ohne diesen Ihrem Portfolio hinzuzufügen.",
     "fr": "Après avoir saisi le nom du symbole, cliquez sur le clavier ou sélectionnez un symbole depuis la liste d'auto-complétion.\\n\\nSi une prévisualisation du prix the la cotation surgit sous le champ du symbole, vous pouvez cliquer dessus pour prévisualiser la cotation et les actualités sans l'ajouter à votre portefeuille.",
-    "fr-CA": "Après avoir saisi le symbole/ticker, un aperçu du prix devrait s'afficher.\n\nAppuyez sur l'aperçu du prix pour consulter la cotation sans l'ajouter à votre portefeuille.",
+    "fr-CA": "Après avoir saisi le nom du symbole, cliquez sur le clavier ou sélectionnez un symbole depuis la liste d'auto-complétion.\\n\\nSi une prévisualisation du prix the la cotation surgit sous le champ du symbole, vous pouvez cliquer dessus pour prévisualiser la cotation et les actualités sans l'ajouter à votre portefeuille.",
     "tr": "Sembolü/etiketi girdikten sonra bir fiyat önizlemesi görünecektir.\\n\\nPortföyünüze eklemeden fiyatı görüntülemek için fiyat önizlemesine tıklayın.",
     "zh-Hant-TW": "進入名稱／代碼之後應會顯示價格預覽。\\n\\n在不用加入投資組合的情況下點選價格預覽來顯示報價。",
     "zh-Hans": "输入代码后将显示价格预览。\\n\\n点击预览即可查看详情，无需将其加入投资组合。"
@@ -1912,7 +1912,7 @@
   "generic_additionalOptions": {
     "de": "Zusätzliche Optionen",
     "en": "Additional Options",
-    "fr-CA": "Options supplémentaires",
+    "fr-CA": "Supplémentaire Options",
     "es": "Opciones adicionales",
     "tr": "İlave seçenekler",
     "zh-Hant-TW": "額外選項",
@@ -1938,7 +1938,7 @@
   },
   "generic_appLockHelp": {
     "en": "Enabling App Lock will prompt for a Passcode or Face ID/Touch ID when the app is launched. If you lose your Passcode, you will need to re-install the app.",
-    "fr-CA": "L’activation du verrouillage de l’application demandera un code d’accès ou Face ID/Touch ID au lancement. Si vous perdez votre code d’accès, vous devrez réinstaller l’application.",
+    "fr-CA": "Enabling Application Lock will prompt pour un Code d’accès ou Face ID/Touch ID when le application est launched. Si vous lose votre Code d’accès, vous will need à re-install le application.",
     "de": "Wenn Sie die App-Sperre aktivieren, werden Sie beim Start der App zur Eingabe eines Codes, Gesichtserkennung oder Entsperrmuster aufgefordert. Wenn Sie Ihren Code vergessen, müssen Sie die App neu installieren.",
     "es": "Activar el bloqueo de la aplicación solicitará un código de acceso o Face ID/Touch ID cuando se inicie la aplicación. Si pierdes tu código de acceso, tendrás que reinstalar la aplicación.",
     "tr": "Uygulama Kilidi etkinleştirildiğinde, uygulama başlatıldığında Parola veya Face ID/Touch ID istenecektir. Parolanızı kaybederseniz, uygulamayı yeniden yüklemeniz gerekecektir.",
@@ -2898,7 +2898,7 @@
   },
   "generic_notificationsTapToEnable": {
     "en": "To enable notifications, please tap here",
-    "fr-CA": "Pour activer les notifications, touchez ici",
+    "fr-CA": "À activer notifications, veuillez tap here",
     "zh-Hant-TW": "如要啟用通知，請點擊此處",
     "zh-Hans": "点击此处启用通知"
   },
@@ -3355,7 +3355,7 @@
   },
   "generic_sendTestNotificationHelp": {
     "en": "Tap to send a test notification from our servers to check whether your phone is set up to receive notifications",
-    "fr-CA": "Touchez pour envoyer une notification de test depuis nos serveurs afin de vérifier que votre téléphone est configuré pour recevoir des notifications.",
+    "fr-CA": "Tap à envoyer un test notification de our servers à check whether votre phone est définir haut à recevoir notifications",
     "es": "Pulse para enviar una notificación de prueba desde nuestros servidores para comprobar si su teléfono está configurado para recibir notificaciones",
     "de": "Tippen um eine Testbenachrichtigung von unseren Servern zu senden, um zu prüfen, ob Ihr Telefon für den Empfang von Benachrichtigungen entsprechend konfiguriert ist.",
     "tr": "Telefonunuzun bildirim almaya ayarlı olup olmadığını kontrol etmek için sunucularımızdan bir test bildirimi göndermek üzere dokunun",
@@ -3364,7 +3364,7 @@
   },
   "generic_serverError": {
     "en": "Server error. Please try again later or contact customer support.",
-    "fr-CA": "Erreur du serveur. Veuillez réessayer plus tard ou communiquer avec le service à la clientèle.",
+    "fr-CA": "Server erreur. Veuillez try again later ou contact customer support.",
     "es": "Error del servidor. Por favor, intente de nuevo más tarde o contacte al soporte al cliente.",
     "de": "Server-Fehler. Bitte versuchen Sie es später noch einmal oder wenden Sie sich an den Kundensupport.",
     "tr": "Sunucu hatası. Lütfen daha sonra tekrar deneyin veya müşteri desteğiyle iletişime geçin.",
@@ -3402,7 +3402,7 @@
   },
   "generic_shareUsing": {
     "en": "Share using…",
-    "fr-CA": "Partager avec…",
+    "fr-CA": "Partager en utilisant…",
     "es": "Compartir usando…",
     "de": "Teilen mit…",
     "tr": "…Kullanarak paylaş",
@@ -3575,7 +3575,7 @@
   "generic_tapToEdit": {
     "de": "Tippen zum bearbeiten",
     "en": "Tap to edit",
-    "fr-CA": "Touchez pour modifier",
+    "fr-CA": "Tap à modifier",
     "es": "Toca para editar",
     "tr": "Değiştirmek için dokunun",
     "zh-Hant-TW": "點選編輯",
@@ -3832,7 +3832,7 @@
   },
   "generic_yourAccountData_deleteDataMobile": {
     "en": "You may request to delete your account and/or data. Your data includes all data stored on our servers such as portfolio data you uploaded to our servers (see the server sync page). It doesn't include data on your mobile device. To delete data on your mobile device, you can uninstall the app.",
-    "fr-CA": "Vous pouvez demander la suppression de votre compte et/ou de vos données. Vos données incluent celles stockées sur nos serveurs, comme les données de portefeuille que vous avez téléversées (voir la page de synchronisation serveur). Cela n'inclut pas les données sur votre appareil mobile. Pour supprimer les données sur votre appareil mobile, désinstallez l'application.",
+    "fr-CA": "Vous may request à supprimer votre account et/ou données. Votre données includes tous données stored activé our servers such comme portefeuille données vous uploaded à our servers (see le server synchroniser page). Cela doesn't inclure données activé votre mobile appareil. À supprimer données activé votre mobile appareil, vous peut uninstall le application.",
     "es": "Puede solicitar la eliminación de su cuenta y/o datos. Sus datos incluyen todos los datos almacenados en nuestros servidores, como los datos de su portafolio que subió a nuestros servidores (consulte la página de sincronización del servidor). No incluye datos en su dispositivo móvil. Para eliminar datos en su dispositivo móvil, puede desinstalar la aplicación.",
     "de": "Sie können eine Löschung Ihres Kontos und/oder Ihrer Daten beantragen. Ihre Daten umfassen alle auf unseren Servern gespeicherten Daten, wie z. B. Portfoliodaten, die Sie auf unsere Server hochgeladen haben (siehe die Seite zur Serversynkronisation). Dazu gehören nicht die Daten auf Ihrem Mobilgerät. Um die Daten auf Ihrem Mobilgerät zu löschen, deinstallieren Sie die App.",
     "tr": "Hesabınızı ve/veya verilerinizi silmeyi talep edebilirsiniz. Verileriniz, sunucularımıza yüklediğiniz portföy verileri gibi sunucularımızda depolanan tüm verileri içerir (sunucu senkronizasyonu sayfasına bakın). Mobil cihazınızdaki verileri içermez. Mobil cihazınızdaki verileri silmek için uygulamayı kaldırabilirsiniz.",
@@ -3869,7 +3869,7 @@
     "es": "No se pudo conectar al servidor de ayuda. ¿Enviar un correo electrónico al desarrollador con su pregunta?",
     "de": "Es konnte keine Verbindung zum Hilfeserver hergestellt werden. Schicken Sie dem Entwickler eine E-Mail mit Ihrer Frage",
     "fr": "Impossible de se connecter au serveur d'aide. Envoyez un email au développeur avec votre question ?",
-    "fr-CA": "Impossible de se connecter au serveur d'aide. Envoyer un courriel au développeur avec votre question ?",
+    "fr-CA": "Impossible de ouvrir une session au serveur d'aide. Envoyez un courriel au développeur avec votre question ?",
     "tr": "Yardım sunucusuna bağlanılamadı. Geliştiriciye sorunuzla ilgili e-posta mı gönderiyorsunuz?",
     "zh-Hant-TW": "無法連線至說明伺服器。是否要將您的問題 Email 給開發者？",
     "zh-Hans": "无法连接帮助服务器。是否通过邮件向开发者提问？"
@@ -4005,7 +4005,7 @@
   },
   "logInOut_signInToRestorePurchases": {
     "en": "Sign in to share purchases on the cloud? Click No if you want to use your local Google Play account. (If you have multiple accounts on your phone, Google Play sometimes restores it from the incorrect account. You should sign in to the correct account to workaround that issue.).\\n\\nNote: If your purchases are shared on the cloud and you are not signed in, they will be transferred from the cloud to your local account, and other signed in devices using purchases from the cloud will lose access to that purchase. To share purchases on the cloud, sign in, and then click restore, to transfer purchases from your local device to the cloud.",
-    "fr-CA": "Se connecter pour partager les achats dans le nuage ? Touchez Non si vous voulez utiliser votre compte Google Play local. (Si vous avez plusieurs comptes sur votre téléphone, Google Play restaure parfois depuis le mauvais compte. Connectez-vous au bon compte pour contourner ce problème.)\n\nRemarque : si vos achats sont partagés dans le nuage et que vous n'êtes pas connecté, ils seront transférés du nuage vers votre compte local, et les autres appareils connectés utilisant les achats du nuage perdront l'accès à cet achat. Pour partager les achats dans le nuage, connectez-vous, puis appuyez sur restaurer pour transférer les achats de votre appareil local vers le nuage.",
+    "fr-CA": "Se connecter à partager achats activé le nuage? Cliquer Non si vous want à utiliser votre local Google Play account. (Si vous avoir multiple accounts activé votre phone, Google Play sometimes restores cela de le incorrect account. Vous should sign dans à le correct account à workaround que issue.).\\n\\nNote: Si votre achats sont shared activé le nuage et vous sont pas signed dans, they will be transferred de le nuage à votre local account, et other signed dans devices en utilisant achats de le nuage will lose access à que purchase. À partager achats activé le nuage, sign dans, et then cliquer restaurer, à transfer achats de votre local appareil à le nuage.",
     "es": "¿Iniciar sesión para compartir compras en la nube? Haga clic en No si desea usar su cuenta local de Google Play. (Si tiene varias cuentas en su teléfono, Google Play a veces las restaura desde la cuenta incorrecta. Debería iniciar sesión en la cuenta correcta para solucionar ese problema).\\n\\nNota: Si sus compras se comparten en la nube y no ha iniciado sesión, se transferirán de la nube a su cuenta local y otros dispositivos que usen compras desde la nube perderán el acceso a esa compra. Para compartir compras en la nube, inicie sesión y luego haga clic en restaurar para transferir las compras desde su dispositivo local a la nube.",
     "de": "Anmelden, um Einkäufe in der Cloud zu teilen? Klicken Sie auf Nein, wenn Sie Ihr lokales Google Play-Konto verwenden möchten. (Wenn Sie mehrere Konten auf Ihrem Telefon haben, stellt Google Play es manchmal mit dem falschen Konto wieder her. Sie sollten sich beim richtigen Konto anmelden, um dieses Problem zu umgehen.).\\n\\nHinweis: Wenn Ihre Einkäufe in der Cloud freigegeben werden und Sie nicht angemeldet sind, werden sie von der Cloud auf Ihr lokales Konto übertragen und andere angemeldete Geräte, die Einkäufe aus der Cloud verwenden, verlieren den Zugriff auf diese Einkäufe. Um Einkäufe in der Cloud freizugeben, melden Sie sich an und klicken Sie dann auf Wiederherstellen, um Einkäufe von Ihrem lokalen Gerät in die Cloud zu übertragen.",
     "tr": "Satın alımları bulutta paylaşmak için oturum açın. Yerel Google Play hesabınızı kullanmak istiyorsanız Hayır'a tıklayın. (Telefonunuzda birden fazla hesabınız varsa, Google Play bazen yanlış hesaptan geri yükler. Bu sorunu çözmek için doğru hesapta oturum açmalısınız).\\n\\nNot: Satın alımlarınız bulutta paylaşılıyorsa ve oturum açmadıysanız, buluttan yerel hesabınıza aktarılır ve buluttan satın alımları kullanan diğer oturum açmış cihazlar bu satın alımlara erişimini kaybeder. Satın alımları bulutta paylaşmak için oturum açın ve ardından satın alımları yerel cihazınızdan buluta aktarmak için geri yükle'ye tıklayın.",
@@ -4823,7 +4823,7 @@
   },
   "portfolio_deleteFromServerDisclaimer": {
     "en": "If you are signed in, this will delete it from the server and your other devices when they sync.",
-    "fr-CA": "Si vous êtes connecté, cela supprimera aussi ces données du serveur et de vos autres appareils lorsqu'ils se synchroniseront.",
+    "fr-CA": "Si vous sont signed dans, ce will supprimer cela de le server et votre other devices when they synchroniser.",
     "es": "Si has iniciado sesión, esto se eliminará del servidor y de tus otros dispositivos cuando se sincronicen.",
     "de": "Nachdem Sie angemeldet sind, wird bei der Synchronisierung vom Server mit Ihren anderen Geräten alles gelöscht.",
     "tr": "Oturum açtıysanız, bu işlem senkronize edildiklerinde sunucudan ve diğer cihazlarınızdan silinecektir.",
@@ -5071,7 +5071,7 @@
   },
   "portfolio_filterNews": {
     "en": "Filter News",
-    "fr-CA": "Filtrer les nouvelles",
+    "fr-CA": "Filter Nouvelles",
     "es": "Filtrar Noticias",
     "de": "Nachrichten filtern",
     "zh-Hant-TW": "篩選新聞",
@@ -5080,7 +5080,7 @@
   },
   "portfolio_fullTimeEmployees": {
     "en": "Full-Time Employees",
-    "fr-CA": "Employés à temps plein",
+    "fr-CA": "Full-Heure Employees",
     "es": "Empleados de Tiempo Completo",
     "de": "Vollzeitbeschäftigte",
     "tr": "Tam Zamanlı Çalışanlar",
@@ -5107,7 +5107,7 @@
   },
   "portfolio_generatePortfolioReport": {
     "en": "Generate Portfolio Report",
-    "fr-CA": "Générer le rapport du portefeuille",
+    "fr-CA": "Generate Portefeuille Rapport",
     "es": "Generar Informe del Portafolio",
     "de": "Portfoliobericht erstellen",
     "tr": "Portföy Raporu Oluştur",
@@ -5116,7 +5116,7 @@
   },
   "portfolio_generateReport": {
     "en": "Generate Report",
-    "fr-CA": "Générer le rapport",
+    "fr-CA": "Generate Rapport",
     "es": "Generar Informe",
     "de": "Bericht erstellen",
     "tr": "Rapor Oluştur",
@@ -5125,7 +5125,7 @@
   },
   "portfolio_generateReport_enterCustomSubtitleOptional": {
     "en": "Enter custom subtitle (Optional)",
-    "fr-CA": "Saisir un sous-titre personnalisé (optionnel)",
+    "fr-CA": "Saisir custom subtitle (Optional)",
     "de": "Benutzerdefinierten Untertitel eingeben (optional)",
     "es": "Introduce un subtítulo personalizado (Opcional)",
     "tr": "Özel altyazı girin (İsteğe bağlı)",
@@ -5134,7 +5134,7 @@
   },
   "portfolio_generateReport_errorGeneric": {
     "en": "Error while generating report. If the issue persists, please contact customer support.",
-    "fr-CA": "Erreur pendant la génération du rapport. Si le problème persiste, veuillez communiquer avec le service à la clientèle.",
+    "fr-CA": "Erreur while génération rapport. Si le issue persists, veuillez contact customer support.",
     "es": "Error al generar el informe. Si el problema persiste, comuníquese con el servicio de atención al cliente.",
     "de": "Fehler beim Erstellen des Berichts. Wenn das Problem weiterhin besteht, wenden Sie sich bitte an den Kundensupport",
     "tr": "Rapor oluşturulurken hata oluştu. Sorun devam ederse lütfen müşteri desteği ile iletişime geçin.",
@@ -5860,7 +5860,7 @@
   },
   "portfolio_sortAbsChange": {
     "en": "Change (Absolute)",
-    "fr-CA": "Variation (absolue)",
+    "fr-CA": "Changement (Absolute)",
     "es": "Cambio (Absoluto)",
     "de": "Veränderung (absolut)",
     "tr": "Değişim (Mutlak)",
@@ -5879,7 +5879,7 @@
   },
   "portfolio_sortAbsChangePercent": {
     "en": "Change % (Absolute)",
-    "fr-CA": "Variation % (absolue)",
+    "fr-CA": "Changement % (Absolute)",
     "es": "Cambio % (Absoluto)",
     "de": "Veränderung in % (absolut)",
     "tr": "Değişim % (Mutlak)",
@@ -5898,7 +5898,7 @@
   },
   "portfolio_sortAbsChangePercentReverse": {
     "en": "Change % (Absolute, Ascending)",
-    "fr-CA": "Variation % (absolue, croissante)",
+    "fr-CA": "Changement % (Absolute, Ascending)",
     "es": "Cambio % (Absoluto, Ascendente)",
     "de": "Veränderung in % (absolut, aufsteigend)",
     "tr": "Değişim % (Mutlak, Artan)",
@@ -5917,7 +5917,7 @@
   },
   "portfolio_sortAbsChangeReverse": {
     "en": "Change (Absolute, Ascending)",
-    "fr-CA": "Variation (absolue, croissante)",
+    "fr-CA": "Changement (Absolute, Ascending)",
     "es": "Cambio (Absoluto, Ascendente)",
     "de": "Veränderung (absolut, aufsteigend)",
     "tr": "Değişim (Mutlak, Artan)",
@@ -5946,7 +5946,7 @@
   },
   "portfolio_sortAbsDailyChange": {
     "en": "Daily Change (Absolute)",
-    "fr-CA": "Variation quotidienne (absolue)",
+    "fr-CA": "Daily Changement (Absolute)",
     "es": "Cambio Diario (Absoluto)",
     "de": "Veränderung heute (absolut)",
     "tr": "Günlük Değişim (Mutlak)",
@@ -5965,7 +5965,7 @@
   },
   "portfolio_sortAbsDailyChangePercent": {
     "en": "Daily Change % (Absolute)",
-    "fr-CA": "Variation quotidienne % (absolue)",
+    "fr-CA": "Daily Changement % (Absolute)",
     "es": "Cambio Diario % (Absoluto)",
     "de": "Veränderung heute in % (absolut)",
     "tr": "Günlük Değişim % (Mutlak)",
@@ -5984,7 +5984,7 @@
   },
   "portfolio_sortAbsDailyChangePercentReverse": {
     "en": "Daily Change % (Absolute, Ascending)",
-    "fr-CA": "Variation quotidienne % (absolue, croissante)",
+    "fr-CA": "Daily Changement % (Absolute, Ascending)",
     "es": "Cambio Diario % (Absoluto, Ascendente)",
     "de": "Veränderung heute in % (absolut, absteigend)",
     "tr": "Günlük Değişim % (Mutlak, Artan)",
@@ -6003,7 +6003,7 @@
   },
   "portfolio_sortAbsDailyChangeReverse": {
     "en": "Daily Change (Absolute, Ascending)",
-    "fr-CA": "Variation quotidienne (absolue, croissante)",
+    "fr-CA": "Daily Changement (Absolute, Ascending)",
     "es": "Cambio Diario (Absoluto, Ascendente)",
     "de": "Veränderung heute (absolut, absteigend)",
     "tr": "Günlük Değişim (Mutlak, Artan)",
@@ -6158,7 +6158,7 @@
   },
   "portfolio_sortAbsTotalChange": {
     "en": "Total Change (Absolute)",
-    "fr-CA": "Variation totale (absolue)",
+    "fr-CA": "Total Changement (Absolute)",
     "es": "Cambio Total (Absoluto)",
     "de": "Gesamtveränderung (absolut)",
     "tr": "Toplam Değişim (Mutlak)",
@@ -6177,7 +6177,7 @@
   },
   "portfolio_sortAbsTotalChangePercent": {
     "en": "Total Change % (Absolute)",
-    "fr-CA": "Variation totale % (absolue)",
+    "fr-CA": "Total Changement % (Absolute)",
     "es": "Cambio Total % (Absoluto)",
     "de": "Gesamtveränderung in % (absolut)",
     "tr": "Toplam Değişim % (Mutlak)",
@@ -6196,7 +6196,7 @@
   },
   "portfolio_sortAbsTotalChangePercentReverse": {
     "en": "Total Change % (Absolute, Ascending)",
-    "fr-CA": "Variation totale % (absolue, croissante)",
+    "fr-CA": "Total Changement % (Absolute, Ascending)",
     "es": "Cambio Total % (Absoluto, Ascendente)",
     "de": "Gesamtveränderung in % (absolut, aufsteigend)",
     "tr": "Toplam Değişim % (Mutlak, Artan)",
@@ -6215,7 +6215,7 @@
   },
   "portfolio_sortAbsTotalChangeReverse": {
     "en": "Total Change (Absolute, Ascending)",
-    "fr-CA": "Variation totale (absolue, croissante)",
+    "fr-CA": "Total Changement (Absolute, Ascending)",
     "es": "Cambio Total (Absoluto, Ascendente)",
     "de": "Gesamtveränderung (absolut, aufsteigend)",
     "tr": "Toplam Değişim (Mutlak, Artan)",
@@ -7020,7 +7020,7 @@
     "es": "Precio de venta, si está disponible y dentro del 10%",
     "de": "Kurs fragen, wenn verfügbar und bis zu 10 Prozent",
     "fr": "Prix (offre), si disponible and within 10 percent",
-    "fr-CA": "Prix (offre), si disponible et dans un écart de 10 %",
+    "fr-CA": "Prix (offre), si disponible and within 10 percent",
     "tr": "Satış (Talep) Fiyatı, eğer yüzde 10 arasındaysa",
     "zh-Hant-TW": "賣出價（若可取得且在 10% 以內）",
     "zh-Hans": "卖出价 (若可用且在10%以内)"
@@ -7030,7 +7030,7 @@
     "es": "(Compra+Venta)/2, si está disponible y dentro del 10%",
     "de": "(Angebot+Nachfrage)/2, falls verfügbar und bis zu 10 Prozent",
     "fr": "(Demande+Offre)/2, si disponible and within 10 percent",
-    "fr-CA": "(Demande + Offre) / 2, si disponible et dans un écart de 10 %",
+    "fr-CA": "(Demande+Offre)/2, si disponible and within 10 percent",
     "tr": "(Alış+Satış)/2, eğer yüzde 10 arasındaysa",
     "zh-Hant-TW": "（買價＋賣價）／2（若可取得且在 10% 以內）",
     "zh-Hans": "(买入+卖出)/2 (若可用且在10%以内)"
@@ -7040,7 +7040,7 @@
     "es": "Precio de compra, si está disponible y dentro del 10%",
     "de": "Angebotskurs, falls verfügbar und bis zu 10 Prozent",
     "fr": "Prix (demande), si disponible and within 10 percent",
-    "fr-CA": "Prix (demande), si disponible et dans un écart de 10 %",
+    "fr-CA": "Prix (demande), si disponible and within 10 percent",
     "tr": "Alış (Teklif) Fiyatı, eğer yüzde 10 arasındaysa",
     "zh-Hant-TW": "買進價（若可取得且在 10% 以內）",
     "zh-Hans": "买入价 (若可用且在10%以内)"
@@ -8014,7 +8014,7 @@
     "es": "Importar/Exportar y Sincronizar Datos",
     "de": "Import/Export und Datensychronisation",
     "fr": "Importer/Exporter and synchronizer les données",
-    "fr-CA": "Importer/Exporter et synchroniser les données",
+    "fr-CA": "Importer/Exporter and synchronizer les données",
     "tr": "Verileri İçe/Dışa Aktar ve Senkronize Et",
     "zh-Hant-TW": "匯入／匯出資料",
     "zh-Hans": "导入/导出及同步数据"
@@ -8379,7 +8379,7 @@
   },
   "settings_syncPortfolioHelp": {
     "en": "Synchronize portfolio data to the server and between devices",
-    "fr-CA": "Synchroniser les données du portefeuille vers le serveur et entre appareils",
+    "fr-CA": "Synchronize portefeuille données à le server et between devices",
     "de": "Synchronisierung der Portfoliodaten zwischen Server und Geräten",
     "tr": "Portföy verilerini sunucuya ve cihazlar arasında senkronize edin",
     "zh-Hant-TW": "將投資組合資料同步至伺服器及其他裝置",
@@ -8468,7 +8468,7 @@
   },
   "sync_errorOutOfSync": {
     "en": "Your client is out of sync. Please do a fresh sync (from the Server Sync screen) before trying to delete an item off the server, or sign out if you don't want to use server sync.",
-    "fr-CA": "Votre client n'est plus synchronisé. Faites une nouvelle synchronisation (depuis l'écran de synchronisation serveur) avant de supprimer un élément du serveur, ou déconnectez-vous si vous ne voulez pas utiliser la synchronisation serveur.",
+    "fr-CA": "Votre client est hors de synchroniser. Veuillez faire un fresh synchroniser (de le Server Synchroniser écran) avant trying à supprimer un item désactivé le server, ou sign hors si vous don't want à utiliser server synchroniser.",
     "zh-Hant-TW": "您的用戶端資料不同步。請先在「伺服器同步」畫面進行全新同步，然後再嘗試從伺服器刪除項目；如果您不想使用伺服器同步，請登出。",
     "zh-Hans": "客户端不同步。请在删除服务器项前进行全新同步，或退出登录。"
   },
@@ -8485,7 +8485,7 @@
     "en": "Syncing will update your phone and the server to the latest state: it will upload to the server any local data you modified or added since last sync, download the latest server data, and delete any local data you deleted off another device. You can sync across multiple devices.",
     "de": "Bei der Synchronisierung werden Ihr Telefon und der Server auf den neuesten Stand gebracht: Alle lokalen Daten, die Sie seit der letzten Synchronisierung geändert oder hinzugefügt haben, werden auf den Server hochgeladen, die neuesten Serverdaten werden heruntergeladen und alle lokalen Daten, die Sie von einem anderen Gerät gelöscht haben, werden gelöscht. Sie können über mehrere Geräte hinweg synchronisieren.",
     "fr": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\n\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.",
-    "fr-CA": "La synchronisation met à jour votre téléphone et le serveur avec l'état le plus récent : les données ajoutées depuis la dernière synchro seront envoyées au serveur, les dernières données du serveur seront récupérées et les suppressions faites sur d'autres appareils seront appliquées. Vous pouvez synchroniser entre plusieurs appareils.\n\nAttention : lorsque vous êtes connecté, les données supprimées localement seront aussi supprimées sur les autres appareils lors de leur synchronisation.",
+    "fr-CA": "La synchronisation mettra à jour votre téléphone et le server au dernier état : les données que vous avez ajoutées depuis la dernière synchronisation seront envoyées sur le server, les dernières données du serveur seront récupérées et les effacements effectués sur d'autres périphériques seront répercutés. Vous pouvez réaliser des synchronisations entre plusieurs périphériques.\n\nAttention : Lorsque vous êtes authentifiés, les données que vous effacez localement seront effacées des autres périphériques lors de leur synchronisation.",
     "tr": "Senkronizasyon telefonunuzu ve sunucuyu en son duruma güncelleyecektir. Son senkronizasyondan bu yana değiştirdiğiniz veya eklediğiniz tüm yerel verileri sunucuya yükleyecek, en son sunucu verilerini indirecek ve başka bir cihazdan sildiğiniz tüm yerel verileri silecektir. Birden fazla cihaz arasında senkronizasyon yapabilirsiniz.",
     "zh-Hant-TW": "同步會將您的手機與伺服器更新至最新狀態：會將您自上次同步後修改或新增的本地資料上傳至伺服器、下載最新伺服器資料，並刪除您在其他裝置刪除的本地資料。您可以在多個裝置間同步。",
     "zh-Hans": "同步将更新手机和服务器至最新状态：上传本地修改，下载服务器最新数据，并同步删除操作。支持多端同步。"
@@ -8574,7 +8574,7 @@
   },
   "sync_restoreDataHelp": {
     "en": "If you wish to restore portfolio data that has been deleted from the server, click here to manage your account.",
-    "fr-CA": "Si vous souhaitez restaurer des données de portefeuille supprimées du serveur, touchez ici pour gérer votre compte.",
+    "fr-CA": "Si vous wish à restaurer portefeuille données que a been deleted de le server, cliquez ici à gérer votre account.",
     "de": "Wenn Sie Portfoliodaten wiederherstellen möchten, die vom Server gelöscht wurden, klicken Sie hier zur Verwaltung Ihres Kontos.",
     "tr": "Sunucudan silinen portföy verilerini geri yüklemek isterseniz, buraya tıklayarak hesabınızı yönetebilirsiniz.",
     "zh-Hant-TW": "若您希望恢復從伺服器刪除的投資組合資料，請點擊這裡管理您的帳戶。",
@@ -8617,7 +8617,7 @@
   },
   "sync_warningLocalDataDeletedMessage": {
     "en": "Are you sure you want to delete all your local portfolio data before syncing? This should only be done if you want to start over using the data stored on the server to avoid duplicates.",
-    "fr-CA": "Êtes-vous certain de vouloir supprimer toutes vos données de portefeuille locales avant la synchronisation ? Cela ne devrait être fait que si vous voulez repartir à zéro en utilisant les données stockées sur le serveur pour éviter les doublons.",
+    "fr-CA": "Sont vous sure vous want à supprimer tous votre local portefeuille données avant syncing? Ce should only be done si vous want à start over en utilisant le données stored activé le server à avoid duplicates.",
     "de": "Sind Sie sicher, dass Sie alle Ihre lokalen Portfoliodaten vor der Synchronisierung löschen wollen? Dies sollten Sie nur machen, wenn Sie mit den auf dem Server gespeicherten Daten neu beginnen wollen, um Duplikate zu vermeiden.",
     "tr": "Senkronizasyondan önce tüm yerel portföy verilerinizi silmek istediğinizden emin misiniz? Bu, yalnızca yinelemeleri önlemek için sunucuda depolanan verileri kullanarak baştan başlamak amacıyla yapılmalıdır.",
     "zh-Hant-TW": "您確定要在同步前刪除所有本地投資組合資料嗎？僅當您想用伺服器上的資料重新開始以避免重複時才建議這麼做。",
@@ -9464,7 +9464,7 @@
   "viewQuote_newTickerTapToChange": {
     "_formatted": false,
     "en": "Tap here to change to the new one",
-    "fr-CA": "Touchez ici pour passer au nouveau ticker",
+    "fr-CA": "Tap here à changement à le nouveau un",
     "de": "Tippen Sie hier, um zum neuen Ticker zu wechseln",
     "tr": "Yenisine geçmek için buraya dokunun",
     "zh-Hant-TW": "點此切換到新代碼",
@@ -9634,7 +9634,7 @@
     "en": "To configure widget settings (such as auto-refresh and font size), open the app, Settings, and go to the Widget section. If you resize the widget to be very small, be sure to visit widget settings to reduce the UI size so everything fits.\\n\\nPlease note that there are two types of widgets - overview and single portfolio. If you do not see your quotes, you may have meant to pin the single portfolio widget but pinned the overview widget.",
     "de": "Um Widget-Einstellungen (z.B. automatisches Aktualisieren und Schriftgröße) zu konfigurieren, öffnen Sie die App-Einstellungen und gehen zum Punkt Widget. Wenn Sie die Größe des Widgets auf sehr klein ändern, passen Sie auch die Widget-Einstellungen an, um die Größe der Benutzeroberfläche zu verringern, damit alles zu sehen ist.\\n\\nBitte beachten Sie, dass es zwei Arten von Widgets gibt - Übersicht und Einzelportfolio. Wenn Sie Ihre Bestände nicht sehen, haben sie möglicherweise das Übersichts-Widget angeheftet, müssen aber das Einzelportfolio-Widget erstellen",
     "fr": "Pour effectuer le réglage du widget (tels que la mise à jour automatique and la taille de la police), ouvrez l'application, Réglages and allez dans la rubrique Widget. Si vous redimensionnez le widget pour qu'il soit très petit, veillez à réduire la taille dans les réglages du widget pour que tout s'affiche correctement.",
-    "fr-CA": "Pour régler le widget (p. ex. mise à jour automatique et taille de police), ouvrez l'application, allez dans Réglages puis dans la section Widget. Si vous redimensionnez le widget à une très petite taille, pensez à réduire aussi la taille de police dans les réglages du widget pour que tout reste lisible.",
+    "fr-CA": "Pour effectuer le réglage du widget (tels que la mise à jour automatique and la taille de la police), ouvrez l'application, Réglages and allez dans la rubrique Widget. Si vous redimensionnez le widget pour qu'il soit très petit, veillez à réduire la taille dans les réglages du widget pour que tout s'affiche correctement.",
     "tr": "Widget ayarlarını (otomatik yenileme ve yazı tipi boyutu gibi) yapılandırmak için uygulamayı, Ayarlar'ı açın ve Widget bölümüne gidin. Widget'i çok küçük olacak şekilde yeniden boyutlandırırsanız, her şeyin sığması için kullanıcı arayüzü boyutunu küçültmek üzere widget ayarlarını ziyaret ettiğinizden emin olun.\\n\\nLütfen iki tür widget olduğunu unutmayın - genel bakış ve tek portföy. önerilerinizi göremiyorsanız, tek portföy widget'ini sabitlemek istemiş ancak genel bakış widget'ini sabitlemiş olabilirsiniz.",
     "zh-Hant-TW": "若要設定小工具（如自動重新整理和字體大小），請開啟應用程式，進入設定，然後前往小工具區塊。若您將小工具縮得很小，請務必到小工具設定中調整 UI 大小，確保所有內容都能顯示。\\n\\n請注意有兩種小工具－總覽和單一投資組合。如果您沒看到報價，可能是將總覽小工具釘選到桌面，請改用單一投資組合小工具。",
     "zh-Hans": "若要配置小组件设置（如自动刷新和字体大小），请打开应用，进入设置中的小组件部分。若将小组件缩得非常小，请务必调小 UI 尺寸。\\n\\n请注意，小组件分为“概览”和“单一组合”两种类型。"
