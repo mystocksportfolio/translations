@@ -436,36 +436,43 @@
   },
   "addQuoteTransaction_enterValidCommissionOrBlank": {
     "en": "Please enter a valid commission or leave it blank",
+    "de": "Bitte geben Sie eine gültige Provision ein oder lassen Sie das Feld leer",
     "zh-Hant-TW": "請輸入有效的手續費或留空",
     "zh-Hans": "请输入有效的佣金或留空"
   },
   "addQuoteTransaction_enterValidCostPerShareOrBlank": {
     "en": "Please enter a valid number for cost per share or leave it blank",
+    "de": "Bitte geben Sie einen gültigen Wert für die Kosten pro Aktie ein oder lassen Sie das Feld leer",
     "zh-Hant-TW": "請輸入有效的每股成本數字或留空",
     "zh-Hans": "请输入有效的每股成本或留空"
   },
   "addQuoteTransaction_enterValidExchangeRateAtPurchaseOrBlank": {
     "en": "Please enter a valid exchange rate at time of transaction or leave it blank",
+    "de": "Bitte geben Sie einen gültigen Wechselkurs zum Transaktionszeitpunkt ein oder lassen Sie das Feld leer",
     "zh-Hant-TW": "請輸入交易當時的匯率或留空",
     "zh-Hans": "请输入有效的交易时汇率或留空"
   },
   "addQuoteTransaction_enterValidSharesOrBlank": {
     "en": "Please enter a valid number of shares",
+    "de": "Bitte geben Sie eine gültige Anzahl an Aktien ein",
     "zh-Hant-TW": "請輸入有效的股票數量",
     "zh-Hans": "请输入有效的股数"
   },
   "addQuoteTransaction_enterValidSplit": {
     "en": "Please enter a valid split (for example, 2 for 1)",
+    "de": "Bitte geben Sie ein gültiges Split-Verhältnis ein (z. B. 2 zu 1)",
     "zh-Hant-TW": "請輸入有效的拆分比例（例如 2 對 1）",
     "zh-Hans": "请输入有效的拆分比例（例如 2:1）"
   },
   "addQuoteTransaction_enterValidTransactionTime": {
     "en": "Please enter a valid Transaction Time",
+    "de": "Bitte geben Sie eine gültige Transaktionszeit ein",
     "zh-Hant-TW": "請輸入有效的交易時間",
     "zh-Hans": "请输入有效的交易时间"
   },
   "addQuoteTransaction_enterValidTransactionTime_notFuture": {
     "en": "Transaction Date should not be in the future",
+    "de": "Das Transaktionsdatum darf nicht in der Zukunft liegen",
     "zh-Hant-TW": "交易日期不得為未來日期",
     "zh-Hans": "交易日期不能晚于今天"
   },
@@ -810,6 +817,7 @@
   },
   "alert_deleteTriggeredAlerts": {
     "en": "Delete triggered alerts",
+    "de": "Ausgelöste Kursalarme löschen",
     "tr": "Tetiklenen uyarıları sil",
     "zh-Hant-TW": "刪除已觸發的到價通知",
     "zh-Hans": "删除已触发的预警"
@@ -857,16 +865,19 @@
   "alert_freeUserLimit": {
     "_formatted": false,
     "en": "You can have a maximum of %s price alert(s) as a free user",
+    "de": "Als kostenloser Nutzer können Sie maximal %s Kursalarm(e) anlegen",
     "zh-Hant-TW": "您作為免費用戶最多可以設定 %s 個到價通知",
     "zh-Hans": "免费用户最多能设置 %s 个价格预警"
   },
   "alert_freeUserLimit_explain": {
     "en": "We check for triggered alerts in real time on our servers so they do not consume your device battery, but must pay cloud bills to keep them running. Alerts can be deleted from the manage alerts screen.",
+    "de": "Wir prüfen ausgelöste Kursalarme in Echtzeit auf unseren Servern, damit sie den Akku Ihres Geräts nicht belasten. Dafür müssen wir jedoch Cloud-Kosten tragen, um diesen Dienst bereitzustellen. Alarme können im Bildschirm „Alarme verwalten“ gelöscht werden.",
     "zh-Hant-TW": "我們會在伺服器上即時檢查觸發的到價通知，這樣就不會消耗您裝置的電力，但必須支付雲端費用以維持運作。您可以在「管理到價通知」畫面中刪除通知。",
     "zh-Hans": "我们在服务器上实时监控预警，因此不会消耗手机电量，但需要支付云端费用。您可以在预警管理页面删除旧预警。"
   },
   "alert_freeUserLimit_subscribe": {
     "en": "Subscribe to premium for an unlimited experience",
+    "de": "Abonnieren Sie Premium für ein unbegrenztes Erlebnis",
     "zh-Hant-TW": "訂閱 Premium，享受無限體驗",
     "zh-Hans": "订阅 Premium 享受无限预警体验"
   },
@@ -888,21 +899,25 @@
   },
   "alert_enterSymbolWithPrice": {
     "en": "Enter a symbol that shows a price",
+    "de": "Geben Sie ein Symbol ein, für das ein Kurs verfügbar ist",
     "zh-Hant-TW": "請輸入顯示價格的符號",
     "zh-Hans": "输入显示价格的代码"
   },
   "alert_stateTriggered": {
     "en": "Triggered (Inactive)",
+    "de": "Ausgelöst (Inaktiv)",
     "zh-Hant-TW": "已觸發（未啟用）",
     "zh-Hans": "已触发 (非活跃)"
   },
   "alert_stateDisabled": {
     "en": "Disabled",
+    "de": "Deaktiviert",
     "zh-Hant-TW": "已禁用",
     "zh-Hans": "已禁用"
   },
   "alert_stateUnknown": {
     "en": "Unknown",
+    "de": "Unbekannt",
     "zh-Hant-TW": "未知",
     "zh-Hans": "未知"
   },
@@ -1070,6 +1085,7 @@
   },
   "chart_includePrePostData": {
     "en": "Include Pre/Post Data",
+    "de": "Vor-/Nachbörsliche Daten einbeziehen",
     "zh-Hant-TW": "包含盤前／盤後資料",
     "zh-Hans": "包含盘前/盘后数据"
   },
@@ -1518,12 +1534,14 @@
   "csvImport_imported_customPrices": {
     "_formatted": false,
     "en": "Imported %s custom prices",
+    "de": "%s benutzerdefinierte Kurse importiert",
     "zh-Hant-TW": "匯入 %s 自訂價格",
     "zh-Hans": "已导入 %s 条自定义价格"
   },
   "csvImport_imported_priceAlerts": {
     "_formatted": false,
     "en": "Imported %s price alerts",
+    "de": "%s Kursalarme importiert",
     "zh-Hant-TW": "匯入 %s 到價通知",
     "zh-Hans": "已导入 %s 条价格预警"
   },
@@ -1716,6 +1734,7 @@
   },
   "generic_alerts": {
     "en": "Alerts",
+    "de": "Alarme",
     "es": "Alertas",
     "zh-Hant-TW": "到價通知",
     "zh-Hans": "预警提醒"
@@ -1784,6 +1803,7 @@
   },
   "generic_backgroundColor": {
     "en": "Background Color",
+    "de": "Hintergrundfarbe",
     "zh-Hant-TW": "背景顏色",
     "zh-Hans": "背景颜色"
   },
@@ -1823,16 +1843,19 @@
   },
   "generic_biometrics_disabled": {
     "en": "Could not use Face ID/Touch ID. Please check your phone settings to ensure the app has permission to use Biometrics.",
+    "de": "Face ID/Touch ID konnte nicht verwendet werden. Bitte prüfen Sie in den Telefoneinstellungen, ob die App die Berechtigung zur Nutzung biometrischer Daten hat.",
     "zh-Hant-TW": "無法使用 Face ID/Touch ID。請檢查您的手機設定，確保應用程式已獲得使用生物辨識的權限。",
     "zh-Hans": "无法使用生物识别。请检查手机设置确保应用已获得相应权限。"
   },
   "generic_biometrics_login": {
     "en": "Biometrics Login",
+    "de": "Biometrische Anmeldung",
     "zh-Hant-TW": "生物辨識登入",
     "zh-Hans": "生物识别登录"
   },
   "generic_biometrics_loginSubtitle": {
     "en": "Log in using your Biometrics credentials",
+    "de": "Mit Ihren biometrischen Anmeldedaten einloggen",
     "zh-Hant-TW": "使用您的生物識別憑證登入",
     "zh-Hans": "使用生物识别凭据登录"
   },
@@ -1863,6 +1886,7 @@
   },
   "generic_cancelled": {
     "en": "Cancelled",
+    "de": "Abgebrochen",
     "zh-Hant-TW": "已取消",
     "zh-Hans": "已取消"
   },
@@ -1974,11 +1998,13 @@
   },
   "generic_couldNotImportCSV": {
     "en": "Could not import CSV",
+    "de": "CSV konnte nicht importiert werden",
     "zh-Hant-TW": "無法匯入 CSV",
     "zh-Hans": "无法导入 CSV"
   },
   "generic_couldNotExportCSV": {
     "en": "Could not export CSV",
+    "de": "CSV konnte nicht exportiert werden",
     "zh-Hant-TW": "無法匯出 CSV",
     "zh-Hans": "无法导出 CSV"
   },
@@ -2076,6 +2102,7 @@
   },
   "generic_editAlert": {
     "en": "Edit Alert",
+    "de": "Alarm bearbeiten",
     "zh-Hant-TW": "編輯通知",
     "zh-Hans": "编辑预警"
   },
@@ -2138,11 +2165,13 @@
   },
   "generic_enterValidDate": {
     "en": "Please enter a valid date",
+    "de": "Bitte geben Sie ein gültiges Datum ein",
     "zh-Hant-TW": "請輸入有效的日期",
     "zh-Hans": "请输入有效的日期"
   },
   "generic_enterValidPrice": {
     "en": "Please enter a valid price",
+    "de": "Bitte geben Sie einen gültigen Kurs ein",
     "zh-Hant-TW": "請輸入有效的價格",
     "zh-Hans": "请输入有效的价格"
   },
@@ -2280,6 +2309,7 @@
   },
   "generic_failedToDelete": {
     "en": "Failed to delete",
+    "de": "Löschen fehlgeschlagen",
     "zh-Hant-TW": "刪除失敗",
     "zh-Hans": "删除失败"
   },
@@ -2302,6 +2332,7 @@
   },
   "generic_fontColor": {
     "en": "Font Color",
+    "de": "Schriftfarbe",
     "zh-Hant-TW": "字體顏色",
     "zh-Hans": "字体颜色"
   },
@@ -2564,26 +2595,31 @@
   },
   "generic_notifications_alarmsAndReminders_android_openSettingstoEnable": {
     "en": "Alarms & reminders are not enabled for this app. Please go into the app settings, Alarms & Reminders, and enable it. Open settings to enable it?",
+    "de": "Alarme & Erinnerungen sind für diese App nicht aktiviert. Bitte öffnen Sie die App-Einstellungen, dann Alarme & Erinnerungen, und aktivieren Sie die Funktion. Einstellungen öffnen, um sie zu aktivieren?",
     "zh-Hant-TW": "此應用程式尚未啟用鬧鐘與提醒功能。請前往應用程式設定中的『鬧鐘與提醒』，並將其啟用。是否要開啟設定以啟用？",
     "zh-Hans": "未启用闹钟和提醒权限。请前往设置启用。是否现在前往？"
   },
   "generic_notifications_android_openSettingsToEnable": {
     "en": "Notifications are not enabled for this app. Please go into the app settings, Notifications, and enable all alerts. Open settings to enable them?",
+    "de": "Benachrichtigungen sind für diese App nicht aktiviert. Bitte öffnen Sie die App-Einstellungen, dann Benachrichtigungen, und aktivieren Sie alle Hinweise. Einstellungen öffnen, um sie zu aktivieren?",
     "zh-Hant-TW": "此應用程式尚未啟用通知。請前往應用程式設定中的『通知』，並啟用所有提醒。是否要開啟設定以啟用？",
     "zh-Hans": "未启用通知权限。请前往设置启用。是否现在前往？"
   },
   "generic_notifications_portfolio_android_openSettingsToEnable": {
     "en": "Portfolio value notifications are not enabled for this app. Please go into the app settings, Notifications, and enable Portfolio value notifications. Open settings to enable them?",
+    "de": "Benachrichtigungen zum Portfoliowert sind für diese App nicht aktiviert. Bitte öffnen Sie die App-Einstellungen, dann Benachrichtigungen, und aktivieren Sie Benachrichtigungen zum Portfoliowert. Einstellungen öffnen, um sie zu aktivieren?",
     "zh-Hant-TW": "此應用程式尚未啟用投資組合價值通知。請前往應用程式設定中的『通知』，並啟用投資組合價值通知。是否要開啟設定以啟用？",
     "zh-Hans": "未启用持仓价值通知。请前往设置启用。是否现在前往？"
   },
   "generic_notificationsAreDisabled": {
     "en": "Notifications are disabled",
+    "de": "Benachrichtigungen sind deaktiviert",
     "zh-Hant-TW": "通知已被停用",
     "zh-Hans": "通知已禁用"
   },
   "generic_notificationsTapToEnable": {
     "en": "To enable notifications, please tap here",
+    "de": "Tippen Sie hier, um Benachrichtigungen zu aktivieren",
     "zh-Hant-TW": "如要啟用通知，請點擊此處",
     "zh-Hans": "点击此处启用通知"
   },
@@ -2634,6 +2670,7 @@
   "generic_notesLessThanCharacters": {
     "_formatted": false,
     "en": "Notes should be less than %s characters",
+    "de": "Notizen sollten weniger als %s Zeichen enthalten",
     "zh-Hant-TW": "備註應少於 %s 個字元",
     "zh-Hans": "备注应少于 %s 个字符"
   },
@@ -2755,6 +2792,7 @@
   "generic_placeholderAndColon": {
     "_formatted": false,
     "en": "%s:",
+    "de": "%s:",
     "es": "%s:",
     "fr": "%s :",
     "tr": "%s:",
@@ -2764,6 +2802,7 @@
   "generic_placeholderColonPlaceholder": {
     "_formatted": false,
     "en": "%s: %s",
+    "de": "%s: %s",
     "es": "%s: %s",
     "fr": "%s : %s",
     "tr": "%s: %s",
@@ -2774,17 +2813,20 @@
     "_formatted": false,
     "_translatable": false,
     "en": "%s %s",
+    "de": "%s %s",
     "zh-Hans": "%s %s"
   },
   "generic_placeholderAndPlaceholderNoSpace": {
     "_formatted": false,
     "_translatable": false,
     "en": "%s%s",
+    "de": "%s%s",
     "zh-Hans": "%s%s"
   },
   "generic_placeholderInBrackets": {
     "_formatted": false,
     "en": "(%s)",
+    "de": "(%s)",
     "es": "(%s)",
     "fr": "(%s)",
     "tr": "(%s)",
@@ -2803,6 +2845,7 @@
   "generic_pleaseWaitSecondsBeforeRetrying": {
     "_formatted": false,
     "en": "Please wait %s seconds before retrying",
+    "de": "Bitte warten Sie %s Sekunden, bevor Sie es erneut versuchen",
     "zh-Hant-TW": "請等待 %s 秒後再重試",
     "zh-Hans": "请等待 %s 秒后再重试"
   },
@@ -2905,6 +2948,7 @@
   "generic_remainingPlaceholder": {
     "_formatted": false,
     "en": "Remaining: %s",
+    "de": "Verbleibend: %s",
     "zh-Hant-TW": "剩餘：%s",
     "zh-Hans": "剩余：%s"
   },
@@ -2918,6 +2962,7 @@
   },
   "generic_requiresAppRestart": {
     "en": "Requires app restart",
+    "de": "Neustart der App erforderlich",
     "zh-Hant-TW": "需重新啟動",
     "zh-Hans": "需要重启应用"
   },
@@ -3134,6 +3179,7 @@
   },
   "generic_sponsoredContent": {
     "en": "Sponsored Content",
+    "de": "Gesponserte Inhalte",
     "es": "Contenido patrocinado",
     "zh-Hant-TW": "贊助內容",
     "zh-Hans": "赞助内容"
@@ -3141,6 +3187,7 @@
   "generic_storageUsedMB": {
     "_formatted": false,
     "en": "Current storage used: %s MB",
+    "de": "Derzeit belegter Speicher: %s MB",
     "zh-Hant-TW": "目前使用的儲存空間：%s MB",
     "zh-Hans": "当前存储占用：%s MB"
   },
@@ -3204,6 +3251,7 @@
   },
   "generic_time": {
     "en": "Time",
+    "de": "Uhrzeit",
     "zh-Hant-TW": "時間",
     "zh-Hans": "时间"
   },
@@ -3364,11 +3412,13 @@
   },
   "generic_usePasswordInstead": {
     "en": "Use password instead",
+    "de": "Stattdessen Passwort verwenden",
     "zh-Hant-TW": "改用密碼",
     "zh-Hans": "改用密码"
   },
   "generic_viewHelpGuideAndFAQ": {
     "en": "View Help Guide and FAQ",
+    "de": "Hilfeleitfaden und FAQ anzeigen",
     "zh-Hant-TW": "查看說明指南與常見問題",
     "zh-Hans": "查看帮助指南和 FAQ"
   },
@@ -3433,6 +3483,7 @@
   },
   "generic_yourAccountHasBeenDeleted": {
     "en": "Your account data has been deleted",
+    "de": "Ihre Kontodaten wurden gelöscht",
     "zh-Hant-TW": "您的帳號資料已刪除",
     "zh-Hans": "您的账户数据已删除"
   },
@@ -3770,6 +3821,7 @@
   },
   "passcode_enable": {
     "en": "Enable Passcode",
+    "de": "Passcode aktivieren",
     "zh-Hant-TW": "啟用通行碼",
     "zh-Hans": "启用密码"
   },
@@ -3919,6 +3971,7 @@
   },
   "portfolio_convertPriceToPence": {
     "en": "Convert price to pence",
+    "de": "Kurs in Pence umrechnen",
     "es": "Convertir precio a peniques",
     "zh-Hant-TW": "價格轉換為便士",
     "zh-Hans": "将价格转换为便士"
@@ -3976,6 +4029,7 @@
   },
   "portfolio_addTransactionToQuote": {
     "en": "To add transactions to an existing quote: Open the Quote Details page, switch to the Transactions tab, and click the add button.",
+    "de": "So fügen Sie einer bestehenden Position Transaktionen hinzu: Öffnen Sie die Detailseite der Position, wechseln Sie zum Reiter „Transaktionen“ und tippen Sie auf die Schaltfläche zum Hinzufügen.",
     "zh-Hant-TW": "若要為現有報價新增交易紀錄：請開啟報價詳情頁，切換至交易紀錄分頁，然後點擊新增按鈕。",
     "zh-Hans": "向现有股票添加交易：打开详情页，切换到交易选项卡，点击添加按钮。"
   },
@@ -4058,6 +4112,7 @@
   },
   "portfolio_allTimeChange_description": {
     "en": "P&L for realized + unrealized positions",
+    "de": "Gewinn/Verlust für realisierte + unrealisierte Positionen",
     "zh-Hant-TW": "已實現及未實現部位損益",
     "zh-Hans": "已实现 + 未实现持仓的盈亏"
   },
@@ -4183,6 +4238,7 @@
   },
   "portfolio_costBasis_description": {
     "en": "Cost basis for realized + unrealized positions",
+    "de": "Einstandswert für realisierte + unrealisierte Positionen",
     "zh-Hant-TW": "已實現與未實現部位的成本",
     "zh-Hans": "已实现 + 未实现持仓的成本"
   },
@@ -4259,12 +4315,14 @@
   },
   "portfolio_dataNotAvailableForExchange": {
     "en": "Data not available for this stock exchange",
+    "de": "Für diese Börse sind keine Daten verfügbar",
     "es": "Datos no disponibles para este mercado de valores",
     "zh-Hant-TW": "此交易所無資料",
     "zh-Hans": "该交易所数据暂不可用"
   },
   "portfolio_defaultAccountingMethod": {
     "en": "Default accounting method",
+    "de": "Standardmethode der Verbuchung",
     "zh-Hant-TW": "預設記帳方式",
     "zh-Hans": "默认会计方法"
   },
@@ -4382,6 +4440,7 @@
   },
   "portfolio_display_changeDisplayMode": {
     "en": "Change Display Mode",
+    "de": "Anzeigemodus ändern",
     "zh-Hant-TW": "切換顯示模式",
     "zh-Hans": "更改显示模式"
   },
@@ -4784,6 +4843,7 @@
   },
   "portfolio_moveCopyToPortfolioKeepCopy": {
     "en": "Keep copy in original portfolio",
+    "de": "Kopie im ursprünglichen Portfolio behalten",
     "zh-Hant-TW": "在原始投資組合中保留副本",
     "zh-Hans": "在原投资组合中保留副本"
   },
@@ -4993,22 +5053,26 @@
   },
   "portfolio_portfolioValue_description": {
     "en": "Value of unrealized positions",
+    "de": "Wert der unrealisierten Positionen",
     "zh-Hant-TW": "未實現部位價值",
     "zh-Hans": "未实现持仓的价值"
   },
   "portfolio_quote_exists": {
     "en": "Quote already exists in this portfolio. Merging with the existing one.",
+    "de": "Kurswert existiert bereits in diesem Portfolio. Wird mit dem vorhandenen Eintrag zusammengeführt.",
     "zh-Hant-TW": "此投資組合中已有該報價，將與現有報價合併。",
     "zh-Hans": "该代码已存在，正在合并数据。"
   },
   "portfolio_quote_exists_hidden": {
     "en": "Quote already exists in this portfolio but is hidden because you have chosen to hide closed quotes. Please edit the portfolio and disable hide closed quotes if you want to see the quote.",
+    "de": "Kurswert existiert bereits in diesem Portfolio, ist jedoch ausgeblendet, da Sie geschlossene Positionen ausblenden. Bitte bearbeiten Sie das Portfolio und deaktivieren Sie „Geschlossene Positionen ausblenden“, wenn Sie den Eintrag sehen möchten.",
     "zh-Hant-TW": "此投資組合中已有該報價，但因您選擇了隱藏已平倉報價而未顯示。如需查看該報價，請編輯投資組合並停用「隱藏已平倉報價」。",
     "zh-Hans": "该代码已存在但当前被隐藏。请在设置中关闭“隐藏已平仓代码”以查看。"
   },
   "portfolio_quote_for": {
     "_formatted": false,
     "en": "Quote for %s",
+    "de": "Kurs für %s",
     "zh-Hant-TW": "%s 的報價",
     "zh-Hans": "%s 的行情"
   },
@@ -5157,11 +5221,13 @@
   },
   "portfolio_split_from_help": {
     "en": "X Shares (i.e. 4)",
+    "de": "X Aktien (z. B. 4)",
     "zh-Hant-TW": "X 股（即 4 股）",
     "zh-Hans": "持有股数 (如 4)"
   },
   "portfolio_split_to_help": {
     "en": "For Y Shares (i.e. 1)",
+    "de": "Für Y Aktien (z. B. 1)",
     "zh-Hant-TW": "針對 Y 股（即 1 股）",
     "zh-Hans": "变为股数 (如 1)"
   },
@@ -5649,11 +5715,13 @@
   },
   "portfolio_top_daily_gainers_us": {
     "en": "Top Daily Gainers (US)",
+    "de": "Top-Tagesgewinner (USA)",
     "zh-Hant-TW": "美國每日漲幅榜",
     "zh-Hans": "每日涨幅榜 (美股)"
   },
   "portfolio_top_daily_losers_us": {
     "en": "Top Daily Losers (US)",
+    "de": "Top-Tagesverlierer (USA)",
     "zh-Hant-TW": "美國每日跌幅榜",
     "zh-Hans": "每日跌幅榜 (美股)"
   },
@@ -5803,6 +5871,7 @@
   },
   "portfolio_valueChangePercent": {
     "en": "Value Change %",
+    "de": "Wertänderung %",
     "es": "Porcentaje de Cambio en el Valor",
     "tr": "Değer Değişimi %",
     "zh-Hant-TW": "市值變動百分比",
@@ -5810,6 +5879,7 @@
   },
   "portfolio_valueChangePercent_description": {
     "en": "(All-Time Change) divided by (Cost Basis)",
+    "de": "(Gesamtveränderung) geteilt durch (Einstandswert)",
     "zh-Hant-TW": "（總損益）除以（成本）",
     "zh-Hans": "(累计涨跌) 除以 (成本基础)"
   },
@@ -5859,6 +5929,7 @@
   "portfolio_xrate": {
     "_comment": "Abbreviation for exchange rate",
     "en": "X-Rate",
+    "de": "Wechselkurs",
     "zh-Hant-TW": "匯率",
     "zh-Hans": "汇率"
   },
@@ -5888,6 +5959,7 @@
   },
   "portfolioHistorical_dataGranularity": {
     "en": "Data granularity:\\nWithin 1 year – 1 day\\n1–3 years - 1 week\\n3+ years - 1 month",
+    "de": "Datengranularität:\nInnerhalb von 1 Jahr – 1 Tag\n1–3 Jahre - 1 Woche\n3+ Jahre - 1 Monat",
     "zh-Hant-TW": "數據粒度：\\n一年以內 - 1 天\\n1 至 3 年 - 1 週\\n超過 3 年 - 1 個月",
     "zh-Hans": "数据粒度：\\n1年以内 - 1天\\n1至3年 - 1周\\n3年以上 - 1个月"
   },
@@ -6092,6 +6164,7 @@
   },
   "purchases_restricted": {
     "en": "Your account is not authorized to make payments. This might happen if, for example, you are part of a family plan that has restricted your ability to purchase content.",
+    "de": "Ihr Konto ist nicht für Zahlungen autorisiert. Dies kann z. B. passieren, wenn Sie Teil eines Familienabos sind, das den Kauf von Inhalten eingeschränkt hat.",
     "zh-Hant-TW": "您的帳戶無權進行付款。例如，若您是家庭共享方案的一員，且該方案限制了您的購買內容權限，可能會發生此情況。",
     "zh-Hans": "您的账号未被授权支付，可能是因为受限的家庭计划。"
   },
@@ -6106,6 +6179,7 @@
   },
   "purchases_stillLoading": {
     "en": "Premium products are still loading. Please check back later. If this issue persists, please check your internet connection or contact support.",
+    "de": "Premium-Produkte werden noch geladen. Bitte versuchen Sie es später erneut. Falls das Problem bestehen bleibt, prüfen Sie bitte Ihre Internetverbindung oder kontaktieren Sie den Support.",
     "zh-Hant-TW": "Premium 的內容仍在載入中。請稍後再試。如果問題持續，請檢查您的網路連線或聯絡客服。",
     "zh-Hans": "高级功能仍在加载中，请稍后查看。若问题持续请检查网络或联系支持。"
   },
@@ -6376,6 +6450,7 @@
   },
   "settingsDisplay_daylightFontColorHelp": {
     "en": "Adjusts font colors so they are easier to see under sunlight. Under dark theme, red font color changes to yellow.",
+    "de": "Passt die Schriftfarben an, damit sie bei Sonnenlicht besser sichtbar sind. Im dunklen Design wird die rote Schriftfarbe zu Gelb geändert.",
     "zh-Hant-TW": "調整字體顏色，使其在陽光下更容易閱讀。在深色主題下，紅色字體會變為黃色。",
     "zh-Hans": "调整字体颜色以便在阳光下查看。在深色主题下，红色会变为黄色。"
   },
@@ -6531,6 +6606,7 @@
   },
   "settingsDisplay_lastCalculatedPrice": {
     "en": "Last Calculated Price (Settings > Calculations > Holdings calculated using)",
+    "de": "Zuletzt berechneter Kurs (Einstellungen > Berechnungen > Bestände berechnet mit)",
     "zh-Hant-TW": "最後計算的金額（設定 > 金額計算 > 持股計算方式）",
     "zh-Hans": "最后计算价格 (设置 > 计算 > 持仓计算依据)"
   },
@@ -6578,11 +6654,13 @@
   },
   "settingsDisplay_extendedHoursLabel": {
     "en": "Label for extended hours",
+    "de": "Kennzeichnung für erweiterte Handelszeiten",
     "zh-Hant-TW": "延長交易時段標籤",
     "zh-Hans": "盘后交易标签"
   },
   "settingsDisplay_extendedHoursLabelHelp": {
     "en": "(For single line mode) Show an 'ext' label for extended prices on single line mode when extended hours are enabled",
+    "de": "(Für den Ein-Zeilen-Modus) Zeigt bei erweiterten Kursen im Ein-Zeilen-Modus ein „ext“-Label an, wenn erweiterte Handelszeiten aktiviert sind",
     "zh-Hant-TW": "（單行模式）啟用延長交易時段時，在單行模式中顯示「ext」標籤以標示延長交易時段價格",
     "zh-Hans": "在开启盘后交易的单行模式下显示 'ext' 标签"
   },
@@ -6866,6 +6944,7 @@
   },
   "settingsGeneral_openNewsExternalBrowserHelp": {
     "en": "Do not use the internal app web browser (Only recommended if internal browser is having issues)",
+    "de": "Den internen Webbrowser der App nicht verwenden (nur empfohlen, wenn der interne Browser Probleme hat)",
     "es": "No usar el navegador web interno de la app (Recomendado solo si el navegador interno tiene problemas)",
     "tr": "Dahili uygulama web tarayıcısını kullanmayın (Yalnızca dahili tarayıcıda sorun varsa önerilir)",
     "zh-Hant-TW": "不使用內建瀏覽器（僅當內建瀏覽器有問題時建議開啟）",
@@ -6983,6 +7062,7 @@
   },
   "settings_closedQuotes_show": {
     "en": "Show closed quotes",
+    "de": "Geschlossene Werte anzeigen",
     "zh-Hant-TW": "顯示已平倉報價",
     "zh-Hans": "显示已关闭行情"
   },
@@ -6997,6 +7077,7 @@
   },
   "settings_closedPositions_show": {
     "en": "Show closed positions",
+    "de": "Geschlossene Positionen anzeigen",
     "zh-Hant-TW": "顯示已平倉部位",
     "zh-Hans": "显示已平仓持仓"
   },
@@ -7343,11 +7424,13 @@
   },
   "settings_refreshIntervalHour1": {
     "en": "1 hour",
+    "de": "1 Stunde",
     "zh-Hant-TW": "1 小時",
     "zh-Hans": "1 小时"
   },
   "settings_refreshIntervalHour2": {
     "en": "2 hours",
+    "de": "2 Stunden",
     "zh-Hant-TW": "2 小時",
     "zh-Hans": "2 小时"
   },
@@ -7558,6 +7641,7 @@
   },
   "sync_errorOutOfSync": {
     "en": "Your client is out of sync. Please do a fresh sync (from the Server Sync screen) before trying to delete an item off the server, or sign out if you don't want to use server sync.",
+    "de": "Ihr Client ist nicht synchronisiert. Bitte führen Sie eine vollständige Synchronisierung durch (im Bereich Server-Synchronisierung), bevor Sie ein Element auf dem Server löschen, oder melden Sie sich ab, wenn Sie die Server-Synchronisierung nicht nutzen möchten.",
     "zh-Hant-TW": "您的用戶端資料不同步。請先在「伺服器同步」畫面進行全新同步，然後再嘗試從伺服器刪除項目；如果您不想使用伺服器同步，請登出。",
     "zh-Hans": "客户端不同步。请在删除服务器项前进行全新同步，或退出登录。"
   },
@@ -7587,6 +7671,7 @@
   },
   "sync_help_seeMore_ios": {
     "en": "To see more backup options, you can visit the app settings, backup.",
+    "de": "Um weitere Backup-Optionen zu sehen, öffnen Sie die App-Einstellungen > Backup.",
     "zh-Hant-TW": "如需更多備份選項，請至應用程式設定的備份頁面。",
     "zh-Hans": "查看更多备份选项，请访问设置中的备份。"
   },
@@ -7719,6 +7804,7 @@
   "userConsent_appTrackingDisabled_ios": {
     "_comment": "GDPR (EU) only",
     "en": "If you've disabled App Tracking via your phone settings (Privacy & Security > Tracking), then that setting will take precedence.",
+    "de": "Wenn Sie App-Tracking über Ihre Telefoneinstellungen deaktiviert haben (Datenschutz & Sicherheit > Tracking), hat diese Einstellung Vorrang.",
     "zh-Hant-TW": "如果你已在手機設定中（「隱私與安全性」>「追蹤」）停用 App 追蹤，那麼該設定將會優先生效。",
     "zh-Hans": "若您在手机设置中禁用了应用追踪，则该设置优先。"
   },
@@ -7924,6 +8010,7 @@
   },
   "viewQuoteStats_averageVolume": {
     "en": "Avg Vol (3m)",
+    "de": "Durchschn. Volumen (3 M.)",
     "fr": "Vol. moy.",
     "tr": "Ort Hacim(3A)",
     "zh-Hant-TW": "平均交易量-3個月",
@@ -8061,6 +8148,7 @@
   },
   "viewQuoteStats_forwardEPS": {
     "en": "Fwd EPS",
+    "de": "Erwartetes EPS",
     "fr": "BPA prévu",
     "tr": "HBK beklentisi",
     "zh-Hant-TW": "預估每股盈餘",
@@ -8076,6 +8164,7 @@
   },
   "viewQuoteStats_forwardPERatio": {
     "en": "Fwd P/E",
+    "de": "Erwartetes KGV",
     "fr": "PER prévu",
     "tr": "F/K Beklentisi",
     "zh-Hant-TW": "預估本益比",
@@ -8349,6 +8438,7 @@
   "viewQuoteTransactions_interestsFromHoldingFormatted": {
     "_formatted": false,
     "en": "Interests from %s",
+    "de": "Zinsen aus %s",
     "tr": "%s 'den faiz",
     "zh-Hant-TW": "來自 %s 的利息",
     "zh-Hans": "来自 %s 的利息"
@@ -8596,6 +8686,7 @@
   },
   "widget_configureHelp_troubleshooting": {
     "en": "You may need to whitelist the widget to run in the background. Please see https://help.mystocksportfolio.app/troubleshooting/widget-issues for steps on how to whitelist widgets and other troubleshooting steps.",
+    "de": "Möglicherweise müssen Sie das Widget für die Ausführung im Hintergrund auf die Zulassungsliste setzen. Unter https://help.mystocksportfolio.app/troubleshooting/widget-issues finden Sie Schritte zur Freigabe von Widgets und weitere Hinweise zur Fehlerbehebung.",
     "tr": "Widget'ın arka planda çalışması için güvenilir adresler listesine almanız gerekebilir. Widget'ların nasıl güvenilir adresler listesine alınacağı ve diğer sorun giderme adımları için lütfen https://help.mystocksportfolio.app/troubleshooting/widget-issues adresine bakın.",
     "zh-Hant-TW": "您可能需要將小工具加入白名單以允許其在背景執行。請參考 https://help.mystocksportfolio.app/troubleshooting/widget-issues 了解如何將小工具加入白名單及其他疑難排解步驟。",
     "zh-Hans": "您可能需要将小组件加入后台运行白名单。请参阅 help.mystocksportfolio.app 了解详细步骤。"
