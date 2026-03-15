@@ -12,7 +12,7 @@
     "es": "Español",
     "es-ES": "Español (ES)",
     "fr": "Français",
-    "fr-CA": "Français",
+    "fr-CA": "Français (CA)",
     "fr-FR": "Français (FR)",
     "it": "Italiano",
     "ja": "日本",
@@ -87,7 +87,7 @@
   },
   "accounting_highCostDescription": {
     "en": "Shares that were most expensive are sold first",
-    "fr-CA": "Actions que were most expensive sont sold premier",
+    "fr-CA": "Les actions les plus coûteuses sont vendues en premier",
     "de": "Die teuersten Aktien werden zuerst verkauft",
     "es": "Las acciones más caras se venden primero",
     "tr": "Önce en pahalı hisseler satılır",
