@@ -437,37 +437,44 @@
   "addQuoteTransaction_enterValidCommissionOrBlank": {
     "en": "Please enter a valid commission or leave it blank",
     "zh-Hant-TW": "請輸入有效的手續費或留空",
-    "zh-Hans": "请输入有效的佣金或留空"
+    "zh-Hans": "请输入有效的佣金或留空",
+    "tr": "Lütfen geçerli bir komisyon tutarı girin veya boş bırakın"
   },
   "addQuoteTransaction_enterValidCostPerShareOrBlank": {
     "en": "Please enter a valid number for cost per share or leave it blank",
     "zh-Hant-TW": "請輸入有效的每股成本數字或留空",
-    "zh-Hans": "请输入有效的每股成本或留空"
+    "zh-Hans": "请输入有效的每股成本或留空",
+    "tr": "Lütfen hisse başına maliyet için geçerli bir değer girin veya boş bırakın"
   },
   "addQuoteTransaction_enterValidExchangeRateAtPurchaseOrBlank": {
     "en": "Please enter a valid exchange rate at time of transaction or leave it blank",
     "zh-Hant-TW": "請輸入交易當時的匯率或留空",
-    "zh-Hans": "请输入有效的交易时汇率或留空"
+    "zh-Hans": "请输入有效的交易时汇率或留空",
+    "tr": "Lütfen işlem anındaki geçerli döviz kurunu girin veya boş bırakın"
   },
   "addQuoteTransaction_enterValidSharesOrBlank": {
     "en": "Please enter a valid number of shares",
     "zh-Hant-TW": "請輸入有效的股票數量",
-    "zh-Hans": "请输入有效的股数"
+    "zh-Hans": "请输入有效的股数",
+    "tr": "Lütfen geçerli bir lot/hisse adedi girin"
   },
   "addQuoteTransaction_enterValidSplit": {
     "en": "Please enter a valid split (for example, 2 for 1)",
     "zh-Hant-TW": "請輸入有效的拆分比例（例如 2 對 1）",
-    "zh-Hans": "请输入有效的拆分比例（例如 2:1）"
+    "zh-Hans": "请输入有效的拆分比例（例如 2:1）",
+    "tr": "Lütfen geçerli bir bölünme oranı girin (örneğin, 1'e 2)"
   },
   "addQuoteTransaction_enterValidTransactionTime": {
     "en": "Please enter a valid Transaction Time",
     "zh-Hant-TW": "請輸入有效的交易時間",
-    "zh-Hans": "请输入有效的交易时间"
+    "zh-Hans": "请输入有效的交易时间",
+    "tr": "Lütfen geçerli bir İşlem Saati girin"
   },
   "addQuoteTransaction_enterValidTransactionTime_notFuture": {
     "en": "Transaction Date should not be in the future",
     "zh-Hant-TW": "交易日期不得為未來日期",
-    "zh-Hans": "交易日期不能晚于今天"
+    "zh-Hans": "交易日期不能晚于今天",
+    "tr": "İşlem Tarihi gelecekte olamaz"
   },
   "addQuoteTransaction_enterValidDate": {
     "en": "Please enter a valid transaction date",
@@ -858,17 +865,20 @@
     "_formatted": false,
     "en": "You can have a maximum of %s price alert(s) as a free user",
     "zh-Hant-TW": "您作為免費用戶最多可以設定 %s 個到價通知",
-    "zh-Hans": "免费用户最多能设置 %s 个价格预警"
+    "zh-Hans": "免费用户最多能设置 %s 个价格预警",
+    "tr": "Ücretsiz kullanıcı olarak en fazla %s fiyat alarmı oluşturabilirsiniz"
   },
   "alert_freeUserLimit_explain": {
     "en": "We check for triggered alerts in real time on our servers so they do not consume your device battery, but must pay cloud bills to keep them running. Alerts can be deleted from the manage alerts screen.",
     "zh-Hant-TW": "我們會在伺服器上即時檢查觸發的到價通知，這樣就不會消耗您裝置的電力，但必須支付雲端費用以維持運作。您可以在「管理到價通知」畫面中刪除通知。",
-    "zh-Hans": "我们在服务器上实时监控预警，因此不会消耗手机电量，但需要支付云端费用。您可以在预警管理页面删除旧预警。"
+    "zh-Hans": "我们在服务器上实时监控预警，因此不会消耗手机电量，但需要支付云端费用。您可以在预警管理页面删除旧预警。",
+    "tr": "Tetiklenen alarmları gerçek zamanlı olarak sunucularımızda kontrol ediyoruz; böylece cihaz pilinizi tüketmeyiz, ancak bu hizmet için bulut maliyetlerimiz oluşur. Alarmları alarm yönetim ekranından silebilirsiniz."
   },
   "alert_freeUserLimit_subscribe": {
     "en": "Subscribe to premium for an unlimited experience",
     "zh-Hant-TW": "訂閱 Premium，享受無限體驗",
-    "zh-Hans": "订阅 Premium 享受无限预警体验"
+    "zh-Hans": "订阅 Premium 享受无限预警体验",
+    "tr": "Sınırsız kullanım için premium'a abone olun"
   },
   "alert_lessThan": {
     "de": "weniger als",
@@ -889,22 +899,26 @@
   "alert_enterSymbolWithPrice": {
     "en": "Enter a symbol that shows a price",
     "zh-Hant-TW": "請輸入顯示價格的符號",
-    "zh-Hans": "输入显示价格的代码"
+    "zh-Hans": "输入显示价格的代码",
+    "tr": "Fiyatı olan bir sembol girin"
   },
   "alert_stateTriggered": {
     "en": "Triggered (Inactive)",
     "zh-Hant-TW": "已觸發（未啟用）",
-    "zh-Hans": "已触发 (非活跃)"
+    "zh-Hans": "已触发 (非活跃)",
+    "tr": "Tetiklendi (Pasif)"
   },
   "alert_stateDisabled": {
     "en": "Disabled",
     "zh-Hant-TW": "已禁用",
-    "zh-Hans": "已禁用"
+    "zh-Hans": "已禁用",
+    "tr": "Devre dışı"
   },
   "alert_stateUnknown": {
     "en": "Unknown",
     "zh-Hant-TW": "未知",
-    "zh-Hans": "未知"
+    "zh-Hans": "未知",
+    "tr": "Bilinmiyor"
   },
   "alert_testNotificationReceived": {
     "en": "Test notification received",
@@ -1071,7 +1085,8 @@
   "chart_includePrePostData": {
     "en": "Include Pre/Post Data",
     "zh-Hant-TW": "包含盤前／盤後資料",
-    "zh-Hans": "包含盘前/盘后数据"
+    "zh-Hans": "包含盘前/盘后数据",
+    "tr": "Açılış Öncesi/Sonrası Verileri Dahil Et"
   },
   "chart_indicators": {
     "en": "Indicators",
@@ -1519,13 +1534,15 @@
     "_formatted": false,
     "en": "Imported %s custom prices",
     "zh-Hant-TW": "匯入 %s 自訂價格",
-    "zh-Hans": "已导入 %s 条自定义价格"
+    "zh-Hans": "已导入 %s 条自定义价格",
+    "tr": "%s adet özel fiyat içe aktarıldı"
   },
   "csvImport_imported_priceAlerts": {
     "_formatted": false,
     "en": "Imported %s price alerts",
     "zh-Hant-TW": "匯入 %s 到價通知",
-    "zh-Hans": "已导入 %s 条价格预警"
+    "zh-Hans": "已导入 %s 条价格预警",
+    "tr": "%s adet fiyat alarmı içe aktarıldı"
   },
   "csvImport_importedQuotesAndHoldingsFormatted": {
     "_formatted": false,
@@ -1718,7 +1735,8 @@
     "en": "Alerts",
     "es": "Alertas",
     "zh-Hant-TW": "到價通知",
-    "zh-Hans": "预警提醒"
+    "zh-Hans": "预警提醒",
+    "tr": "Alarmlar"
   },
   "generic_agreePrivacyPolicyAndTermsOfUse": {
     "_comment": "generic_termsOfUse and generic_privacyPolicy should exist in the translation",
@@ -1785,7 +1803,8 @@
   "generic_backgroundColor": {
     "en": "Background Color",
     "zh-Hant-TW": "背景顏色",
-    "zh-Hans": "背景颜色"
+    "zh-Hans": "背景颜色",
+    "tr": "Arka Plan Rengi"
   },
   "generic_backup": {
     "en": "Backup",
@@ -1824,17 +1843,20 @@
   "generic_biometrics_disabled": {
     "en": "Could not use Face ID/Touch ID. Please check your phone settings to ensure the app has permission to use Biometrics.",
     "zh-Hant-TW": "無法使用 Face ID/Touch ID。請檢查您的手機設定，確保應用程式已獲得使用生物辨識的權限。",
-    "zh-Hans": "无法使用生物识别。请检查手机设置确保应用已获得相应权限。"
+    "zh-Hans": "无法使用生物识别。请检查手机设置确保应用已获得相应权限。",
+    "tr": "Face ID/Touch ID kullanılamadı. Uygulamanın Biyometri kullanma izni olduğundan emin olmak için lütfen telefon ayarlarınızı kontrol edin."
   },
   "generic_biometrics_login": {
     "en": "Biometrics Login",
     "zh-Hant-TW": "生物辨識登入",
-    "zh-Hans": "生物识别登录"
+    "zh-Hans": "生物识别登录",
+    "tr": "Biyometrik Giriş"
   },
   "generic_biometrics_loginSubtitle": {
     "en": "Log in using your Biometrics credentials",
     "zh-Hant-TW": "使用您的生物識別憑證登入",
-    "zh-Hans": "使用生物识别凭据登录"
+    "zh-Hans": "使用生物识别凭据登录",
+    "tr": "Biyometrik kimlik bilgilerinizi kullanarak giriş yapın"
   },
   "generic_calculate": {
     "en": "Calculate",
@@ -1864,7 +1886,8 @@
   "generic_cancelled": {
     "en": "Cancelled",
     "zh-Hant-TW": "已取消",
-    "zh-Hans": "已取消"
+    "zh-Hans": "已取消",
+    "tr": "İptal edildi"
   },
   "generic_cant_send_email_error": {
     "en": "Can't send email. Please check that email has been set up properly on your device.",
@@ -1945,7 +1968,8 @@
     "es": "Contenido del informe",
     "de": "Inhalt des Berichts",
     "zh-Hant-TW": "報告內容",
-    "zh-Hans": "报告内容"
+    "zh-Hans": "报告内容",
+    "tr": "Rapor İçeriği"
   },
   "generic_continue": {
     "en": "Continue",
@@ -1975,12 +1999,14 @@
   "generic_couldNotImportCSV": {
     "en": "Could not import CSV",
     "zh-Hant-TW": "無法匯入 CSV",
-    "zh-Hans": "无法导入 CSV"
+    "zh-Hans": "无法导入 CSV",
+    "tr": "CSV içe aktarılamadı"
   },
   "generic_couldNotExportCSV": {
     "en": "Could not export CSV",
     "zh-Hant-TW": "無法匯出 CSV",
-    "zh-Hans": "无法导出 CSV"
+    "zh-Hans": "无法导出 CSV",
+    "tr": "CSV dışa aktarılamadı"
   },
   "generic_date": {
     "en": "Date",
@@ -2077,7 +2103,8 @@
   "generic_editAlert": {
     "en": "Edit Alert",
     "zh-Hant-TW": "編輯通知",
-    "zh-Hans": "编辑预警"
+    "zh-Hans": "编辑预警",
+    "tr": "Alarmı Düzenle"
   },
   "generic_email": {
     "en": "Email",
@@ -2139,12 +2166,14 @@
   "generic_enterValidDate": {
     "en": "Please enter a valid date",
     "zh-Hant-TW": "請輸入有效的日期",
-    "zh-Hans": "请输入有效的日期"
+    "zh-Hans": "请输入有效的日期",
+    "tr": "Lütfen geçerli bir tarih girin"
   },
   "generic_enterValidPrice": {
     "en": "Please enter a valid price",
     "zh-Hant-TW": "請輸入有效的價格",
-    "zh-Hans": "请输入有效的价格"
+    "zh-Hans": "请输入有效的价格",
+    "tr": "Lütfen geçerli bir fiyat girin"
   },
   "generic_enterValueBetween0And100": {
     "en": "Enter a value between 0–100",
@@ -2203,7 +2232,8 @@
     "es": "Parece que está ejecutando la aplicación desde su tarjeta SD / almacenamiento externo. Esto puede causar problemas con la carga de gráficos, widgets que no funcionan, fallos de autenticación, etc. Por favor, mueva la aplicación de nuevo al almacenamiento interno si experimenta problemas.",
     "de": "Es sieht so aus, als ob Sie die App von Ihrer SDCard/externem Speicher ausführen. Dies kann zu Problemen mit nicht geladenen Grafiken, nicht funktionierenden Widgets, fehlgeschlagener Authentifizierung usw. führen. Bitte verschieben Sie die App zurück auf den internen Speicher, wenn Sie Probleme haben.",
     "zh-Hant-TW": "您似乎正在從 SD 卡或外部儲存空間執行應用程式。這可能導致圖形無法載入、小工具無法運作、驗證失敗等問題。如遇問題，請將應用程式移回內部儲存空間。",
-    "zh-Hans": "您似乎正在从外部存储运行应用。这可能导致图形加载、小组件、身份验证等功能异常。如遇问题请将应用移回内部存储。"
+    "zh-Hans": "您似乎正在从外部存储运行应用。这可能导致图形加载、小组件、身份验证等功能异常。如遇问题请将应用移回内部存储。",
+    "tr": "Uygulamayı SD kart/harici depolamadan çalıştırıyor gibisiniz. Bu durum grafiklerin yüklenmemesi, widget'ların çalışmaması, kimlik doğrulamanın başarısız olması vb. sorunlara yol açabilir. Sorun yaşıyorsanız lütfen uygulamayı dahili depolamaya geri taşıyın."
   },
   "generic_errorWhileRestoring": {
     "en": "Error while restoring",
@@ -2281,7 +2311,8 @@
   "generic_failedToDelete": {
     "en": "Failed to delete",
     "zh-Hant-TW": "刪除失敗",
-    "zh-Hans": "删除失败"
+    "zh-Hans": "删除失败",
+    "tr": "Silme başarısız oldu"
   },
   "generic_failedToOpenBrowser": {
     "en": "Could not open your web browser. Please check that you have one installed.",
@@ -2303,7 +2334,8 @@
   "generic_fontColor": {
     "en": "Font Color",
     "zh-Hant-TW": "字體顏色",
-    "zh-Hans": "字体颜色"
+    "zh-Hans": "字体颜色",
+    "tr": "Yazı Rengi"
   },
   "generic_fontSize": {
     "de": "Schriftgröße",
@@ -2565,27 +2597,32 @@
   "generic_notifications_alarmsAndReminders_android_openSettingstoEnable": {
     "en": "Alarms & reminders are not enabled for this app. Please go into the app settings, Alarms & Reminders, and enable it. Open settings to enable it?",
     "zh-Hant-TW": "此應用程式尚未啟用鬧鐘與提醒功能。請前往應用程式設定中的『鬧鐘與提醒』，並將其啟用。是否要開啟設定以啟用？",
-    "zh-Hans": "未启用闹钟和提醒权限。请前往设置启用。是否现在前往？"
+    "zh-Hans": "未启用闹钟和提醒权限。请前往设置启用。是否现在前往？",
+    "tr": "Bu uygulama için Alarmlar ve hatırlatıcılar etkin değil. Lütfen uygulama ayarlarına girip Alarmlar ve hatırlatıcılar bölümünü etkinleştirin. Etkinleştirmek için ayarlar açılsın mı?"
   },
   "generic_notifications_android_openSettingsToEnable": {
     "en": "Notifications are not enabled for this app. Please go into the app settings, Notifications, and enable all alerts. Open settings to enable them?",
     "zh-Hant-TW": "此應用程式尚未啟用通知。請前往應用程式設定中的『通知』，並啟用所有提醒。是否要開啟設定以啟用？",
-    "zh-Hans": "未启用通知权限。请前往设置启用。是否现在前往？"
+    "zh-Hans": "未启用通知权限。请前往设置启用。是否现在前往？",
+    "tr": "Bu uygulama için bildirimler etkin değil. Lütfen uygulama ayarlarına girip Bildirimler bölümünden tüm uyarıları etkinleştirin. Etkinleştirmek için ayarlar açılsın mı?"
   },
   "generic_notifications_portfolio_android_openSettingsToEnable": {
     "en": "Portfolio value notifications are not enabled for this app. Please go into the app settings, Notifications, and enable Portfolio value notifications. Open settings to enable them?",
     "zh-Hant-TW": "此應用程式尚未啟用投資組合價值通知。請前往應用程式設定中的『通知』，並啟用投資組合價值通知。是否要開啟設定以啟用？",
-    "zh-Hans": "未启用持仓价值通知。请前往设置启用。是否现在前往？"
+    "zh-Hans": "未启用持仓价值通知。请前往设置启用。是否现在前往？",
+    "tr": "Bu uygulama için portföy değeri bildirimleri etkin değil. Lütfen uygulama ayarlarına girip Bildirimler bölümünden Portföy değeri bildirimlerini etkinleştirin. Etkinleştirmek için ayarlar açılsın mı?"
   },
   "generic_notificationsAreDisabled": {
     "en": "Notifications are disabled",
     "zh-Hant-TW": "通知已被停用",
-    "zh-Hans": "通知已禁用"
+    "zh-Hans": "通知已禁用",
+    "tr": "Bildirimler devre dışı"
   },
   "generic_notificationsTapToEnable": {
     "en": "To enable notifications, please tap here",
     "zh-Hant-TW": "如要啟用通知，請點擊此處",
-    "zh-Hans": "点击此处启用通知"
+    "zh-Hans": "点击此处启用通知",
+    "tr": "Bildirimleri etkinleştirmek için lütfen buraya dokunun"
   },
   "generic_notificationTestInProgress": {
     "en": "You should receive a test notification in a few seconds",
@@ -2635,7 +2672,8 @@
     "_formatted": false,
     "en": "Notes should be less than %s characters",
     "zh-Hant-TW": "備註應少於 %s 個字元",
-    "zh-Hans": "备注应少于 %s 个字符"
+    "zh-Hans": "备注应少于 %s 个字符",
+    "tr": "Notlar %s karakterden kısa olmalıdır"
   },
   "generic_ok": {
     "en": "OK",
@@ -2774,13 +2812,15 @@
     "_formatted": false,
     "_translatable": false,
     "en": "%s %s",
-    "zh-Hans": "%s %s"
+    "zh-Hans": "%s %s",
+    "tr": "%s %s"
   },
   "generic_placeholderAndPlaceholderNoSpace": {
     "_formatted": false,
     "_translatable": false,
     "en": "%s%s",
-    "zh-Hans": "%s%s"
+    "zh-Hans": "%s%s",
+    "tr": "%s%s"
   },
   "generic_placeholderInBrackets": {
     "_formatted": false,
@@ -2804,7 +2844,8 @@
     "_formatted": false,
     "en": "Please wait %s seconds before retrying",
     "zh-Hant-TW": "請等待 %s 秒後再重試",
-    "zh-Hans": "请等待 %s 秒后再重试"
+    "zh-Hans": "请等待 %s 秒后再重试",
+    "tr": "Lütfen yeniden denemeden önce %s saniye bekleyin"
   },
   "generic_premium": {
     "de": "Premium",
@@ -2906,7 +2947,8 @@
     "_formatted": false,
     "en": "Remaining: %s",
     "zh-Hant-TW": "剩餘：%s",
-    "zh-Hans": "剩余：%s"
+    "zh-Hans": "剩余：%s",
+    "tr": "Kalan: %s"
   },
   "generic_required": {
     "en": "Required",
@@ -2919,7 +2961,8 @@
   "generic_requiresAppRestart": {
     "en": "Requires app restart",
     "zh-Hant-TW": "需重新啟動",
-    "zh-Hans": "需要重启应用"
+    "zh-Hans": "需要重启应用",
+    "tr": "Uygulamanın yeniden başlatılması gerekir"
   },
   "generic_retry": {
     "en": "Retry",
@@ -3136,13 +3179,15 @@
     "en": "Sponsored Content",
     "es": "Contenido patrocinado",
     "zh-Hant-TW": "贊助內容",
-    "zh-Hans": "赞助内容"
+    "zh-Hans": "赞助内容",
+    "tr": "Sponsorlu İçerik"
   },
   "generic_storageUsedMB": {
     "_formatted": false,
     "en": "Current storage used: %s MB",
     "zh-Hant-TW": "目前使用的儲存空間：%s MB",
-    "zh-Hans": "当前存储占用：%s MB"
+    "zh-Hans": "当前存储占用：%s MB",
+    "tr": "Kullanılan depolama: %s MB"
   },
   "generic_subscribed": {
     "en": "Subscribed",
@@ -3205,7 +3250,8 @@
   "generic_time": {
     "en": "Time",
     "zh-Hant-TW": "時間",
-    "zh-Hans": "时间"
+    "zh-Hans": "时间",
+    "tr": "Saat"
   },
   "generic_time_justNow": {
     "en": "Just now",
@@ -3365,12 +3411,14 @@
   "generic_usePasswordInstead": {
     "en": "Use password instead",
     "zh-Hant-TW": "改用密碼",
-    "zh-Hans": "改用密码"
+    "zh-Hans": "改用密码",
+    "tr": "Bunun yerine şifre kullan"
   },
   "generic_viewHelpGuideAndFAQ": {
     "en": "View Help Guide and FAQ",
     "zh-Hant-TW": "查看說明指南與常見問題",
-    "zh-Hans": "查看帮助指南和 FAQ"
+    "zh-Hans": "查看帮助指南和 FAQ",
+    "tr": "Yardım Kılavuzu ve SSS'yi Görüntüle"
   },
   "generic_xOutOfX": {
     "_formatted": false,
@@ -3434,7 +3482,8 @@
   "generic_yourAccountHasBeenDeleted": {
     "en": "Your account data has been deleted",
     "zh-Hant-TW": "您的帳號資料已刪除",
-    "zh-Hans": "您的账户数据已删除"
+    "zh-Hans": "您的账户数据已删除",
+    "tr": "Hesap verileriniz silindi"
   },
   "help_announcements": {
     "de": "Mitteilungen",
@@ -3771,7 +3820,8 @@
   "passcode_enable": {
     "en": "Enable Passcode",
     "zh-Hant-TW": "啟用通行碼",
-    "zh-Hans": "启用密码"
+    "zh-Hans": "启用密码",
+    "tr": "Parolayı Etkinleştir"
   },
   "password_confirmPassword": {
     "en": "Confirm Password",
@@ -3921,7 +3971,8 @@
     "en": "Convert price to pence",
     "es": "Convertir precio a peniques",
     "zh-Hant-TW": "價格轉換為便士",
-    "zh-Hans": "将价格转换为便士"
+    "zh-Hans": "将价格转换为便士",
+    "tr": "Fiyatı pence cinsine dönüştür"
   },
   "portfolioAllocations_groupInOthers": {
     "en": "Group holding in 'Others' when less than % of total",
@@ -3977,7 +4028,8 @@
   "portfolio_addTransactionToQuote": {
     "en": "To add transactions to an existing quote: Open the Quote Details page, switch to the Transactions tab, and click the add button.",
     "zh-Hant-TW": "若要為現有報價新增交易紀錄：請開啟報價詳情頁，切換至交易紀錄分頁，然後點擊新增按鈕。",
-    "zh-Hans": "向现有股票添加交易：打开详情页，切换到交易选项卡，点击添加按钮。"
+    "zh-Hans": "向现有股票添加交易：打开详情页，切换到交易选项卡，点击添加按钮。",
+    "tr": "Mevcut bir kotasyona işlem eklemek için: Kotasyon Detayları sayfasını açın, İşlemler sekmesine geçin ve ekle düğmesine tıklayın."
   },
   "portfolio_addingToPortfolio": {
     "en": "Adding to portfolio…",
@@ -4059,7 +4111,8 @@
   "portfolio_allTimeChange_description": {
     "en": "P&L for realized + unrealized positions",
     "zh-Hant-TW": "已實現及未實現部位損益",
-    "zh-Hans": "已实现 + 未实现持仓的盈亏"
+    "zh-Hans": "已实现 + 未实现持仓的盈亏",
+    "tr": "Gerçekleşmiş + gerçekleşmemiş pozisyonlar için K/Z"
   },
   "portfolio_allTimeChangePercent": {
     "en": "All-Time Change Percent",
@@ -4184,7 +4237,8 @@
   "portfolio_costBasis_description": {
     "en": "Cost basis for realized + unrealized positions",
     "zh-Hant-TW": "已實現與未實現部位的成本",
-    "zh-Hans": "已实现 + 未实现持仓的成本"
+    "zh-Hans": "已实现 + 未实现持仓的成本",
+    "tr": "Gerçekleşmiş + gerçekleşmemiş pozisyonlar için maliyet esası"
   },
   "portfolio_costPerShare": {
     "en": "Cost Per Share",
@@ -4261,12 +4315,14 @@
     "en": "Data not available for this stock exchange",
     "es": "Datos no disponibles para este mercado de valores",
     "zh-Hant-TW": "此交易所無資料",
-    "zh-Hans": "该交易所数据暂不可用"
+    "zh-Hans": "该交易所数据暂不可用",
+    "tr": "Bu borsa için veri mevcut değil"
   },
   "portfolio_defaultAccountingMethod": {
     "en": "Default accounting method",
     "zh-Hant-TW": "預設記帳方式",
-    "zh-Hans": "默认会计方法"
+    "zh-Hans": "默认会计方法",
+    "tr": "Varsayılan muhasebe yöntemi"
   },
   "portfolio_defaultCurrency": {
     "en": "Default",
@@ -4383,7 +4439,8 @@
   "portfolio_display_changeDisplayMode": {
     "en": "Change Display Mode",
     "zh-Hant-TW": "切換顯示模式",
-    "zh-Hans": "更改显示模式"
+    "zh-Hans": "更改显示模式",
+    "tr": "Görüntüleme Modunu Değiştir"
   },
   "portfolio_displayLocalCurrency": {
     "en": "Display local currency instead of home currency for:",
@@ -4785,7 +4842,8 @@
   "portfolio_moveCopyToPortfolioKeepCopy": {
     "en": "Keep copy in original portfolio",
     "zh-Hant-TW": "在原始投資組合中保留副本",
-    "zh-Hans": "在原投资组合中保留副本"
+    "zh-Hans": "在原投资组合中保留副本",
+    "tr": "Kopyayı orijinal portföyde tut"
   },
   "portfolio_movingToPortfolio": {
     "en": "Moving to portfolio…",
@@ -4994,23 +5052,27 @@
   "portfolio_portfolioValue_description": {
     "en": "Value of unrealized positions",
     "zh-Hant-TW": "未實現部位價值",
-    "zh-Hans": "未实现持仓的价值"
+    "zh-Hans": "未实现持仓的价值",
+    "tr": "Gerçekleşmemiş pozisyonların değeri"
   },
   "portfolio_quote_exists": {
     "en": "Quote already exists in this portfolio. Merging with the existing one.",
     "zh-Hant-TW": "此投資組合中已有該報價，將與現有報價合併。",
-    "zh-Hans": "该代码已存在，正在合并数据。"
+    "zh-Hans": "该代码已存在，正在合并数据。",
+    "tr": "Kotasyon bu portföyde zaten var. Mevcut olanla birleştiriliyor."
   },
   "portfolio_quote_exists_hidden": {
     "en": "Quote already exists in this portfolio but is hidden because you have chosen to hide closed quotes. Please edit the portfolio and disable hide closed quotes if you want to see the quote.",
     "zh-Hant-TW": "此投資組合中已有該報價，但因您選擇了隱藏已平倉報價而未顯示。如需查看該報價，請編輯投資組合並停用「隱藏已平倉報價」。",
-    "zh-Hans": "该代码已存在但当前被隐藏。请在设置中关闭“隐藏已平仓代码”以查看。"
+    "zh-Hans": "该代码已存在但当前被隐藏。请在设置中关闭“隐藏已平仓代码”以查看。",
+    "tr": "Kotasyon bu portföyde zaten var ancak kapalı kotasyonları gizleme seçeneğini etkinleştirdiğiniz için gizli. Kotasyonu görmek için portföyü düzenleyip kapalı kotasyonları gizlemeyi kapatın."
   },
   "portfolio_quote_for": {
     "_formatted": false,
     "en": "Quote for %s",
     "zh-Hant-TW": "%s 的報價",
-    "zh-Hans": "%s 的行情"
+    "zh-Hans": "%s 的行情",
+    "tr": "%s için kotasyon"
   },
   "portfolio_quotes": {
     "en": "Quotes",
@@ -5158,12 +5220,14 @@
   "portfolio_split_from_help": {
     "en": "X Shares (i.e. 4)",
     "zh-Hant-TW": "X 股（即 4 股）",
-    "zh-Hans": "持有股数 (如 4)"
+    "zh-Hans": "持有股数 (如 4)",
+    "tr": "X Hisse (örn. 4)"
   },
   "portfolio_split_to_help": {
     "en": "For Y Shares (i.e. 1)",
     "zh-Hant-TW": "針對 Y 股（即 1 股）",
-    "zh-Hans": "变为股数 (如 1)"
+    "zh-Hans": "变为股数 (如 1)",
+    "tr": "Y Hisse İçin (örn. 1)"
   },
   "portfolio_splitsHelp": {
     "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4.",
@@ -5636,7 +5700,8 @@
     "es": "Esta es una posición de efectivo en %s",
     "de": "Dies ist ein %s Bargeldbestand",
     "zh-Hant-TW": "這是 %s 現金部位",
-    "zh-Hans": "这是 %s 现金头寸"
+    "zh-Hans": "这是 %s 现金头寸",
+    "tr": "Bu bir %s nakit pozisyonudur"
   },
   "portfolio_ticker": {
     "en": "Ticker",
@@ -5650,12 +5715,14 @@
   "portfolio_top_daily_gainers_us": {
     "en": "Top Daily Gainers (US)",
     "zh-Hant-TW": "美國每日漲幅榜",
-    "zh-Hans": "每日涨幅榜 (美股)"
+    "zh-Hans": "每日涨幅榜 (美股)",
+    "tr": "Günün En Çok Yükselenleri (ABD)"
   },
   "portfolio_top_daily_losers_us": {
     "en": "Top Daily Losers (US)",
     "zh-Hant-TW": "美國每日跌幅榜",
-    "zh-Hans": "每日跌幅榜 (美股)"
+    "zh-Hans": "每日跌幅榜 (美股)",
+    "tr": "Günün En Çok Düşenleri (ABD)"
   },
   "portfolio_top_daily_movers_us": {
     "en": "Top Daily Movers (US)",
@@ -5811,7 +5878,8 @@
   "portfolio_valueChangePercent_description": {
     "en": "(All-Time Change) divided by (Cost Basis)",
     "zh-Hant-TW": "（總損益）除以（成本）",
-    "zh-Hans": "(累计涨跌) 除以 (成本基础)"
+    "zh-Hans": "(累计涨跌) 除以 (成本基础)",
+    "tr": "(Tüm Zamanlar Değişim) / (Maliyet Esası)"
   },
   "portfolio_valueAndCost": {
     "en": "Value/Cost",
@@ -5860,7 +5928,8 @@
     "_comment": "Abbreviation for exchange rate",
     "en": "X-Rate",
     "zh-Hant-TW": "匯率",
-    "zh-Hans": "汇率"
+    "zh-Hans": "汇率",
+    "tr": "Kur"
   },
   "portfolio_ytdStart": {
     "en": "YTD Start",
@@ -5889,7 +5958,8 @@
   "portfolioHistorical_dataGranularity": {
     "en": "Data granularity:\\nWithin 1 year – 1 day\\n1–3 years - 1 week\\n3+ years - 1 month",
     "zh-Hant-TW": "數據粒度：\\n一年以內 - 1 天\\n1 至 3 年 - 1 週\\n超過 3 年 - 1 個月",
-    "zh-Hans": "数据粒度：\\n1年以内 - 1天\\n1至3年 - 1周\\n3年以上 - 1个月"
+    "zh-Hans": "数据粒度：\\n1年以内 - 1天\\n1至3年 - 1周\\n3年以上 - 1个月",
+    "tr": "Veri ayrıntı düzeyi:\n1 yıl içinde – 1 gün\n1–3 yıl - 1 hafta\n3+ yıl - 1 ay"
   },
   "portfolioHistorical_disableDataGranularity": {
     "en": "Calculate 1 day granularity for 1+ year old data (slow)",
@@ -6093,7 +6163,8 @@
   "purchases_restricted": {
     "en": "Your account is not authorized to make payments. This might happen if, for example, you are part of a family plan that has restricted your ability to purchase content.",
     "zh-Hant-TW": "您的帳戶無權進行付款。例如，若您是家庭共享方案的一員，且該方案限制了您的購買內容權限，可能會發生此情況。",
-    "zh-Hans": "您的账号未被授权支付，可能是因为受限的家庭计划。"
+    "zh-Hans": "您的账号未被授权支付，可能是因为受限的家庭计划。",
+    "tr": "Hesabınız ödeme yapma yetkisine sahip değil. Bu durum, örneğin içerik satın alma yetkinizi kısıtlayan bir aile planında olmanızdan kaynaklanabilir."
   },
   "purchases_signInToSyncPurchases": {
     "en": "Please sign in with your Google account so we can remember your purchases and make them available on your other Android devices.",
@@ -6107,7 +6178,8 @@
   "purchases_stillLoading": {
     "en": "Premium products are still loading. Please check back later. If this issue persists, please check your internet connection or contact support.",
     "zh-Hant-TW": "Premium 的內容仍在載入中。請稍後再試。如果問題持續，請檢查您的網路連線或聯絡客服。",
-    "zh-Hans": "高级功能仍在加载中，请稍后查看。若问题持续请检查网络或联系支持。"
+    "zh-Hans": "高级功能仍在加载中，请稍后查看。若问题持续请检查网络或联系支持。",
+    "tr": "Premium ürünler hâlâ yükleniyor. Lütfen daha sonra tekrar kontrol edin. Sorun devam ederse internet bağlantınızı kontrol edin veya destekle iletişime geçin."
   },
   "purchases_subscriptionActive": {
     "en": "Subscription is active\\n\\nThanks for subscribing!",
@@ -6377,7 +6449,8 @@
   "settingsDisplay_daylightFontColorHelp": {
     "en": "Adjusts font colors so they are easier to see under sunlight. Under dark theme, red font color changes to yellow.",
     "zh-Hant-TW": "調整字體顏色，使其在陽光下更容易閱讀。在深色主題下，紅色字體會變為黃色。",
-    "zh-Hans": "调整字体颜色以便在阳光下查看。在深色主题下，红色会变为黄色。"
+    "zh-Hans": "调整字体颜色以便在阳光下查看。在深色主题下，红色会变为黄色。",
+    "tr": "Yazı renklerini, güneş ışığında daha kolay görülecek şekilde ayarlar. Koyu temada kırmızı yazı rengi sarıya dönüşür."
   },
   "settingsDisplay_decimalPlaces0": {
     "en": "0 decimal places",
@@ -6532,7 +6605,8 @@
   "settingsDisplay_lastCalculatedPrice": {
     "en": "Last Calculated Price (Settings > Calculations > Holdings calculated using)",
     "zh-Hant-TW": "最後計算的金額（設定 > 金額計算 > 持股計算方式）",
-    "zh-Hans": "最后计算价格 (设置 > 计算 > 持仓计算依据)"
+    "zh-Hans": "最后计算价格 (设置 > 计算 > 持仓计算依据)",
+    "tr": "Son Hesaplanan Fiyat (Ayarlar > Hesaplamalar > Pozisyonlar şu şekilde hesaplanır)"
   },
   "settingsDisplay_lastTradedPrice": {
     "en": "Last Open Market Price",
@@ -6579,12 +6653,14 @@
   "settingsDisplay_extendedHoursLabel": {
     "en": "Label for extended hours",
     "zh-Hant-TW": "延長交易時段標籤",
-    "zh-Hans": "盘后交易标签"
+    "zh-Hans": "盘后交易标签",
+    "tr": "Uzatılmış seans etiketi"
   },
   "settingsDisplay_extendedHoursLabelHelp": {
     "en": "(For single line mode) Show an 'ext' label for extended prices on single line mode when extended hours are enabled",
     "zh-Hant-TW": "（單行模式）啟用延長交易時段時，在單行模式中顯示「ext」標籤以標示延長交易時段價格",
-    "zh-Hans": "在开启盘后交易的单行模式下显示 'ext' 标签"
+    "zh-Hans": "在开启盘后交易的单行模式下显示 'ext' 标签",
+    "tr": "(Tek satır modu için) Uzatılmış seans etkin olduğunda tek satır modunda uzatılmış fiyatlar için 'ext' etiketi göster"
   },
   "settingsDisplay_miniMode": {
     "en": "Single-line mode",
@@ -6984,7 +7060,8 @@
   "settings_closedQuotes_show": {
     "en": "Show closed quotes",
     "zh-Hant-TW": "顯示已平倉報價",
-    "zh-Hans": "显示已关闭行情"
+    "zh-Hans": "显示已关闭行情",
+    "tr": "Kapalı kotasyonları göster"
   },
   "settings_closedPositions_hide": {
     "en": "Hide closed positions",
@@ -6998,7 +7075,8 @@
   "settings_closedPositions_show": {
     "en": "Show closed positions",
     "zh-Hant-TW": "顯示已平倉部位",
-    "zh-Hans": "显示已平仓持仓"
+    "zh-Hans": "显示已平仓持仓",
+    "tr": "Kapalı pozisyonları göster"
   },
   "settings_couldNotStartEmailApp": {
     "en": "Could not start email app. Have you set up email on your device?",
@@ -7344,12 +7422,14 @@
   "settings_refreshIntervalHour1": {
     "en": "1 hour",
     "zh-Hant-TW": "1 小時",
-    "zh-Hans": "1 小时"
+    "zh-Hans": "1 小时",
+    "tr": "1 saat"
   },
   "settings_refreshIntervalHour2": {
     "en": "2 hours",
     "zh-Hant-TW": "2 小時",
-    "zh-Hans": "2 小时"
+    "zh-Hans": "2 小时",
+    "tr": "2 saat"
   },
   "settings_refreshIntervalSeconds10": {
     "de": "10 Sekunden",
@@ -7559,7 +7639,8 @@
   "sync_errorOutOfSync": {
     "en": "Your client is out of sync. Please do a fresh sync (from the Server Sync screen) before trying to delete an item off the server, or sign out if you don't want to use server sync.",
     "zh-Hant-TW": "您的用戶端資料不同步。請先在「伺服器同步」畫面進行全新同步，然後再嘗試從伺服器刪除項目；如果您不想使用伺服器同步，請登出。",
-    "zh-Hans": "客户端不同步。请在删除服务器项前进行全新同步，或退出登录。"
+    "zh-Hans": "客户端不同步。请在删除服务器项前进行全新同步，或退出登录。",
+    "tr": "İstemciniz senkron dışı. Sunucudan bir öğe silmeyi denemeden önce lütfen yeni bir senkronizasyon yapın (Sunucu Senkronizasyonu ekranından) veya sunucu senkronizasyonunu kullanmak istemiyorsanız oturumu kapatın."
   },
   "sync_errorPleaseTrySignOut": {
     "en": "Sync error. If the problem persists, try signing out of Google and signing back in.",
@@ -7588,7 +7669,8 @@
   "sync_help_seeMore_ios": {
     "en": "To see more backup options, you can visit the app settings, backup.",
     "zh-Hant-TW": "如需更多備份選項，請至應用程式設定的備份頁面。",
-    "zh-Hans": "查看更多备份选项，请访问设置中的备份。"
+    "zh-Hans": "查看更多备份选项，请访问设置中的备份。",
+    "tr": "Daha fazla yedekleme seçeneğini görmek için uygulama ayarlarında yedekleme bölümünü ziyaret edebilirsiniz."
   },
   "sync_inProgress": {
     "en": "Synchronizing Portfolios with Server…",
@@ -7720,7 +7802,8 @@
     "_comment": "GDPR (EU) only",
     "en": "If you've disabled App Tracking via your phone settings (Privacy & Security > Tracking), then that setting will take precedence.",
     "zh-Hant-TW": "如果你已在手機設定中（「隱私與安全性」>「追蹤」）停用 App 追蹤，那麼該設定將會優先生效。",
-    "zh-Hans": "若您在手机设置中禁用了应用追踪，则该设置优先。"
+    "zh-Hans": "若您在手机设置中禁用了应用追踪，则该设置优先。",
+    "tr": "Telefon ayarlarınızdan (Gizlilik ve Güvenlik > Takip) Uygulama Takibi'ni devre dışı bıraktıysanız, bu ayar öncelikli olur."
   },
   "userConsent_consentToAdvertising": {
     "_comment": "GDPR (EU) only",
