@@ -4790,7 +4790,7 @@
     "de": "Konzernbeteiligung an 'Anderen', wenn weniger als % des Gesamtbetrags",
     "fr": "Grouper les position sous 'Autres' quand ils représentent moins que % du total",
     "fr-CA": "Grouper les position sous 'Autres' quand ils représentent moins que % du total",
-    "tr": "Toplamın %'sinden az ise varlıkların 'Diğerleri\\ grubundaki payı",
+    "tr": "Toplamın %'sinden az ise varlıkların 'Diğerleri' grubundaki payı",
     "zh-Hant-TW": "低於此百分比的持股將會歸類到'其他'",
     "zh-Hans": "占比低于 % 时归类为“其他”"
   },
@@ -7442,7 +7442,7 @@
     "de": "Das Abonnement ist aktiv.\\n\\nVielen Dank für Ihr Abonnement!",
     "fr": "La souscription est active\\n\\nMerci d'avoir souscrit !",
     "fr-CA": "La souscription est active\\n\\nMerci d'avoir souscrit !",
-    "tr": "Abonelik aktif\\n\\Abone olduğunuz için teşekkürler!",
+    "tr": "Abonelik aktif\\n\\nAbone olduğunuz için teşekkürler!",
     "zh-Hant-TW": "訂閱已啟用\\n\\n感謝您的訂閱！",
     "zh-Hans": "订阅已激活\\n\\n感谢您的订阅！"
   },
