@@ -1920,6 +1920,46 @@
     "zh-Hant-TW": "無法下載 CSV 檔案",
     "zh-Hans": "无法下载 CSV 文件"
   },
+  "drive_couldNotLaunchPickerApp": {
+    "en": "Could not launch Google Drive/Files app. Do you have it installed?",
+    "es": "No se pudo iniciar la app Google Drive/Files. ¿La tiene instalada?",
+    "de": "Die Google Drive/Files-App konnte nicht gestartet werden. Ist sie installiert?",
+    "fr": "Impossible de lancer l'application Google Drive/Files. L'avez-vous installée ?",
+    "fr-CA": "Impossible de lancer l'application Google Drive/Files. L'avez-vous installée ?",
+    "tr": "Google Drive/Files uygulaması başlatılamadı. Yüklü mü?",
+    "zh-Hant-TW": "無法啟動 Google Drive/Files 應用程式。您是否已安裝？",
+    "zh-Hans": "无法启动 Google Drive/Files 应用。您是否已安装？"
+  },
+  "drive_enableGoogleDriveSignInPrompt": {
+    "en": "Enable Google Drive/Files app by signing into your Google account?",
+    "es": "¿Desea habilitar la app Google Drive/Files iniciando sesión en su cuenta de Google?",
+    "de": "Möchten Sie die Google Drive/Files-App aktivieren, indem Sie sich mit Ihrem Google-Konto anmelden?",
+    "fr": "Activer l'application Google Drive/Files en vous connectant à votre compte Google ?",
+    "fr-CA": "Activer l'application Google Drive/Files en vous connectant à votre compte Google ?",
+    "tr": "Google hesabınızda oturum açarak Google Drive/Files uygulamasını etkinleştirmek ister misiniz?",
+    "zh-Hant-TW": "要透過登入您的 Google 帳戶來啟用 Google Drive/Files 應用程式嗎？",
+    "zh-Hans": "要通过登录您的 Google 账号来启用 Google Drive/Files 应用吗？"
+  },
+  "drive_exportGoogleDriveHelp": {
+    "en": "If you export to Google Drive, your files will be accessible from your computer at https://drive.google.com",
+    "es": "Si exporta a Google Drive, podrá acceder a sus archivos desde su computadora en https://drive.google.com",
+    "de": "Wenn Sie nach Google Drive exportieren, sind Ihre Dateien auf Ihrem Computer unter https://drive.google.com verfügbar",
+    "fr": "Si vous exportez vers Google Drive, vos fichiers seront accessibles depuis votre ordinateur à l'adresse https://drive.google.com",
+    "fr-CA": "Si vous exportez vers Google Drive, vos fichiers seront accessibles depuis votre ordinateur à l'adresse https://drive.google.com",
+    "tr": "Google Drive'a dışa aktarırsanız, dosyalarınıza bilgisayarınızdan https://drive.google.com adresinden erişebilirsiniz",
+    "zh-Hant-TW": "若匯出至 Google Drive，您可從電腦端於 https://drive.google.com 存取這些檔案",
+    "zh-Hans": "若导出到 Google Drive，可从电脑访问这些文件：https://drive.google.com"
+  },
+  "drive_pickerSideMenuHelp": {
+    "en": "When using the Google Drive/Files app to pick the file, you can use the side menu to see more options such as Google Drive, Micro SD card, etc.",
+    "es": "Al usar la app Google Drive/Files para seleccionar el archivo, puede usar el menú lateral para ver más opciones como Google Drive, tarjeta Micro SD, etc.",
+    "de": "Wenn Sie die Google Drive/Files-App zum Auswählen der Datei verwenden, können Sie über das Seitenmenü weitere Optionen wie Google Drive, Micro-SD-Karte usw. sehen.",
+    "fr": "Lorsque vous utilisez l'application Google Drive/Files pour choisir le fichier, vous pouvez utiliser le menu latéral pour voir plus d'options comme Google Drive, carte Micro SD, etc.",
+    "fr-CA": "Lorsque vous utilisez l'application Google Drive/Files pour choisir le fichier, vous pouvez utiliser le menu latéral pour voir plus d'options comme Google Drive, carte Micro SD, etc.",
+    "tr": "Dosyayı seçmek için Google Drive/Files uygulamasını kullanırken, Google Drive, Micro SD kart vb. daha fazla seçeneği görmek için yan menüyü kullanabilirsiniz.",
+    "zh-Hant-TW": "使用 Google Drive/Files 應用程式選取檔案時，您可以開啟側邊選單查看更多選項，例如 Google Drive、Micro SD 卡等。",
+    "zh-Hans": "使用 Google Drive/Files 应用选择文件时，可以打开侧边菜单查看更多选项，例如 Google Drive、Micro SD 卡等。"
+  },
   "customizeFont_preview": {
     "en": "Preview:",
     "es": "Vista previa:",
@@ -3310,6 +3350,16 @@
     "zh-Hant-TW": "您將會在幾秒內收到測試通知",
     "zh-Hans": "您将在几秒钟内收到一条测试通知",
     "fr": "Vous should recevoir un test notification dans un few secondes"
+  },
+  "generic_noContinue": {
+    "en": "No, Continue",
+    "es": "No, continuar",
+    "de": "Nein, fortfahren",
+    "fr": "Non, continuer",
+    "fr-CA": "Non, continuer",
+    "tr": "Hayır, devam et",
+    "zh-Hant-TW": "否，繼續",
+    "zh-Hans": "不，继续"
   },
   "generic_noThanks": {
     "en": "No Thanks",
