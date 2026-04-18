@@ -2151,6 +2151,16 @@
     "zh-Hant-TW": "自動重新整理開始時間",
     "zh-Hans": "自动刷新开始时间"
   },
+  "generic_back": {
+    "en": "Back",
+    "es": "Atrás",
+    "de": "Zurück",
+    "fr": "Retour",
+    "fr-CA": "Retour",
+    "tr": "Geri",
+    "zh-Hant-TW": "返回",
+    "zh-Hans": "返回"
+  },
   "generic_backgroundColor": {
     "en": "Background Color",
     "fr-CA": "Couleur de fond",
@@ -2281,6 +2291,16 @@
     "zh-Hans": "无法发送邮件。请检查您的设备是否正确配置了邮件客户端。",
     "fr": "Can't envoyer courriel. Veuillez check que courriel a been définir haut properly activé votre appareil."
   },
+  "generic_changeInput": {
+    "en": "Change Input",
+    "fr-CA": "Modifier l'entrée",
+    "es": "Cambiar entrada",
+    "de": "Eingabe ändern",
+    "tr": "Girdiyi değiştir",
+    "zh-Hant-TW": "更改輸入",
+    "zh-Hans": "更改输入",
+    "fr": "Modifier l'entrée"
+  },
   "generic_changePasscode": {
     "en": "Change Passcode",
     "fr-CA": "Changement Code d’accès",
@@ -2321,6 +2341,36 @@
     "zh-Hans": "应用版本已过时。请更新至最新版本。",
     "fr": "Cela looks like votre application version est hors de date. Veuillez update à le latest version de le application."
   },
+  "generic_clickOkToCopyToClipboard": {
+    "en": "Click OK to copy to clipboard",
+    "fr-CA": "Appuyez sur OK pour copier dans le presse-papiers",
+    "es": "Pulsa OK para copiar al portapapeles",
+    "de": "Tippen Sie auf OK, um in die Zwischenablage zu kopieren",
+    "tr": "Panoya kopyalamak için Tamam'a dokunun",
+    "zh-Hant-TW": "點選「確定」以複製到剪貼簿",
+    "zh-Hans": "点击“确定”以复制到剪贴板",
+    "fr": "Appuyez sur OK pour copier dans le presse-papiers"
+  },
+  "generic_clickToOpenApp": {
+    "en": "Click here to open the app",
+    "fr-CA": "Touchez ici pour ouvrir l'application",
+    "es": "Toque aquí para abrir la app",
+    "de": "Tippen Sie hier, um die App zu öffnen",
+    "tr": "Uygulamayı açmak için buraya dokunun",
+    "zh-Hant-TW": "點此開啟應用程式",
+    "zh-Hans": "点击此处打开应用",
+    "fr": "Touchez ici pour ouvrir l'application"
+  },
+  "generic_clipboardUnavailable": {
+    "en": "Clipboard unavailable",
+    "fr-CA": "Presse-papiers indisponible",
+    "es": "Portapapeles no disponible",
+    "de": "Zwischenablage nicht verfügbar",
+    "tr": "Pano kullanılamıyor",
+    "zh-Hant-TW": "剪貼簿無法使用",
+    "zh-Hans": "剪贴板不可用",
+    "fr": "Presse-papiers indisponible"
+  },
   "generic_closeDrawerAccessibility": {
     "en": "Close navigation drawer",
     "es": "Cerrar el cajón de navegación",
@@ -2330,6 +2380,16 @@
     "tr": "Gezinme bölmesini kapatın",
     "zh-Hant-TW": "關閉側邊選單",
     "zh-Hans": "关闭侧边菜单"
+  },
+  "generic_close": {
+    "en": "Close",
+    "fr-CA": "Fermer",
+    "es": "Cerrar",
+    "de": "Schließen",
+    "tr": "Kapat",
+    "zh-Hant-TW": "關閉",
+    "zh-Hans": "关闭",
+    "fr": "Fermer"
   },
   "generic_connectionIssue": {
     "en": "Could not reach servers. Please check your connection and try again.",
@@ -2420,6 +2480,26 @@
     "zh-Hans": "无法导出 CSV",
     "es": "No se pudo exportar CSV",
     "fr": "Could pas export CSV"
+  },
+  "generic_couldNotLogin": {
+    "en": "Could not login",
+    "fr-CA": "Impossible de se connecter",
+    "de": "Anmeldung fehlgeschlagen",
+    "tr": "Giriş yapılamadı",
+    "zh-Hant-TW": "無法登入",
+    "zh-Hans": "无法登录",
+    "es": "No se pudo iniciar sesión",
+    "fr": "Impossible de se connecter"
+  },
+  "generic_couldNotOpenSelectedFile": {
+    "en": "Could not open selected file",
+    "fr-CA": "Impossible d'ouvrir le fichier sélectionné",
+    "de": "Ausgewählte Datei konnte nicht geöffnet werden",
+    "tr": "Seçilen dosya açılamadı",
+    "zh-Hant-TW": "無法開啟所選檔案",
+    "zh-Hans": "无法打开所选文件",
+    "es": "No se pudo abrir el archivo seleccionado",
+    "fr": "Impossible d'ouvrir le fichier sélectionné"
   },
   "generic_date": {
     "en": "Date",
@@ -2811,6 +2891,16 @@
     "zh-Hans": "无法打开浏览器。请检查是否已安装浏览器。",
     "fr": "Could pas open votre web browser. Veuillez check que vous avoir un installed."
   },
+  "generic_failedToSendEmail": {
+    "en": "Failed to send email",
+    "fr-CA": "Échec de l'envoi du courriel",
+    "es": "No se pudo enviar el correo electrónico",
+    "de": "E-Mail konnte nicht gesendet werden",
+    "tr": "E-posta gönderilemedi",
+    "zh-Hant-TW": "無法傳送電子郵件",
+    "zh-Hans": "发送邮件失败",
+    "fr": "Échec de l'envoi de l'e-mail"
+  },
   "generic_filter": {
     "en": "Filter",
     "es": "Filtro",
@@ -3001,6 +3091,16 @@
     "zh-Hans": "手动排序",
     "fr": "Manuel Trier"
   },
+  "generic_manualSortDisabled": {
+    "en": "Manual sort disabled",
+    "fr-CA": "Tri manuel désactivé",
+    "es": "Orden manual deshabilitado",
+    "de": "Manuelle Sortierung deaktiviert",
+    "tr": "Manuel sıralama devre dışı",
+    "zh-Hant-TW": "手動排序已停用",
+    "zh-Hans": "手动排序已禁用",
+    "fr": "Tri manuel désactivé"
+  },
   "generic_month": {
     "en": "Month",
     "fr-CA": "Mois",
@@ -3010,6 +3110,16 @@
     "zh-Hant-TW": "月",
     "zh-Hans": "月",
     "fr": "Mois"
+  },
+  "generic_more": {
+    "en": "More",
+    "fr-CA": "Plus",
+    "es": "Más",
+    "de": "Mehr",
+    "tr": "Daha fazla",
+    "zh-Hant-TW": "更多",
+    "zh-Hans": "更多",
+    "fr": "Plus"
   },
   "generic_name": {
     "de": "Name",
@@ -3070,6 +3180,16 @@
     "zh-Hant-TW": "導航工具列",
     "zh-Hans": "导航工具栏",
     "fr": "Navigation Barre d’outils"
+  },
+  "generic_negate": {
+    "en": "Negate",
+    "fr-CA": "Inverser le signe",
+    "es": "Cambiar signo",
+    "de": "Vorzeichen umkehren",
+    "tr": "İşareti değiştir",
+    "zh-Hant-TW": "變更正負號",
+    "zh-Hans": "切换正负号",
+    "fr": "Inverser le signe"
   },
   "generic_networkNotAvailable": {
     "en": "Network not available. Please connect to the internet and try again.",
@@ -3200,6 +3320,16 @@
     "tr": "Hayır Teşekkürler",
     "zh-Hant-TW": "不，謝謝",
     "zh-Hans": "不用了，谢谢"
+  },
+  "generic_noMailClient": {
+    "en": "No email client found that supports mailto: scheme",
+    "fr-CA": "Aucun client de courriel prenant en charge le schéma mailto: n'a été trouvé",
+    "es": "No se encontró ningún cliente de correo electrónico compatible con el esquema mailto:",
+    "de": "Kein E-Mail-Client gefunden, der das mailto:-Schema unterstützt",
+    "tr": "mailto: şemasını destekleyen bir e-posta istemcisi bulunamadı",
+    "zh-Hant-TW": "找不到支援 mailto: 通訊協定的電子郵件用戶端",
+    "zh-Hans": "未找到支持 mailto: 协议的邮件客户端",
+    "fr": "Aucun client de messagerie prenant en charge le schéma mailto: n'a été trouvé"
   },
   "generic_none": {
     "en": "None",
@@ -3956,6 +4086,27 @@
     "zh-Hans": "刚刚",
     "fr": "Juste now"
   },
+  "generic_time_1SecondAgo": {
+    "en": "1 second ago",
+    "fr-CA": "Il y a 1 seconde",
+    "es": "Hace 1 segundo",
+    "de": "vor 1 Sekunde",
+    "tr": "1 saniye önce",
+    "zh-Hant-TW": "1 秒前",
+    "zh-Hans": "1秒前",
+    "fr": "Il y a 1 seconde"
+  },
+  "generic_time_XSecondsAgo": {
+    "_formatted": false,
+    "en": "%s seconds ago",
+    "fr-CA": "Il y a %s secondes",
+    "es": "Hace %s segundos",
+    "de": "vor %s Sekunden",
+    "tr": "%s saniye önce",
+    "zh-Hant-TW": "%s 秒前",
+    "zh-Hans": "%s秒前",
+    "fr": "Il y a %s secondes"
+  },
   "generic_time_1MinAgo": {
     "en": "1 minute ago",
     "fr-CA": "Il y a 1 minute",
@@ -4060,6 +4211,37 @@
     "zh-Hant-TW": "%s 個月前",
     "zh-Hans": "%s 个月前",
     "fr": "Il y a %s mois"
+  },
+  "generic_time_yesterday": {
+    "en": "Yesterday",
+    "fr-CA": "Hier",
+    "es": "Ayer",
+    "de": "Gestern",
+    "tr": "Dün",
+    "zh-Hant-TW": "昨天",
+    "zh-Hans": "昨天",
+    "fr": "Hier"
+  },
+  "generic_time_1YearAgo": {
+    "en": "1 year ago",
+    "fr-CA": "Il y a 1 an",
+    "es": "Hace 1 año",
+    "de": "vor 1 Jahr",
+    "tr": "1 yıl önce",
+    "zh-Hant-TW": "1 年前",
+    "zh-Hans": "1年前",
+    "fr": "Il y a 1 an"
+  },
+  "generic_time_XYearsAgo": {
+    "_formatted": false,
+    "en": "%s years ago",
+    "fr-CA": "Il y a %s ans",
+    "es": "Hace %s años",
+    "de": "vor %s Jahren",
+    "tr": "%s yıl önce",
+    "zh-Hant-TW": "%s 年前",
+    "zh-Hans": "%s年前",
+    "fr": "Il y a %s ans"
   },
   "generic_to": {
     "en": "To",
@@ -10583,6 +10765,56 @@
     "zh-Hant-TW": "您尚未建立任何投資組合",
     "zh-Hans": "您目前没有任何投资组合",
     "es": "No tiene ningún portafolio"
+  },
+  "widget_disabledByPasswordProtection": {
+    "en": "Widget disabled by password protection. To enable, open the app and go to Settings, Security.",
+    "de": "Das Widget ist durch den Passwortschutz deaktiviert. Um es zu aktivieren, öffnen Sie die App und gehen Sie zu Einstellungen, Sicherheit.",
+    "fr": "Le widget est désactivé par la protection par mot de passe. Pour l'activer, ouvrez l'application puis allez dans Réglages, Sécurité.",
+    "fr-CA": "Le widget est désactivé par la protection par mot de passe. Pour l'activer, ouvrez l'application puis allez dans Réglages, Sécurité.",
+    "tr": "Widget parola koruması nedeniyle devre dışı bırakıldı. Etkinleştirmek için uygulamayı açın ve Ayarlar, Güvenlik bölümüne gidin.",
+    "zh-Hant-TW": "小工具因密碼保護而停用。若要啟用，請開啟應用程式，前往「設定」>「安全性」。",
+    "zh-Hans": "小组件因密码保护而被禁用。要启用它，请打开应用并前往“设置”>“安全”。",
+    "es": "El widget está deshabilitado por la protección con contraseña. Para habilitarlo, abra la app y vaya a Configuración, Seguridad."
+  },
+  "widget_noTransactionsFound": {
+    "en": "No transactions found. If you are trying to view a watchlist, you can pin the Portfolio widget instead of this Overview widget. You can unpin this Overview widget and re-pin the other type of widget.",
+    "de": "Keine Transaktionen gefunden. Wenn Sie versuchen, eine Watchlist anzuzeigen, können Sie statt dieses Übersichts-Widgets das Portfolio-Widget anheften. Sie können dieses Übersichts-Widget lösen und stattdessen den anderen Widget-Typ erneut anheften.",
+    "fr": "Aucune transaction trouvée. Si vous essayez d'afficher une liste de suivi, vous pouvez épingler le widget Portefeuille au lieu de ce widget Vue d'ensemble. Vous pouvez retirer ce widget Vue d'ensemble puis épingler à nouveau l'autre type de widget.",
+    "fr-CA": "Aucune transaction trouvée. Si vous essayez d'afficher une liste de suivi, vous pouvez épingler le widget Portefeuille au lieu de ce widget Aperçu. Vous pouvez retirer ce widget Aperçu puis épingler à nouveau l'autre type de widget.",
+    "tr": "İşlem bulunamadı. Bir izleme listesini görüntülemeye çalışıyorsanız, bu Genel Bakış widget'i yerine Portföy widget'ini sabitleyebilirsiniz. Bu Genel Bakış widget'inin sabitlemesini kaldırıp diğer widget türünü yeniden sabitleyebilirsiniz.",
+    "zh-Hant-TW": "找不到交易紀錄。如果您想查看觀察清單，可以改為釘選「投資組合」小工具，而不是這個「總覽」小工具。您可以先取消釘選這個「總覽」小工具，再重新釘選另一種小工具。",
+    "zh-Hans": "未找到交易记录。如果您想查看自选列表，可以固定“投资组合”小组件，而不是这个“概览”小组件。您可以取消固定这个“概览”小组件，再重新固定另一种小组件。",
+    "es": "No se encontraron transacciones. Si está intentando ver una lista de seguimiento, puede fijar el widget de Portafolio en lugar de este widget de Resumen. Puede desfijar este widget de Resumen y volver a fijar el otro tipo de widget."
+  },
+  "widget_refreshBlockedBackgroundRestrictions": {
+    "en": "Cannot refresh due to Background Restrictions. Please turn it off for this app.",
+    "de": "Aktualisierung aufgrund von Hintergrundbeschränkungen nicht möglich. Bitte deaktivieren Sie diese für diese App.",
+    "fr": "Actualisation impossible en raison des restrictions d'arrière-plan. Veuillez les désactiver pour cette application.",
+    "fr-CA": "Actualisation impossible en raison des restrictions en arrière-plan. Veuillez les désactiver pour cette application.",
+    "tr": "Arka plan kısıtlamaları nedeniyle yenilenemiyor. Lütfen bu uygulama için bu ayarı kapatın.",
+    "zh-Hant-TW": "由於背景限制，無法重新整理。請為此應用程式關閉此限制。",
+    "zh-Hans": "由于后台限制，无法刷新。请为此应用关闭该限制。",
+    "es": "No se puede actualizar debido a las restricciones en segundo plano. Desactívelas para esta aplicación."
+  },
+  "widget_refreshBlockedDataSaver": {
+    "en": "Cannot refresh due to Data Saver mode. Open Settings, Apps, MSP, Mobile data, turn on Background data and Unrestricted mobile data.",
+    "de": "Aktualisierung wegen des Datensparmodus nicht möglich. Öffnen Sie Einstellungen, Apps, MSP, Mobile Daten und aktivieren Sie Hintergrunddaten sowie Unbeschränkte mobile Datennutzung.",
+    "fr": "Actualisation impossible en raison du mode Économiseur de données. Ouvrez Réglages, Applications, MSP, Données mobiles, puis activez Données en arrière-plan et Données mobiles sans restriction.",
+    "fr-CA": "Actualisation impossible en raison du mode Économiseur de données. Ouvrez Réglages, Applications, MSP, Données mobiles, puis activez Données en arrière-plan et Données mobiles sans restriction.",
+    "tr": "Veri Tasarrufu modu nedeniyle yenilenemiyor. Ayarlar, Uygulamalar, MSP, Mobil veri bölümünü açın ve Arka plan verisi ile Sınırsız mobil veri seçeneklerini etkinleştirin.",
+    "zh-Hant-TW": "由於數據節省模式，無法重新整理。請開啟「設定」>「應用程式」>「MSP」>「行動數據」，並啟用「背景數據」與「不受限制的行動數據」。",
+    "zh-Hans": "由于流量节省模式，无法刷新。请打开“设置”>“应用”>“MSP”>“移动数据”，并开启“后台数据”和“不受限制的移动数据”。",
+    "es": "No se puede actualizar debido al modo Ahorro de datos. Abra Configuración, Apps, MSP, Datos móviles, y active Datos en segundo plano y Datos móviles sin restricción."
+  },
+  "widget_refreshBlockedPowerSaver": {
+    "en": "Cannot refresh due to Power Saver mode. Open Settings, Apps, MSP, Battery, set to Unrestricted.",
+    "de": "Aktualisierung wegen des Energiesparmodus nicht möglich. Öffnen Sie Einstellungen, Apps, MSP, Akku und setzen Sie die Einstellung auf Unbeschränkt.",
+    "fr": "Actualisation impossible en raison du mode Économie d'énergie. Ouvrez Réglages, Applications, MSP, Batterie, puis réglez sur Sans restriction.",
+    "fr-CA": "Actualisation impossible en raison du mode Économie d'énergie. Ouvrez Réglages, Applications, MSP, Batterie, puis réglez sur Sans restriction.",
+    "tr": "Güç Tasarrufu modu nedeniyle yenilenemiyor. Ayarlar, Uygulamalar, MSP, Pil bölümünü açın ve Sınırsız olarak ayarlayın.",
+    "zh-Hant-TW": "由於省電模式，無法重新整理。請開啟「設定」>「應用程式」>「MSP」>「電池」，並設為「不受限制」。",
+    "zh-Hans": "由于省电模式，无法刷新。请打开“设置”>“应用”>“MSP”>“电池”，并设置为“不受限制”。",
+    "es": "No se puede actualizar debido al modo Ahorro de energía. Abra Configuración, Apps, MSP, Batería, y configúrelo como Sin restricción."
   },
   "widget_configureHelp": {
     "en": "To configure widget settings (such as auto-refresh and font size), open the app, Settings, and go to the Widget section. If you resize the widget to be very small, be sure to visit widget settings to reduce the UI size so everything fits.\\n\\nPlease note that there are two types of widgets - overview and single portfolio. If you do not see your quotes, you may have meant to pin the single portfolio widget but pinned the overview widget.",
