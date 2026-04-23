@@ -5096,6 +5096,37 @@
     "zh-Hans": "正在加入投资组合…",
     "fr": "Adding à portefeuille…"
   },
+  "portfolio_allocation_categoryTagDefaultName": {
+    "_formatted": false,
+    "en": "Category Tag %s",
+    "fr-CA": "Étiquette de catégorie %s",
+    "es": "Etiqueta de Categoría %s",
+    "de": "Kategorie-Schlagwort %s",
+    "tr": "Kategori Etiketi %s",
+    "zh-Hant-TW": "分類標籤 %s",
+    "zh-Hans": "类别标签 %s",
+    "fr": "Étiquette de catégorie %s"
+  },
+  "portfolio_allocation_categoryTagExample": {
+    "en": "(i.e. Technology)",
+    "fr-CA": "(p. ex. Technologie)",
+    "es": "(p. ej., Tecnología)",
+    "de": "(z. B. Technologie)",
+    "tr": "(örn. Teknoloji)",
+    "zh-Hant-TW": "（例如：科技）",
+    "zh-Hans": "（如：科技）",
+    "fr": "(p. ex. Technologie)"
+  },
+  "portfolio_allocation_categoryTagField": {
+    "en": "Stock Tag",
+    "fr-CA": "Étiquette d'action",
+    "es": "Etiqueta de acción",
+    "de": "Aktien-Schlagwort",
+    "tr": "Hisse Etiketi",
+    "zh-Hant-TW": "股票標籤",
+    "zh-Hans": "股票标签",
+    "fr": "Étiquette d'action"
+  },
   "portfolio_allocation_categoryTagsForSymbol": {
     "_formatted": false,
     "en": "Category Tags for %s",
@@ -5126,6 +5157,27 @@
     "zh-Hant-TW": "要指派標籤，請點選圓餅圖後再點標籤按鈕",
     "zh-Hans": "点击饼图后再点击标签按钮进行分配",
     "fr": "À assign étiquettes, cliquer le pie graphique et then activé le labels button"
+  },
+  "portfolio_allocation_categoryTypeExample": {
+    "en": "(i.e. Industry)",
+    "fr-CA": "(p. ex. Industrie)",
+    "es": "(p. ej., Industria)",
+    "de": "(z. B. Branche)",
+    "tr": "(örn. Endüstri)",
+    "zh-Hant-TW": "（例如：產業）",
+    "zh-Hans": "（如：行业）",
+    "fr": "(p. ex. Industrie)"
+  },
+  "portfolio_allocation_deleteCategoryConfirm": {
+    "_formatted": false,
+    "en": "Delete %1$s?",
+    "fr-CA": "Supprimer %1$s ?",
+    "es": "¿Eliminar %1$s?",
+    "de": "%1$s löschen?",
+    "tr": "%1$s silinsin mi?",
+    "zh-Hant-TW": "要刪除 %1$s 嗎？",
+    "zh-Hans": "要删除 %1$s 吗？",
+    "fr": "Supprimer %1$s ?"
   },
   "portfolio_allocation": {
     "en": "Allocation",
