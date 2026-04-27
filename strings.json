@@ -2221,6 +2221,26 @@
     "zh-Hans": "备份",
     "fr": "Sauvegarde"
   },
+    "generic_backupChooseMethod": {
+    "en": "Choose a backup method",
+    "es": "Elija un método de respaldo",
+    "de": "Wählen Sie eine Backup-Methode",
+    "fr": "Choisissez une méthode de sauvegarde",
+    "fr-CA": "Choisissez une méthode de sauvegarde",
+    "tr": "Bir yedekleme yöntemi seçin",
+    "zh-Hant-TW": "選擇備份方式",
+    "zh-Hans": "选择备份方式"
+  },
+  "generic_backupNowQuestion": {
+    "en": "You haven’t made a backup in a while. Backup now?",
+    "es": "Hace tiempo que no haces una copia de seguridad. ¿Hacer una ahora?",
+    "de": "Sie haben schon länger kein Backup mehr erstellt. Jetzt sichern?",
+    "fr": "Vous n'avez pas fait de sauvegarde depuis un moment. Sauvegarder maintenant ?",
+    "fr-CA": "Cela fait un moment que vous n'avez pas fait de sauvegarde. Sauvegarder maintenant ?",
+    "tr": "Bir süredir yedekleme yapmadınız. Şimdi yedeklemek ister misiniz?",
+    "zh-Hant-TW": "您有一段時間沒有備份了。要立即備份嗎？",
+    "zh-Hans": "您已经有一段时间没有备份了。现在备份吗？"
+  },
   "generic_backupReminder": {
     "en": "Please remember to periodically backup your account data via the settings, backup section.",
     "es": "Por favor, recuerda hacer copias de seguridad periódicas de los datos de tu cuenta a través de la sección de respaldo en los ajustes.",
@@ -5017,14 +5037,15 @@
     "fr": "Convert prix à pence"
   },
   "portfolioAllocations_groupInOthers": {
-    "en": "Group holding in 'Others' when less than % of total",
-    "es": "Agrupar tenencias en 'Otros' cuando sean menos del % del total",
-    "de": "Konzernbeteiligung an 'Anderen', wenn weniger als % des Gesamtbetrags",
-    "fr": "Grouper les position sous 'Autres' quand ils représentent moins que % du total",
-    "fr-CA": "Grouper les position sous 'Autres' quand ils représentent moins que % du total",
-    "tr": "Toplamın %'sinden az ise varlıkların 'Diğerleri' grubundaki payı",
-    "zh-Hant-TW": "低於此百分比的持股將會歸類到'其他'",
-    "zh-Hans": "占比低于 % 时归类为“其他”"
+    "_formatted": false,
+    "en": "Group holding in 'Others' when less than %s% of total",
+    "es": "Agrupar tenencias en 'Otros' cuando sean menos del %s% del total",
+    "de": "Konzernbeteiligung an 'Anderen', wenn weniger als %s% des Gesamtbetrags",
+    "fr": "Grouper les position sous 'Autres' quand ils représentent moins que %s% du total",
+    "fr-CA": "Grouper les position sous 'Autres' quand ils représentent moins que %s% du total",
+    "tr": "Toplamın %s%'sinden az ise varlıkların 'Diğerleri' grubundaki payı",
+    "zh-Hant-TW": "低於 %s 此百分比的持股將會歸類到'其他'",
+    "zh-Hans": "占比低于 %s% 时归类为“其他”"
   },
   "portfolioAnalysis_changeSettings": {
     "en": "To change, open Settings, Calculations",
