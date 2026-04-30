@@ -1637,6 +1637,16 @@
     "zh-Hant-TW": "檢視圖表",
     "zh-Hans": "查看图表"
   },
+  "chart_tick": {
+    "en": "Tick:",
+    "fr-CA": "Graduation :",
+    "es": "Marca:",
+    "de": "Teilstrich:",
+    "tr": "İşaret:",
+    "zh-Hant-TW": "刻度：",
+    "zh-Hans": "刻度：",
+    "fr": "Graduation :"
+  },
   "chart_transactionAnnotations": {
     "en": "Transaction Annotations",
     "fr-CA": "Annotations de transaction",
@@ -1646,6 +1656,27 @@
     "zh-Hant-TW": "交易附註",
     "zh-Hans": "交易标注",
     "fr": "Annotations de transaction"
+  },
+  "chart_transactionAnnotationPremiumGateTitle": {
+    "_formatted": false,
+    "en": "'%s' transaction on %s",
+    "fr-CA": "Transaction « %s » le %s",
+    "es": "Transacción '%s' el %s",
+    "de": "'%s'-Transaktion am %s",
+    "tr": "%s tarihinde '%s' işlemi",
+    "zh-Hant-TW": "%s 的「%s」交易",
+    "zh-Hans": "%s 的“%s”交易",
+    "fr": "Transaction « %s » le %s"
+  },
+  "chart_transactionAnnotationPremiumGateMessage": {
+    "en": "Subscribe to premium to see more information about this transaction including lot size, realized and unrealized gains, and quick links to the transaction screen?",
+    "fr-CA": "S’abonner à Premium pour voir plus d’informations sur cette transaction, notamment la taille du lot, les gains réalisés et non réalisés, ainsi que des liens rapides vers l’écran de transaction ?",
+    "es": "¿Suscribirse a Premium para ver más información sobre esta transacción, incluido el tamaño del lote, las ganancias realizadas y no realizadas, y enlaces rápidos a la pantalla de transacciones?",
+    "de": "Premium abonnieren, um weitere Informationen zu dieser Transaktion zu sehen, einschließlich Lot-Größe, realisierter und nicht realisierter Gewinne sowie Schnelllinks zur Transaktionsansicht?",
+    "tr": "Lot büyüklüğü, gerçekleşen ve gerçekleşmemiş kazançlar ve işlem ekranına hızlı bağlantılar dahil olmak üzere bu işlem hakkında daha fazla bilgi görmek için Premium'a abone olun?",
+    "zh-Hant-TW": "訂閱 Premium 以查看此交易的更多資訊，包括批次大小、已實現與未實現收益，以及前往交易畫面的快速連結？",
+    "zh-Hans": "订阅 Premium 以查看此交易的更多信息，包括批次大小、已实现和未实现收益，以及前往交易页面的快捷链接？",
+    "fr": "S’abonner à Premium pour voir plus d’informations sur cette transaction, notamment la taille du lot, les gains réalisés et non réalisés, ainsi que des liens rapides vers l’écran de transaction ?"
   },
   "chart_typeArea": {
     "en": "Area",
@@ -3420,6 +3451,16 @@
     "tr": "N/A",
     "zh-Hant-TW": "N/A",
     "zh-Hans": "不适用"
+  },
+  "generic_notSet": {
+    "en": "Not Set",
+    "es": "No establecido",
+    "de": "Nicht festgelegt",
+    "fr": "Non défini",
+    "fr-CA": "Non défini",
+    "tr": "Ayarlanmadı",
+    "zh-Hant-TW": "未設定",
+    "zh-Hans": "未设置"
   },
   "generic_notes": {
     "en": "Notes",
@@ -5199,6 +5240,98 @@
     "zh-Hant-TW": "要刪除 %1$s 嗎？",
     "zh-Hans": "要删除 %1$s 吗？",
     "fr": "Supprimer %1$s ?"
+  },
+  "portfolio_allocation_categoriesAndBuckets": {
+    "en": "Categories and Buckets",
+    "fr-CA": "Catégories et groupes",
+    "es": "Categorías y grupos",
+    "de": "Kategorien und Gruppen",
+    "tr": "Kategoriler ve Gruplar",
+    "zh-Hant-TW": "分類與分組",
+    "zh-Hans": "类别与分组",
+    "fr": "Catégories et groupes"
+  },
+  "portfolio_allocation_ringName": {
+    "en": "Ring Name",
+    "fr-CA": "Nom de l’anneau",
+    "es": "Nombre del anillo",
+    "de": "Ringname",
+    "tr": "Halka adı",
+    "zh-Hant-TW": "環名稱",
+    "zh-Hans": "环名称",
+    "fr": "Nom de l’anneau"
+  },
+  "portfolio_allocation_bucketName": {
+    "en": "Bucket Name",
+    "fr-CA": "Nom de la catégorie",
+    "es": "Nombre de la categoría",
+    "de": "Gruppenname",
+    "tr": "Grup adı",
+    "zh-Hant-TW": "類別名稱",
+    "zh-Hans": "类别名称",
+    "fr": "Nom de la catégorie"
+  },
+  "portfolio_allocation_inner": {
+    "en": "Inner",
+    "fr-CA": "Intérieur",
+    "es": "Interior",
+    "de": "Innen",
+    "tr": "İç",
+    "zh-Hant-TW": "內層",
+    "zh-Hans": "内层",
+    "fr": "Intérieur"
+  },
+  "portfolio_allocation_innerRing": {
+    "en": "Inner Ring:",
+    "fr-CA": "Anneau intérieur :",
+    "es": "Anillo interior:",
+    "de": "Innenring:",
+    "tr": "İç halka:",
+    "zh-Hant-TW": "內環：",
+    "zh-Hans": "内环：",
+    "fr": "Anneau intérieur :"
+  },
+  "portfolio_allocation_innerRingNumber": {
+    "_formatted": false,
+    "en": "Inner Ring %s",
+    "fr-CA": "Anneau intérieur %s",
+    "es": "Anillo interior %s",
+    "de": "Innenring %s",
+    "tr": "İç halka %s",
+    "zh-Hant-TW": "內環 %s",
+    "zh-Hans": "内环 %s",
+    "fr": "Anneau intérieur %s"
+  },
+  "portfolio_allocation_ringNumber": {
+    "_formatted": false,
+    "en": "Ring %s",
+    "fr-CA": "Anneau %s",
+    "es": "Anillo %s",
+    "de": "Ring %s",
+    "tr": "Halka %s",
+    "zh-Hant-TW": "環 %s",
+    "zh-Hans": "环 %s",
+    "fr": "Anneau %s"
+  },
+  "portfolio_allocation_innerRingHelp": {
+    "en": "To edit inner rings and group symbols into buckets, click the label button for a symbol (bottom right of each card).",
+    "fr-CA": "Pour modifier les anneaux intérieurs et regrouper les symboles dans des catégories, cliquez sur le bouton d’étiquette d’un symbole (en bas à droite de chaque carte).",
+    "es": "Para editar los anillos interiores y agrupar símbolos en categorías, haga clic en el botón de etiqueta de un símbolo (abajo a la derecha de cada tarjeta).",
+    "de": "Um Innenringe zu bearbeiten und Symbole in Gruppen zusammenzufassen, klicken Sie auf die Label-Schaltfläche eines Symbols (unten rechts auf jeder Karte).",
+    "tr": "İç halkaları düzenlemek ve sembolleri gruplar halinde toplamak için bir sembolün etiket düğmesine tıklayın (her kartın sağ alt köşesinde).",
+    "zh-Hant-TW": "若要編輯內環並將代碼分組到不同類別，請點選代碼的標籤按鈕（每張卡片右下角）。",
+    "zh-Hans": "若要编辑内环并将代码分组到不同类别，请点击代码的标签按钮（每张卡片右下角）。",
+    "fr": "Pour modifier les anneaux intérieurs et regrouper les symboles dans des catégories, cliquez sur le bouton d’étiquette d’un symbole (en bas à droite de chaque carte)."
+  },
+  "portfolio_allocation_innerRingBucketHelp": {
+    "en": "The pie chart can display an inner ring. The bucket you assign to this symbol refers to the bucket they will be grouped under in that ring. For example, you can assign Symbol1 to the bucket 'Tech' in the inner ring 'Industry', and Symbol2 to the bucket 'Stock' in the inner ring 'Type'. You can repeat the process for other symbols in your portfolio. Once done, go back to the pie chart and select the inner ring to display.",
+    "fr-CA": "Le graphique circulaire peut afficher un anneau intérieur. Le groupe que vous attribuez à ce symbole correspond au groupe dans lequel il sera regroupé dans cet anneau. Par exemple, vous pouvez attribuer Symbol1 au groupe « Tech » dans l’anneau intérieur « Industry », et Symbol2 au groupe « Stock » dans l’anneau intérieur « Type ». Vous pouvez répéter ce processus pour les autres symboles de votre portefeuille. Une fois terminé, revenez au graphique circulaire et sélectionnez l’anneau intérieur à afficher.",
+    "es": "El gráfico circular puede mostrar un anillo interior. El grupo que asigne a este símbolo corresponde al grupo bajo el que se agrupará en ese anillo. Por ejemplo, puede asignar Symbol1 al grupo 'Tech' en el anillo interior 'Industry', y Symbol2 al grupo 'Stock' en el anillo interior 'Type'. Puede repetir el proceso para otros símbolos de su portafolio. Cuando termine, vuelva al gráfico circular y seleccione el anillo interior que desea mostrar.",
+    "de": "Das Kreisdiagramm kann einen Innenring anzeigen. Die Gruppe, die Sie diesem Symbol zuweisen, ist die Gruppe, unter der es in diesem Ring zusammengefasst wird. Sie können zum Beispiel Symbol1 der Gruppe 'Tech' im Innenring 'Industry' und Symbol2 der Gruppe 'Stock' im Innenring 'Type' zuweisen. Sie können diesen Vorgang für weitere Symbole in Ihrem Portfolio wiederholen. Kehren Sie anschließend zum Kreisdiagramm zurück und wählen Sie den anzuzeigenden Innenring aus.",
+    "tr": "Pasta grafik bir iç halka gösterebilir. Bu sembole atadığınız grup, o halkada altında gruplanacağı grubu ifade eder. Örneğin Symbol1'i 'Industry' iç halkasında 'Tech' grubuna, Symbol2'yi ise 'Type' iç halkasında 'Stock' grubuna atayabilirsiniz. Portföyünüzdeki diğer semboller için de bu işlemi tekrarlayabilirsiniz. İşiniz bittiğinde pasta grafiğe geri dönün ve görüntülenecek iç halkayı seçin.",
+    "zh-Hant-TW": "圓餅圖可以顯示內環。您指派給此代碼的類別，表示它會在該環中歸入哪個類別。例如，您可以將 Symbol1 在內環「Industry」中指派到「Tech」類別，並將 Symbol2 在內環「Type」中指派到「Stock」類別。您可以對投資組合中的其他代碼重複此流程。完成後，返回圓餅圖並選擇要顯示的內環。",
+    "zh-Hans": "饼图可以显示内环。您为此代码指定的类别，表示它会在该环中归入哪个类别。例如，您可以将 Symbol1 在内环“Industry”中指定到“Tech”类别，并将 Symbol2 在内环“Type”中指定到“Stock”类别。您可以对投资组合中的其他代码重复此流程。完成后，返回饼图并选择要显示的内环。",
+    "fr": "Le graphique circulaire peut afficher un anneau intérieur. Le groupe que vous attribuez à ce symbole correspond au groupe dans lequel il sera regroupé dans cet anneau. Par exemple, vous pouvez attribuer Symbol1 au groupe « Tech » dans l’anneau intérieur « Industry », et Symbol2 au groupe « Stock » dans l’anneau intérieur « Type ». Vous pouvez répéter ce processus pour les autres symboles de votre portefeuille. Une fois terminé, revenez au graphique circulaire et sélectionnez l’anneau intérieur à afficher."
   },
   "portfolio_allocation": {
     "en": "Allocation",
