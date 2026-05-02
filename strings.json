@@ -1005,6 +1005,16 @@
     "zh-Hans": "启用行情价格推送通知",
     "fr": "Activer push notifications pour quote prices"
   },
+  "alert_includeExtendedHours": {
+    "en": "Include Extended Hours",
+    "fr-CA": "Inclure les heures prolongées",
+    "es": "Incluir horario extendido",
+    "de": "Erweiterte Handelszeiten einbeziehen",
+    "tr": "Uzatılmış işlem saatlerini dahil et",
+    "zh-Hant-TW": "包含延長交易時段",
+    "zh-Hans": "包含延长交易时段",
+    "fr": "Inclure les heures prolongées"
+  },
   "alert_enableQuotePricePushNotificationsGreaterThanTitle": {
     "en": "Price Greater Than",
     "fr-CA": "Prix Greater Que",
@@ -1677,6 +1687,16 @@
     "zh-Hant-TW": "訂閱 Premium 以查看此交易的更多資訊，包括批次大小、已實現與未實現收益，以及前往交易畫面的快速連結？",
     "zh-Hans": "订阅 Premium 以查看此交易的更多信息，包括批次大小、已实现和未实现收益，以及前往交易页面的快捷链接？",
     "fr": "S’abonner à Premium pour voir plus d’informations sur cette transaction, notamment la taille du lot, les gains réalisés et non réalisés, ainsi que des liens rapides vers l’écran de transaction ?"
+  },
+  "chart_historicalPremiumGateMessage": {
+    "en": "Subscribe to premium to access full screen historical performance charts with pinch-zoom, panning, trackball, and daily performance history?",
+    "fr-CA": "S’abonner à Premium pour accéder aux graphiques de performance historique en plein écran avec zoom par pincement, déplacement, curseur de suivi et historique des performances quotidiennes ?",
+    "es": "¿Suscribirse a Premium para acceder a gráficos de rendimiento histórico a pantalla completa con zoom de pellizco, desplazamiento, cursor de seguimiento e historial de rendimiento diario?",
+    "de": "Premium abonnieren, um auf historische Performance-Diagramme im Vollbild mit Pinch-Zoom, Schwenken, Trackball und täglichem Performance-Verlauf zuzugreifen?",
+    "tr": "Sıkıştırarak yakınlaştırma, kaydırma, izleme imleci ve günlük performans geçmişi içeren tam ekran geçmiş performans grafiklerine erişmek için Premium'a abone olun?",
+    "zh-Hant-TW": "訂閱 Premium 以存取全螢幕歷史績效圖表，包含雙指縮放、平移、追蹤游標和每日績效歷史記錄？",
+    "zh-Hans": "订阅 Premium 以访问全屏历史绩效图表，包含双指缩放、平移、跟踪光标和每日绩效历史记录？",
+    "fr": "S’abonner à Premium pour accéder aux graphiques de performance historique en plein écran avec zoom par pincement, déplacement, curseur de suivi et historique des performances quotidiennes ?"
   },
   "chart_typeArea": {
     "en": "Area",
@@ -5957,6 +5977,16 @@
     "zh-Hans": "过滤新闻",
     "fr": "Filtrer les nouvelles"
   },
+  "portfolio_filterBySymbol": {
+    "en": "Filter by Symbol",
+    "fr-CA": "Filtrer par symbole",
+    "es": "Filtrar por símbolo",
+    "de": "Nach Symbol filtern",
+    "tr": "Sembole göre filtrele",
+    "zh-Hant-TW": "依代碼篩選",
+    "zh-Hans": "按代码过滤",
+    "fr": "Filtrer par symbole"
+  },
   "portfolio_fullTimeEmployees": {
     "en": "Full-Time Employees",
     "fr-CA": "Employés à temps plein",
@@ -6006,6 +6036,16 @@
     "zh-Hant-TW": "產生報告",
     "zh-Hans": "生成报告",
     "fr": "Générer le rapport"
+  },
+  "portfolio_generateReportPremiumGateMessage": {
+    "en": "Subscribe to premium in order to export this generated report as a PDF file?",
+    "fr-CA": "S’abonner à Premium pour exporter ce rapport généré au format PDF ?",
+    "es": "¿Suscribirse a Premium para exportar este informe generado como archivo PDF?",
+    "de": "Premium abonnieren, um diesen erstellten Bericht als PDF-Datei zu exportieren?",
+    "tr": "Oluşturulan bu raporu PDF dosyası olarak dışa aktarmak için Premium'a abone olun?",
+    "zh-Hant-TW": "訂閱 Premium 以將此產生的報告匯出為 PDF 檔案？",
+    "zh-Hans": "订阅 Premium 以将此生成的报告导出为 PDF 文件？",
+    "fr": "S’abonner à Premium pour exporter ce rapport généré au format PDF ?"
   },
   "portfolio_generateReport_enterCustomSubtitleOptional": {
     "en": "Enter custom subtitle (Optional)",
@@ -9798,13 +9838,13 @@
   "sync_restoreDataHelpLink": {
     "_comment": "Substring of sync_restoreDataHelp that contains a clickable link",
     "en": "click here",
-    "fr-CA": "cliquez ici",
+    "fr-CA": "touchez ici",
     "de": "Klicken Sie hier",
-    "tr": "Buraya tıkla",
+    "tr": "buraya tıklayarak",
     "zh-Hant-TW": "點擊這裡",
     "zh-Hans": "点击此处",
     "es": "haga clic aquí",
-    "fr": "cliquez ici"
+    "fr": "touchez ici"
   },
   "sync_signInToBackupAndSynchronize": {
     "en": "Sign in to backup and synchronize Portfolio data between devices.",
