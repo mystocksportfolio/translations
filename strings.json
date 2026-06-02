@@ -1960,6 +1960,17 @@
     "es": "Se importaron %s alertas de precio",
     "fr": "Imported %s prix alerts"
   },
+  "csvImport_imported_priceAlerts_withDuplicates": {
+    "_formatted": false,
+    "en": "Imported %s price alerts, skipped %s duplicates",
+    "fr-CA": "%s alertes de prix importées, %s doublons ignorés",
+    "de": "%s Kursalarme importiert, %s Duplikate übersprungen",
+    "tr": "%s fiyat alarmı içe aktarıldı, %s yinelenen kayıt atlandı",
+    "zh-Hant-TW": "匯入 %s 則到價通知，略過 %s 筆重複項目",
+    "zh-Hans": "已导入 %s 条价格预警，已跳过 %s 条重复项",
+    "es": "Se importaron %s alertas de precio, se omitieron %s duplicados",
+    "fr": "%s alertes de prix importées, %s doublons ignorés"
+  },
   "csvImport_importedQuotesAndHoldingsFormatted": {
     "_formatted": false,
     "en": "Successfully imported %s quotes and %s holdings",
