@@ -222,15 +222,65 @@
     "zh-Hant-TW": "升級至 Premium，享受無廣告體驗",
     "zh-Hans": "升级到 Premium，享受无广告体验"
   },
+  "addCustomPrices_adjustDates": {
+    "en": "Adjust dates",
+    "de": "Datumsangaben anpassen",
+    "es": "Ajustar fechas",
+    "fr": "Ajuster les dates",
+    "fr-CA": "Ajuster les dates",
+    "tr": "Tarihleri ayarla",
+    "zh-Hant-TW": "調整日期",
+    "zh-Hans": "调整日期"
+  },
+  "addCustomPrices_adjustDatesHelp": {
+    "en": "If the custom prices look off by a day, you can adjust all of them forwards or backwards by a day.",
+    "de": "Wenn die benutzerdefinierten Kurse um einen Tag verschoben wirken, können Sie alle um einen Tag nach vorne oder hinten verschieben.",
+    "es": "Si los precios personalizados parecen desfasados por un día, puede ajustarlos todos un día hacia adelante o hacia atrás.",
+    "fr": "Si les cours personnalisés semblent décalés d'un jour, vous pouvez tous les avancer ou les reculer d'un jour.",
+    "fr-CA": "Si les cours personnalisés semblent décalés d'une journée, vous pouvez tous les avancer ou les reculer d'une journée.",
+    "tr": "Özel fiyatlar bir gün kaymış görünüyorsa, hepsini bir gün ileri veya geri kaydırabilirsiniz.",
+    "zh-Hant-TW": "如果自訂價格看起來差了一天，您可以將所有價格往前或往後調整一天。",
+    "zh-Hans": "如果自定义价格看起来偏差了一天，您可以将所有价格整体向前或向后调整一天。"
+  },
+  "addCustomPrices_addPrice": {
+    "en": "Add Price",
+    "de": "Preis hinzufügen",
+    "es": "Agregar precio",
+    "fr": "Ajouter un prix",
+    "fr-CA": "Ajouter un prix",
+    "tr": "Fiyat Ekle",
+    "zh-Hant-TW": "新增價格",
+    "zh-Hans": "添加价格"
+  },
   "addCustomPrices_help": {
-    "en": "Add custom end of day prices for equity not listed on the market, to override prices, or to fill missing data. To delete a price data point, click on it in the list.",
-    "de": "Fügen Sie benutzerdefinierte Tagesendpreise für die Aktien, die nicht an der Börse notiert sind hinzu, um Preise außer Kraft zu setzen oder um fehlende Daten zu ergänzen. Um eine Kursangabe zu löschen, klicken Sie diese in der Liste an.",
-    "fr": "Ajoutez des prix de clôture personnalisés pour les actions non cotées sur le marché, pour remplacer des prix ou pour compléter des données manquantes. Pour supprimer un point de prix, touchez-le dans la liste.",
-    "fr-CA": "Ajoutez des prix de clôture personnalisés pour les actions non cotées sur le marché, pour remplacer des prix ou pour compléter des données manquantes. Pour supprimer un point de prix, touchez-le dans la liste.",
-    "tr": "Piyasada listelenmeyen hisse senetleri için, fiyatları geçersiz kılmak için veya eksik verileri doldurmak için özel gün sonu fiyatları ekleyin. Bir fiyat veri noktasını silmek için listede üzerine tıklayın.",
-    "zh-Hant-TW": "為未上市股票新增自訂收盤價，可覆蓋價格或補齊缺漏資料。要刪除價格資料，請點擊清單中的該筆紀錄。",
-    "zh-Hans": "为未上市的股票添加自定义收盘价、覆盖现有价格或填补缺失数据。点击列表项可删除价格数据。",
-    "es": "Agregue precios personalizados de cierre para acciones no listadas en el mercado, para sobrescribir precios o completar datos faltantes. Para eliminar un dato de precio, haga clic en él en la lista."
+    "en": "Use this page to add custom end of day prices for equity not listed on the market, override prices, or fill missing data.",
+    "de": "Verwenden Sie diese Seite, um benutzerdefinierte Tagesendpreise für nicht am Markt notierte Wertpapiere hinzuzufügen, Preise zu überschreiben oder fehlende Daten zu ergänzen.",
+    "es": "Use esta página para agregar precios personalizados de cierre para acciones no listadas en el mercado, sobrescribir precios o completar datos faltantes.",
+    "fr": "Utilisez cette page pour ajouter des cours de clôture personnalisés pour les actions non cotées sur le marché, remplacer des prix ou compléter des données manquantes.",
+    "fr-CA": "Utilisez cette page pour ajouter des cours de clôture personnalisés pour les actions non cotées sur le marché, remplacer des prix ou compléter des données manquantes.",
+    "tr": "Piyasada listelenmeyen hisse senetleri için özel gün sonu fiyatları eklemek, fiyatları geçersiz kılmak veya eksik verileri doldurmak için bu sayfayı kullanın.",
+    "zh-Hant-TW": "使用此頁面為未在市場上市的股票新增自訂收盤價、覆蓋價格或補齊缺漏資料。",
+    "zh-Hans": "使用此页面为未在市场上市的股票添加自定义收盘价、覆盖现有价格或填补缺失数据。"
+  },
+  "addCustomPrices_shiftBackOneDay": {
+    "en": "Back 1 day",
+    "de": "1 Tag zurück",
+    "es": "Retroceder 1 día",
+    "fr": "Reculer d'un jour",
+    "fr-CA": "Reculer d'une journée",
+    "tr": "1 gün geri",
+    "zh-Hant-TW": "往前調 1 天",
+    "zh-Hans": "向前调 1 天"
+  },
+  "addCustomPrices_shiftForwardOneDay": {
+    "en": "Forward 1 day",
+    "de": "1 Tag nach vorne",
+    "es": "Avanzar 1 día",
+    "fr": "Avancer d'un jour",
+    "fr-CA": "Avancer d'une journée",
+    "tr": "1 gün ileri",
+    "zh-Hant-TW": "往後調 1 天",
+    "zh-Hans": "向后调 1 天"
   },
   "addPortfolio_enterNamePrompt": {
     "en": "Please enter a name",
@@ -1717,6 +1767,36 @@
     "zh-Hant-TW": "訂閱 Premium 以將您的投資組合績效與另一個代碼比較？",
     "zh-Hans": "订阅 Premium 以将您的投资组合绩效与另一个代码比较？",
     "fr": "S'abonner à Premium pour comparer la performance de votre portefeuille avec un autre symbole ?"
+  },
+  "chart_compare_scale": {
+    "en": "Scale",
+    "de": "Skala",
+    "es": "Escala",
+    "fr": "Échelle",
+    "fr-CA": "Échelle",
+    "tr": "Ölçek",
+    "zh-Hant-TW": "刻度",
+    "zh-Hans": "刻度"
+  },
+  "chart_compare_scale_independent": {
+    "en": "Independent",
+    "de": "Unabhängig",
+    "es": "Independiente",
+    "fr": "Indépendant",
+    "fr-CA": "Indépendant",
+    "tr": "Bağımsız",
+    "zh-Hant-TW": "獨立",
+    "zh-Hans": "独立"
+  },
+  "chart_compare_scale_performance": {
+    "en": "Performance",
+    "de": "Performance",
+    "es": "Rendimiento",
+    "fr": "Performance",
+    "fr-CA": "Performance",
+    "tr": "Performans",
+    "zh-Hant-TW": "績效",
+    "zh-Hans": "绩效"
   },
   "chart_compareWithSymbolAnnotationHelp": {
     "en": "Use Performance to compare returns, or Independent to give the comparison symbol its own scale.",
