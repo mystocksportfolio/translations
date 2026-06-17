@@ -2703,6 +2703,16 @@
     "zh-Hant-TW": "繼續",
     "zh-Hans": "继续"
   },
+  "generic_copy": {
+    "en": "Copy",
+    "fr-CA": "Copier",
+    "es": "Copiar",
+    "de": "Kopieren",
+    "tr": "Kopyala",
+    "zh-Hant-TW": "複製",
+    "zh-Hans": "复制",
+    "fr": "Copier"
+  },
   "generic_copiedToClipboard": {
     "en": "Copied to Clipboard",
     "fr-CA": "Copié dans le presse-papiers",
@@ -8345,6 +8355,36 @@
     "tr": "Uygulama hakkında düşünceleriniz nelerdir?",
     "zh-Hant-TW": "您對這個 App 有什麼想法？",
     "zh-Hans": "您对应用有什么看法？"
+  },
+  "security_confirmNewPasscode": {
+    "en": "Confirm new passcode",
+    "fr-CA": "Confirmer le nouveau code d'accès",
+    "es": "Confirmar nuevo código",
+    "de": "Neuen Passcode bestätigen",
+    "tr": "Yeni parolayı onayla",
+    "zh-Hant-TW": "確認新密碼",
+    "zh-Hans": "确认新密码",
+    "fr": "Confirmer le nouveau code d'accès"
+  },
+  "security_enterNewPasscode": {
+    "en": "Enter new passcode",
+    "fr-CA": "Saisir le nouveau code d'accès",
+    "es": "Introducir nuevo código",
+    "de": "Neuen Passcode eingeben",
+    "tr": "Yeni parolayı girin",
+    "zh-Hant-TW": "輸入新密碼",
+    "zh-Hans": "输入新密码",
+    "fr": "Saisir le nouveau code d'accès"
+  },
+  "security_passcodesDoNotMatch": {
+    "en": "New Passcodes do not match",
+    "fr-CA": "Les nouveaux codes d'accès ne correspondent pas",
+    "es": "Los nuevos códigos no coinciden",
+    "de": "Neue Passcodes stimmen nicht überein",
+    "tr": "Yeni parolalar eşleşmiyor",
+    "zh-Hant-TW": "新密碼不相符",
+    "zh-Hans": "新密码不匹配",
+    "fr": "Les nouveaux codes d'accès ne correspondent pas"
   },
   "settingsCalculations_askPriceIfAvailable": {
     "en": "Ask Price, if available and within 10%",
