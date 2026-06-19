@@ -6299,6 +6299,77 @@
     "zh-Hans": "报告结束日期",
     "fr": "Date de fin du rapport"
   },
+  "portfolio_generateReport_reportTitle": {
+    "en": "Portfolio Report",
+    "de": "Portfoliobericht",
+    "es": "Informe de portafolio",
+    "fr": "Rapport de portefeuille",
+    "fr-CA": "Rapport de portefeuille",
+    "tr": "Portföy Raporu",
+    "zh-Hans": "投资组合报告",
+    "zh-Hant-TW": "投資組合報告",
+    "zh-Hant-HK": "投資組合報告",
+    "it": "Report del portafoglio",
+    "ja": "ポートフォリオレポート",
+    "ko": "포트폴리오 보고서"
+  },
+  "portfolio_generateReport_asOfDateFormatted": {
+    "_formatted": false,
+    "en": "as of %s",
+    "de": "Stand %s",
+    "es": "al %s",
+    "fr": "au %s",
+    "fr-CA": "au %s",
+    "tr": "%s itibarıyla",
+    "zh-Hans": "截至 %s",
+    "zh-Hant-TW": "截至 %s",
+    "zh-Hant-HK": "截至 %s",
+    "it": "al %s",
+    "ja": "%s 時点",
+    "ko": "%s 기준"
+  },
+  "portfolio_generateReport_noTransactionActivity": {
+    "en": "No transaction activity for this report scope.",
+    "de": "Keine Transaktionsaktivität für diesen Berichtsumfang.",
+    "es": "No hay actividad de transacciones para el alcance de este informe.",
+    "fr": "Aucune activité de transaction pour ce périmètre de rapport.",
+    "fr-CA": "Aucune activité de transaction pour ce périmètre de rapport.",
+    "tr": "Bu rapor kapsamı için işlem etkinliği yok.",
+    "zh-Hans": "此报告范围内没有交易活动。",
+    "zh-Hant-TW": "此報告範圍內沒有交易活動。",
+    "zh-Hant-HK": "此報告範圍內沒有交易活動。",
+    "it": "Nessuna attività di transazione per questo ambito del report.",
+    "ja": "このレポート範囲には取引アクティビティがありません。",
+    "ko": "이 보고서 범위에는 거래 활동이 없습니다."
+  },
+  "portfolio_generateReport_historicalValuationsUsed": {
+    "en": "Historical Valuations Used",
+    "de": "Verwendete historische Bewertungen",
+    "es": "Valoraciones históricas utilizadas",
+    "fr": "Valorisations historiques utilisées",
+    "fr-CA": "Valorisations historiques utilisées",
+    "tr": "Kullanılan geçmiş değerlemeler",
+    "zh-Hans": "使用的历史估值",
+    "zh-Hant-TW": "使用的歷史估值",
+    "zh-Hant-HK": "使用的歷史估值",
+    "it": "Valutazioni storiche utilizzate",
+    "ja": "使用した過去評価額",
+    "ko": "사용된 과거 평가액"
+  },
+  "portfolio_generateReport_historicalValuationsNote": {
+    "en": "Latest available valuation on or before the report end date.",
+    "de": "Letzte verfügbare Bewertung am oder vor dem Berichtsendedatum.",
+    "es": "Última valoración disponible en o antes de la fecha de fin del informe.",
+    "fr": "Dernière valorisation disponible au plus tard à la date de fin du rapport.",
+    "fr-CA": "Dernière valorisation disponible au plus tard à la date de fin du rapport.",
+    "tr": "Rapor bitiş tarihinde veya öncesindeki en son mevcut değerleme.",
+    "zh-Hans": "报告结束日期当天或之前的最新可用估值。",
+    "zh-Hant-TW": "報告結束日期當天或之前的最新可用估值。",
+    "zh-Hant-HK": "報告結束日期當天或之前的最新可用估值。",
+    "it": "Ultima valutazione disponibile alla data di fine report o precedente.",
+    "ja": "レポート終了日以前で利用可能な最新の評価額。",
+    "ko": "보고서 종료일 또는 그 이전의 최신 사용 가능 평가액."
+  },
   "portfolio_generateReport_selectPortfolios": {
     "en": "Select Portfolios",
     "fr-CA": "Sélectionner les portefeuilles",
@@ -6350,14 +6421,14 @@
     "fr": "Date de fin"
   },
   "portfolio_generateReport_showTransactions": {
-    "en": "Show Transactions",
-    "fr-CA": "Afficher les transactions",
-    "es": "Mostrar transacciones",
-    "de": "Transaktionen anzeigen",
-    "tr": "İşlemleri Göster",
-    "zh-Hant-TW": "顯示交易紀錄",
-    "zh-Hans": "显示交易",
-    "fr": "Afficher les transactions"
+    "en": "Show Transaction Activity",
+    "fr-CA": "Afficher l'activité des transactions",
+    "es": "Mostrar actividad de transacciones",
+    "de": "Transaktionsaktivität anzeigen",
+    "tr": "İşlem Etkinliğini Göster",
+    "zh-Hant-TW": "顯示交易活動",
+    "zh-Hans": "显示交易活动",
+    "fr": "Afficher l'activité des transactions"
   },
   "portfolio_generateReport_historicalDataRequiredTitle": {
     "en": "Historical values required",
@@ -6370,24 +6441,24 @@
     "fr": "Valeurs historiques requises"
   },
   "portfolio_generateReport_historicalDataRequiredMessage": {
-    "en": "This report uses a past as-of date. Recalculate historical values for the selected scope?",
-    "fr-CA": "Ce rapport utilise une date de référence passée. Recalculer les valeurs historiques pour le périmètre sélectionné ?",
-    "es": "Este informe usa una fecha de referencia pasada. ¿Recalcular los valores históricos para el alcance seleccionado?",
-    "de": "Dieser Bericht verwendet einen vergangenen Stichtag. Historische Werte für den ausgewählten Umfang neu berechnen?",
-    "tr": "Bu rapor geçmiş bir rapor tarihi kullanıyor. Seçilen kapsam için geçmiş değerler yeniden hesaplansın mı?",
-    "zh-Hant-TW": "此報告使用過去的截至日期。要重新計算所選範圍的歷史值嗎？",
-    "zh-Hans": "此报告使用过去的截至日期。是否重新计算所选范围的历史值？",
-    "fr": "Ce rapport utilise une date de référence passée. Recalculer les valeurs historiques pour le périmètre sélectionné ?"
+    "en": "This report uses a past as-of date. Recalculate historical values for your portfolios?",
+    "fr-CA": "Ce rapport utilise une date de référence passée. Recalculer les valeurs historiques de vos portefeuilles ?",
+    "es": "Este informe usa una fecha de referencia pasada. ¿Recalcular los valores históricos de tus portafolios?",
+    "de": "Dieser Bericht verwendet einen vergangenen Stichtag. Historische Werte für Ihre Portfolios neu berechnen?",
+    "tr": "Bu rapor geçmiş bir rapor tarihi kullanıyor. Portföyleriniz için geçmiş değerler yeniden hesaplansın mı?",
+    "zh-Hant-TW": "此報告使用過去的截至日期。要重新計算您的投資組合的歷史值嗎？",
+    "zh-Hans": "此报告使用过去的截至日期。是否重新计算你的投资组合的历史值？",
+    "fr": "Ce rapport utilise une date de référence passée. Recalculer les valeurs historiques de vos portefeuilles ?"
   },
   "portfolio_generateReport_historicalDataOutOfRangeMessage": {
-    "en": "Stored historical values were found on or before the as-of date, but they are older than the required start of the selected scope. Recalculate historical values before continuing.",
-    "fr-CA": "Des valeurs historiques enregistrées ont été trouvées à la date de référence ou avant celle-ci, mais elles sont antérieures au début requis du périmètre sélectionné. Recalculez les valeurs historiques avant de continuer.",
-    "es": "Se encontraron valores históricos guardados en la fecha de referencia o antes de ella, pero son anteriores al inicio requerido del alcance seleccionado. Recalcula los valores históricos antes de continuar.",
-    "de": "Es wurden gespeicherte historische Werte am oder vor dem Stichtag gefunden, sie liegen jedoch vor dem erforderlichen Startdatum des ausgewählten Umfangs. Berechnen Sie die historischen Werte neu, bevor Sie fortfahren.",
-    "tr": "Rapor tarihi veya öncesinde kayıtlı geçmiş değerler bulundu, ancak bunlar seçilen kapsamın gerekli başlangıcından daha eski. Devam etmeden önce geçmiş değerleri yeniden hesaplayın.",
-    "zh-Hant-TW": "找到截至日期當天或之前儲存的歷史值，但這些值早於所選範圍所需的開始日期。繼續前請重新計算歷史值。",
-    "zh-Hans": "已找到截至日期当天或之前存储的历史值，但这些值早于所选范围所需的开始日期。继续前请重新计算历史值。",
-    "fr": "Des valeurs historiques enregistrées ont été trouvées à la date de référence ou avant celle-ci, mais elles sont antérieures au début requis du périmètre sélectionné. Recalculez les valeurs historiques avant de continuer."
+    "en": "Stored historical values were found on or before the as-of date, but they are older than the required start of the report. Recalculate historical values before continuing.",
+    "fr-CA": "Des valeurs historiques enregistrées ont été trouvées à la date de référence ou avant celle-ci, mais elles sont antérieures au début requis du rapport. Recalculez les valeurs historiques avant de continuer.",
+    "es": "Se encontraron valores históricos guardados en la fecha de referencia o antes de ella, pero son anteriores al inicio requerido del informe. Recalcula los valores históricos antes de continuar.",
+    "de": "Es wurden gespeicherte historische Werte am oder vor dem Stichtag gefunden, sie liegen jedoch vor dem erforderlichen Startdatum des Berichts. Berechnen Sie die historischen Werte neu, bevor Sie fortfahren.",
+    "tr": "Rapor tarihi veya öncesinde kayıtlı geçmiş değerler bulundu, ancak bunlar raporun gerekli başlangıcından daha eski. Devam etmeden önce geçmiş değerleri yeniden hesaplayın.",
+    "zh-Hant-TW": "找到截至日期當天或之前儲存的歷史值，但這些值早於報告所需的開始日期。繼續前請重新計算歷史值。",
+    "zh-Hans": "已找到截至日期当天或之前存储的历史值，但这些值早于报告所需的开始日期。继续前请重新计算历史值。",
+    "fr": "Des valeurs historiques enregistrées ont été trouvées à la date de référence ou avant celle-ci, mais elles sont antérieures au début requis du rapport. Recalculez les valeurs historiques avant de continuer."
   },
   "portfolio_generateReport_historicalDataStillMissingMessage": {
     "en": "Historical values are still unavailable for the selected report range after recalculation. This report cannot be generated until historical prices exist for the required period.",
