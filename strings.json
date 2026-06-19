@@ -6269,6 +6269,146 @@
     "zh-Hans": "生成报告",
     "fr": "Générer le rapport"
   },
+  "portfolio_generateReport_reportAsOfDate": {
+    "en": "Report As Of Date",
+    "fr-CA": "Date de référence du rapport",
+    "es": "Fecha de referencia del informe",
+    "de": "Berichtsstichtag",
+    "tr": "Rapor Tarihi",
+    "zh-Hant-TW": "報告截至日期",
+    "zh-Hans": "报告截至日期",
+    "fr": "Date de référence du rapport"
+  },
+  "portfolio_generateReport_reportPeriodStart": {
+    "en": "Report Period Start",
+    "fr-CA": "Début de la période du rapport",
+    "es": "Inicio del periodo del informe",
+    "de": "Beginn des Berichtszeitraums",
+    "tr": "Rapor Dönemi Başlangıcı",
+    "zh-Hant-TW": "報告期間起始日",
+    "zh-Hans": "报告期间起始日",
+    "fr": "Début de la période du rapport"
+  },
+  "portfolio_generateReport_reportEndDate": {
+    "en": "Report End Date",
+    "fr-CA": "Date de fin du rapport",
+    "es": "Fecha de fin del informe",
+    "de": "Enddatum des Berichts",
+    "tr": "Rapor Bitiş Tarihi",
+    "zh-Hant-TW": "報告結束日期",
+    "zh-Hans": "报告结束日期",
+    "fr": "Date de fin du rapport"
+  },
+  "portfolio_generateReport_selectPortfolios": {
+    "en": "Select Portfolios",
+    "fr-CA": "Sélectionner les portefeuilles",
+    "es": "Seleccionar Portafolios",
+    "de": "Portfolios auswählen",
+    "tr": "Portföyleri Seç",
+    "zh-Hant-TW": "選擇投資組合",
+    "zh-Hans": "选择投资组合",
+    "fr": "Sélectionner les portefeuilles"
+  },
+  "portfolio_generateReport_selectedPortfolios": {
+    "en": "Selected Portfolios",
+    "fr-CA": "Portefeuilles sélectionnés",
+    "es": "Portafolios seleccionados",
+    "de": "Ausgewählte Portfolios",
+    "tr": "Seçilen Portföyler",
+    "zh-Hant-TW": "已選擇的投資組合",
+    "zh-Hans": "已选择的投资组合",
+    "fr": "Portefeuilles sélectionnés"
+  },
+  "portfolio_generateReport_dateRange": {
+    "en": "Date Range",
+    "fr-CA": "Plage de dates",
+    "es": "Rango de fechas",
+    "de": "Datumsbereich",
+    "tr": "Tarih Aralığı",
+    "zh-Hant-TW": "日期範圍",
+    "zh-Hans": "日期范围",
+    "fr": "Plage de dates"
+  },
+  "portfolio_generateReport_activityRange": {
+    "en": "Activity Range",
+    "fr-CA": "Plage d'activité",
+    "es": "Rango de actividad",
+    "de": "Aktivitätsbereich",
+    "tr": "Etkinlik Aralığı",
+    "zh-Hant-TW": "活動範圍",
+    "zh-Hans": "活动范围",
+    "fr": "Plage d'activité"
+  },
+  "portfolio_generateReport_endDate": {
+    "en": "End Date",
+    "fr-CA": "Date de fin",
+    "es": "Fecha de fin",
+    "de": "Enddatum",
+    "tr": "Bitiş Tarihi",
+    "zh-Hant-TW": "結束日期",
+    "zh-Hans": "结束日期",
+    "fr": "Date de fin"
+  },
+  "portfolio_generateReport_showTransactions": {
+    "en": "Show Transactions",
+    "fr-CA": "Afficher les transactions",
+    "es": "Mostrar transacciones",
+    "de": "Transaktionen anzeigen",
+    "tr": "İşlemleri Göster",
+    "zh-Hant-TW": "顯示交易紀錄",
+    "zh-Hans": "显示交易",
+    "fr": "Afficher les transactions"
+  },
+  "portfolio_generateReport_historicalDataRequiredTitle": {
+    "en": "Historical values required",
+    "fr-CA": "Valeurs historiques requises",
+    "es": "Se requieren valores históricos",
+    "de": "Historische Werte erforderlich",
+    "tr": "Geçmiş değerler gerekli",
+    "zh-Hant-TW": "需要歷史數值",
+    "zh-Hans": "需要历史数值",
+    "fr": "Valeurs historiques requises"
+  },
+  "portfolio_generateReport_historicalDataRequiredMessage": {
+    "en": "This report uses a past as-of date. Recalculate historical values for the selected scope?",
+    "fr-CA": "Ce rapport utilise une date de référence passée. Recalculer les valeurs historiques pour le périmètre sélectionné ?",
+    "es": "Este informe usa una fecha de referencia pasada. ¿Recalcular los valores históricos para el alcance seleccionado?",
+    "de": "Dieser Bericht verwendet einen vergangenen Stichtag. Historische Werte für den ausgewählten Umfang neu berechnen?",
+    "tr": "Bu rapor geçmiş bir rapor tarihi kullanıyor. Seçilen kapsam için geçmiş değerler yeniden hesaplansın mı?",
+    "zh-Hant-TW": "此報告使用過去的截至日期。要重新計算所選範圍的歷史值嗎？",
+    "zh-Hans": "此报告使用过去的截至日期。是否重新计算所选范围的历史值？",
+    "fr": "Ce rapport utilise une date de référence passée. Recalculer les valeurs historiques pour le périmètre sélectionné ?"
+  },
+  "portfolio_generateReport_historicalDataOutOfRangeMessage": {
+    "en": "Stored historical values were found on or before the as-of date, but they are older than the required start of the selected scope. Recalculate historical values before continuing.",
+    "fr-CA": "Des valeurs historiques enregistrées ont été trouvées à la date de référence ou avant celle-ci, mais elles sont antérieures au début requis du périmètre sélectionné. Recalculez les valeurs historiques avant de continuer.",
+    "es": "Se encontraron valores históricos guardados en la fecha de referencia o antes de ella, pero son anteriores al inicio requerido del alcance seleccionado. Recalcula los valores históricos antes de continuar.",
+    "de": "Es wurden gespeicherte historische Werte am oder vor dem Stichtag gefunden, sie liegen jedoch vor dem erforderlichen Startdatum des ausgewählten Umfangs. Berechnen Sie die historischen Werte neu, bevor Sie fortfahren.",
+    "tr": "Rapor tarihi veya öncesinde kayıtlı geçmiş değerler bulundu, ancak bunlar seçilen kapsamın gerekli başlangıcından daha eski. Devam etmeden önce geçmiş değerleri yeniden hesaplayın.",
+    "zh-Hant-TW": "找到截至日期當天或之前儲存的歷史值，但這些值早於所選範圍所需的開始日期。繼續前請重新計算歷史值。",
+    "zh-Hans": "已找到截至日期当天或之前存储的历史值，但这些值早于所选范围所需的开始日期。继续前请重新计算历史值。",
+    "fr": "Des valeurs historiques enregistrées ont été trouvées à la date de référence ou avant celle-ci, mais elles sont antérieures au début requis du périmètre sélectionné. Recalculez les valeurs historiques avant de continuer."
+  },
+  "portfolio_generateReport_historicalDataStillMissingMessage": {
+    "en": "Historical values are still unavailable for the selected report range after recalculation. This report cannot be generated until historical prices exist for the required period.",
+    "fr-CA": "Les valeurs historiques restent indisponibles pour la période de rapport sélectionnée après le recalcul. Ce rapport ne peut pas être généré tant que les prix historiques n'existent pas pour la période requise.",
+    "es": "Los valores históricos siguen sin estar disponibles para el rango de informe seleccionado después del recálculo. Este informe no se puede generar hasta que existan precios históricos para el periodo requerido.",
+    "de": "Historische Werte sind nach der Neuberechnung für den ausgewählten Berichtszeitraum weiterhin nicht verfügbar. Dieser Bericht kann erst erstellt werden, wenn historische Preise für den erforderlichen Zeitraum vorhanden sind.",
+    "tr": "Yeniden hesaplamadan sonra seçilen rapor aralığı için geçmiş değerler hâlâ kullanılamıyor. Gerekli dönem için geçmiş fiyatlar mevcut olana kadar bu rapor oluşturulamaz.",
+    "zh-Hant-TW": "重新計算後，所選報告範圍仍無法取得歷史數值。必須先有必要期間的歷史價格，才能產生此報告。",
+    "zh-Hans": "重新计算后，所选报告范围仍无法获取历史数值。必须先有所需期间的历史价格，才能生成此报告。",
+    "fr": "Les valeurs historiques restent indisponibles pour la période de rapport sélectionnée après le recalcul. Ce rapport ne peut pas être généré tant que les prix historiques n'existent pas pour la période requise."
+  },
+  "portfolio_generateReport_historicalDataProgress": {
+    "en": "Calculating historical values",
+    "fr-CA": "Calcul des valeurs historiques",
+    "es": "Calculando valores históricos",
+    "de": "Historische Werte werden berechnet",
+    "tr": "Geçmiş değerler hesaplanıyor",
+    "zh-Hant-TW": "正在計算歷史數值",
+    "zh-Hans": "正在计算历史数值",
+    "fr": "Calcul des valeurs historiques"
+  },
   "portfolio_generateReportPremiumGateMessage": {
     "en": "Subscribe to premium in order to export this generated report as a PDF file?",
     "fr-CA": "S'abonner à Premium pour exporter ce rapport généré au format PDF ?",
@@ -6279,15 +6419,35 @@
     "zh-Hans": "订阅 Premium 以将此生成的报告导出为 PDF 文件？",
     "fr": "S'abonner à Premium pour exporter ce rapport généré au format PDF ?"
   },
-  "portfolio_generateReport_enterCustomSubtitleOptional": {
-    "en": "Enter custom subtitle (Optional)",
-    "fr-CA": "Saisir un sous-titre personnalisé (optionnel)",
-    "de": "Benutzerdefinierten Untertitel eingeben (optional)",
-    "es": "Introduce un subtítulo personalizado (Opcional)",
-    "tr": "Özel altyazı girin (İsteğe bağlı)",
-    "zh-Hant-TW": "輸入自訂副標題（選填）",
-    "zh-Hans": "输入自定义副标题 (可选)",
-    "fr": "Saisir un sous-titre personnalisé (optionnel)"
+  "portfolio_generateReport_enterCustomTitle": {
+    "en": "Enter custom title",
+    "fr-CA": "Saisir un titre personnalisé",
+    "de": "Benutzerdefinierten Titel eingeben",
+    "es": "Introduce un título personalizado",
+    "tr": "Özel başlık girin",
+    "zh-Hant-TW": "輸入自訂標題",
+    "zh-Hans": "输入自定义标题",
+    "fr": "Saisir un titre personnalisé"
+  },
+  "portfolio_generateReport_errorSelectPortfolio": {
+    "en": "Select at least one portfolio",
+    "fr-CA": "Sélectionnez au moins un portefeuille",
+    "es": "Selecciona al menos un portafolio",
+    "de": "Wählen Sie mindestens ein Portfolio aus",
+    "tr": "En az bir portföy seçin",
+    "zh-Hant-TW": "請至少選擇一個投資組合",
+    "zh-Hans": "请至少选择一个投资组合",
+    "fr": "Sélectionnez au moins un portefeuille"
+  },
+  "portfolio_generateReport_errorInvalidDateRange": {
+    "en": "Enter enabled date fields. If both dates are enabled, the start date must be on or before the as-of date.",
+    "fr-CA": "Saisissez les champs de date activés. Si les deux dates sont activées, la date de début doit être antérieure ou égale à la date de référence.",
+    "de": "Geben Sie die aktivierten Datumsfelder ein. Wenn beide Datumsangaben aktiviert sind, muss das Startdatum am oder vor dem Stichtag liegen.",
+    "es": "Introduce los campos de fecha habilitados. Si ambas fechas están habilitadas, la fecha de inicio debe ser igual o anterior a la fecha de referencia.",
+    "tr": "Etkinleştirilmiş tarih alanlarını girin. Her iki tarih de etkinse, başlangıç tarihi rapor tarihiyle aynı gün veya ondan önce olmalıdır.",
+    "zh-Hant-TW": "請輸入已啟用的日期欄位。如果兩個日期皆已啟用，開始日期必須早於或等於截至日期。",
+    "zh-Hans": "请输入已启用的日期字段。如果两个日期都已启用，开始日期必须早于或等于截至日期。",
+    "fr": "Saisissez les champs de date activés. Si les deux dates sont activées, la date de début doit être antérieure ou égale à la date de référence."
   },
   "portfolio_generateReport_errorGeneric": {
     "en": "Error while generating report. If the issue persists, please contact customer support.",
@@ -6410,14 +6570,14 @@
     "zh-Hans": "持仓"
   },
   "portfolio_homeCurrency": {
-    "de": "Heimatwährung",
-    "en": "Home Currency",
-    "es": "Moneda Base",
-    "fr": "Devise préférée",
-    "fr-CA": "Devise préférée",
-    "tr": "Ana Para Birimi",
-    "zh-Hant-TW": "預設幣別",
-    "zh-Hans": "本地币种 (主货币)"
+    "de": "Anzeigewährung",
+    "en": "Display Currency",
+    "es": "Moneda de Visualización",
+    "fr": "Devise d'affichage",
+    "fr-CA": "Devise d'affichage",
+    "tr": "Görüntüleme Para Birimi",
+    "zh-Hant-TW": "顯示貨幣",
+    "zh-Hans": "显示货币"
   },
   "portfolio_homeCurrencyHelp": {
     "en": "Your holdings will be converted to display in this currency. Note: historical performance chart data will be cleared.",
@@ -6590,24 +6750,24 @@
     "zh-Hans": "正在移动至投资组合…"
   },
   "portfolio_multipleCurrenciesNoHomeCurrency": {
-    "en": "Multiple currencies detected but a home currency is not set, so totals can't be calculated. Please tap here to set a home currency.",
-    "es": "Se detectaron múltiples monedas pero no se ha configurado una moneda base, por lo que no se pueden calcular los totales. Por favor, toca aquí para configurar una moneda base.",
-    "de": "Es wurden mehrere Währungen erkannt, aber es wurde keine Heimatwährung festgelegt, so dass die Summen nicht berechnet werden können. Bitte tippen Sie hier, um eine Heimatwährung festzulegen.",
-    "fr": "Plusieurs monnaies sont détectées, mais aucune devise de référence n'est définie. Les totaux ne peuvent donc pas être calculés. Touchez ici pour définir une devise de référence.",
-    "fr-CA": "Plusieurs monnaies sont détectées, mais aucune devise de référence n'est définie. Les totaux ne peuvent donc pas être calculés. Touchez ici pour définir une devise de référence.",
-    "tr": "Birden fazla para birimi algılandı ancak bir ana para birimi ayarlanmadı, bu nedenle toplamlar hesaplanamıyor. Ana para birimini ayarlamak için lütfen buraya dokunun.",
-    "zh-Hant-TW": "偵測到多種貨幣但未設定預設貨幣，無法計算總額。請點此設定預設貨幣。",
-    "zh-Hans": "检测到多种币种但未设置主货币，无法计算总额。点击此处进行设置。"
+    "en": "Multiple currencies detected. Set a display currency to calculate totals. Please tap here to set it.",
+    "es": "Se detectaron varias monedas. Establece una moneda de visualización para calcular los totales. Toca aquí para configurarla.",
+    "de": "Mehrere Währungen erkannt. Legen Sie eine Anzeigewährung fest, um Summen zu berechnen. Bitte tippen Sie hier, um sie festzulegen.",
+    "fr": "Plusieurs devises sont détectées. Définissez une devise d'affichage pour calculer les totaux. Touchez ici pour la définir.",
+    "fr-CA": "Plusieurs devises sont détectées. Définissez une devise d'affichage pour calculer les totaux. Touchez ici pour la définir.",
+    "tr": "Birden fazla para birimi algılandı. Toplamları hesaplamak için bir görüntüleme para birimi ayarlayın. Ayarlamak için lütfen buraya dokunun.",
+    "zh-Hant-TW": "偵測到多種貨幣。請設定顯示貨幣以計算總額。請點此設定。",
+    "zh-Hans": "检测到多种货币。请设置显示货币以计算总额。请点击此处设置。"
   },
   "portfolio_multipleCurrenciesUseLocalTotals": {
-    "en": "This portfolio has different currencies but is set to display aggregate totals in its local currency. This option only works if the portfolio has holdings of one local currency. Tap here to edit currency settings.",
-    "es": "Este portafolio tiene diferentes monedas pero está configurado para mostrar totales agregados en su moneda local. Esta opción solo funciona si el portafolio tiene participaciones en una sola moneda local. Toca aquí para editar la configuración de la moneda.",
-    "de": "Dieses Portfolio hat verschiedene Währungen, ist aber so eingestellt, dass die Gesamtsummen in seiner Landeswährung angezeigt werden. Diese Option funktioniert nur, wenn das Portfolio Bestände in einer Landeswährung hat. Tippen Sie hier, um die Währungseinstellungen zu bearbeiten.",
-    "fr": "Ce portefeuille a différentes devises mais est configuré pour afficher les totaux globaux dans sa devise. Cette option ne fonctionne que si le portefeuille possède des positions dans une seule devise. Appuyez ici pour modifier les paramètres de devise.",
-    "fr-CA": "Ce portefeuille a différentes devises mais est configuré pour afficher les totaux globaux dans sa devise. Cette option ne fonctionne que si le portefeuille possède des positions dans une seule devise. Appuyez ici pour modifier les réglages de devise.",
-    "tr": "Bu portföyün farklı para birimleri vardır ancak toplamları kendi yerel para biriminde gösterecek şekilde ayarlanmıştır. Bu seçenek yalnızca portföyde tek bir yerel para birimi varsa çalışır. Para birimi ayarlarını düzenlemek için buraya dokunun.",
-    "zh-Hant-TW": "此投資組合有多種貨幣，但已設定以本地貨幣顯示總額。此選項僅適用於投資組合僅有一種本地貨幣時。點此可編輯貨幣設定。",
-    "zh-Hans": "此组合包含多种币种但设为本地合计模式，仅在币种唯一时生效。点击此处编辑。"
+    "en": "This portfolio has different currencies but is set to display aggregate totals in its local currency. This option only works if the portfolio has holdings in one local currency. Tap here to edit currency settings.",
+    "es": "Este portafolio tiene diferentes monedas pero está configurado para mostrar los totales agregados en su moneda local. Esta opción solo funciona si el portafolio tiene participaciones en una sola moneda local. Toca aquí para editar la configuración de moneda.",
+    "de": "Dieses Portfolio enthält verschiedene Währungen, ist aber so eingestellt, dass aggregierte Summen in seiner lokalen Währung angezeigt werden. Diese Option funktioniert nur, wenn das Portfolio Bestände in einer einzigen lokalen Währung hat. Tippen Sie hier, um die Währungseinstellungen zu bearbeiten.",
+    "fr": "Ce portefeuille contient différentes devises, mais il est configuré pour afficher les totaux agrégés dans sa devise locale. Cette option ne fonctionne que si le portefeuille possède des positions dans une seule devise locale. Touchez ici pour modifier les paramètres de devise.",
+    "fr-CA": "Ce portefeuille contient différentes devises, mais il est configuré pour afficher les totaux agrégés dans sa devise locale. Cette option ne fonctionne que si le portefeuille possède des positions dans une seule devise locale. Touchez ici pour modifier les réglages de devise.",
+    "tr": "Bu portföyde farklı para birimleri var ancak toplamları yerel para biriminde toplu olarak gösterecek şekilde ayarlanmış. Bu seçenek yalnızca portföyde tek bir yerel para biriminde varlıklar varsa çalışır. Para birimi ayarlarını düzenlemek için buraya dokunun.",
+    "zh-Hant-TW": "此投資組合包含不同貨幣，但已設定以其本地貨幣顯示彙總總額。此選項僅在投資組合持有單一本地貨幣資產時適用。點此編輯貨幣設定。",
+    "zh-Hans": "此投资组合包含不同货币，但已设置为以其本地货币显示汇总总额。此选项仅在投资组合持有单一本地货币资产时适用。点击此处编辑货币设置。"
   },
   "portfolio_name": {
     "en": "Name",
@@ -6780,14 +6940,14 @@
     "zh-Hans": "投资组合图标"
   },
   "portfolio_portfolioMultipleCurrenciesNoHomeCurrency": {
-    "en": "This portfolio has different currencies but a home currency is not set, so totals can't be calculated. Please tap here to set currency settings.",
-    "es": "Este portafolio tiene diferentes monedas pero no se ha configurado una moneda base, por lo que no se pueden calcular los totales. Por favor, toca aquí para configurar los ajustes de la moneda.",
-    "de": "Dieses Portfolio hat verschiedene Währungen. Es ist aber keine Heimatwährung eingestellt, so können keine Summen berechnet werden. Bitte tippen Sie hier, um in den Einstellungen die Währung festzulegen.",
-    "fr": "Ce portefeuille contient plusieurs devises, mais aucune devise de référence n'est définie. Les totaux ne peuvent donc pas être calculés. Touchez ici pour définir les paramètres de devise.",
-    "fr-CA": "Ce portefeuille contient plusieurs devises, mais aucune devise de référence n'est définie. Les totaux ne peuvent donc pas être calculés. Touchez ici pour définir les paramètres de devise.",
-    "tr": "Bu portföyün farklı para birimleri vardır ancak bir ana para birimi ayarlanmamıştır. Bu nedenle toplamlar hesaplanamaz. Para birimi ayarlarını yapmak için lütfen buraya dokunun.",
-    "zh-Hant-TW": "此投資組合有多種幣別但未設定預設貨幣，無法計算總額。請點此設定貨幣。",
-    "zh-Hans": "由于包含多种币种且未设置主货币，无法计算合计。点击设置。"
+    "en": "This portfolio has different currencies. Set a display currency to calculate totals. Tap here to edit currency settings.",
+    "es": "Este portafolio tiene diferentes monedas. Configura una moneda de visualización para calcular los totales. Toca aquí para editar la configuración de moneda.",
+    "de": "Dieses Portfolio enthält verschiedene Währungen. Legen Sie eine Anzeigewährung fest, um Summen zu berechnen. Tippen Sie hier, um die Währungseinstellungen zu bearbeiten.",
+    "fr": "Ce portefeuille contient plusieurs devises. Définissez une devise d'affichage pour calculer les totaux. Touchez ici pour modifier les paramètres de devise.",
+    "fr-CA": "Ce portefeuille contient plusieurs devises. Définissez une devise d'affichage pour calculer les totaux. Touchez ici pour modifier les paramètres de devise.",
+    "tr": "Bu portföyde farklı para birimleri var. Toplamları hesaplamak için bir görüntüleme para birimi ayarlayın. Para birimi ayarlarını düzenlemek için buraya dokunun.",
+    "zh-Hant-TW": "此投資組合有多種幣別。設定顯示貨幣以計算總額。點此編輯貨幣設定。",
+    "zh-Hans": "此投资组合有多种币种。设置显示货币以计算合计。点击此处编辑货币设置。"
   },
   "portfolio_portfolios": {
     "en": "Portfolios",
@@ -6991,14 +7151,14 @@
     "fr": "Secteur, Industrie"
   },
   "portfolio_setHomeCurrency": {
-    "en": "Set Home Currency",
-    "es": "Establecer Moneda Base",
-    "de": "Heimatwährung festlegen",
-    "fr": "Définir la devise préférée",
-    "fr-CA": "Définir la devise préférée",
-    "tr": "Ana Para Birimini Ayarla",
-    "zh-Hant-TW": "設定預設幣別",
-    "zh-Hans": "设置主货币"
+    "en": "Set Display Currency",
+    "es": "Establecer Moneda de Visualización",
+    "de": "Anzeigewährung festlegen",
+    "fr": "Définir la devise d'affichage",
+    "fr-CA": "Définir la devise d'affichage",
+    "tr": "Görüntüleme Para Birimini Ayarla",
+    "zh-Hant-TW": "設定顯示貨幣",
+    "zh-Hans": "设置显示货币"
   },
   "portfolio_shares": {
     "en": "Shares",
