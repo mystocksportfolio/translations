@@ -2463,6 +2463,34 @@
     "zh-Hant-TW": "您的帳戶資料不會自動上傳至雲端，除非您啟用自動伺服器同步。",
     "zh-Hans": "您的账户数据不会自动上传到云端，除非您启用自动服务器同步。"
   },
+  "marketHolidayBanner_previousMessage": {
+    "en": "Previous market holiday message",
+    "de": "Vorherige Börsenfeiertagsmeldung",
+    "es": "Mensaje anterior de feriado bursátil",
+    "fr": "Message précédent de jour férié boursier",
+    "fr-CA": "Message précédent de jour férié boursier",
+    "it": "Messaggio precedente sulla festività di borsa",
+    "ja": "前の市場休場メッセージ",
+    "ko": "이전 시장 휴장 메시지",
+    "tr": "Önceki piyasa tatili mesajı",
+    "zh-Hans": "上一条市场休市消息",
+    "zh-Hant-HK": "上一則市場休市訊息",
+    "zh-Hant-TW": "上一則市場休市訊息"
+  },
+  "marketHolidayBanner_nextMessage": {
+    "en": "Next market holiday message",
+    "de": "Nächste Börsenfeiertagsmeldung",
+    "es": "Mensaje siguiente de feriado bursátil",
+    "fr": "Message suivant de jour férié boursier",
+    "fr-CA": "Message suivant de jour férié boursier",
+    "it": "Messaggio successivo sulla festività di borsa",
+    "ja": "次の市場休場メッセージ",
+    "ko": "다음 시장 휴장 메시지",
+    "tr": "Sonraki piyasa tatili mesajı",
+    "zh-Hans": "下一条市场休市消息",
+    "zh-Hant-HK": "下一則市場休市訊息",
+    "zh-Hant-TW": "下一則市場休市訊息"
+  },
   "generic_beginImport": {
     "en": "Begin Import",
     "fr-CA": "Commencer l'importation",
@@ -6289,6 +6317,16 @@
     "zh-Hans": "报告期间起始日",
     "fr": "Début de la période du rapport"
   },
+  "portfolio_generateReport_reportStartDate": {
+    "en": "Report Start Date",
+    "fr-CA": "Date de début du rapport",
+    "es": "Fecha de inicio del informe",
+    "de": "Startdatum des Berichts",
+    "tr": "Rapor Başlangıç Tarihi",
+    "zh-Hant-TW": "報告開始日期",
+    "zh-Hans": "报告开始日期",
+    "fr": "Date de début du rapport"
+  },
   "portfolio_generateReport_reportEndDate": {
     "en": "Report End Date",
     "fr-CA": "Date de fin du rapport",
@@ -6441,14 +6479,14 @@
     "fr": "Valeurs historiques requises"
   },
   "portfolio_generateReport_historicalDataRequiredMessage": {
-    "en": "This report uses a past as-of date. Recalculate historical values for your portfolios?",
-    "fr-CA": "Ce rapport utilise une date de référence passée. Recalculer les valeurs historiques de vos portefeuilles ?",
-    "es": "Este informe usa una fecha de referencia pasada. ¿Recalcular los valores históricos de tus portafolios?",
-    "de": "Dieser Bericht verwendet einen vergangenen Stichtag. Historische Werte für Ihre Portfolios neu berechnen?",
-    "tr": "Bu rapor geçmiş bir rapor tarihi kullanıyor. Portföyleriniz için geçmiş değerler yeniden hesaplansın mı?",
-    "zh-Hant-TW": "此報告使用過去的截至日期。要重新計算您的投資組合的歷史值嗎？",
-    "zh-Hans": "此报告使用过去的截至日期。是否重新计算你的投资组合的历史值？",
-    "fr": "Ce rapport utilise une date de référence passée. Recalculer les valeurs historiques de vos portefeuilles ?"
+    "en": "Some historical values needed for this report are missing. Recalculate historical values for your portfolios?",
+    "fr-CA": "Certaines valeurs historiques nécessaires à ce rapport sont manquantes. Recalculer les valeurs historiques de vos portefeuilles ?",
+    "es": "Faltan algunos valores históricos necesarios para este informe. ¿Recalcular los valores históricos de tus portafolios?",
+    "de": "Einige für diesen Bericht benötigte historische Werte fehlen. Historische Werte für Ihre Portfolios neu berechnen?",
+    "tr": "Bu rapor için gereken bazı geçmiş değerler eksik. Portföyleriniz için geçmiş değerler yeniden hesaplansın mı?",
+    "zh-Hant-TW": "此報告缺少一些所需的歷史數值。要重新計算您的投資組合的歷史值嗎？",
+    "zh-Hans": "此报告缺少一些所需的历史数值。是否重新计算你的投资组合的历史值？",
+    "fr": "Certaines valeurs historiques nécessaires à ce rapport sont manquantes. Recalculer les valeurs historiques de vos portefeuilles ?"
   },
   "portfolio_generateReport_historicalDataOutOfRangeMessage": {
     "en": "Stored historical values were found on or before the as-of date, but they are older than the required start of the report. Recalculate historical values before continuing.",
@@ -6461,14 +6499,14 @@
     "fr": "Des valeurs historiques enregistrées ont été trouvées à la date de référence ou avant celle-ci, mais elles sont antérieures au début requis du rapport. Recalculez les valeurs historiques avant de continuer."
   },
   "portfolio_generateReport_historicalDataStillMissingMessage": {
-    "en": "Historical values are still unavailable for the selected report range after recalculation. This report cannot be generated until historical prices exist for the required period.",
-    "fr-CA": "Les valeurs historiques restent indisponibles pour la période de rapport sélectionnée après le recalcul. Ce rapport ne peut pas être généré tant que les prix historiques n'existent pas pour la période requise.",
-    "es": "Los valores históricos siguen sin estar disponibles para el rango de informe seleccionado después del recálculo. Este informe no se puede generar hasta que existan precios históricos para el periodo requerido.",
-    "de": "Historische Werte sind nach der Neuberechnung für den ausgewählten Berichtszeitraum weiterhin nicht verfügbar. Dieser Bericht kann erst erstellt werden, wenn historische Preise für den erforderlichen Zeitraum vorhanden sind.",
-    "tr": "Yeniden hesaplamadan sonra seçilen rapor aralığı için geçmiş değerler hâlâ kullanılamıyor. Gerekli dönem için geçmiş fiyatlar mevcut olana kadar bu rapor oluşturulamaz.",
-    "zh-Hant-TW": "重新計算後，所選報告範圍仍無法取得歷史數值。必須先有必要期間的歷史價格，才能產生此報告。",
-    "zh-Hans": "重新计算后，所选报告范围仍无法获取历史数值。必须先有所需期间的历史价格，才能生成此报告。",
-    "fr": "Les valeurs historiques restent indisponibles pour la période de rapport sélectionnée après le recalcul. Ce rapport ne peut pas être généré tant que les prix historiques n'existent pas pour la période requise."
+    "en": "Historical values are still unavailable for the selected report range after recalculation. You can continue, but some report values may use the latest available data or omit historical sections.",
+    "fr-CA": "Les valeurs historiques restent indisponibles pour la période de rapport sélectionnée après le recalcul. Vous pouvez continuer, mais certaines valeurs du rapport peuvent utiliser les dernières données disponibles ou omettre des sections historiques.",
+    "es": "Los valores históricos siguen sin estar disponibles para el rango de informe seleccionado después del recálculo. Puedes continuar, pero algunos valores del informe pueden usar los datos más recientes disponibles u omitir secciones históricas.",
+    "de": "Historische Werte sind nach der Neuberechnung für den ausgewählten Berichtszeitraum weiterhin nicht verfügbar. Sie können fortfahren, aber einige Berichtswerte verwenden möglicherweise die neuesten verfügbaren Daten oder lassen historische Abschnitte aus.",
+    "tr": "Yeniden hesaplamadan sonra seçilen rapor aralığı için geçmiş değerler hâlâ kullanılamıyor. Devam edebilirsiniz, ancak bazı rapor değerleri mevcut en son verileri kullanabilir veya geçmiş bölümleri atlayabilir.",
+    "zh-Hant-TW": "重新計算後，所選報告範圍仍無法取得歷史數值。您可以繼續，但部分報告數值可能會使用最新可用資料，或略過歷史區段。",
+    "zh-Hans": "重新计算后，所选报告范围仍无法获取历史数值。你可以继续，但部分报告数值可能会使用最新可用数据，或省略历史部分。",
+    "fr": "Les valeurs historiques restent indisponibles pour la période de rapport sélectionnée après le recalcul. Vous pouvez continuer, mais certaines valeurs du rapport peuvent utiliser les dernières données disponibles ou omettre des sections historiques."
   },
   "portfolio_generateReport_historicalDataProgress": {
     "en": "Calculating historical values",
@@ -6479,6 +6517,26 @@
     "zh-Hant-TW": "正在計算歷史數值",
     "zh-Hans": "正在计算历史数值",
     "fr": "Calcul des valeurs historiques"
+  },
+  "portfolio_generateReport_recalculateHistoricalData": {
+    "en": "Recalculate",
+    "fr-CA": "Recalculer",
+    "es": "Recalcular",
+    "de": "Neu berechnen",
+    "tr": "Yeniden hesapla",
+    "zh-Hant-TW": "重新計算",
+    "zh-Hans": "重新计算",
+    "fr": "Recalculer"
+  },
+  "portfolio_generateReport_skipAndGenerateReport": {
+    "en": "Skip and generate report",
+    "fr-CA": "Ignorer et générer le rapport",
+    "es": "Omitir y generar el informe",
+    "de": "Überspringen und Bericht erstellen",
+    "tr": "Atla ve raporu oluştur",
+    "zh-Hant-TW": "略過並產生報告",
+    "zh-Hans": "跳过并生成报告",
+    "fr": "Ignorer et générer le rapport"
   },
   "portfolio_generateReportPremiumGateMessage": {
     "en": "Subscribe to premium in order to export this generated report as a PDF file?",
