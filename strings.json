@@ -11400,18 +11400,18 @@
     "zh-Hant-HK": "清除歷史儲存"
   },
   "portfolioHistorical_title": {
-    "en": "Calculate historical performance?\\n\\nNote: If you modify previous transactions, you may need to clear the historical storage and recalculate. If historical quote prices are missing, you can go to the quote details page and add custom historical prices from the top menu.",
-    "fr-CA": "Calculer la performance historique ?\\n\\nRemarque : si vous modifiez des transactions précédentes, vous devrez peut-être effacer le stockage historique et recalculer. Si des prix historiques sont manquants pour un cours, vous pouvez aller à la page des détails du cours et ajouter des prix historiques personnalisés depuis le menu supérieur.",
-    "es": "¿Calcular el rendimiento histórico?\\n\\nNota: Si modifica transacciones anteriores, es posible que deba borrar el almacenamiento histórico y recalcular. Si faltan precios históricos de cotización, puede ir a la página de detalles de la cotización y agregar precios históricos personalizados desde el menú superior.",
-    "de": "Vergangene Performance berechnen?\\n\\nHinweis: Wenn Sie vorherige Transaktionen ändern, müssen Sie möglicherweise den bisherigen Cache löschen und die Berechnung neu durchführen. Wenn vorgangene Kurse fehlen, können Sie zur Seite mit den Kursdetails gehen und benutzerdefinierte bisherige Kurse aus dem oberen Menü hinzufügen.",
-    "tr": "Geçmiş performansı hesaplayın\\n\\nNot: Önceki işlemleri değiştirirseniz, geçmiş depolamayı temizlemeniz ve yeniden hesaplamanız gerekebilir. Geçmiş teklif fiyatları eksikse, teklif ayrıntıları sayfasına gidebilir ve üst menüden özel geçmiş fiyatlar ekleyebilirsiniz.",
-    "zh-Hant-TW": "要計算歷史績效嗎？\\n\\n注意：如果您修改了過去的交易，可能需要清除歷史儲存並重新計算。如果缺少歷史報價價格，可前往報價詳情頁面，從上方選單新增自訂歷史價格。",
-    "zh-Hans": "是否计算历史表现？\\n\\n注意：若修改了过往交易，可能需要清除并重新计算。若缺失历史价格，可在行情详情页菜单中手动添加。",
-    "fr": "Calculer la performance historique ?\\n\\nRemarque : si vous modifiez des transactions précédentes, vous devrez peut-être effacer le stockage historique et recalculer. Si des prix historiques sont manquants pour un cours, vous pouvez aller à la page des détails du cours et ajouter des prix historiques personnalisés depuis le menu supérieur.",
-    "it": "Calcolare la performance storica?\\n\\nNota: se modifichi transazioni precedenti, potresti dover cancellare l'archivio storico e ricalcolare. Se mancano prezzi storici delle quotazioni, puoi andare alla pagina dei dettagli della quotazione e aggiungere prezzi storici personalizzati dal menu superiore.",
-    "ja": "過去パフォーマンスを計算しますか？\\n\\n注: 過去の取引を変更した場合、履歴ストレージを消去して再計算する必要がある場合があります。過去の銘柄価格が不足している場合は、銘柄詳細ページに移動し、上部メニューからカスタム過去価格を追加できます。",
-    "ko": "과거 성과를 계산하시겠습니까?\\n\\n참고: 이전 거래를 수정한 경우 과거 저장소를 지우고 다시 계산해야 할 수 있습니다. 과거 종목 가격이 누락된 경우 종목 상세 페이지로 이동하여 상단 메뉴에서 사용자 지정 과거 가격을 추가할 수 있습니다.",
-    "zh-Hant-HK": "要計算歷史績效嗎？\\n\\n注意：如果您修改了過去的交易，可能需要清除歷史儲存並重新計算。如果缺少歷史報價價格，可前往報價詳情頁面，從上方選單新增自訂歷史價格。"
+    "en": "Calculate historical performance?\\n\\nIf you modify previous transactions, you may need to clear the historical storage and recalculate. If historical quote prices are missing, you can go to the quote details page and add custom historical prices from the top menu.",
+    "fr-CA": "Calculer la performance historique ?\\n\\nSi vous modifiez des transactions précédentes, vous devrez peut-être effacer le stockage historique et recalculer. Si des prix historiques sont manquants pour un cours, vous pouvez aller à la page des détails du cours et ajouter des prix historiques personnalisés depuis le menu supérieur.",
+    "es": "¿Calcular el rendimiento histórico?\\n\\nSi modifica transacciones anteriores, es posible que deba borrar el almacenamiento histórico y recalcular. Si faltan precios históricos de cotización, puede ir a la página de detalles de la cotización y agregar precios históricos personalizados desde el menú superior.",
+    "de": "Vergangene Performance berechnen?\\n\\nWenn Sie vorherige Transaktionen ändern, müssen Sie möglicherweise den bisherigen Cache löschen und die Berechnung neu durchführen. Wenn vorgangene Kurse fehlen, können Sie zur Seite mit den Kursdetails gehen und benutzerdefinierte bisherige Kurse aus dem oberen Menü hinzufügen.",
+    "tr": "Geçmiş performansı hesaplayın\\n\\nÖnceki işlemleri değiştirirseniz, geçmiş depolamayı temizlemeniz ve yeniden hesaplamanız gerekebilir. Geçmiş teklif fiyatları eksikse, teklif ayrıntıları sayfasına gidebilir ve üst menüden özel geçmiş fiyatlar ekleyebilirsiniz.",
+    "zh-Hant-TW": "要計算歷史績效嗎？\\n\\n如果您修改了過去的交易，可能需要清除歷史儲存並重新計算。如果缺少歷史報價價格，可前往報價詳情頁面，從上方選單新增自訂歷史價格。",
+    "zh-Hans": "是否计算历史表现？\\n\\n若修改了过往交易，可能需要清除并重新计算。若缺失历史价格，可在行情详情页菜单中手动添加。",
+    "fr": "Calculer la performance historique ?\\n\\nSi vous modifiez des transactions précédentes, vous devrez peut-être effacer le stockage historique et recalculer. Si des prix historiques sont manquants pour un cours, vous pouvez aller à la page des détails du cours et ajouter des prix historiques personnalisés depuis le menu supérieur.",
+    "it": "Calcolare la performance storica?\\n\\nSe modifichi transazioni precedenti, potresti dover cancellare l'archivio storico e ricalcolare. Se mancano prezzi storici delle quotazioni, puoi andare alla pagina dei dettagli della quotazione e aggiungere prezzi storici personalizzati dal menu superiore.",
+    "ja": "過去パフォーマンスを計算しますか？\\n\\n過去の取引を変更した場合、履歴ストレージを消去して再計算する必要がある場合があります。過去の銘柄価格が不足している場合は、銘柄詳細ページに移動し、上部メニューからカスタム過去価格を追加できます。",
+    "ko": "과거 성과를 계산하시겠습니까?\\n\\n이전 거래를 수정한 경우 과거 저장소를 지우고 다시 계산해야 할 수 있습니다. 과거 종목 가격이 누락된 경우 종목 상세 페이지로 이동하여 상단 메뉴에서 사용자 지정 과거 가격을 추가할 수 있습니다.",
+    "zh-Hant-HK": "要計算歷史績效嗎？\\n\\n如果您修改了過去的交易，可能需要清除歷史儲存並重新計算。如果缺少歷史報價價格，可前往報價詳情頁面，從上方選單新增自訂歷史價格。"
   },
   "portfolioHistorical_dataGranularity": {
     "en": "Data granularity:\\nWithin 1 year – 1 day\\n1–3 years - 1 week\\n3+ years - 1 month",
@@ -16312,5 +16312,61 @@
     "ja": "ウィジェットの透明度",
     "ko": "위젯 투명도",
     "zh-Hant-HK": "小工具透明度"
+  },
+  "portfolioHistorical_missingRangeMessage": {
+    "en": "Only recent historical values are available. Calculate past performance to view MTD, YTD, and other ranges.",
+    "fr-CA": "Seules les valeurs historiques récentes sont disponibles. Calculez les performances passées pour afficher MTD, YTD et d’autres plages.",
+    "es": "Solo están disponibles valores históricos recientes. Calcula el rendimiento pasado para ver MTD, YTD y otros rangos.",
+    "de": "Es sind nur aktuelle historische Werte verfügbar. Berechnen Sie die frühere Performance, um MTD, YTD und andere Bereiche anzuzeigen.",
+    "tr": "Yalnızca yakın tarihli geçmiş değerler kullanılabilir. MTD, YTD ve diğer aralıkları görüntülemek için geçmiş performansı hesaplayın.",
+    "zh-Hant-TW": "目前只有近期歷史值可用。計算過去績效即可查看 MTD、YTD 和其他範圍。",
+    "zh-Hans": "目前只有近期历史值可用。计算过去表现即可查看 MTD、YTD 和其他范围。",
+    "fr": "Seules les valeurs historiques récentes sont disponibles. Calculez les performances passées pour afficher MTD, YTD et d’autres plages.",
+    "it": "Sono disponibili solo i valori storici recenti. Calcola le performance passate per visualizzare MTD, YTD e altri intervalli.",
+    "ja": "利用できる履歴値は最近のものだけです。MTD、YTD、その他の範囲を表示するには過去のパフォーマンスを計算してください。",
+    "ko": "최근 과거 값만 사용할 수 있습니다. MTD, YTD 및 기타 범위를 보려면 과거 성과를 계산하세요.",
+    "zh-Hant-HK": "目前只有近期歷史值可用。計算過去表現即可查看 MTD、YTD 及其他範圍。"
+  },
+  "portfolioHistorical_stillMissingRangeMessage": {
+    "en": "Some historical prices are still missing after recalculation. Add custom historical prices from quote details or try again later.",
+    "fr-CA": "Certains prix historiques manquent encore après le recalcul. Ajoutez des prix historiques personnalisés depuis les détails du titre ou réessayez plus tard.",
+    "es": "Algunos precios históricos siguen faltando después del recálculo. Agrega precios históricos personalizados desde los detalles de la cotización o inténtalo de nuevo más tarde.",
+    "de": "Nach der Neuberechnung fehlen weiterhin einige historische Kurse. Fügen Sie benutzerdefinierte historische Kurse in den Kursdetails hinzu oder versuchen Sie es später erneut.",
+    "tr": "Yeniden hesaplamadan sonra bazı geçmiş fiyatlar hâlâ eksik. Kotasyon ayrıntılarından özel geçmiş fiyatlar ekleyin veya daha sonra tekrar deneyin.",
+    "zh-Hant-TW": "重新計算後仍缺少部分歷史價格。請從報價詳情新增自訂歷史價格，或稍後再試。",
+    "zh-Hans": "重新计算后仍缺少部分历史价格。请从报价详情添加自定义历史价格，或稍后重试。",
+    "fr": "Certains prix historiques manquent encore après le recalcul. Ajoutez des prix historiques personnalisés depuis les détails du titre ou réessayez plus tard.",
+    "it": "Dopo il ricalcolo mancano ancora alcuni prezzi storici. Aggiungi prezzi storici personalizzati dai dettagli del titolo oppure riprova più tardi.",
+    "ja": "再計算後も一部の過去価格が不足しています。銘柄詳細からカスタムの過去価格を追加するか、後でもう一度お試しください。",
+    "ko": "재계산 후에도 일부 과거 가격이 누락되어 있습니다. 종목 상세에서 사용자 지정 과거 가격을 추가하거나 나중에 다시 시도하세요.",
+    "zh-Hant-HK": "重新計算後仍缺少部分歷史價格。請從報價詳情新增自訂歷史價格，或稍後再試。"
+  },
+  "portfolioHistorical_missingData": {
+    "en": "Missing data",
+    "fr-CA": "Données manquantes",
+    "es": "Datos faltantes",
+    "de": "Fehlende Daten",
+    "tr": "Eksik veriler",
+    "zh-Hant-TW": "缺少資料",
+    "zh-Hans": "缺失数据",
+    "fr": "Données manquantes",
+    "it": "Dati mancanti",
+    "ja": "不足データ",
+    "ko": "누락된 데이터",
+    "zh-Hant-HK": "缺少資料"
+  },
+  "portfolioHistorical_calculateHistory": {
+    "en": "Calculate history",
+    "fr-CA": "Calculer l’historique",
+    "es": "Calcular historial",
+    "de": "Historie berechnen",
+    "tr": "Geçmişi hesapla",
+    "zh-Hant-TW": "計算歷史資料",
+    "zh-Hans": "计算历史数据",
+    "fr": "Calculer l’historique",
+    "it": "Calcola cronologia",
+    "ja": "履歴を計算",
+    "ko": "내역 계산",
+    "zh-Hant-HK": "計算歷史資料"
   }
 }
