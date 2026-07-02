@@ -2548,6 +2548,20 @@
     "ko": "오버레이 차트 선에 표시되는 백분율 변화 주석은 기본 차트 대비 성과를 나타냅니다. 예를 들어 +10%는 10% 초과 성과, -10%는 10% 미달 성과를 의미합니다.",
     "zh-Hant-HK": "顯示在疊加圖表線上的百分比變化註記，表示其相對於底層圖表的績效。例如，+10% 表示表現優於 10%，-10% 表示表現落後 10%。"
   },
+  "chart_compareWithSymbolPerformanceHistoricalHelp": {
+    "en": "Performance simulates investing in the comparison symbol: every buy and sell of your non-cash holdings is mirrored at that day's closing price. Cash positions (deposits and withdrawals) are not mirrored. Dividends are reflected on both sides: the comparison uses dividend-adjusted prices, so the symbol's dividends are reinvested automatically, while your own dividends, reinvestments, and interest count toward your performance rather than buying more of the comparison. The percent annotation shows performance relative to the underlying chart.",
+    "fr-CA": "La performance simule un investissement dans le symbole comparé : chaque achat et vente de vos positions hors espèces est reproduit au cours de clôture de ce jour-là. Les positions en espèces (dépôts et retraits) ne sont pas reproduites. Les dividendes sont pris en compte des deux côtés : la comparaison utilise des prix ajustés des dividendes, de sorte que les dividendes du symbole sont automatiquement réinvestis, tandis que vos propres dividendes, réinvestissements et intérêts comptent dans votre performance au lieu d’acheter davantage du symbole comparé. L’annotation en pourcentage affiche la performance par rapport au graphique sous-jacent.",
+    "es": "Rendimiento simula invertir en el símbolo de comparación: cada compra y venta de tus posiciones que no son efectivo se replica al precio de cierre de ese día. Las posiciones en efectivo (depósitos y retiros) no se replican. Los dividendos se reflejan en ambos lados: la comparación usa precios ajustados por dividendos, de modo que los dividendos del símbolo se reinvierten automáticamente, mientras que tus propios dividendos, reinversiones e intereses cuentan para tu rendimiento en lugar de comprar más del símbolo de comparación. La anotación porcentual muestra el rendimiento en relación con el gráfico subyacente.",
+    "de": "Performance simuliert eine Anlage in das Vergleichssymbol: Jeder Kauf und Verkauf Ihrer Nicht-Cash-Positionen wird zum Schlusskurs dieses Tages gespiegelt. Cash-Positionen (Einzahlungen und Abhebungen) werden nicht gespiegelt. Dividenden werden auf beiden Seiten berücksichtigt: Der Vergleich verwendet dividendenbereinigte Kurse, sodass die Dividenden des Symbols automatisch wiederangelegt werden, während Ihre eigenen Dividenden, Wiederanlagen und Zinsen zu Ihrer Performance zählen, statt mehr vom Vergleichssymbol zu kaufen. Die Prozentanmerkung zeigt die Performance relativ zum zugrunde liegenden Diagramm.",
+    "tr": "Performans, karşılaştırma sembolüne yatırım yapmayı simüle eder: nakit olmayan varlıklarınızdaki her alış ve satış, o günün kapanış fiyatıyla yansıtılır. Nakit pozisyonları (para yatırma ve çekme) yansıtılmaz. Temettüler iki tarafta da hesaba katılır: karşılaştırma temettüye göre düzeltilmiş fiyatları kullanır; bu nedenle sembolün temettüleri otomatik olarak yeniden yatırılmış sayılır, sizin kendi temettüleriniz, yeniden yatırımlarınız ve faizleriniz ise karşılaştırmadan daha fazla satın almak yerine performansınıza dahil edilir. Yüzde açıklaması, alttaki grafiğe göre performansı gösterir.",
+    "zh-Hant-TW": "「績效」會模擬投資於比較標的：您的非現金持倉每一次買入與賣出，都會以當天收盤價在比較標的中對應反映。現金部位（存入與提款）不會對應反映。股息會在兩邊都納入計算：比較標的使用除息調整後價格，因此該標的的股息會自動再投資；而您自己的股息、再投資和利息會計入您的績效，而不是買入更多比較標的。百分比註記會顯示相對於底層圖表的績效。",
+    "zh-Hans": "“绩效”会模拟投资于对比代码：您的非现金持仓每一次买入和卖出，都会按当天收盘价在对比代码中对应反映。现金持仓（存入和取款）不会对应反映。股息会在两边都纳入计算：对比使用股息调整后价格，因此该代码的股息会自动再投资；而您自己的股息、再投资和利息会计入您的绩效，而不是买入更多对比代码。百分比标注显示相对于底层图表的绩效。",
+    "fr": "La performance simule un investissement dans le symbole comparé : chaque achat et vente de vos positions hors espèces est reproduit au cours de clôture de ce jour-là. Les positions en espèces (dépôts et retraits) ne sont pas reproduites. Les dividendes sont pris en compte des deux côtés : la comparaison utilise des prix ajustés des dividendes, de sorte que les dividendes du symbole sont automatiquement réinvestis, tandis que vos propres dividendes, réinvestissements et intérêts comptent dans votre performance au lieu d’acheter davantage du symbole comparé. L’annotation en pourcentage affiche la performance par rapport au graphique sous-jacent.",
+    "it": "La performance simula un investimento nel simbolo di confronto: ogni acquisto e vendita delle tue posizioni non in contanti viene replicato al prezzo di chiusura di quel giorno. Le posizioni in contanti (depositi e prelievi) non vengono replicate. I dividendi sono considerati da entrambe le parti: il confronto usa prezzi rettificati per i dividendi, quindi i dividendi del simbolo vengono reinvestiti automaticamente, mentre i tuoi dividendi, reinvestimenti e interessi contano nella tua performance invece di acquistare altro del simbolo di confronto. L'annotazione percentuale mostra la performance rispetto al grafico sottostante.",
+    "ja": "「パフォーマンス」は比較シンボルへ投資した場合をシミュレートします。現金以外の保有銘柄の買いと売りは、その日の終値で比較側にも反映されます。現金ポジション（入金と出金）は反映されません。配当は両側で考慮されます。比較では配当調整後価格を使用するため、比較シンボルの配当は自動的に再投資されます。一方、ご自身の配当、再投資、利息は、比較シンボルを追加購入するのではなく、ご自身のパフォーマンスに加算されます。パーセント注釈は、基準チャートに対するパフォーマンスを示します。",
+    "ko": "성과는 비교 심볼에 투자하는 경우를 시뮬레이션합니다. 현금이 아닌 보유 종목의 모든 매수와 매도는 해당 날짜의 종가로 비교 대상에 반영됩니다. 현금 포지션(입금 및 출금)은 반영되지 않습니다. 배당금은 양쪽 모두에 반영됩니다. 비교는 배당 조정 가격을 사용하므로 해당 심볼의 배당금은 자동으로 재투자되고, 사용자의 배당금, 재투자 및 이자는 비교 대상을 더 매수하는 대신 사용자의 성과에 포함됩니다. 백분율 주석은 기본 차트 대비 성과를 표시합니다.",
+    "zh-Hant-HK": "「績效」會模擬投資於比較標的：您的非現金持倉每一次買入及賣出，都會以當天收市價在比較標的中對應反映。現金部位（存入及提款）不會對應反映。股息會在兩邊都納入計算：比較標的使用除息調整後價格，因此該標的的股息會自動再投資；而您自己的股息、再投資及利息會計入您的績效，而不是買入更多比較標的。百分比註記會顯示相對於底層圖表的績效。"
+  },
   "chart_typeArea": {
     "en": "Area",
     "es": "Área",
@@ -16312,6 +16326,20 @@
     "ja": "ウィジェットの透明度",
     "ko": "위젯 투명도",
     "zh-Hant-HK": "小工具透明度"
+  },
+  "portfolioHistorical_flowRecalcMessage": {
+    "en": "Symbol comparison now tracks your buys and sells. Calculate history once to apply this to previously calculated data.",
+    "fr-CA": "La comparaison de symboles suit désormais vos achats et vos ventes. Calculez l’historique une fois pour l’appliquer aux données déjà calculées.",
+    "es": "La comparación de símbolos ahora registra tus compras y ventas. Calcula el historial una vez para aplicar esto a los datos calculados anteriormente.",
+    "de": "Der Symbolvergleich verfolgt jetzt Ihre Käufe und Verkäufe. Berechnen Sie den Verlauf einmal, um dies auf bereits berechnete Daten anzuwenden.",
+    "tr": "Sembol karşılaştırması artık alış ve satışlarınızı izler. Bunu daha önce hesaplanmış verilere uygulamak için geçmişi bir kez hesaplayın.",
+    "zh-Hant-TW": "標的比較現在會追蹤您的買入與賣出。請計算一次歷史資料，將此變更套用到先前已計算的資料。",
+    "zh-Hans": "代码对比现在会跟踪您的买入和卖出。请计算一次历史数据，将此更改应用到之前已计算的数据。",
+    "fr": "La comparaison de symboles suit désormais vos achats et vos ventes. Calculez l’historique une fois pour l’appliquer aux données déjà calculées.",
+    "it": "Il confronto simboli ora tiene traccia dei tuoi acquisti e delle tue vendite. Calcola la cronologia una volta per applicarlo ai dati calcolati in precedenza.",
+    "ja": "シンボル比較で買いと売りが追跡されるようになりました。以前に計算済みのデータへ適用するには、履歴を一度計算してください。",
+    "ko": "심볼 비교가 이제 매수와 매도를 추적합니다. 이전에 계산된 데이터에 이를 적용하려면 기록을 한 번 계산하세요.",
+    "zh-Hant-HK": "標的比較現在會追蹤您的買入及賣出。請計算一次歷史資料，將此變更套用到先前已計算的資料。"
   },
   "portfolioHistorical_missingRangeMessage": {
     "en": "Only recent historical values are available. Calculate past performance to view MTD, YTD, and other ranges.",
