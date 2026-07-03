@@ -739,6 +739,20 @@
     "ko": "이자에서 포트폴리오로 현금 입금",
     "zh-Hant-HK": "將利息現金存入投資組合"
   },
+  "addQuoteTransaction_depositCashToPortfolioFromReturnOfCapital": {
+    "en": "Deposit cash to portfolio from return of capital",
+    "es": "Depositar efectivo en el portafolio desde devolución de capital",
+    "de": "Einzahlung von Bargeld in das Portfolio aus der Kapitalrückzahlung",
+    "fr": "Dépôt d'espèces au portefeuille lors du remboursement de capital",
+    "fr-CA": "Dépôt d'espèces au portefeuille lors du remboursement de capital",
+    "tr": "Sermaye iadesinden portföye yatan nakit",
+    "zh-Hant-TW": "資本返還現金入金至投資組合",
+    "zh-Hans": "将资本返还存入投资组合现金",
+    "it": "Deposita liquidità nel portafoglio dal rimborso di capitale",
+    "ja": "資本の払い戻しからポートフォリオへ現金を入金",
+    "ko": "자본 환급에서 포트폴리오로 현금 입금",
+    "zh-Hant-HK": "將資本返還現金存入投資組合"
+  },
   "addQuoteTransaction_depositCashToPortfolioFromSale": {
     "en": "Deposit cash to portfolio from sale",
     "es": "Depositar efectivo en el portafolio desde ventas",
@@ -10109,6 +10123,20 @@
     "ko": "뉴스 새로 고침",
     "zh-Hant-HK": "重新整理新聞"
   },
+  "portfolio_returnOfCapital": {
+    "en": "Return of Capital",
+    "es": "Devolución de capital",
+    "de": "Kapitalrückzahlung",
+    "fr": "Remboursement de capital",
+    "fr-CA": "Remboursement de capital",
+    "tr": "Sermaye iadesi",
+    "zh-Hant-TW": "資本返還",
+    "zh-Hans": "资本返还",
+    "it": "Rimborso di capitale",
+    "ja": "資本の払い戻し",
+    "ko": "자본 환급",
+    "zh-Hant-HK": "資本返還"
+  },
   "portfolio_reverseOrder": {
     "en": "Reverse Order",
     "fr-CA": "Ordre inverse",
@@ -15761,6 +15789,21 @@
     "ja": "%s からの利息",
     "ko": "%s의 이자",
     "zh-Hant-HK": "來自 %s 的利息"
+  },
+  "viewQuoteTransactions_returnOfCapitalFromHoldingFormatted": {
+    "_formatted": false,
+    "en": "Return of capital from %s",
+    "de": "Kapitalrückzahlung von %s",
+    "fr": "Remboursement de capital de %s",
+    "fr-CA": "Remboursement de capital de %s",
+    "tr": "%s'den sermaye iadesi",
+    "zh-Hant-TW": "來自 %s 的資本返還",
+    "zh-Hans": "来自 %s 的资本返还",
+    "es": "Devolución de capital de %s",
+    "it": "Rimborso di capitale da %s",
+    "ja": "%s からの資本の払い戻し",
+    "ko": "%s의 자본 환급",
+    "zh-Hant-HK": "來自 %s 的資本返還"
   },
   "viewQuoteTransactions_soldAmountFormatted": {
     "_formatted": false,
