@@ -852,6 +852,20 @@
     "ko": "매도 금액에서 포트폴리오로 현금 입금",
     "zh-Hant-HK": "賣出後將現金存入投資組合"
   },
+  "addQuoteTransaction_depositCashToPortfolioFromShortSale": {
+    "en": "Deposit cash to portfolio from short sale",
+    "es": "Depositar efectivo en el portafolio desde venta en corto",
+    "de": "Einzahlung von Bargeld aus Leerverkäufen in das Portfolio",
+    "fr": "Dépôt d'espèces au portefeuille lors de la vente à découvert",
+    "fr-CA": "Dépôt d'espèces au portefeuille lors de la vente à découvert",
+    "tr": "Açığa satıştan elde edilen nakdin portföye yatırılması",
+    "zh-Hant-TW": "賣空後現金計入投資組合",
+    "zh-Hans": "将卖空所得存入投资组合现金",
+    "it": "Deposita liquidità nel portafoglio dalla vendita allo scoperto",
+    "ja": "空売りからポートフォリオへ現金を入金",
+    "ko": "공매도 금액에서 포트폴리오로 현금 입금",
+    "zh-Hant-HK": "沽空後將現金存入投資組合"
+  },
   "addQuoteTransaction_enterSharesPrompt": {
     "en": "Please enter the number of shares",
     "es": "Por favor, ingrese el número de acciones",
@@ -1441,6 +1455,20 @@
     "ja": "% 手数料を使用しますか？",
     "ko": "% 수수료를 사용하시겠습니까?",
     "zh-Hant-HK": "用百分比計算手續費？"
+  },
+  "addQuoteTransaction_withdrawCashFromPortfolioToCover": {
+    "en": "Withdraw cash from portfolio to cover",
+    "es": "Retirar efectivo del portafolio para cubrir",
+    "de": "Entnahme von Bargeld aus dem Portfolio zur Deckung",
+    "fr": "Retirer de l'argent du portefeuille pour couvrir",
+    "fr-CA": "Retirer de l'argent du portefeuille pour couvrir",
+    "tr": "Portföyden nakit çekerek açığı kapat",
+    "zh-Hant-TW": "回補時自動從投資組合出金",
+    "zh-Hans": "从投资组合中提取现金进行回补",
+    "it": "Preleva liquidità dal portafoglio per la copertura",
+    "ja": "買い戻しのためにポートフォリオから現金を出金",
+    "ko": "공매도 상환을 위해 포트폴리오에서 현금 출금",
+    "zh-Hant-HK": "平倉時自動從投資組合提取現金"
   },
   "addQuoteTransaction_withdrawCashFromPortfolioToPurchase": {
     "en": "Withdraw cash from portfolio to purchase",
