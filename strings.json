@@ -1952,7 +1952,7 @@
     "zh-Hant-HK": "免費用戶最多可以設定 %s 個價格提示"
   },
   "alert_freeUserLimit_explain": {
-    "en": "We check for triggered alerts in real time on our servers so they do not consume your device battery, but must pay cloud bills to keep them running. Alerts can be deleted from the manage alerts screen.",
+    "en": "We check for triggered alerts in real time on our servers so they do not consume your device battery, but we must pay cloud bills to keep them running. Alerts can be deleted from the manage alerts screen.",
     "fr-CA": "Nous vérifions les alertes déclenchées en temps réel sur nos serveurs afin qu'elles ne consomment pas la batterie de votre appareil, mais nous devons payer les frais infonuagiques pour les maintenir en service. Les alertes peuvent être supprimées depuis l'écran de gestion des alertes.",
     "de": "Wir prüfen ausgelöste Kursalarme in Echtzeit auf unseren Servern, damit sie den Akku Ihres Geräts nicht belasten. Dafür müssen wir jedoch Cloud-Kosten tragen, um diesen Dienst bereitzustellen. Alarme können im Bildschirm „Alarme verwalten“ gelöscht werden.",
     "tr": "Tetiklenen alarmları cihaz pilinizi tüketmemesi için sunucularımızda gerçek zamanlı kontrol ediyoruz, ancak sistemin çalışması için bulut maliyetlerini karşılamamız gerekiyor. Alarmları alarm yönetimi ekranından silebilirsiniz.",
@@ -3498,7 +3498,7 @@
     "zh-Hant-HK": "可以免費試用嗎？"
   },
   "faq_canIHaveTrialAnswer": {
-    "en": "First time subscribers have 1 week free trial. You can cancel anytime by clicking manage subscriptions. On the purchase confirmation dialog, Google Play will confirm the trial time if you are eligible for a trial.",
+    "en": "First-time subscribers receive a one-week free trial. You can cancel at any time by clicking Manage Subscriptions. In the purchase confirmation dialog, Google Play will confirm the trial period if you are eligible.",
     "fr-CA": "Les nouveaux abonnés bénéficient d'un essai gratuit d'une semaine. Vous pouvez annuler à tout moment en touchant Gérer les abonnements. Dans la boîte de dialogue de confirmation d'achat, Google Play confirmera la durée de l'essai si vous y êtes admissible.",
     "es": "Los suscriptores por primera vez tienen 1 semana de prueba gratuita. Puede cancelar en cualquier momento haciendo clic en administrar suscripciones. En el cuadro de diálogo de confirmación de compra, Google Play confirmará el tiempo de prueba si es elegible para una prueba.",
     "de": "Erstmalige Abonnenten können 1 Woche lang kostenlos testen. Sie können jederzeit kündigen, indem Sie auf Abonnements verwalten klicken. Im Kaufbestätigungsdialog bestätigt Google Play die Testzeit, wenn Sie für eine Testversion berechtigt sind.",
@@ -3849,7 +3849,7 @@
     "zh-Hant-HK": "您有一段時間沒有備份了。要立即備份嗎？"
   },
   "generic_backupReminder": {
-    "en": "Please remember to periodically backup your account data via the settings, backup section.",
+    "en": "Please remember to periodically back up your account data via the Backup section in Settings.",
     "es": "Por favor, recuerda hacer copias de seguridad periódicas de los datos de tu cuenta a través de la sección de respaldo en los ajustes.",
     "de": "Bitte erinnern Sie sich daran, die Kontodaten regelmäßig über den Abschnitt \"Backup\" in den Einstellungen zu sichern.",
     "fr": "Veuillez vous souvenir de sauvegarder périodiquement les données de votre compte via la section sauvegarde dans les paramètres.",
@@ -7093,7 +7093,7 @@
     "zh-Hant-HK": "您可以要求刪除您的帳戶及／或資料。您的資料包括所有儲存在我們服務器上的資料，例如您上傳到服務器的投資組合資料（請參見服務器同步頁面），但不包括手機上的資料。若要刪除手機上的資料，您可以解除安裝 app。"
   },
   "generic_yourAccountData_deleteDataWarning": {
-    "en": "If you delete your account or data, they will be permanently deleted and we cannot undelete it. To make a backup of your data, please visit the mobile application's settings, export page.",
+    "en": "If you delete your account or data, they will be permanently deleted and cannot be restored. To make a backup of your data, please visit the Export page in the mobile application's settings.",
     "fr-CA": "Si vous supprimez votre compte ou vos données, ils seront définitivement supprimés et nous ne pourrons pas les restaurer. Pour sauvegarder vos données, veuillez ouvrir les paramètres de l'application mobile, puis la page d'exportation.",
     "es": "Si elimina su cuenta o datos, se eliminarán permanentemente y no podremos restaurarlos. Para hacer una copia de seguridad de sus datos, visite la página de configuración, exportación de la aplicación móvil.",
     "de": "Wenn Sie die Löschung des Kontos oder der Daten beantragen, sind alle Vorgänge unwiderruflich. Um eine Sicherungskopie Ihrer Daten zu erstellen, besuchen Sie bitte die Seite „Einstellungen, Export“ dieser Anwendung.",
@@ -7331,7 +7331,7 @@
     "zh-Hant-HK": "請先登入，這樣您的購買記錄才能儲存到雲端、可恢復並同步到其他裝置。如果您的手機有多個帳戶，請登入正確帳戶以確保購買記錄正確綁定。"
   },
   "logInOut_signInToRestorePurchases": {
-    "en": "Sign in to share purchases on the cloud? Click No if you want to use your local Google Play account. (If you have multiple accounts on your phone, Google Play sometimes restores it from the incorrect account. You should sign in to the correct account to workaround that issue.).\\n\\nNote: If your purchases are shared on the cloud and you are not signed in, they will be transferred from the cloud to your local account, and other signed in devices using purchases from the cloud will lose access to that purchase. To share purchases on the cloud, sign in, and then click restore, to transfer purchases from your local device to the cloud.",
+    "en": "Sign in to share purchases in the cloud? Click No if you want to use your local Google Play account. (If you have multiple accounts on your phone, Google Play sometimes restores purchases from the wrong account. Sign in to the correct account to work around that issue.)\\n\\nNote: If your purchases are shared in the cloud and you are not signed in, they will be transferred from the cloud to your local account. Other signed-in devices using purchases from the cloud will lose access to them. To share purchases in the cloud, sign in and click Restore to transfer purchases from your local device to the cloud.",
     "fr-CA": "Se connecter pour partager les achats dans le nuage ? Touchez Non si vous voulez utiliser votre compte Google Play local. (Si vous avez plusieurs comptes sur votre téléphone, Google Play restaure parfois depuis le mauvais compte. Connectez-vous au bon compte pour contourner ce problème.)\\n\\nRemarque : si vos achats sont partagés dans le nuage et que vous n'êtes pas connecté, ils seront transférés du nuage vers votre compte local, et les autres appareils connectés utilisant les achats du nuage perdront l'accès à cet achat. Pour partager les achats dans le nuage, connectez-vous, puis appuyez sur restaurer pour transférer les achats de votre appareil local vers le nuage.",
     "es": "¿Iniciar sesión para compartir compras en la nube? Haga clic en No si desea usar su cuenta local de Google Play. (Si tiene varias cuentas en su teléfono, Google Play a veces las restaura desde la cuenta incorrecta. Debería iniciar sesión en la cuenta correcta para solucionar ese problema).\\n\\nNota: Si sus compras se comparten en la nube y no ha iniciado sesión, se transferirán de la nube a su cuenta local y otros dispositivos que usen compras desde la nube perderán el acceso a esa compra. Para compartir compras en la nube, inicie sesión y luego haga clic en restaurar para transferir las compras desde su dispositivo local a la nube.",
     "de": "Anmelden, um Einkäufe in der Cloud zu teilen? Klicken Sie auf Nein, wenn Sie Ihr lokales Google Play-Konto verwenden möchten. (Wenn Sie mehrere Konten auf Ihrem Telefon haben, stellt Google Play es manchmal mit dem falschen Konto wieder her. Sie sollten sich beim richtigen Konto anmelden, um dieses Problem zu umgehen.).\\n\\nHinweis: Wenn Ihre Einkäufe in der Cloud freigegeben werden und Sie nicht angemeldet sind, werden sie von der Cloud auf Ihr lokales Konto übertragen und andere angemeldete Geräte, die Einkäufe aus der Cloud verwenden, verlieren den Zugriff auf diese Einkäufe. Um Einkäufe in der Cloud freizugeben, melden Sie sich an und klicken Sie dann auf Wiederherstellen, um Einkäufe von Ihrem lokalen Gerät in die Cloud zu übertragen.",
@@ -10959,7 +10959,7 @@
     "zh-Hant-HK": "針對 Y 股（即 1 股）"
   },
   "portfolio_splitsHelp": {
-    "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiple cost per share by 4.",
+    "en": "Examples:\\n\\nA 4-for-1 split will multiply shares owned by 4 and divide cost paid per share by 4.\\n\\nA 1-for-4 reverse split will divide shares owned by 4 and multiply cost per share by 4.",
     "fr-CA": "Exemples :\\n\\nUn fractionnement 4 pour 1 multiplie le nombre d'actions détenues par 4 et divise le coût payé par action par 4.\\n\\nUn regroupement 1 pour 4 divise le nombre d'actions détenues par 4 et multiplie le coût par action par 4.",
     "es": "Ejemplos:\\n\\nUna división de 4 por 1 multiplicará las acciones poseídas por 4 y dividirá el costo pagado por acción por 4.\\n\\nUna división inversa de 1 por 4 dividirá las acciones poseídas por 4 y multiplicará el costo por acción por 4.",
     "de": "Beispiele:\\n\\nEin Split im Verhältnis 4:1 multipliziert die eigenen Aktien mit 4 und teilt die Kosten pro Aktie durch 4.\\n\\nEin umgekehrter Split im Verhältnis 1:4 teilt die eigenen Aktien durch 4 und multipliziert die Kosten pro Aktie mit 4.",
